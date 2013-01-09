@@ -5,8 +5,8 @@
 # Documentation lives in the master branch, so we checkout that branch into a
 # seperate directory, build the HTHL, copy it here and update.
 
-url=git@github.com:dcjones/Gadfly.jl.git
-#url=../Gadfly
+#url=git@github.com:dcjones/Gadfly.jl.git
+url=../Gadfly
 
 gadfly=`julia -e 'println(julia_pkgdir())'`/Gadfly/bin/gadfly
 
@@ -40,4 +40,8 @@ popd
 rm -rf gadfly
 
 # TODO: automate adding new files and removing stale files?
+
+
+# Make overview.html the landing page for now.
+cp overview.html index.html
 
