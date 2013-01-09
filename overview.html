@@ -6,6 +6,7 @@
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <link href="css/gadflydoc.css" rel="stylesheet">
   <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
+  <link href="css/hk-tango.css" rel="stylesheet">
 
   <script type="text/javascript" src="js/fixup.js"></script>
 
@@ -28,65 +29,64 @@
 
       <div class="span8">
 <h1 id="introducing-gadfly"><a href="#TOC">Introducing Gadfly</a></h1>
-<p>Gadfly is a system for plotting and visualization based largly on Hadley Wickhams's <a href="http://ggplot2.org/">ggplot2</a> for R, and Leland Wilkinson's book <a href="http://www.cs.uic.edu/~wilkinson/TheGrammarOfGraphics/GOG.html">The Grammar of Graphics</a>.</p>
-<p>This document will give a quick overview of the current Gadfly's development.</p>
-<p>This document will give a quick overview of the current state of Gadfly's capabilities. The markdown version of this document is also executable, using the <code>Gadfly.weave</code> function, generating a self-contained html file, and so it can also be used to check that your installation of Gadfly works as advertised.</p>
+<p>Gadfly is a system for plotting and visualization based largely on Hadley Wickhams's <a href="http://ggplot2.org/">ggplot2</a> for R, and Leland Wilkinson's book <a href="http://www.cs.uic.edu/~wilkinson/TheGrammarOfGraphics/GOG.html">The Grammar of Graphics</a>.</p>
+<p>This document will give a quick overview of the current state of Gadfly's development.</p>
 <h2 id="installation"><a href="#TOC">Installation</a></h2>
 <p>Gadfly can be installed from the Julia repl quite easily.</p>
-<pre class="julia" execute="false"><code>require(&quot;Pkg&quot;)
-import Pkg
-Pkg.add(&quot;Gadfly&quot;)</code></pre>
+<pre class="sourceCode julia" execute="false"><code class="sourceCode julia">require(<span class="st">&quot;Pkg&quot;</span>)
+<span class="kw">import</span> Pkg
+Pkg.add(<span class="st">&quot;Gadfly&quot;</span>)</code></pre>
 <h2 id="executing-this-document"><a href="#TOC">Executing this document</a></h2>
-<p>The markdown version of this document (<code>doc/overview.md</code>) is executable, generating all the figures and producing an HTML file. This is a good way to check that your install of Gadfly works as advertised. To execute it, go into the <code>doc</code> directly and type</p>
-<pre class="shell" execute="false"><code>make html</code></pre>
+<p>The markdown version of this document (<code>doc/overview.md</code>) is executable, generating all the figures and producing an HTML file. This is a good way to check that your install of Gadfly works as advertised. To execute it, you will need to have <a href="http://johnmacfarlane.net/pandoc/">Pandoc</a> installed, then in the <code>doc</code> directory and type:</p>
+<pre class="sourceCode bash" execute="false"><code class="sourceCode bash">../bin/gadfly overview.md <span class="kw">&gt;</span> overview.html</code></pre>
 <p>You should have a file called <code>overview.html</code> and a bunch of svg figures. If not, feel free to file a bug report.</p>
-<p>Writing your own executable markdown file is very simple. If your curious, have a peek at the raw markdown version of this document.</p>
+<p>Writing your own executable markdown file is very simple. If you're curious, have a peek at the raw markdown version of this document.</p>
 <h2 id="simple-plots"><a href="#TOC">Simple plots</a></h2>
 <p>We'll need some data to plot. Plotting is primarily performed on DataFrame objects. The RDatasets packages has a treasure trove of examples we can use.</p>
-<pre class="julia"><code>require(&quot;RDatasets&quot;)
-using RDatasets</code></pre>
+<pre class="sourceCode julia"><code class="sourceCode julia">require(<span class="st">&quot;RDatasets&quot;</span>)
+<span class="kw">using</span> RDatasets</code></pre>
 <p>Fisher's measurements on irises is a good first data set.</p>
-<pre class="julia img"><code>iris = data(&quot;datasets&quot;, &quot;iris&quot;)
+<pre class="sourceCode julia img"><code class="sourceCode julia">iris = data(<span class="st">&quot;datasets&quot;</span>, <span class="st">&quot;iris&quot;</span>)
 
 p = plot(iris,
-         {:x =&gt; &quot;Sepal.Length&quot;, :y =&gt; &quot;Sepal.Width&quot;},
+         {:x =&gt; <span class="st">&quot;Sepal.Length&quot;</span>, :y =&gt; <span class="st">&quot;Sepal.Width&quot;</span>},
          Geom.point)
-draw(SVG(6inch, 4inch), p)</code></pre>
+draw(SVG(<span class="fl">6</span>inch, <span class="fl">4</span>inch), p)</code></pre>
 <figure><object alt="Figure 1" 
                                   data="overview_fig_1.svg" 
                                   type="image/svg+xml"></object> 
                           <figcaption></figcaption></figure>
 <p>The <code>plot</code> function in Gadfly is of the form:</p>
-<pre class="julia" execute="false"><code>plot(data::DataFrame, mapping::Dict, elements::Element...)</code></pre>
+<pre class="sourceCode julia" execute="false"><code class="sourceCode julia">plot(data::DataFrame, mapping::<span class="dt">Dict</span>, elements::Element...)</code></pre>
 <p>The first argument is the data to be plotted, the second is a dictionary mapping &quot;aesthetics&quot; to columns in the data frame, and this is followed by some number of elements, which are the nouns and verbs, so to speak, that form the grammar.</p>
-<p>Note that for these examples we will be drawing on an SVG backend that inserts the graphic directly into the document. To generate these images individualle, you should include a file name: <code>SVG(&quot;iris_plot.svg&quot;, 6inch, 4inch)</code></p>
+<p>Note that for these examples we will be drawing on an SVG backend that inserts the graphic directly into the document. To generate these images individually, you should include a file name: <code>SVG(&quot;iris_plot.svg&quot;, 6inch, 4inch)</code></p>
 <h2 id="aesthetics"><a href="#TOC">Aesthetics</a></h2>
 <p>Every geometry has some set of required and optional aesthetics. The point geometry requires that <code>:x</code> and <code>:y</code> be mapped, and has the optional aesthetic <code>:color</code> which will group points categorically indicated by color.</p>
-<pre class="julia img"><code>p = plot(iris,
-         {:x =&gt; &quot;Sepal.Length&quot;, :y =&gt; &quot;Sepal.Width&quot;, :color =&gt; &quot;Species&quot;},
+<pre class="sourceCode julia img"><code class="sourceCode julia">p = plot(iris,
+         {:x =&gt; <span class="st">&quot;Sepal.Length&quot;</span>, :y =&gt; <span class="st">&quot;Sepal.Width&quot;</span>, :color =&gt; <span class="st">&quot;Species&quot;</span>},
          Geom.point)
-draw(SVG(6inch, 4inch), p)</code></pre>
+draw(SVG(<span class="fl">6</span>inch, <span class="fl">4</span>inch), p)</code></pre>
 <figure><object alt="Figure 2" 
                                   data="overview_fig_2.svg" 
                                   type="image/svg+xml"></object> 
                           <figcaption></figcaption></figure>
 <h2 id="scale-transformations"><a href="#TOC">Scale Transformations</a></h2>
 <p>Scale transforms also work as expected. Let's look at some data where this is useful.</p>
-<pre class="julia img"><code>mammals = data(&quot;MASS&quot;, &quot;mammals&quot;)
+<pre class="sourceCode julia img"><code class="sourceCode julia">mammals = data(<span class="st">&quot;MASS&quot;</span>, <span class="st">&quot;mammals&quot;</span>)
 
 p = plot(mammals,
-         {:x =&gt; &quot;body&quot;, :y =&gt; &quot;brain&quot;},
+         {:x =&gt; <span class="st">&quot;body&quot;</span>, :y =&gt; <span class="st">&quot;brain&quot;</span>},
          Geom.point)
-draw(SVG(6inch, 6inch), p)</code></pre>
+draw(SVG(<span class="fl">6</span>inch, <span class="fl">6</span>inch), p)</code></pre>
 <figure><object alt="Figure 3" 
                                   data="overview_fig_3.svg" 
                                   type="image/svg+xml"></object> 
                           <figcaption></figcaption></figure>
 <p>This is no good, the elephants are ruining things for us. Putting both axis on a log-scale clears things up.</p>
-<pre class="julia img"><code>p = plot(mammals,
-         {:x =&gt; &quot;body&quot;, :y =&gt; &quot;brain&quot;},
+<pre class="sourceCode julia img"><code class="sourceCode julia">p = plot(mammals,
+         {:x =&gt; <span class="st">&quot;body&quot;</span>, :y =&gt; <span class="st">&quot;brain&quot;</span>},
          Geom.point, Scale.x_log10, Scale.y_log10)
-draw(SVG(6inch, 6inch), p)</code></pre>
+draw(SVG(<span class="fl">6</span>inch, <span class="fl">6</span>inch), p)</code></pre>
 <figure><object alt="Figure 4" 
                                   data="overview_fig_4.svg" 
                                   type="image/svg+xml"></object> 
@@ -94,10 +94,10 @@ draw(SVG(6inch, 6inch), p)</code></pre>
 <h2 id="labels"><a href="#TOC">Labels</a></h2>
 <p>The label geometry places maps data to text labels placed near the position indicated by the x and y aesthetics. It solves an optimization problem to try to position the labels such that none overlap or are plotted out of bounds. By default, labels that cannot be plotted without overlapping are hidden.</p>
 <p>Let's label that previous plot.</p>
-<pre class="julia img"><code>p = plot(mammals,
-         {:x =&gt; &quot;body&quot;, :y =&gt; &quot;brain&quot;, :label =&gt; 1},
+<pre class="sourceCode julia img"><code class="sourceCode julia">p = plot(mammals,
+         {:x =&gt; <span class="st">&quot;body&quot;</span>, :y =&gt; <span class="st">&quot;brain&quot;</span>, :label =&gt; <span class="fl">1</span>},
          Geom.point, Geom.label, Scale.x_log10, Scale.y_log10)
-draw(SVG(6inch, 6inch), p)</code></pre>
+draw(SVG(<span class="fl">6</span>inch, <span class="fl">6</span>inch), p)</code></pre>
 <figure><object alt="Figure 5" 
                                   data="overview_fig_5.svg" 
                                   type="image/svg+xml"></object> 
@@ -105,18 +105,18 @@ draw(SVG(6inch, 6inch), p)</code></pre>
 <p>Mapping <code>:label</code> to 1, gives the first column of the data frame, which is not named, but contains the species that each measurement was made on.</p>
 <h2 id="histograms"><a href="#TOC">Histograms</a></h2>
 <p>The bar geometry applies the <code>Stat.histogram</code> statistic by default, producing a histogram.</p>
-<pre class="julia img"><code>require(&quot;Distributions&quot;)
-using Distributions
+<pre class="sourceCode julia img"><code class="sourceCode julia">require(<span class="st">&quot;Distributions&quot;</span>)
+<span class="kw">using</span> Distributions
 
-require(&quot;DataFrames&quot;)
-using DataFrames
+require(<span class="st">&quot;DataFrames&quot;</span>)
+<span class="kw">using</span> DataFrames
 
-normmix = DataFrame({&quot;x&quot; =&gt; vcat(rand(Normal(-5), 500),
-                                 rand(Normal(5), 500))})
+normmix = DataFrame({<span class="st">&quot;x&quot;</span> =&gt; vcat(rand(Normal(-<span class="fl">5</span>), <span class="fl">500</span>),
+                                 rand(Normal(<span class="fl">5</span>), <span class="fl">500</span>))})
 p = plot(normmix,
-         {:x =&gt; &quot;x&quot;},
+         {:x =&gt; <span class="st">&quot;x&quot;</span>},
          Geom.bar)
-draw(SVG(4inch, 3inch), p)</code></pre>
+draw(SVG(<span class="fl">4</span>inch, <span class="fl">3</span>inch), p)</code></pre>
 <figure><object alt="Figure 6" 
                                   data="overview_fig_6.svg" 
                                   type="image/svg+xml"></object> 
@@ -124,20 +124,20 @@ draw(SVG(4inch, 3inch), p)</code></pre>
 <p>No need to specify the number of bins, if not given a reasonable number is chosen using a penalized maximum likelihood procedure.</p>
 <h2 id="boxplots"><a href="#TOC">Boxplots</a></h2>
 <p>The boxplot geometry shows the distribution of the y aesthetic, grouped by the x aesthetic. Here is a (log) wage distribution categorized by years of education.</p>
-<pre class="julia img"><code>wages = data(&quot;plm&quot;, &quot;Wages&quot;)
+<pre class="sourceCode julia img"><code class="sourceCode julia">wages = data(<span class="st">&quot;plm&quot;</span>, <span class="st">&quot;Wages&quot;</span>)
 p = plot(wages,
-         {:x =&gt; &quot;ed&quot;,
-          :y =&gt; &quot;lwage&quot;},
+         {:x =&gt; <span class="st">&quot;ed&quot;</span>,
+          :y =&gt; <span class="st">&quot;lwage&quot;</span>},
          Geom.boxplot)
-draw(SVG(4inch, 4inch), p)</code></pre>
+draw(SVG(<span class="fl">4</span>inch, <span class="fl">4</span>inch), p)</code></pre>
 <figure><object alt="Figure 7" 
                                   data="overview_fig_7.svg" 
                                   type="image/svg+xml"></object> 
                           <figcaption></figcaption></figure>
 <h2 id="plotting-functions"><a href="#TOC">Plotting functions</a></h2>
 <p>Though Gadfly primarily plots data frames, there are convenience functions to do simple function plotting.</p>
-<pre class="julia img"><code>p = plot([sin, cos], 0, 25)
-draw(SVG(6inch, 3inch), p)</code></pre>
+<pre class="sourceCode julia img"><code class="sourceCode julia">p = plot([sin, cos], <span class="fl">0</span>, <span class="fl">25</span>)
+draw(SVG(<span class="fl">6</span>inch, <span class="fl">3</span>inch), p)</code></pre>
 <figure><object alt="Figure 8" 
                                   data="overview_fig_8.svg" 
                                   type="image/svg+xml"></object> 
@@ -147,18 +147,18 @@ draw(SVG(6inch, 3inch), p)</code></pre>
 <p>Some basic interactivity is planned by embedding javascript in the SVG files generated by Compose. As a proof of concept, names within color keys (e.g. in the color categorized iris plot, or the sin/cos plot) can be used to toggle the plotted data on or off.</p>
 <p>Much more can and will be done in the future.</p>
 <h2 id="compose"><a href="#TOC">Compose</a></h2>
-<p>Gadfly is based on a declaritive vector graphics system called <a href="https://github.com/dcjones/Compose.jl">Compose</a>.</p>
-<pre class="julia img"><code>fig1a = render(plot(iris, {:x =&gt; &quot;Sepal.Length&quot;, :y =&gt; &quot;Sepal.Width&quot;},
+<p>Gadfly is based on a declarative vector graphics system called <a href="https://github.com/dcjones/Compose.jl">Compose</a>. This let's one do interesting things with plots, once they are defined.</p>
+<pre class="sourceCode julia img"><code class="sourceCode julia">fig1a = render(plot(iris, {:x =&gt; <span class="st">&quot;Sepal.Length&quot;</span>, :y =&gt; <span class="st">&quot;Sepal.Width&quot;</span>},
                     Geom.point))
-fig1b = render(plot(iris, {:x =&gt; &quot;Sepal.Width&quot;}, Geom.bar))
+fig1b = render(plot(iris, {:x =&gt; <span class="st">&quot;Sepal.Width&quot;</span>}, Geom.bar))
 fig1 = hstack(fig1a, fig1b)
 
-draw(SVG(6inch, 3inch), fig1)</code></pre>
+draw(SVG(<span class="fl">6</span>inch, <span class="fl">3</span>inch), fig1)</code></pre>
 <figure><object alt="Figure 9" 
                                   data="overview_fig_9.svg" 
                                   type="image/svg+xml"></object> 
                           <figcaption></figcaption></figure>
-<p>The calls to <code>render</code> is necessary to convert the <code>Plot</code> object to Compose <code>Canvas</code> objects which represent graphics we can manipulate.</p>
+<p>The calls to <code>render</code> is necessary to convert the <code>Plot</code> object to Compose <code>Canvas</code> objects which represent graphics we can manipulate. Ultimately Compose will allow the creation of complex plots</p>
         <hr>
       </div>
 
@@ -184,7 +184,7 @@ draw(SVG(6inch, 3inch), fig1)</code></pre>
     </div>
 
     <div id="footer" class="span8">
-      <p class="muted">Last modified by Daniel Jones on Tue Jan 8 20:39:00 2013 -0800.</p>
+      <p class="muted">Last modified by Daniel Jones on Wed Jan 9 12:58:27 2013 -0800.</p>
     </div>
   </div>
 </body>
