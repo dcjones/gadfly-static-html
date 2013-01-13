@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="152.4mm" height="152.4mm" viewBox="0 0 152.4 152.4" style="stroke:black;fill:black" stroke-width="0.5">
-<g stroke="#F2F2F2" fill="#F5F5F5">
+<g fill="#F5F5F5" stroke="#F2F2F2">
   <path d="M 21.24 5 L 147.4 5 147.4 131.19 21.24 131.19 z" />
-  <g stroke-width="0.3" stroke="#FFFFFF">
+  <g stroke="#FFFFFF" stroke-width="0.3">
     <path d="M54.57,5 L 54.57 131.19" />
     <path d="M143.83,5 L 143.83 131.19" />
     <path d="M84.32,5 L 84.32 131.19" />
     <path d="M114.08,5 L 114.08 131.19" />
     <path d="M24.81,5 L 24.81 131.19" />
   </g>
-  <g stroke-width="0.3" stroke="#FFFFFF">
+  <g stroke="#FFFFFF" stroke-width="0.3">
     <path d="M21.24,32.38 L 147.4 32.38" />
     <path d="M21.24,127.61 L 147.4 127.61" />
     <path d="M21.24,103.81 L 147.4 103.81" />
@@ -18,8 +18,8 @@
     <path d="M21.24,80 L 147.4 80" />
   </g>
 </g>
-<g stroke-width="0.3" stroke="none">
-  <g class="color_group_RGB(0.27450980392156865,0.5098039215686274,0.7058823529411765)" stroke="#0F5D8C" fill="#4682B4">
+<g stroke="none" stroke-width="0.3">
+  <g fill="#4682B4" class="color_group_RGB(0.27450980392156865,0.5098039215686274,0.7058823529411765)" stroke="#0F5D8C">
     <circle cx="92.2" cy="64.56" r="0.5" />
     <circle cx="79.58" cy="75.47" r="0.5" />
     <circle cx="86.26" cy="82.18" r="0.5" />
@@ -84,20 +84,20 @@
     <circle cx="93.65" cy="63.27" r="0.5" />
   </g>
 </g>
-<g font-family="Source Sans Pro" font-size="3.18" stroke="none" fill="#4C404B">
+<g fill="#4C404B" stroke="none" font-family="Source Sans Pro" font-size="3.18">
   <text x="54.57" y="137.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-2</tspan></text>
   <text x="143.83" y="137.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">4</tspan></text>
   <text x="84.32" y="137.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0</tspan></text>
   <text x="114.08" y="137.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">2</tspan></text>
   <text x="24.81" y="137.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-4</tspan></text>
 </g>
-<g font-family="Source Sans Pro" font-size="3.88" stroke="none" fill="#362A35">
+<g fill="#362A35" stroke="none" font-family="Source Sans Pro" font-size="3.88">
   <text x="84.32" y="145.4" text-anchor="middle">body</text>
 </g>
-<g font-family="Source Sans Pro" font-size="3.88" stroke="none" fill="#362A35">
+<g fill="#362A35" stroke="none" font-family="Source Sans Pro" font-size="3.88">
   <text x="9.47" y="68.09" text-anchor="middle" style="dominant-baseline:central" transform="rotate(-90, 9.47, 68.09)">brain</text>
 </g>
-<g font-family="Source Sans Pro" font-size="3.18" stroke="none" fill="#4C404B">
+<g fill="#4C404B" stroke="none" font-family="Source Sans Pro" font-size="3.18">
   <text x="20.24" y="32.38" text-anchor="end" style="dominant-baseline:central">10<tspan baseline-shift="1.722548" font-size="83.333333%">3</tspan></text>
   <text x="20.24" y="127.61" text-anchor="end" style="dominant-baseline:central">10<tspan baseline-shift="1.722548" font-size="83.333333%">-1</tspan></text>
   <text x="20.24" y="103.81" text-anchor="end" style="dominant-baseline:central">10<tspan baseline-shift="1.722548" font-size="83.333333%">0</tspan></text>

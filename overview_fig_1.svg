@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="152.4mm" height="101.6mm" viewBox="0 0 152.4 101.6" style="stroke:black;fill:black" stroke-width="0.5">
-<g stroke="#F2F2F2" fill="#F5F5F5">
+<g fill="#F5F5F5" stroke="#F2F2F2">
   <path d="M 19.89 5 L 147.4 5 147.4 81.6 19.89 81.6 z" />
-  <g stroke-width="0.3" stroke="#FFFFFF">
+  <g stroke="#FFFFFF" stroke-width="0.3">
     <path d="M113.72,5 L 113.72 81.6" />
     <path d="M23.5,5 L 23.5 81.6" />
     <path d="M53.57,5 L 53.57 81.6" />
     <path d="M83.65,5 L 83.65 81.6" />
     <path d="M143.79,5 L 143.79 81.6" />
   </g>
-  <g stroke-width="0.3" stroke="#FFFFFF">
+  <g stroke="#FFFFFF" stroke-width="0.3">
     <path d="M19.89,50.53 L 147.4 50.53" />
     <path d="M19.89,36.08 L 147.4 36.08" />
     <path d="M19.89,21.62 L 147.4 21.62" />
@@ -18,8 +18,8 @@
     <path d="M19.89,7.17 L 147.4 7.17" />
   </g>
 </g>
-<g stroke-width="0.3" stroke="none">
-  <g class="color_group_RGB(0.27450980392156865,0.5098039215686274,0.7058823529411765)" stroke="#0F5D8C" fill="#4682B4">
+<g stroke="none" stroke-width="0.3">
+  <g fill="#4682B4" class="color_group_RGB(0.27450980392156865,0.5098039215686274,0.7058823529411765)" stroke="#0F5D8C">
     <circle cx="56.58" cy="36.08" r="0.5" />
     <circle cx="50.57" cy="50.53" r="0.5" />
     <circle cx="44.55" cy="44.75" r="0.5" />
@@ -172,20 +172,20 @@
     <circle cx="80.64" cy="50.53" r="0.5" />
   </g>
 </g>
-<g font-family="Source Sans Pro" font-size="3.18" stroke="none" fill="#4C404B">
+<g fill="#4C404B" stroke="none" font-family="Source Sans Pro" font-size="3.18">
   <text x="113.72" y="86.65" text-anchor="middle">7</text>
   <text x="23.5" y="86.65" text-anchor="middle">4</text>
   <text x="53.57" y="86.65" text-anchor="middle">5</text>
   <text x="83.65" y="86.65" text-anchor="middle">6</text>
   <text x="143.79" y="86.65" text-anchor="middle">8</text>
 </g>
-<g font-family="Source Sans Pro" font-size="3.88" stroke="none" fill="#362A35">
+<g fill="#362A35" stroke="none" font-family="Source Sans Pro" font-size="3.88">
   <text x="83.65" y="94.6" text-anchor="middle">Sepal.Length</text>
 </g>
-<g font-family="Source Sans Pro" font-size="3.88" stroke="none" fill="#362A35">
+<g fill="#362A35" stroke="none" font-family="Source Sans Pro" font-size="3.88">
   <text x="9.47" y="43.3" text-anchor="middle" style="dominant-baseline:central" transform="rotate(-90, 9.47, 43.3)">Sepal.Width</text>
 </g>
-<g font-family="Source Sans Pro" font-size="3.18" stroke="none" fill="#4C404B">
+<g fill="#4C404B" stroke="none" font-family="Source Sans Pro" font-size="3.18">
   <text x="18.89" y="50.53" text-anchor="end" style="dominant-baseline:central">3</text>
   <text x="18.89" y="36.08" text-anchor="end" style="dominant-baseline:central">3.5</text>
   <text x="18.89" y="21.62" text-anchor="end" style="dominant-baseline:central">4</text>
