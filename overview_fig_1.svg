@@ -19,7 +19,7 @@
   </g>
 </g>
 <g stroke="none" stroke-width="0.3">
-  <g fill="#4682B4" class="color_group_RGB(0.27450980392156865,0.5098039215686274,0.7058823529411765)" stroke="#0F5D8C">
+  <g fill="#4682B4" stroke="#0F5D8C" class="color_group_RGB(0.27450980392156865,0.5098039215686274,0.7058823529411765)">
     <circle cx="56.58" cy="36.08" r="0.5" />
     <circle cx="50.57" cy="50.53" r="0.5" />
     <circle cx="44.55" cy="44.75" r="0.5" />
@@ -172,20 +172,20 @@
     <circle cx="80.64" cy="50.53" r="0.5" />
   </g>
 </g>
-<g fill="#4C404B" stroke="none" font-family="Source Sans Pro" font-size="3.18">
+<g fill="#4C404B" stroke="none" font-size="3.18" font-family="Source Sans Pro">
   <text x="113.72" y="86.65" text-anchor="middle">7</text>
   <text x="23.5" y="86.65" text-anchor="middle">4</text>
   <text x="53.57" y="86.65" text-anchor="middle">5</text>
   <text x="83.65" y="86.65" text-anchor="middle">6</text>
   <text x="143.79" y="86.65" text-anchor="middle">8</text>
 </g>
-<g fill="#362A35" stroke="none" font-family="Source Sans Pro" font-size="3.88">
+<g fill="#362A35" stroke="none" font-size="3.88" font-family="Source Sans Pro">
   <text x="83.65" y="94.6" text-anchor="middle">Sepal.Length</text>
 </g>
-<g fill="#362A35" stroke="none" font-family="Source Sans Pro" font-size="3.88">
+<g fill="#362A35" stroke="none" font-size="3.88" font-family="Source Sans Pro">
   <text x="9.47" y="43.3" text-anchor="middle" style="dominant-baseline:central" transform="rotate(-90, 9.47, 43.3)">Sepal.Width</text>
 </g>
-<g fill="#4C404B" stroke="none" font-family="Source Sans Pro" font-size="3.18">
+<g fill="#4C404B" stroke="none" font-size="3.18" font-family="Source Sans Pro">
   <text x="18.89" y="50.53" text-anchor="end" style="dominant-baseline:central">3</text>
   <text x="18.89" y="36.08" text-anchor="end" style="dominant-baseline:central">3.5</text>
   <text x="18.89" y="21.62" text-anchor="end" style="dominant-baseline:central">4</text>

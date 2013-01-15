@@ -19,7 +19,7 @@
   </g>
 </g>
 <g stroke="none" stroke-width="0.3">
-  <g fill="#4682B4" class="color_group_RGB(0.27450980392156865,0.5098039215686274,0.7058823529411765)" stroke="#0F5D8C">
+  <g fill="#4682B4" stroke="#0F5D8C" class="color_group_RGB(0.27450980392156865,0.5098039215686274,0.7058823529411765)">
     <circle cx="92.2" cy="64.56" r="0.5" />
     <circle cx="79.58" cy="75.47" r="0.5" />
     <circle cx="86.26" cy="82.18" r="0.5" />
@@ -84,20 +84,20 @@
     <circle cx="93.65" cy="63.27" r="0.5" />
   </g>
 </g>
-<g fill="#4C404B" stroke="none" font-family="Source Sans Pro" font-size="3.18">
+<g fill="#4C404B" stroke="none" font-size="3.18" font-family="Source Sans Pro">
   <text x="54.57" y="137.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-2</tspan></text>
   <text x="143.83" y="137.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">4</tspan></text>
   <text x="84.32" y="137.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0</tspan></text>
   <text x="114.08" y="137.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">2</tspan></text>
   <text x="24.81" y="137.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-4</tspan></text>
 </g>
-<g fill="#362A35" stroke="none" font-family="Source Sans Pro" font-size="3.88">
+<g fill="#362A35" stroke="none" font-size="3.88" font-family="Source Sans Pro">
   <text x="84.32" y="145.4" text-anchor="middle">body</text>
 </g>
-<g fill="#362A35" stroke="none" font-family="Source Sans Pro" font-size="3.88">
+<g fill="#362A35" stroke="none" font-size="3.88" font-family="Source Sans Pro">
   <text x="9.47" y="68.09" text-anchor="middle" style="dominant-baseline:central" transform="rotate(-90, 9.47, 68.09)">brain</text>
 </g>
-<g fill="#4C404B" stroke="none" font-family="Source Sans Pro" font-size="3.18">
+<g fill="#4C404B" stroke="none" font-size="3.18" font-family="Source Sans Pro">
   <text x="20.24" y="32.38" text-anchor="end" style="dominant-baseline:central">10<tspan baseline-shift="1.722548" font-size="83.333333%">3</tspan></text>
   <text x="20.24" y="127.61" text-anchor="end" style="dominant-baseline:central">10<tspan baseline-shift="1.722548" font-size="83.333333%">-1</tspan></text>
   <text x="20.24" y="103.81" text-anchor="end" style="dominant-baseline:central">10<tspan baseline-shift="1.722548" font-size="83.333333%">0</tspan></text>

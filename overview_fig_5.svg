@@ -19,7 +19,7 @@
   </g>
 </g>
 <g stroke="none" stroke-width="0.3">
-  <g fill="#4682B4" class="color_group_RGB(0.27450980392156865,0.5098039215686274,0.7058823529411765)" stroke="#0F5D8C">
+  <g fill="#4682B4" stroke="#0F5D8C" class="color_group_RGB(0.27450980392156865,0.5098039215686274,0.7058823529411765)">
     <circle cx="92.2" cy="64.56" r="0.5" />
     <circle cx="79.58" cy="75.47" r="0.5" />
     <circle cx="86.26" cy="82.18" r="0.5" />
@@ -84,50 +84,50 @@
     <circle cx="93.65" cy="63.27" r="0.5" />
   </g>
 </g>
-<g fill="#4C404B" stroke="none" font-family="Source Sans Pro" font-size="2.82">
-  <text x="65.33" y="97.63" text-anchor="middle" style="dominant-baseline:central">Tree shrew</text>
-  <text x="87.34" y="97.22" text-anchor="middle" style="dominant-baseline:central">Tenrec</text>
-  <text x="120.59" y="46.81" text-anchor="middle" style="dominant-baseline:central">Pig</text>
-  <text x="70.03" y="118.57" text-anchor="middle" style="dominant-baseline:central">Musk shrew</text>
-  <text x="78.03" y="100.47" text-anchor="middle" style="dominant-baseline:central">Rat</text>
-  <text x="100.35" y="67.33" text-anchor="middle" style="dominant-baseline:central">Raccoon</text>
-  <text x="103.3" y="37.57" text-anchor="middle" style="dominant-baseline:central">Chimpanzee</text>
-  <text x="117.69" y="54.82" text-anchor="middle" style="dominant-baseline:central">Jaguar</text>
-  <text x="117.34" y="36.46" text-anchor="middle" style="dominant-baseline:central">Okapi</text>
-  <text x="43.65" y="119.74" text-anchor="middle" style="dominant-baseline:central">Little brown bat</text>
-  <text x="54.59" y="112.39" text-anchor="middle" style="dominant-baseline:central">Mouse</text>
-  <text x="78.73" y="107.1" text-anchor="middle" style="dominant-baseline:central">Golden hamster</text>
-  <text x="108.28" y="74.87" text-anchor="middle" style="dominant-baseline:central">Yellow-bellied marmot</text>
-  <text x="114.55" y="63.04" text-anchor="middle" style="dominant-baseline:central">Kangaroo</text>
-  <text x="85.91" y="48.62" text-anchor="middle" style="dominant-baseline:central">Rhesus monkey</text>
-  <text x="103.13" y="90.38" text-anchor="middle" style="dominant-baseline:central">Water opossum</text>
-  <text x="107.42" y="26.21" text-anchor="middle" style="dominant-baseline:central">Human</text>
-  <text x="73.33" y="79.28" text-anchor="middle" style="dominant-baseline:central">Rock hyrax-a</text>
-  <text x="106.15" y="45.33" text-anchor="middle" style="dominant-baseline:central">Grey seal</text>
-  <text x="83.44" y="70.91" text-anchor="middle" style="dominant-baseline:central">Genet</text>
-  <text x="89.33" y="55.35" text-anchor="middle" style="dominant-baseline:central">Patas monkey</text>
-  <text x="124.73" y="15.12" text-anchor="middle" style="dominant-baseline:central">Asian elephant</text>
-  <text x="103.57" y="82.5" text-anchor="middle" style="dominant-baseline:central">Nine-banded armadillo</text>
-  <text x="54.87" y="104.56" text-anchor="middle" style="dominant-baseline:central">Star-nosed mole</text>
-  <text x="41.79" y="127.43" text-anchor="middle" style="dominant-baseline:central">Lesser short-tailed shrew</text>
-  <text x="58.74" y="89.22" text-anchor="middle" style="dominant-baseline:central">Ground squirrel</text>
-  <text x="128.08" y="41.08" text-anchor="middle" style="dominant-baseline:central">Cow</text>
-  <text x="85.25" y="64" text-anchor="middle" style="dominant-baseline:central">Arctic fox</text>
+<g fill="#4C404B" stroke="none" font-size="2.82" font-family="Source Sans Pro">
+  <text x="61.7" y="95.33" text-anchor="middle" style="dominant-baseline:central">Tree shrew</text>
+  <text x="87.7" y="97.22" text-anchor="middle" style="dominant-baseline:central">Tenrec</text>
+  <text x="120.51" y="46.81" text-anchor="middle" style="dominant-baseline:central">Pig</text>
+  <text x="78.21" y="100.47" text-anchor="middle" style="dominant-baseline:central">Rat</text>
+  <text x="100.35" y="67.16" text-anchor="middle" style="dominant-baseline:central">Raccoon</text>
+  <text x="103.58" y="46.84" text-anchor="middle" style="dominant-baseline:central">Baboon</text>
+  <text x="101" y="39.46" text-anchor="middle" style="dominant-baseline:central">Chimpanzee</text>
+  <text x="117" y="54.82" text-anchor="middle" style="dominant-baseline:central">Jaguar</text>
+  <text x="117.37" y="36.46" text-anchor="middle" style="dominant-baseline:central">Okapi</text>
+  <text x="43.65" y="118.4" text-anchor="middle" style="dominant-baseline:central">Little brown bat</text>
+  <text x="57.16" y="109.98" text-anchor="middle" style="dominant-baseline:central">Mouse</text>
+  <text x="77.93" y="107.1" text-anchor="middle" style="dominant-baseline:central">Golden hamster</text>
+  <text x="108.28" y="76.14" text-anchor="middle" style="dominant-baseline:central">Yellow-bellied marmot</text>
+  <text x="114.55" y="63.7" text-anchor="middle" style="dominant-baseline:central">Kangaroo</text>
+  <text x="85.91" y="49.38" text-anchor="middle" style="dominant-baseline:central">Rhesus monkey</text>
+  <text x="103.13" y="90.28" text-anchor="middle" style="dominant-baseline:central">Water opossum</text>
+  <text x="116.84" y="28.37" text-anchor="middle" style="dominant-baseline:central">Human</text>
+  <text x="89.33" y="56.18" text-anchor="middle" style="dominant-baseline:central">Patas monkey</text>
+  <text x="66.48" y="119.55" text-anchor="middle" style="dominant-baseline:central">Big brown bat</text>
+  <text x="124.73" y="16" text-anchor="middle" style="dominant-baseline:central">Asian elephant</text>
+  <text x="97.34" y="83.48" text-anchor="middle" style="dominant-baseline:central">N.A. opossum</text>
+  <text x="54.87" y="102.67" text-anchor="middle" style="dominant-baseline:central">Star-nosed mole</text>
+  <text x="38.71" y="127.43" text-anchor="middle" style="dominant-baseline:central">Lesser short-tailed shrew</text>
+  <text x="58.74" y="87.95" text-anchor="middle" style="dominant-baseline:central">Ground squirrel</text>
+  <text x="73.71" y="81.31" text-anchor="middle" style="dominant-baseline:central">Chinchilla</text>
+  <text x="128.08" y="42.39" text-anchor="middle" style="dominant-baseline:central">Cow</text>
+  <text x="75.02" y="72.17" text-anchor="middle" style="dominant-baseline:central">Owl monkey</text>
+  <text x="85.25" y="63.42" text-anchor="middle" style="dominant-baseline:central">Arctic fox</text>
 </g>
-<g fill="#4C404B" stroke="none" font-family="Source Sans Pro" font-size="3.18">
+<g fill="#4C404B" stroke="none" font-size="3.18" font-family="Source Sans Pro">
   <text x="54.57" y="137.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-2</tspan></text>
   <text x="143.83" y="137.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">4</tspan></text>
   <text x="84.32" y="137.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0</tspan></text>
   <text x="114.08" y="137.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">2</tspan></text>
   <text x="24.81" y="137.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-4</tspan></text>
 </g>
-<g fill="#362A35" stroke="none" font-family="Source Sans Pro" font-size="3.88">
+<g fill="#362A35" stroke="none" font-size="3.88" font-family="Source Sans Pro">
   <text x="84.32" y="145.4" text-anchor="middle">body</text>
 </g>
-<g fill="#362A35" stroke="none" font-family="Source Sans Pro" font-size="3.88">
+<g fill="#362A35" stroke="none" font-size="3.88" font-family="Source Sans Pro">
   <text x="9.47" y="68.09" text-anchor="middle" style="dominant-baseline:central" transform="rotate(-90, 9.47, 68.09)">brain</text>
 </g>
-<g fill="#4C404B" stroke="none" font-family="Source Sans Pro" font-size="3.18">
+<g fill="#4C404B" stroke="none" font-size="3.18" font-family="Source Sans Pro">
   <text x="20.24" y="32.38" text-anchor="end" style="dominant-baseline:central">10<tspan baseline-shift="1.722548" font-size="83.333333%">3</tspan></text>
   <text x="20.24" y="127.61" text-anchor="end" style="dominant-baseline:central">10<tspan baseline-shift="1.722548" font-size="83.333333%">-1</tspan></text>
   <text x="20.24" y="103.81" text-anchor="end" style="dominant-baseline:central">10<tspan baseline-shift="1.722548" font-size="83.333333%">0</tspan></text>

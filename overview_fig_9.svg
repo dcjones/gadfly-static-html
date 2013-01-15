@@ -19,7 +19,7 @@
   </g>
 </g>
 <g stroke="none" stroke-width="0.3">
-  <g fill="#4682B4" class="color_group_RGB(0.27450980392156865,0.5098039215686274,0.7058823529411765)" stroke="#0F5D8C">
+  <g fill="#4682B4" stroke="#0F5D8C" class="color_group_RGB(0.27450980392156865,0.5098039215686274,0.7058823529411765)">
     <circle cx="34.66" cy="25.77" r="0.5" />
     <circle cx="32.24" cy="35.43" r="0.5" />
     <circle cx="29.82" cy="31.57" r="0.5" />
@@ -172,20 +172,20 @@
     <circle cx="44.34" cy="35.43" r="0.5" />
   </g>
 </g>
-<g fill="#4C404B" stroke="none" font-family="Source Sans Pro" font-size="3.18">
+<g fill="#4C404B" stroke="none" font-size="3.18" font-family="Source Sans Pro">
   <text x="57.65" y="61.25" text-anchor="middle">7</text>
   <text x="21.35" y="61.25" text-anchor="middle">4</text>
   <text x="33.45" y="61.25" text-anchor="middle">5</text>
   <text x="45.55" y="61.25" text-anchor="middle">6</text>
   <text x="69.75" y="61.25" text-anchor="middle">8</text>
 </g>
-<g fill="#362A35" stroke="none" font-family="Source Sans Pro" font-size="3.88">
+<g fill="#362A35" stroke="none" font-size="3.88" font-family="Source Sans Pro">
   <text x="45.55" y="69.2" text-anchor="middle">Sepal.Length</text>
 </g>
-<g fill="#362A35" stroke="none" font-family="Source Sans Pro" font-size="3.88">
+<g fill="#362A35" stroke="none" font-size="3.88" font-family="Source Sans Pro">
   <text x="9.47" y="30.6" text-anchor="middle" style="dominant-baseline:central" transform="rotate(-90, 9.47, 30.6)">Sepal.Width</text>
 </g>
-<g fill="#4C404B" stroke="none" font-family="Source Sans Pro" font-size="3.18">
+<g fill="#4C404B" stroke="none" font-size="3.18" font-family="Source Sans Pro">
   <text x="18.89" y="35.43" text-anchor="end" style="dominant-baseline:central">3</text>
   <text x="18.89" y="25.77" text-anchor="end" style="dominant-baseline:central">3.5</text>
   <text x="18.89" y="16.11" text-anchor="end" style="dominant-baseline:central">4</text>
@@ -242,7 +242,7 @@
   <path d="M 139.63 54.75 L 141.58 54.75 141.58 54.75 139.63 54.75 z" />
   <path d="M 141.48 54.75 L 143.42 54.75 143.42 53.14 141.48 53.14 z" />
 </g>
-<g fill="#4C404B" stroke="none" font-family="Source Sans Pro" font-size="3.18">
+<g fill="#4C404B" stroke="none" font-size="3.18" font-family="Source Sans Pro">
   <text x="111.12" y="61.25" text-anchor="middle">3</text>
   <text x="122.64" y="61.25" text-anchor="middle">3.5</text>
   <text x="134.15" y="61.25" text-anchor="middle">4</text>
@@ -250,10 +250,10 @@
   <text x="99.6" y="61.25" text-anchor="middle">2.5</text>
   <text x="145.67" y="61.25" text-anchor="middle">4.5</text>
 </g>
-<g fill="#362A35" stroke="none" font-family="Source Sans Pro" font-size="3.88">
+<g fill="#362A35" stroke="none" font-size="3.88" font-family="Source Sans Pro">
   <text x="116.88" y="69.2" text-anchor="middle">Sepal.Width</text>
 </g>
-<g fill="#4C404B" stroke="none" font-family="Source Sans Pro" font-size="3.18">
+<g fill="#4C404B" stroke="none" font-size="3.18" font-family="Source Sans Pro">
   <text x="85.36" y="38.65" text-anchor="end" style="dominant-baseline:central">10</text>
   <text x="85.36" y="54.75" text-anchor="end" style="dominant-baseline:central">0</text>
   <text x="85.36" y="22.55" text-anchor="end" style="dominant-baseline:central">20</text>

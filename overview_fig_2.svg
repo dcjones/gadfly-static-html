@@ -19,59 +19,7 @@
   </g>
 </g>
 <g stroke="none" stroke-width="0.3">
-  <g fill="#FF81AD" class="color_group_setosa" stroke="#D65886">
-    <circle cx="50.79" cy="36.08" r="0.5" />
-    <circle cx="45.73" cy="50.53" r="0.5" />
-    <circle cx="40.66" cy="44.75" r="0.5" />
-    <circle cx="38.13" cy="47.64" r="0.5" />
-    <circle cx="48.26" cy="33.18" r="0.5" />
-    <circle cx="58.39" cy="24.51" r="0.5" />
-    <circle cx="38.13" cy="38.97" r="0.5" />
-    <circle cx="48.26" cy="38.97" r="0.5" />
-    <circle cx="33.06" cy="53.42" r="0.5" />
-    <circle cx="45.73" cy="47.64" r="0.5" />
-    <circle cx="58.39" cy="30.29" r="0.5" />
-    <circle cx="43.19" cy="38.97" r="0.5" />
-    <circle cx="43.19" cy="50.53" r="0.5" />
-    <circle cx="30.53" cy="50.53" r="0.5" />
-    <circle cx="68.52" cy="21.62" r="0.5" />
-    <circle cx="65.99" cy="10.06" r="0.5" />
-    <circle cx="58.39" cy="24.51" r="0.5" />
-    <circle cx="50.79" cy="36.08" r="0.5" />
-    <circle cx="65.99" cy="27.4" r="0.5" />
-    <circle cx="50.79" cy="27.4" r="0.5" />
-    <circle cx="58.39" cy="38.97" r="0.5" />
-    <circle cx="50.79" cy="30.29" r="0.5" />
-    <circle cx="38.13" cy="33.18" r="0.5" />
-    <circle cx="50.79" cy="41.86" r="0.5" />
-    <circle cx="43.19" cy="38.97" r="0.5" />
-    <circle cx="48.26" cy="50.53" r="0.5" />
-    <circle cx="48.26" cy="38.97" r="0.5" />
-    <circle cx="53.32" cy="36.08" r="0.5" />
-    <circle cx="53.32" cy="38.97" r="0.5" />
-    <circle cx="40.66" cy="44.75" r="0.5" />
-    <circle cx="43.19" cy="47.64" r="0.5" />
-    <circle cx="58.39" cy="38.97" r="0.5" />
-    <circle cx="53.32" cy="18.73" r="0.5" />
-    <circle cx="60.92" cy="15.84" r="0.5" />
-    <circle cx="45.73" cy="47.64" r="0.5" />
-    <circle cx="48.26" cy="44.75" r="0.5" />
-    <circle cx="60.92" cy="36.08" r="0.5" />
-    <circle cx="45.73" cy="33.18" r="0.5" />
-    <circle cx="33.06" cy="50.53" r="0.5" />
-    <circle cx="50.79" cy="38.97" r="0.5" />
-    <circle cx="48.26" cy="36.08" r="0.5" />
-    <circle cx="35.6" cy="70.76" r="0.5" />
-    <circle cx="33.06" cy="44.75" r="0.5" />
-    <circle cx="48.26" cy="36.08" r="0.5" />
-    <circle cx="50.79" cy="27.4" r="0.5" />
-    <circle cx="43.19" cy="50.53" r="0.5" />
-    <circle cx="50.79" cy="27.4" r="0.5" />
-    <circle cx="38.13" cy="44.75" r="0.5" />
-    <circle cx="55.86" cy="30.29" r="0.5" />
-    <circle cx="48.26" cy="41.86" r="0.5" />
-  </g>
-  <g fill="#96B752" class="color_group_versicolor" stroke="#6D8E2C">
+  <g fill="#96B752" stroke="#6D8E2C" class="color_group_versicolor">
     <circle cx="98.91" cy="44.75" r="0.5" />
     <circle cx="83.71" cy="44.75" r="0.5" />
     <circle cx="96.37" cy="47.64" r="0.5" />
@@ -123,7 +71,59 @@
     <circle cx="50.79" cy="64.98" r="0.5" />
     <circle cx="65.99" cy="56.31" r="0.5" />
   </g>
-  <g fill="#00BDFF" class="color_group_virginica" stroke="#0094D4">
+  <g fill="#FF81AD" stroke="#D65886" class="color_group_setosa">
+    <circle cx="50.79" cy="36.08" r="0.5" />
+    <circle cx="45.73" cy="50.53" r="0.5" />
+    <circle cx="40.66" cy="44.75" r="0.5" />
+    <circle cx="38.13" cy="47.64" r="0.5" />
+    <circle cx="48.26" cy="33.18" r="0.5" />
+    <circle cx="58.39" cy="24.51" r="0.5" />
+    <circle cx="38.13" cy="38.97" r="0.5" />
+    <circle cx="48.26" cy="38.97" r="0.5" />
+    <circle cx="33.06" cy="53.42" r="0.5" />
+    <circle cx="45.73" cy="47.64" r="0.5" />
+    <circle cx="58.39" cy="30.29" r="0.5" />
+    <circle cx="43.19" cy="38.97" r="0.5" />
+    <circle cx="43.19" cy="50.53" r="0.5" />
+    <circle cx="30.53" cy="50.53" r="0.5" />
+    <circle cx="68.52" cy="21.62" r="0.5" />
+    <circle cx="65.99" cy="10.06" r="0.5" />
+    <circle cx="58.39" cy="24.51" r="0.5" />
+    <circle cx="50.79" cy="36.08" r="0.5" />
+    <circle cx="65.99" cy="27.4" r="0.5" />
+    <circle cx="50.79" cy="27.4" r="0.5" />
+    <circle cx="58.39" cy="38.97" r="0.5" />
+    <circle cx="50.79" cy="30.29" r="0.5" />
+    <circle cx="38.13" cy="33.18" r="0.5" />
+    <circle cx="50.79" cy="41.86" r="0.5" />
+    <circle cx="43.19" cy="38.97" r="0.5" />
+    <circle cx="48.26" cy="50.53" r="0.5" />
+    <circle cx="48.26" cy="38.97" r="0.5" />
+    <circle cx="53.32" cy="36.08" r="0.5" />
+    <circle cx="53.32" cy="38.97" r="0.5" />
+    <circle cx="40.66" cy="44.75" r="0.5" />
+    <circle cx="43.19" cy="47.64" r="0.5" />
+    <circle cx="58.39" cy="38.97" r="0.5" />
+    <circle cx="53.32" cy="18.73" r="0.5" />
+    <circle cx="60.92" cy="15.84" r="0.5" />
+    <circle cx="45.73" cy="47.64" r="0.5" />
+    <circle cx="48.26" cy="44.75" r="0.5" />
+    <circle cx="60.92" cy="36.08" r="0.5" />
+    <circle cx="45.73" cy="33.18" r="0.5" />
+    <circle cx="33.06" cy="50.53" r="0.5" />
+    <circle cx="50.79" cy="38.97" r="0.5" />
+    <circle cx="48.26" cy="36.08" r="0.5" />
+    <circle cx="35.6" cy="70.76" r="0.5" />
+    <circle cx="33.06" cy="44.75" r="0.5" />
+    <circle cx="48.26" cy="36.08" r="0.5" />
+    <circle cx="50.79" cy="27.4" r="0.5" />
+    <circle cx="43.19" cy="50.53" r="0.5" />
+    <circle cx="50.79" cy="27.4" r="0.5" />
+    <circle cx="38.13" cy="44.75" r="0.5" />
+    <circle cx="55.86" cy="30.29" r="0.5" />
+    <circle cx="48.26" cy="41.86" r="0.5" />
+  </g>
+  <g fill="#00BDFF" stroke="#0094D4" class="color_group_virginica">
     <circle cx="81.18" cy="41.86" r="0.5" />
     <circle cx="68.52" cy="59.2" r="0.5" />
     <circle cx="101.44" cy="50.53" r="0.5" />
@@ -176,8 +176,8 @@
     <circle cx="71.05" cy="50.53" r="0.5" />
   </g>
 </g>
-<g font-family="Source Sans Pro" font-size="3.18">
-  <a xlink:href="#"><g id="color_key_versicolor" onclick="js_chunk_8c827b2f68ef413c(evt)">
+<g font-size="3.18" font-family="Source Sans Pro">
+  <a xlink:href="#"><g id="color_key_versicolor" onclick="js_chunk_78ce6aaabef862a7(evt)">
     <g fill="#96B752" stroke="#6D8E2C" stroke-width="0.3">
       <path d="M 129.27 46.25 L 133.32 46.25 133.32 50.3 129.27 50.3 z" />
     </g>
@@ -185,7 +185,7 @@
       <text x="134.32" y="48.28" style="dominant-baseline:central">versicolor</text>
     </g>
   </g></a>
-  <a xlink:href="#"><g id="color_key_setosa" onclick="js_chunk_65d7c3649b9ac32f(evt)">
+  <a xlink:href="#"><g id="color_key_setosa" onclick="js_chunk_ac20f961259d77b7(evt)">
     <g fill="#FF81AD" stroke="#D65886" stroke-width="0.3">
       <path d="M 129.27 41.2 L 133.32 41.2 133.32 45.25 129.27 45.25 z" />
     </g>
@@ -193,7 +193,7 @@
       <text x="134.32" y="43.23" style="dominant-baseline:central">setosa</text>
     </g>
   </g></a>
-  <a xlink:href="#"><g id="color_key_virginica" onclick="js_chunk_4d94c5106b13f537(evt)">
+  <a xlink:href="#"><g id="color_key_virginica" onclick="js_chunk_c61b568b5992454f(evt)">
     <g fill="#00BDFF" stroke="#0094D4" stroke-width="0.3">
       <path d="M 129.27 51.3 L 133.32 51.3 133.32 55.35 129.27 55.35 z" />
     </g>
@@ -202,23 +202,23 @@
     </g>
   </g></a>
 </g>
-<g fill="#362A35" stroke="none" font-family="Source Sans Pro" font-size="3.88">
+<g fill="#362A35" stroke="none" font-size="3.88" font-family="Source Sans Pro">
   <text x="137.34" y="39.2" text-anchor="middle">Species</text>
 </g>
-<g fill="#4C404B" stroke="none" font-family="Source Sans Pro" font-size="3.18">
+<g fill="#4C404B" stroke="none" font-size="3.18" font-family="Source Sans Pro">
   <text x="98.91" y="86.65" text-anchor="middle">7</text>
   <text x="22.93" y="86.65" text-anchor="middle">4</text>
   <text x="48.26" y="86.65" text-anchor="middle">5</text>
   <text x="73.58" y="86.65" text-anchor="middle">6</text>
   <text x="124.23" y="86.65" text-anchor="middle">8</text>
 </g>
-<g fill="#362A35" stroke="none" font-family="Source Sans Pro" font-size="3.88">
+<g fill="#362A35" stroke="none" font-size="3.88" font-family="Source Sans Pro">
   <text x="73.58" y="94.6" text-anchor="middle">Sepal.Length</text>
 </g>
-<g fill="#362A35" stroke="none" font-family="Source Sans Pro" font-size="3.88">
+<g fill="#362A35" stroke="none" font-size="3.88" font-family="Source Sans Pro">
   <text x="9.47" y="43.3" text-anchor="middle" style="dominant-baseline:central" transform="rotate(-90, 9.47, 43.3)">Sepal.Width</text>
 </g>
-<g fill="#4C404B" stroke="none" font-family="Source Sans Pro" font-size="3.18">
+<g fill="#4C404B" stroke="none" font-size="3.18" font-family="Source Sans Pro">
   <text x="18.89" y="50.53" text-anchor="end" style="dominant-baseline:central">3</text>
   <text x="18.89" y="36.08" text-anchor="end" style="dominant-baseline:central">3.5</text>
   <text x="18.89" y="21.62" text-anchor="end" style="dominant-baseline:central">4</text>
@@ -227,24 +227,7 @@
   <text x="18.89" y="7.17" text-anchor="end" style="dominant-baseline:central">4.5</text>
 </g>
 <script type="application/ecmascript"><![CDATA[
-function js_chunk_65d7c3649b9ac32f(evt) {
-  geoms = document.getElementsByClassName('color_group_setosa');
-                        entry = document.getElementById('color_key_setosa');
-                        state = geoms[0].getAttribute('visibility');
-                        if (!state || state == 'visible') {
-                            for (i = 0; i < geoms.length; ++i) {
-                                geoms[i].setAttribute('visibility', 'hidden');
-                            }
-                            entry.setAttribute('opacity', 0.5);
-                        } else {
-                            for (i = 0; i < geoms.length; ++i) {
-                                geoms[i].setAttribute('visibility', 'visible');
-                            }
-                            entry.setAttribute('opacity', 1.0);
-                        }
-}
-
-function js_chunk_4d94c5106b13f537(evt) {
+function js_chunk_c61b568b5992454f(evt) {
   geoms = document.getElementsByClassName('color_group_virginica');
                         entry = document.getElementById('color_key_virginica');
                         state = geoms[0].getAttribute('visibility');
@@ -261,9 +244,26 @@ function js_chunk_4d94c5106b13f537(evt) {
                         }
 }
 
-function js_chunk_8c827b2f68ef413c(evt) {
+function js_chunk_78ce6aaabef862a7(evt) {
   geoms = document.getElementsByClassName('color_group_versicolor');
                         entry = document.getElementById('color_key_versicolor');
+                        state = geoms[0].getAttribute('visibility');
+                        if (!state || state == 'visible') {
+                            for (i = 0; i < geoms.length; ++i) {
+                                geoms[i].setAttribute('visibility', 'hidden');
+                            }
+                            entry.setAttribute('opacity', 0.5);
+                        } else {
+                            for (i = 0; i < geoms.length; ++i) {
+                                geoms[i].setAttribute('visibility', 'visible');
+                            }
+                            entry.setAttribute('opacity', 1.0);
+                        }
+}
+
+function js_chunk_ac20f961259d77b7(evt) {
+  geoms = document.getElementsByClassName('color_group_setosa');
+                        entry = document.getElementById('color_key_setosa');
                         state = geoms[0].getAttribute('visibility');
                         if (!state || state == 'visible') {
                             for (i = 0; i < geoms.length; ++i) {
