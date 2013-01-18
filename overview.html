@@ -109,9 +109,10 @@ draw(SVG(<span class="fl">6</span>inch, <span class="fl">6</span>inch), p)</code
 <pre class="sourceCode julia"><code class="sourceCode julia"><span class="kw">using</span> Distributions
 <span class="kw">using</span> DataFrames
 
-normmix = DataFrame({<span class="st">&quot;x&quot;</span> =&gt; vcat(rand(Normal(-<span class="fl">5</span>), <span class="fl">500</span>),
-                                 rand(Normal(<span class="fl">5</span>), <span class="fl">500</span>))})
-p = plot(normmix,
+normmix = MixtureModel([Normal(-<span class="fl">3</span>, <span class="fl">1</span>), Normal(<span class="fl">3</span>, <span class="fl">1</span>)], [<span class="fl">0.7</span>, <span class="fl">0.3</span>])
+xs = DataFrame({<span class="st">&quot;x&quot;</span> =&gt; <span class="dt">Float64</span>[rand(normmix) <span class="kw">for</span> _ <span class="kw">in</span> <span class="fl">1</span>:<span class="fl">5000</span>]})
+
+p = plot(xs,
          {:x =&gt; <span class="st">&quot;x&quot;</span>},
          Geom.bar)
 draw(SVG(<span class="fl">4</span>inch, <span class="fl">3</span>inch), p)</code></pre>
@@ -120,6 +121,22 @@ draw(SVG(<span class="fl">4</span>inch, <span class="fl">3</span>inch), p)</code
                                   type="image/svg+xml"></object> 
                           <figcaption></figcaption></figure>
 <p>No need to specify the number of bins, if not given a reasonable number is chosen using a penalized maximum likelihood procedure.</p>
+<h2 id="d-histograms-heat-maps"><a href="#TOC">2D Histograms / Heat maps</a></h2>
+<p>Histograms in two-dimensions can be drawn with Geom.rectbin.</p>
+<pre class="sourceCode julia"><code class="sourceCode julia">d = MultivariateNormal([<span class="fl">0.0</span>, <span class="fl">0.0</span>], [<span class="fl">1.0</span> <span class="fl">0.5</span>; <span class="fl">0.5</span> <span class="fl">1.0</span>])
+xys = [rand(d) <span class="kw">for</span> _ <span class="kw">in</span> <span class="fl">1</span>:<span class="fl">5000</span>]
+xs = <span class="dt">Float64</span>[xy[<span class="fl">1</span>] <span class="kw">for</span> xy <span class="kw">in</span> xys]
+ys = <span class="dt">Float64</span>[xy[<span class="fl">2</span>] <span class="kw">for</span> xy <span class="kw">in</span> xys]
+
+p = plot(DataFrame({<span class="st">&quot;x&quot;</span> =&gt; xs, <span class="st">&quot;y&quot;</span> =&gt; ys}),
+                   {:x =&gt; <span class="st">&quot;x&quot;</span>, :y =&gt; <span class="st">&quot;y&quot;</span>},
+                   Geom.rectbin)
+
+draw(SVG(<span class="fl">5</span>inch, <span class="fl">4</span>inch), p)</code></pre>
+<figure><object alt="Figure 7" 
+                                  data="overview_fig_7.svg" 
+                                  type="image/svg+xml"></object> 
+                          <figcaption></figcaption></figure>
 <h2 id="boxplots"><a href="#TOC">Boxplots</a></h2>
 <p>The boxplot geometry shows the distribution of the y aesthetic, grouped by the x aesthetic. Here is a (log) wage distribution categorized by years of education.</p>
 <pre class="sourceCode julia"><code class="sourceCode julia">wages = data(<span class="st">&quot;plm&quot;</span>, <span class="st">&quot;Wages&quot;</span>)
@@ -128,16 +145,16 @@ p = plot(wages,
           :y =&gt; <span class="st">&quot;lwage&quot;</span>},
          Geom.boxplot)
 draw(SVG(<span class="fl">4</span>inch, <span class="fl">4</span>inch), p)</code></pre>
-<figure><object alt="Figure 7" 
-                                  data="overview_fig_7.svg" 
+<figure><object alt="Figure 8" 
+                                  data="overview_fig_8.svg" 
                                   type="image/svg+xml"></object> 
                           <figcaption></figcaption></figure>
 <h2 id="plotting-functions"><a href="#TOC">Plotting functions</a></h2>
 <p>Though Gadfly primarily plots data frames, there are convenience functions to do simple function plotting.</p>
 <pre class="sourceCode julia"><code class="sourceCode julia">p = plot([sin, cos], <span class="fl">0</span>, <span class="fl">25</span>)
 draw(SVG(<span class="fl">6</span>inch, <span class="fl">3</span>inch), p)</code></pre>
-<figure><object alt="Figure 8" 
-                                  data="overview_fig_8.svg" 
+<figure><object alt="Figure 9" 
+                                  data="overview_fig_9.svg" 
                                   type="image/svg+xml"></object> 
                           <figcaption></figcaption></figure>
 <p>This form of <code>plot</code> takes one or more functions, followed by a lower and upper bounds over which the function will be plotted.</p>
@@ -146,17 +163,16 @@ draw(SVG(<span class="fl">6</span>inch, <span class="fl">3</span>inch), p)</code
 <p>Much more can and will be done in the future.</p>
 <h2 id="compose"><a href="#TOC">Compose</a></h2>
 <p>Gadfly is based on a declarative vector graphics system called <a href="https://github.com/dcjones/Compose.jl">Compose</a>. This let's one do interesting things with plots, once they are defined.</p>
-<pre class="sourceCode julia"><code class="sourceCode julia">fig1a = render(plot(iris, {:x =&gt; <span class="st">&quot;Sepal.Length&quot;</span>, :y =&gt; <span class="st">&quot;Sepal.Width&quot;</span>},
-                    Geom.point))
-fig1b = render(plot(iris, {:x =&gt; <span class="st">&quot;Sepal.Width&quot;</span>}, Geom.bar))
+<pre class="sourceCode julia"><code class="sourceCode julia">fig1a = plot(iris, {:x =&gt; <span class="st">&quot;Sepal.Length&quot;</span>, :y =&gt; <span class="st">&quot;Sepal.Width&quot;</span>}, Geom.point)
+fig1b = plot(iris, {:x =&gt; <span class="st">&quot;Sepal.Width&quot;</span>}, Geom.bar)
 fig1 = hstack(fig1a, fig1b)
 
 draw(SVG(<span class="fl">6</span>inch, <span class="fl">3</span>inch), fig1)</code></pre>
-<figure><object alt="Figure 9" 
-                                  data="overview_fig_9.svg" 
+<figure><object alt="Figure 10" 
+                                  data="overview_fig_10.svg" 
                                   type="image/svg+xml"></object> 
                           <figcaption></figcaption></figure>
-<p>The calls to <code>render</code> is necessary to convert the <code>Plot</code> object to Compose <code>Canvas</code> objects which represent graphics we can manipulate. Ultimately Compose will allow the creation of complex plots</p>
+<p>Ultimately Compose will allow the creation of more complex plots, such as those containing facets, or plots within plots.</p>
         <hr>
       </div>
 
@@ -172,6 +188,7 @@ draw(SVG(<span class="fl">6</span>inch, <span class="fl">3</span>inch), fig1)</c
 <li><a href="#scale-transformations">Scale Transformations</a></li>
 <li><a href="#labels">Labels</a></li>
 <li><a href="#histograms">Histograms</a></li>
+<li><a href="#d-histograms-heat-maps">2D Histograms / Heat maps</a></li>
 <li><a href="#boxplots">Boxplots</a></li>
 <li><a href="#plotting-functions">Plotting functions</a></li>
 <li><a href="#interactivity">Interactivity</a></li>
@@ -182,7 +199,7 @@ draw(SVG(<span class="fl">6</span>inch, <span class="fl">3</span>inch), fig1)</c
     </div>
 
     <div id="footer" class="span8">
-      <p class="muted">Last modified by Daniel Jones on Tue Jan 15 13:42:46 2013 -0800.</p>
+      <p class="muted">Last modified by Daniel Jones on Thu Jan 17 14:51:49 2013 -0800.</p>
     </div>
   </div>
 </body>
