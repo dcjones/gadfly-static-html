@@ -1,1424 +1,1369 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="127mm" height="101.6mm" viewBox="0 0 127 101.6" style="stroke:black;fill:black" stroke-width="0.5">
-<g stroke="#F2F2F2" fill="#F5F5F5">
-  <path d="M 18.51 5 L 109.14 5 109.14 83.6 18.51 83.6 z" />
-  <g stroke="#FFFFFF" stroke-width="0.3">
-    <path d="M42.45,5 L 42.45 83.6" />
-    <path d="M106.57,5 L 106.57 83.6" />
-    <path d="M63.82,5 L 63.82 83.6" />
-    <path d="M85.2,5 L 85.2 83.6" />
-    <path d="M21.08,5 L 21.08 83.6" />
+<g>
+  <g stroke="none" fill="#4C404B" font-size="3.18" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
+    <text x="17.51" y="66.55" text-anchor="end" style="dominant-baseline:central">-4</text>
+    <text x="17.51" y="22.06" text-anchor="end" style="dominant-baseline:central">2</text>
+    <text x="17.51" y="36.89" text-anchor="end" style="dominant-baseline:central">0</text>
+    <text x="17.51" y="7.22" text-anchor="end" style="dominant-baseline:central">4</text>
+    <text x="17.51" y="81.38" text-anchor="end" style="dominant-baseline:central">-6</text>
+    <text x="17.51" y="51.72" text-anchor="end" style="dominant-baseline:central">-2</text>
   </g>
-  <g stroke="#FFFFFF" stroke-width="0.3">
-    <path d="M18.51,62.84 L 109.14 62.84" />
-    <path d="M18.51,7.22 L 109.14 7.22" />
-    <path d="M18.51,44.3 L 109.14 44.3" />
-    <path d="M18.51,25.76 L 109.14 25.76" />
-    <path d="M18.51,81.38 L 109.14 81.38" />
+  <g stroke="none" fill="#362A35" font-size="3.88" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
+    <text x="9.47" y="44.3" text-anchor="middle" style="dominant-baseline:central" transform="rotate(-90, 9.47, 44.3)">y</text>
+  </g>
+  <g stroke="none" fill="#362A35" font-size="3.88" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
+    <text x="63.82" y="94.6" text-anchor="middle">x</text>
+  </g>
+  <g stroke="none" fill="#4C404B" font-size="3.18" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
+    <text x="35.08" y="87.65" text-anchor="middle">-2</text>
+    <text x="77.08" y="87.65" text-anchor="middle">4</text>
+    <text x="49.08" y="87.65" text-anchor="middle">0</text>
+    <text x="63.08" y="87.65" text-anchor="middle">2</text>
+    <text x="21.08" y="87.65" text-anchor="middle">-4</text>
+  </g>
+  <g stroke="none" fill="#362A35" font-size="3.88" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
+    <text x="115.57" y="35.66" text-anchor="middle">Count</text>
+  </g>
+  <g stroke="none" font-size="3.18" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
+    <g fill="#004D8A" stroke-width="0.3">
+      <path d="M 111.14 56.85 L 115.18 56.85 115.18 57.95 111.14 57.95 z" />
+    </g>
+    <g fill="#007CBF" stroke-width="0.3">
+      <path d="M 111.14 51.8 L 115.18 51.8 115.18 52.9 111.14 52.9 z" />
+    </g>
+    <g fill="#53B1F9" stroke-width="0.3">
+      <path d="M 111.14 46.75 L 115.18 46.75 115.18 47.85 111.14 47.85 z" />
+    </g>
+    <g fill="#94EAFF" stroke-width="0.3">
+      <path d="M 111.14 41.7 L 115.18 41.7 115.18 42.8 111.14 42.8 z" />
+    </g>
+    <g fill="#4C404B">
+      <text x="116.18" y="39.68" style="dominant-baseline:central">80</text>
+    </g>
+    <g fill="#B3FFFF" stroke-width="0.3">
+      <path d="M 111.14 37.66 L 115.18 37.66 115.18 41.8 111.14 41.8 z" />
+    </g>
+    <g fill="#4C404B">
+      <text x="116.18" y="44.73" style="dominant-baseline:central">60</text>
+    </g>
+    <g fill="#74CDFF" stroke-width="0.3">
+      <path d="M 111.14 42.7 L 115.18 42.7 115.18 46.85 111.14 46.85 z" />
+    </g>
+    <g fill="#4C404B">
+      <text x="116.18" y="49.78" style="dominant-baseline:central">40</text>
+    </g>
+    <g fill="#2996DC" stroke-width="0.3">
+      <path d="M 111.14 47.75 L 115.18 47.75 115.18 51.9 111.14 51.9 z" />
+    </g>
+    <g fill="#4C404B">
+      <text x="116.18" y="54.82" style="dominant-baseline:central">20</text>
+    </g>
+    <g fill="#0063A3" stroke-width="0.3">
+      <path d="M 111.14 52.8 L 115.18 52.8 115.18 56.95 111.14 56.95 z" />
+    </g>
+    <g fill="#4C404B">
+      <text x="116.18" y="59.87" style="dominant-baseline:central">1</text>
+    </g>
+    <g fill="#003771" stroke-width="0.3">
+      <path d="M 111.14 57.85 L 115.18 57.85 115.18 62 111.14 62 z" />
+    </g>
+  </g>
+  <g stroke="#F2F2F2" fill="#F5F5F5">
+    <path d="M 18.51 5 L 109.14 5 109.14 83.6 18.51 83.6 z" />
+    <g stroke="#FFFFFF" stroke-width="0.3">
+      <path d="M18.51,66.55 L 109.14 66.55" />
+      <path d="M18.51,22.06 L 109.14 22.06" />
+      <path d="M18.51,36.89 L 109.14 36.89" />
+      <path d="M18.51,7.22 L 109.14 7.22" />
+      <path d="M18.51,81.38 L 109.14 81.38" />
+      <path d="M18.51,51.72 L 109.14 51.72" />
+    </g>
+    <g stroke="#FFFFFF" stroke-width="0.3">
+      <path d="M35.08,5 L 35.08 83.6" />
+      <path d="M77.08,5 L 77.08 83.6" />
+      <path d="M49.08,5 L 49.08 83.6" />
+      <path d="M63.08,5 L 63.08 83.6" />
+      <path d="M21.08,5 L 21.08 83.6" />
+    </g>
+  </g>
+  <g shape-rendering="crispEdges" stroke="none">
+    <g fill="#003771" class="geometry">
+      <path d="M 34.13 67.79 L 36.39 67.79 36.39 66.16 34.13 66.16 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 52.24 67.79 L 54.5 67.79 54.5 66.16 52.24 66.16 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 61.29 67.79 L 63.56 67.79 63.56 66.16 61.29 66.16 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 65.82 67.79 L 68.08 67.79 68.08 66.16 65.82 66.16 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 31.86 66.16 L 34.13 66.16 34.13 64.54 31.86 64.54 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 38.65 66.16 L 40.92 66.16 40.92 64.54 38.65 64.54 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 40.92 66.16 L 43.18 66.16 43.18 64.54 40.92 64.54 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 43.18 66.16 L 45.45 66.16 45.45 64.54 43.18 64.54 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 49.97 66.16 L 52.24 66.16 52.24 64.54 49.97 64.54 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 52.24 66.16 L 54.5 66.16 54.5 64.54 52.24 64.54 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 54.5 66.16 L 56.77 66.16 56.77 64.54 54.5 64.54 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 56.77 66.16 L 59.03 66.16 59.03 64.54 56.77 64.54 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 63.56 66.16 L 65.82 66.16 65.82 64.54 63.56 64.54 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 34.13 64.54 L 36.39 64.54 36.39 62.92 34.13 62.92 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 38.65 64.54 L 40.92 64.54 40.92 62.92 38.65 62.92 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 47.71 64.54 L 49.97 64.54 49.97 62.92 47.71 62.92 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 49.97 64.54 L 52.24 64.54 52.24 62.92 49.97 62.92 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 52.24 64.54 L 54.5 64.54 54.5 62.92 52.24 62.92 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 54.5 64.54 L 56.77 64.54 56.77 62.92 54.5 62.92 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 56.77 64.54 L 59.03 64.54 59.03 62.92 56.77 62.92 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 59.03 64.54 L 61.29 64.54 61.29 62.92 59.03 62.92 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 61.29 64.54 L 63.56 64.54 63.56 62.92 61.29 62.92 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 63.56 64.54 L 65.82 64.54 65.82 62.92 63.56 62.92 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 65.82 64.54 L 68.08 64.54 68.08 62.92 65.82 62.92 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 83.93 64.54 L 86.2 64.54 86.2 62.92 83.93 62.92 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 38.65 62.92 L 40.92 62.92 40.92 61.3 38.65 61.3 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 40.92 62.92 L 43.18 62.92 43.18 61.3 40.92 61.3 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 43.18 62.92 L 45.45 62.92 45.45 61.3 43.18 61.3 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 45.45 62.92 L 47.71 62.92 47.71 61.3 45.45 61.3 z" />
+    </g>
+    <g fill="#003E79" class="geometry">
+      <path d="M 47.71 62.92 L 49.97 62.92 49.97 61.3 47.71 61.3 z" />
+    </g>
+    <g fill="#00407B" class="geometry">
+      <path d="M 49.97 62.92 L 52.24 62.92 52.24 61.3 49.97 61.3 z" />
+    </g>
+    <g fill="#00407B" class="geometry">
+      <path d="M 52.24 62.92 L 54.5 62.92 54.5 61.3 52.24 61.3 z" />
+    </g>
+    <g fill="#00508E" class="geometry">
+      <path d="M 54.5 62.92 L 56.77 62.92 56.77 61.3 54.5 61.3 z" />
+    </g>
+    <g fill="#00427E" class="geometry">
+      <path d="M 56.77 62.92 L 59.03 62.92 59.03 61.3 56.77 61.3 z" />
+    </g>
+    <g fill="#00407B" class="geometry">
+      <path d="M 59.03 62.92 L 61.29 62.92 61.29 61.3 59.03 61.3 z" />
+    </g>
+    <g fill="#00407B" class="geometry">
+      <path d="M 61.29 62.92 L 63.56 62.92 63.56 61.3 61.29 61.3 z" />
+    </g>
+    <g fill="#003E79" class="geometry">
+      <path d="M 63.56 62.92 L 65.82 62.92 65.82 61.3 63.56 61.3 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 65.82 62.92 L 68.08 62.92 68.08 61.3 65.82 61.3 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 68.08 62.92 L 70.35 62.92 70.35 61.3 68.08 61.3 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 70.35 62.92 L 72.61 62.92 72.61 61.3 70.35 61.3 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 72.61 62.92 L 74.88 62.92 74.88 61.3 72.61 61.3 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 74.88 62.92 L 77.14 62.92 77.14 61.3 74.88 61.3 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 77.14 62.92 L 79.4 62.92 79.4 61.3 77.14 61.3 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 79.4 62.92 L 81.67 62.92 81.67 61.3 79.4 61.3 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 25.07 61.3 L 27.33 61.3 27.33 59.67 25.07 59.67 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 29.6 61.3 L 31.86 61.3 31.86 59.67 29.6 59.67 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 43.18 61.3 L 45.45 61.3 45.45 59.67 43.18 59.67 z" />
+    </g>
+    <g fill="#00407B" class="geometry">
+      <path d="M 45.45 61.3 L 47.71 61.3 47.71 59.67 45.45 59.67 z" />
+    </g>
+    <g fill="#00427E" class="geometry">
+      <path d="M 47.71 61.3 L 49.97 61.3 49.97 59.67 47.71 59.67 z" />
+    </g>
+    <g fill="#003E79" class="geometry">
+      <path d="M 49.97 61.3 L 52.24 61.3 52.24 59.67 49.97 59.67 z" />
+    </g>
+    <g fill="#003E79" class="geometry">
+      <path d="M 52.24 61.3 L 54.5 61.3 54.5 59.67 52.24 59.67 z" />
+    </g>
+    <g fill="#004986" class="geometry">
+      <path d="M 54.5 61.3 L 56.77 61.3 56.77 59.67 54.5 59.67 z" />
+    </g>
+    <g fill="#004986" class="geometry">
+      <path d="M 56.77 61.3 L 59.03 61.3 59.03 59.67 56.77 59.67 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 59.03 61.3 L 61.29 61.3 61.29 59.67 59.03 59.67 z" />
+    </g>
+    <g fill="#004986" class="geometry">
+      <path d="M 61.29 61.3 L 63.56 61.3 63.56 59.67 61.29 59.67 z" />
+    </g>
+    <g fill="#004B88" class="geometry">
+      <path d="M 63.56 61.3 L 65.82 61.3 65.82 59.67 63.56 59.67 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 65.82 61.3 L 68.08 61.3 68.08 59.67 65.82 59.67 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 70.35 61.3 L 72.61 61.3 72.61 59.67 70.35 59.67 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 72.61 61.3 L 74.88 61.3 74.88 59.67 72.61 59.67 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 74.88 61.3 L 77.14 61.3 77.14 59.67 74.88 59.67 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 77.14 61.3 L 79.4 61.3 79.4 59.67 77.14 59.67 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 79.4 61.3 L 81.67 61.3 81.67 59.67 79.4 59.67 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 83.93 61.3 L 86.2 61.3 86.2 59.67 83.93 59.67 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 29.6 59.67 L 31.86 59.67 31.86 58.05 29.6 58.05 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 40.92 59.67 L 43.18 59.67 43.18 58.05 40.92 58.05 z" />
+    </g>
+    <g fill="#004581" class="geometry">
+      <path d="M 43.18 59.67 L 45.45 59.67 45.45 58.05 43.18 58.05 z" />
+    </g>
+    <g fill="#004581" class="geometry">
+      <path d="M 45.45 59.67 L 47.71 59.67 47.71 58.05 45.45 58.05 z" />
+    </g>
+    <g fill="#003E79" class="geometry">
+      <path d="M 47.71 59.67 L 49.97 59.67 49.97 58.05 47.71 58.05 z" />
+    </g>
+    <g fill="#004E8B" class="geometry">
+      <path d="M 49.97 59.67 L 52.24 59.67 52.24 58.05 49.97 58.05 z" />
+    </g>
+    <g fill="#004783" class="geometry">
+      <path d="M 52.24 59.67 L 54.5 59.67 54.5 58.05 52.24 58.05 z" />
+    </g>
+    <g fill="#0068A9" class="geometry">
+      <path d="M 54.5 59.67 L 56.77 59.67 56.77 58.05 54.5 58.05 z" />
+    </g>
+    <g fill="#005C9B" class="geometry">
+      <path d="M 56.77 59.67 L 59.03 59.67 59.03 58.05 56.77 58.05 z" />
+    </g>
+    <g fill="#005E9E" class="geometry">
+      <path d="M 59.03 59.67 L 61.29 59.67 61.29 58.05 59.03 58.05 z" />
+    </g>
+    <g fill="#004986" class="geometry">
+      <path d="M 61.29 59.67 L 63.56 59.67 63.56 58.05 61.29 58.05 z" />
+    </g>
+    <g fill="#004E8B" class="geometry">
+      <path d="M 63.56 59.67 L 65.82 59.67 65.82 58.05 63.56 58.05 z" />
+    </g>
+    <g fill="#005593" class="geometry">
+      <path d="M 65.82 59.67 L 68.08 59.67 68.08 58.05 65.82 58.05 z" />
+    </g>
+    <g fill="#004783" class="geometry">
+      <path d="M 68.08 59.67 L 70.35 59.67 70.35 58.05 68.08 58.05 z" />
+    </g>
+    <g fill="#00407B" class="geometry">
+      <path d="M 70.35 59.67 L 72.61 59.67 72.61 58.05 70.35 58.05 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 72.61 59.67 L 74.88 59.67 74.88 58.05 72.61 58.05 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 74.88 59.67 L 77.14 59.67 77.14 58.05 74.88 58.05 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 77.14 59.67 L 79.4 59.67 79.4 58.05 77.14 58.05 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 79.4 59.67 L 81.67 59.67 81.67 58.05 79.4 58.05 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 29.6 58.05 L 31.86 58.05 31.86 56.43 29.6 56.43 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 38.65 58.05 L 40.92 58.05 40.92 56.43 38.65 56.43 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 40.92 58.05 L 43.18 58.05 43.18 56.43 40.92 56.43 z" />
+    </g>
+    <g fill="#00407B" class="geometry">
+      <path d="M 43.18 58.05 L 45.45 58.05 45.45 56.43 43.18 56.43 z" />
+    </g>
+    <g fill="#004E8B" class="geometry">
+      <path d="M 45.45 58.05 L 47.71 58.05 47.71 56.43 45.45 56.43 z" />
+    </g>
+    <g fill="#004581" class="geometry">
+      <path d="M 47.71 58.05 L 49.97 58.05 49.97 56.43 47.71 56.43 z" />
+    </g>
+    <g fill="#004B88" class="geometry">
+      <path d="M 49.97 58.05 L 52.24 58.05 52.24 56.43 49.97 56.43 z" />
+    </g>
+    <g fill="#0068A9" class="geometry">
+      <path d="M 52.24 58.05 L 54.5 58.05 54.5 56.43 52.24 56.43 z" />
+    </g>
+    <g fill="#005E9E" class="geometry">
+      <path d="M 54.5 58.05 L 56.77 58.05 56.77 56.43 54.5 56.43 z" />
+    </g>
+    <g fill="#006BAC" class="geometry">
+      <path d="M 56.77 58.05 L 59.03 58.05 59.03 56.43 56.77 56.43 z" />
+    </g>
+    <g fill="#2494D9" class="geometry">
+      <path d="M 59.03 58.05 L 61.29 58.05 61.29 56.43 59.03 56.43 z" />
+    </g>
+    <g fill="#0068A9" class="geometry">
+      <path d="M 61.29 58.05 L 63.56 58.05 63.56 56.43 61.29 56.43 z" />
+    </g>
+    <g fill="#0075B7" class="geometry">
+      <path d="M 63.56 58.05 L 65.82 58.05 65.82 56.43 63.56 56.43 z" />
+    </g>
+    <g fill="#005E9E" class="geometry">
+      <path d="M 65.82 58.05 L 68.08 58.05 68.08 56.43 65.82 56.43 z" />
+    </g>
+    <g fill="#0077B9" class="geometry">
+      <path d="M 68.08 58.05 L 70.35 58.05 70.35 56.43 68.08 56.43 z" />
+    </g>
+    <g fill="#005290" class="geometry">
+      <path d="M 70.35 58.05 L 72.61 58.05 72.61 56.43 70.35 56.43 z" />
+    </g>
+    <g fill="#004581" class="geometry">
+      <path d="M 72.61 58.05 L 74.88 58.05 74.88 56.43 72.61 56.43 z" />
+    </g>
+    <g fill="#004581" class="geometry">
+      <path d="M 74.88 58.05 L 77.14 58.05 77.14 56.43 74.88 56.43 z" />
+    </g>
+    <g fill="#004783" class="geometry">
+      <path d="M 77.14 58.05 L 79.4 58.05 79.4 56.43 77.14 56.43 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 79.4 58.05 L 81.67 58.05 81.67 56.43 79.4 56.43 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 81.67 58.05 L 83.93 58.05 83.93 56.43 81.67 56.43 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 88.46 58.05 L 90.72 58.05 90.72 56.43 88.46 56.43 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 36.39 56.43 L 38.65 56.43 38.65 54.81 36.39 54.81 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 40.92 56.43 L 43.18 56.43 43.18 54.81 40.92 54.81 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 43.18 56.43 L 45.45 56.43 45.45 54.81 43.18 54.81 z" />
+    </g>
+    <g fill="#00407B" class="geometry">
+      <path d="M 45.45 56.43 L 47.71 56.43 47.71 54.81 45.45 54.81 z" />
+    </g>
+    <g fill="#00427E" class="geometry">
+      <path d="M 47.71 56.43 L 49.97 56.43 49.97 54.81 47.71 54.81 z" />
+    </g>
+    <g fill="#0063A3" class="geometry">
+      <path d="M 49.97 56.43 L 52.24 56.43 52.24 54.81 49.97 54.81 z" />
+    </g>
+    <g fill="#0068A9" class="geometry">
+      <path d="M 52.24 56.43 L 54.5 56.43 54.5 54.81 52.24 54.81 z" />
+    </g>
+    <g fill="#0066A6" class="geometry">
+      <path d="M 54.5 56.43 L 56.77 56.43 56.77 54.81 54.5 54.81 z" />
+    </g>
+    <g fill="#3CA1E7" class="geometry">
+      <path d="M 56.77 56.43 L 59.03 56.43 59.03 54.81 56.77 54.81 z" />
+    </g>
+    <g fill="#168FD3" class="geometry">
+      <path d="M 59.03 56.43 L 61.29 56.43 61.29 54.81 59.03 54.81 z" />
+    </g>
+    <g fill="#2996DC" class="geometry">
+      <path d="M 61.29 56.43 L 63.56 56.43 63.56 54.81 61.29 54.81 z" />
+    </g>
+    <g fill="#53B1F9" class="geometry">
+      <path d="M 63.56 56.43 L 65.82 56.43 65.82 54.81 63.56 54.81 z" />
+    </g>
+    <g fill="#339CE1" class="geometry">
+      <path d="M 65.82 56.43 L 68.08 56.43 68.08 54.81 65.82 54.81 z" />
+    </g>
+    <g fill="#0077B9" class="geometry">
+      <path d="M 68.08 56.43 L 70.35 56.43 70.35 54.81 68.08 54.81 z" />
+    </g>
+    <g fill="#0061A1" class="geometry">
+      <path d="M 70.35 56.43 L 72.61 56.43 72.61 54.81 70.35 54.81 z" />
+    </g>
+    <g fill="#005C9B" class="geometry">
+      <path d="M 72.61 56.43 L 74.88 56.43 74.88 54.81 72.61 54.81 z" />
+    </g>
+    <g fill="#005796" class="geometry">
+      <path d="M 74.88 56.43 L 77.14 56.43 77.14 54.81 74.88 54.81 z" />
+    </g>
+    <g fill="#005290" class="geometry">
+      <path d="M 77.14 56.43 L 79.4 56.43 79.4 54.81 77.14 54.81 z" />
+    </g>
+    <g fill="#004986" class="geometry">
+      <path d="M 79.4 56.43 L 81.67 56.43 81.67 54.81 79.4 54.81 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 81.67 56.43 L 83.93 56.43 83.93 54.81 81.67 54.81 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 83.93 56.43 L 86.2 56.43 86.2 54.81 83.93 54.81 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 86.2 56.43 L 88.46 56.43 88.46 54.81 86.2 54.81 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 88.46 56.43 L 90.72 56.43 90.72 54.81 88.46 54.81 z" />
+    </g>
+    <g fill="#003E79" class="geometry">
+      <path d="M 40.92 54.81 L 43.18 54.81 43.18 53.18 40.92 53.18 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 43.18 54.81 L 45.45 54.81 45.45 53.18 43.18 53.18 z" />
+    </g>
+    <g fill="#00407B" class="geometry">
+      <path d="M 45.45 54.81 L 47.71 54.81 47.71 53.18 45.45 53.18 z" />
+    </g>
+    <g fill="#005796" class="geometry">
+      <path d="M 47.71 54.81 L 49.97 54.81 49.97 53.18 47.71 53.18 z" />
+    </g>
+    <g fill="#0063A3" class="geometry">
+      <path d="M 49.97 54.81 L 52.24 54.81 52.24 53.18 49.97 53.18 z" />
+    </g>
+    <g fill="#0061A1" class="geometry">
+      <path d="M 52.24 54.81 L 54.5 54.81 54.5 53.18 52.24 53.18 z" />
+    </g>
+    <g fill="#168FD3" class="geometry">
+      <path d="M 54.5 54.81 L 56.77 54.81 56.77 53.18 54.5 53.18 z" />
+    </g>
+    <g fill="#007ABC" class="geometry">
+      <path d="M 56.77 54.81 L 59.03 54.81 59.03 53.18 56.77 53.18 z" />
+    </g>
+    <g fill="#2E99DE" class="geometry">
+      <path d="M 59.03 54.81 L 61.29 54.81 61.29 53.18 59.03 53.18 z" />
+    </g>
+    <g fill="#2996DC" class="geometry">
+      <path d="M 61.29 54.81 L 63.56 54.81 63.56 53.18 61.29 53.18 z" />
+    </g>
+    <g fill="#7BD3FF" class="geometry">
+      <path d="M 63.56 54.81 L 65.82 54.81 65.82 53.18 63.56 53.18 z" />
+    </g>
+    <g fill="#5AB7FE" class="geometry">
+      <path d="M 65.82 54.81 L 68.08 54.81 68.08 53.18 65.82 53.18 z" />
+    </g>
+    <g fill="#3CA1E7" class="geometry">
+      <path d="M 68.08 54.81 L 70.35 54.81 70.35 53.18 68.08 53.18 z" />
+    </g>
+    <g fill="#339CE1" class="geometry">
+      <path d="M 70.35 54.81 L 72.61 54.81 72.61 53.18 70.35 53.18 z" />
+    </g>
+    <g fill="#0082C5" class="geometry">
+      <path d="M 72.61 54.81 L 74.88 54.81 74.88 53.18 72.61 53.18 z" />
+    </g>
+    <g fill="#0077B9" class="geometry">
+      <path d="M 74.88 54.81 L 77.14 54.81 77.14 53.18 74.88 53.18 z" />
+    </g>
+    <g fill="#005796" class="geometry">
+      <path d="M 77.14 54.81 L 79.4 54.81 79.4 53.18 77.14 53.18 z" />
+    </g>
+    <g fill="#00427E" class="geometry">
+      <path d="M 79.4 54.81 L 81.67 54.81 81.67 53.18 79.4 53.18 z" />
+    </g>
+    <g fill="#003E79" class="geometry">
+      <path d="M 81.67 54.81 L 83.93 54.81 83.93 53.18 81.67 53.18 z" />
+    </g>
+    <g fill="#003E79" class="geometry">
+      <path d="M 83.93 54.81 L 86.2 54.81 86.2 53.18 83.93 53.18 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 86.2 54.81 L 88.46 54.81 88.46 53.18 86.2 53.18 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 88.46 54.81 L 90.72 54.81 90.72 53.18 88.46 53.18 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 90.72 54.81 L 92.99 54.81 92.99 53.18 90.72 53.18 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 38.65 53.18 L 40.92 53.18 40.92 51.56 38.65 51.56 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 40.92 53.18 L 43.18 53.18 43.18 51.56 40.92 51.56 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 43.18 53.18 L 45.45 53.18 45.45 51.56 43.18 51.56 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 45.45 53.18 L 47.71 53.18 47.71 51.56 45.45 51.56 z" />
+    </g>
+    <g fill="#004E8B" class="geometry">
+      <path d="M 47.71 53.18 L 49.97 53.18 49.97 51.56 47.71 51.56 z" />
+    </g>
+    <g fill="#005290" class="geometry">
+      <path d="M 49.97 53.18 L 52.24 53.18 52.24 51.56 49.97 51.56 z" />
+    </g>
+    <g fill="#0072B4" class="geometry">
+      <path d="M 52.24 53.18 L 54.5 53.18 54.5 51.56 52.24 51.56 z" />
+    </g>
+    <g fill="#0C8CD0" class="geometry">
+      <path d="M 54.5 53.18 L 56.77 53.18 56.77 51.56 54.5 51.56 z" />
+    </g>
+    <g fill="#0084C8" class="geometry">
+      <path d="M 56.77 53.18 L 59.03 53.18 59.03 51.56 56.77 51.56 z" />
+    </g>
+    <g fill="#67C2FF" class="geometry">
+      <path d="M 59.03 53.18 L 61.29 53.18 61.29 51.56 59.03 51.56 z" />
+    </g>
+    <g fill="#67C2FF" class="geometry">
+      <path d="M 61.29 53.18 L 63.56 53.18 63.56 51.56 61.29 51.56 z" />
+    </g>
+    <g fill="#8AE1FF" class="geometry">
+      <path d="M 63.56 53.18 L 65.82 53.18 65.82 51.56 63.56 51.56 z" />
+    </g>
+    <g fill="#87DEFF" class="geometry">
+      <path d="M 65.82 53.18 L 68.08 53.18 68.08 51.56 65.82 51.56 z" />
+    </g>
+    <g fill="#5DBAFF" class="geometry">
+      <path d="M 68.08 53.18 L 70.35 53.18 70.35 51.56 68.08 51.56 z" />
+    </g>
+    <g fill="#7BD3FF" class="geometry">
+      <path d="M 70.35 53.18 L 72.61 53.18 72.61 51.56 70.35 51.56 z" />
+    </g>
+    <g fill="#5AB7FE" class="geometry">
+      <path d="M 72.61 53.18 L 74.88 53.18 74.88 51.56 72.61 51.56 z" />
+    </g>
+    <g fill="#0072B4" class="geometry">
+      <path d="M 74.88 53.18 L 77.14 53.18 77.14 51.56 74.88 51.56 z" />
+    </g>
+    <g fill="#006BAC" class="geometry">
+      <path d="M 77.14 53.18 L 79.4 53.18 79.4 51.56 77.14 51.56 z" />
+    </g>
+    <g fill="#0070B1" class="geometry">
+      <path d="M 79.4 53.18 L 81.67 53.18 81.67 51.56 79.4 51.56 z" />
+    </g>
+    <g fill="#00508E" class="geometry">
+      <path d="M 81.67 53.18 L 83.93 53.18 83.93 51.56 81.67 51.56 z" />
+    </g>
+    <g fill="#004E8B" class="geometry">
+      <path d="M 83.93 53.18 L 86.2 53.18 86.2 51.56 83.93 51.56 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 86.2 53.18 L 88.46 53.18 88.46 51.56 86.2 51.56 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 88.46 53.18 L 90.72 53.18 90.72 51.56 88.46 51.56 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 90.72 53.18 L 92.99 53.18 92.99 51.56 90.72 51.56 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 92.99 53.18 L 95.25 53.18 95.25 51.56 92.99 51.56 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 43.18 51.56 L 45.45 51.56 45.45 49.94 43.18 49.94 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 45.45 51.56 L 47.71 51.56 47.71 49.94 45.45 49.94 z" />
+    </g>
+    <g fill="#00427E" class="geometry">
+      <path d="M 47.71 51.56 L 49.97 51.56 49.97 49.94 47.71 49.94 z" />
+    </g>
+    <g fill="#00407B" class="geometry">
+      <path d="M 49.97 51.56 L 52.24 51.56 52.24 49.94 49.97 49.94 z" />
+    </g>
+    <g fill="#006BAC" class="geometry">
+      <path d="M 52.24 51.56 L 54.5 51.56 54.5 49.94 52.24 49.94 z" />
+    </g>
+    <g fill="#0072B4" class="geometry">
+      <path d="M 54.5 51.56 L 56.77 51.56 56.77 49.94 54.5 49.94 z" />
+    </g>
+    <g fill="#0077B9" class="geometry">
+      <path d="M 56.77 51.56 L 59.03 51.56 59.03 49.94 56.77 49.94 z" />
+    </g>
+    <g fill="#006BAC" class="geometry">
+      <path d="M 59.03 51.56 L 61.29 51.56 61.29 49.94 59.03 49.94 z" />
+    </g>
+    <g fill="#81D8FF" class="geometry">
+      <path d="M 61.29 51.56 L 63.56 51.56 63.56 49.94 61.29 49.94 z" />
+    </g>
+    <g fill="#67C2FF" class="geometry">
+      <path d="M 63.56 51.56 L 65.82 51.56 65.82 49.94 63.56 49.94 z" />
+    </g>
+    <g fill="#A7FBFF" class="geometry">
+      <path d="M 65.82 51.56 L 68.08 51.56 68.08 49.94 65.82 49.94 z" />
+    </g>
+    <g fill="#91E7FF" class="geometry">
+      <path d="M 68.08 51.56 L 70.35 51.56 70.35 49.94 68.08 49.94 z" />
+    </g>
+    <g fill="#40A4EA" class="geometry">
+      <path d="M 70.35 51.56 L 72.61 51.56 72.61 49.94 70.35 49.94 z" />
+    </g>
+    <g fill="#4BACF3" class="geometry">
+      <path d="M 72.61 51.56 L 74.88 51.56 74.88 49.94 72.61 49.94 z" />
+    </g>
+    <g fill="#2494D9" class="geometry">
+      <path d="M 74.88 51.56 L 77.14 51.56 77.14 49.94 74.88 49.94 z" />
+    </g>
+    <g fill="#339CE1" class="geometry">
+      <path d="M 77.14 51.56 L 79.4 51.56 79.4 49.94 77.14 49.94 z" />
+    </g>
+    <g fill="#0082C5" class="geometry">
+      <path d="M 79.4 51.56 L 81.67 51.56 81.67 49.94 79.4 49.94 z" />
+    </g>
+    <g fill="#00427E" class="geometry">
+      <path d="M 81.67 51.56 L 83.93 51.56 83.93 49.94 81.67 49.94 z" />
+    </g>
+    <g fill="#004986" class="geometry">
+      <path d="M 83.93 51.56 L 86.2 51.56 86.2 49.94 83.93 49.94 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 86.2 51.56 L 88.46 51.56 88.46 49.94 86.2 49.94 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 88.46 51.56 L 90.72 51.56 90.72 49.94 88.46 49.94 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 90.72 51.56 L 92.99 51.56 92.99 49.94 90.72 49.94 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 95.25 51.56 L 97.52 51.56 97.52 49.94 95.25 49.94 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 43.18 49.94 L 45.45 49.94 45.45 48.31 43.18 48.31 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 45.45 49.94 L 47.71 49.94 47.71 48.31 45.45 48.31 z" />
+    </g>
+    <g fill="#00407B" class="geometry">
+      <path d="M 47.71 49.94 L 49.97 49.94 49.97 48.31 47.71 48.31 z" />
+    </g>
+    <g fill="#004B88" class="geometry">
+      <path d="M 49.97 49.94 L 52.24 49.94 52.24 48.31 49.97 48.31 z" />
+    </g>
+    <g fill="#004581" class="geometry">
+      <path d="M 52.24 49.94 L 54.5 49.94 54.5 48.31 52.24 48.31 z" />
+    </g>
+    <g fill="#005C9B" class="geometry">
+      <path d="M 54.5 49.94 L 56.77 49.94 56.77 48.31 54.5 48.31 z" />
+    </g>
+    <g fill="#006BAC" class="geometry">
+      <path d="M 56.77 49.94 L 59.03 49.94 59.03 48.31 56.77 48.31 z" />
+    </g>
+    <g fill="#0087CA" class="geometry">
+      <path d="M 59.03 49.94 L 61.29 49.94 61.29 48.31 59.03 48.31 z" />
+    </g>
+    <g fill="#40A4EA" class="geometry">
+      <path d="M 61.29 49.94 L 63.56 49.94 63.56 48.31 61.29 48.31 z" />
+    </g>
+    <g fill="#67C2FF" class="geometry">
+      <path d="M 63.56 49.94 L 65.82 49.94 65.82 48.31 63.56 48.31 z" />
+    </g>
+    <g fill="#71CAFF" class="geometry">
+      <path d="M 65.82 49.94 L 68.08 49.94 68.08 48.31 65.82 48.31 z" />
+    </g>
+    <g fill="#64BFFF" class="geometry">
+      <path d="M 68.08 49.94 L 70.35 49.94 70.35 48.31 68.08 48.31 z" />
+    </g>
+    <g fill="#81D8FF" class="geometry">
+      <path d="M 70.35 49.94 L 72.61 49.94 72.61 48.31 70.35 48.31 z" />
+    </g>
+    <g fill="#7BD3FF" class="geometry">
+      <path d="M 72.61 49.94 L 74.88 49.94 74.88 48.31 72.61 48.31 z" />
+    </g>
+    <g fill="#168FD3" class="geometry">
+      <path d="M 74.88 49.94 L 77.14 49.94 77.14 48.31 74.88 48.31 z" />
+    </g>
+    <g fill="#2494D9" class="geometry">
+      <path d="M 77.14 49.94 L 79.4 49.94 79.4 48.31 77.14 48.31 z" />
+    </g>
+    <g fill="#005C9B" class="geometry">
+      <path d="M 79.4 49.94 L 81.67 49.94 81.67 48.31 79.4 48.31 z" />
+    </g>
+    <g fill="#0072B4" class="geometry">
+      <path d="M 81.67 49.94 L 83.93 49.94 83.93 48.31 81.67 48.31 z" />
+    </g>
+    <g fill="#005C9B" class="geometry">
+      <path d="M 83.93 49.94 L 86.2 49.94 86.2 48.31 83.93 48.31 z" />
+    </g>
+    <g fill="#004986" class="geometry">
+      <path d="M 86.2 49.94 L 88.46 49.94 88.46 48.31 86.2 48.31 z" />
+    </g>
+    <g fill="#00407B" class="geometry">
+      <path d="M 88.46 49.94 L 90.72 49.94 90.72 48.31 88.46 48.31 z" />
+    </g>
+    <g fill="#00427E" class="geometry">
+      <path d="M 90.72 49.94 L 92.99 49.94 92.99 48.31 90.72 48.31 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 92.99 49.94 L 95.25 49.94 95.25 48.31 92.99 48.31 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 95.25 49.94 L 97.52 49.94 97.52 48.31 95.25 48.31 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 45.45 48.31 L 47.71 48.31 47.71 46.69 45.45 46.69 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 47.71 48.31 L 49.97 48.31 49.97 46.69 47.71 46.69 z" />
+    </g>
+    <g fill="#00427E" class="geometry">
+      <path d="M 49.97 48.31 L 52.24 48.31 52.24 46.69 49.97 46.69 z" />
+    </g>
+    <g fill="#004E8B" class="geometry">
+      <path d="M 52.24 48.31 L 54.5 48.31 54.5 46.69 52.24 46.69 z" />
+    </g>
+    <g fill="#005796" class="geometry">
+      <path d="M 54.5 48.31 L 56.77 48.31 56.77 46.69 54.5 46.69 z" />
+    </g>
+    <g fill="#006BAC" class="geometry">
+      <path d="M 56.77 48.31 L 59.03 48.31 59.03 46.69 56.77 46.69 z" />
+    </g>
+    <g fill="#0C8CD0" class="geometry">
+      <path d="M 59.03 48.31 L 61.29 48.31 61.29 46.69 59.03 46.69 z" />
+    </g>
+    <g fill="#0077B9" class="geometry">
+      <path d="M 61.29 48.31 L 63.56 48.31 63.56 46.69 61.29 46.69 z" />
+    </g>
+    <g fill="#3CA1E7" class="geometry">
+      <path d="M 63.56 48.31 L 65.82 48.31 65.82 46.69 63.56 46.69 z" />
+    </g>
+    <g fill="#44A6ED" class="geometry">
+      <path d="M 65.82 48.31 L 68.08 48.31 68.08 46.69 65.82 46.69 z" />
+    </g>
+    <g fill="#4BACF3" class="geometry">
+      <path d="M 68.08 48.31 L 70.35 48.31 70.35 46.69 68.08 46.69 z" />
+    </g>
+    <g fill="#3CA1E7" class="geometry">
+      <path d="M 70.35 48.31 L 72.61 48.31 72.61 46.69 70.35 46.69 z" />
+    </g>
+    <g fill="#0087CA" class="geometry">
+      <path d="M 72.61 48.31 L 74.88 48.31 74.88 46.69 72.61 46.69 z" />
+    </g>
+    <g fill="#4FAFF6" class="geometry">
+      <path d="M 74.88 48.31 L 77.14 48.31 77.14 46.69 74.88 46.69 z" />
+    </g>
+    <g fill="#5DBAFF" class="geometry">
+      <path d="M 77.14 48.31 L 79.4 48.31 79.4 46.69 77.14 46.69 z" />
+    </g>
+    <g fill="#0072B4" class="geometry">
+      <path d="M 79.4 48.31 L 81.67 48.31 81.67 46.69 79.4 46.69 z" />
+    </g>
+    <g fill="#0066A6" class="geometry">
+      <path d="M 81.67 48.31 L 83.93 48.31 83.93 46.69 81.67 46.69 z" />
+    </g>
+    <g fill="#005C9B" class="geometry">
+      <path d="M 83.93 48.31 L 86.2 48.31 86.2 46.69 83.93 46.69 z" />
+    </g>
+    <g fill="#004986" class="geometry">
+      <path d="M 86.2 48.31 L 88.46 48.31 88.46 46.69 86.2 46.69 z" />
+    </g>
+    <g fill="#004986" class="geometry">
+      <path d="M 88.46 48.31 L 90.72 48.31 90.72 46.69 88.46 46.69 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 90.72 48.31 L 92.99 48.31 92.99 46.69 90.72 46.69 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 92.99 48.31 L 95.25 48.31 95.25 46.69 92.99 46.69 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 95.25 48.31 L 97.52 48.31 97.52 46.69 95.25 46.69 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 49.97 46.69 L 52.24 46.69 52.24 45.07 49.97 45.07 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 52.24 46.69 L 54.5 46.69 54.5 45.07 52.24 45.07 z" />
+    </g>
+    <g fill="#00407B" class="geometry">
+      <path d="M 54.5 46.69 L 56.77 46.69 56.77 45.07 54.5 45.07 z" />
+    </g>
+    <g fill="#005290" class="geometry">
+      <path d="M 56.77 46.69 L 59.03 46.69 59.03 45.07 56.77 45.07 z" />
+    </g>
+    <g fill="#005290" class="geometry">
+      <path d="M 59.03 46.69 L 61.29 46.69 61.29 45.07 59.03 45.07 z" />
+    </g>
+    <g fill="#005A99" class="geometry">
+      <path d="M 61.29 46.69 L 63.56 46.69 63.56 45.07 61.29 45.07 z" />
+    </g>
+    <g fill="#007ABC" class="geometry">
+      <path d="M 63.56 46.69 L 65.82 46.69 65.82 45.07 63.56 45.07 z" />
+    </g>
+    <g fill="#0089CD" class="geometry">
+      <path d="M 65.82 46.69 L 68.08 46.69 68.08 45.07 65.82 45.07 z" />
+    </g>
+    <g fill="#2E99DE" class="geometry">
+      <path d="M 68.08 46.69 L 70.35 46.69 70.35 45.07 68.08 45.07 z" />
+    </g>
+    <g fill="#53B1F9" class="geometry">
+      <path d="M 70.35 46.69 L 72.61 46.69 72.61 45.07 70.35 45.07 z" />
+    </g>
+    <g fill="#0077B9" class="geometry">
+      <path d="M 72.61 46.69 L 74.88 46.69 74.88 45.07 72.61 45.07 z" />
+    </g>
+    <g fill="#56B4FC" class="geometry">
+      <path d="M 74.88 46.69 L 77.14 46.69 77.14 45.07 74.88 45.07 z" />
+    </g>
+    <g fill="#379EE4" class="geometry">
+      <path d="M 77.14 46.69 L 79.4 46.69 79.4 45.07 77.14 45.07 z" />
+    </g>
+    <g fill="#0C8CD0" class="geometry">
+      <path d="M 79.4 46.69 L 81.67 46.69 81.67 45.07 79.4 45.07 z" />
+    </g>
+    <g fill="#005E9E" class="geometry">
+      <path d="M 81.67 46.69 L 83.93 46.69 83.93 45.07 81.67 45.07 z" />
+    </g>
+    <g fill="#0061A1" class="geometry">
+      <path d="M 83.93 46.69 L 86.2 46.69 86.2 45.07 83.93 45.07 z" />
+    </g>
+    <g fill="#00407B" class="geometry">
+      <path d="M 86.2 46.69 L 88.46 46.69 88.46 45.07 86.2 45.07 z" />
+    </g>
+    <g fill="#004783" class="geometry">
+      <path d="M 88.46 46.69 L 90.72 46.69 90.72 45.07 88.46 45.07 z" />
+    </g>
+    <g fill="#004986" class="geometry">
+      <path d="M 90.72 46.69 L 92.99 46.69 92.99 45.07 90.72 45.07 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 92.99 46.69 L 95.25 46.69 95.25 45.07 92.99 45.07 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 95.25 46.69 L 97.52 46.69 97.52 45.07 95.25 45.07 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 102.04 46.69 L 104.31 46.69 104.31 45.07 102.04 45.07 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 45.45 45.07 L 47.71 45.07 47.71 43.45 45.45 43.45 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 52.24 45.07 L 54.5 45.07 54.5 43.45 52.24 43.45 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 54.5 45.07 L 56.77 45.07 56.77 43.45 54.5 43.45 z" />
+    </g>
+    <g fill="#004986" class="geometry">
+      <path d="M 56.77 45.07 L 59.03 45.07 59.03 43.45 56.77 43.45 z" />
+    </g>
+    <g fill="#004783" class="geometry">
+      <path d="M 59.03 45.07 L 61.29 45.07 61.29 43.45 59.03 43.45 z" />
+    </g>
+    <g fill="#00508E" class="geometry">
+      <path d="M 61.29 45.07 L 63.56 45.07 63.56 43.45 61.29 43.45 z" />
+    </g>
+    <g fill="#005796" class="geometry">
+      <path d="M 63.56 45.07 L 65.82 45.07 65.82 43.45 63.56 43.45 z" />
+    </g>
+    <g fill="#005A99" class="geometry">
+      <path d="M 65.82 45.07 L 68.08 45.07 68.08 43.45 65.82 43.45 z" />
+    </g>
+    <g fill="#0061A1" class="geometry">
+      <path d="M 68.08 45.07 L 70.35 45.07 70.35 43.45 68.08 43.45 z" />
+    </g>
+    <g fill="#0075B7" class="geometry">
+      <path d="M 70.35 45.07 L 72.61 45.07 72.61 43.45 70.35 43.45 z" />
+    </g>
+    <g fill="#007ABC" class="geometry">
+      <path d="M 72.61 45.07 L 74.88 45.07 74.88 43.45 72.61 43.45 z" />
+    </g>
+    <g fill="#006DAE" class="geometry">
+      <path d="M 74.88 45.07 L 77.14 45.07 77.14 43.45 74.88 43.45 z" />
+    </g>
+    <g fill="#0075B7" class="geometry">
+      <path d="M 77.14 45.07 L 79.4 45.07 79.4 43.45 77.14 43.45 z" />
+    </g>
+    <g fill="#0063A3" class="geometry">
+      <path d="M 79.4 45.07 L 81.67 45.07 81.67 43.45 79.4 43.45 z" />
+    </g>
+    <g fill="#0061A1" class="geometry">
+      <path d="M 81.67 45.07 L 83.93 45.07 83.93 43.45 81.67 43.45 z" />
+    </g>
+    <g fill="#005C9B" class="geometry">
+      <path d="M 83.93 45.07 L 86.2 45.07 86.2 43.45 83.93 43.45 z" />
+    </g>
+    <g fill="#005290" class="geometry">
+      <path d="M 86.2 45.07 L 88.46 45.07 88.46 43.45 86.2 43.45 z" />
+    </g>
+    <g fill="#00508E" class="geometry">
+      <path d="M 88.46 45.07 L 90.72 45.07 90.72 43.45 88.46 43.45 z" />
+    </g>
+    <g fill="#004581" class="geometry">
+      <path d="M 90.72 45.07 L 92.99 45.07 92.99 43.45 90.72 43.45 z" />
+    </g>
+    <g fill="#00407B" class="geometry">
+      <path d="M 92.99 45.07 L 95.25 45.07 95.25 43.45 92.99 43.45 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 95.25 45.07 L 97.52 45.07 97.52 43.45 95.25 43.45 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 97.52 45.07 L 99.78 45.07 99.78 43.45 97.52 43.45 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 99.78 45.07 L 102.04 45.07 102.04 43.45 99.78 43.45 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 54.5 43.45 L 56.77 43.45 56.77 41.82 54.5 41.82 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 56.77 43.45 L 59.03 43.45 59.03 41.82 56.77 41.82 z" />
+    </g>
+    <g fill="#003E79" class="geometry">
+      <path d="M 59.03 43.45 L 61.29 43.45 61.29 41.82 59.03 41.82 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 61.29 43.45 L 63.56 43.45 63.56 41.82 61.29 41.82 z" />
+    </g>
+    <g fill="#005796" class="geometry">
+      <path d="M 63.56 43.45 L 65.82 43.45 65.82 41.82 63.56 41.82 z" />
+    </g>
+    <g fill="#005A99" class="geometry">
+      <path d="M 65.82 43.45 L 68.08 43.45 68.08 41.82 65.82 41.82 z" />
+    </g>
+    <g fill="#005796" class="geometry">
+      <path d="M 68.08 43.45 L 70.35 43.45 70.35 41.82 68.08 41.82 z" />
+    </g>
+    <g fill="#005A99" class="geometry">
+      <path d="M 70.35 43.45 L 72.61 43.45 72.61 41.82 70.35 41.82 z" />
+    </g>
+    <g fill="#00508E" class="geometry">
+      <path d="M 72.61 43.45 L 74.88 43.45 74.88 41.82 72.61 41.82 z" />
+    </g>
+    <g fill="#0061A1" class="geometry">
+      <path d="M 74.88 43.45 L 77.14 43.45 77.14 41.82 74.88 41.82 z" />
+    </g>
+    <g fill="#005593" class="geometry">
+      <path d="M 77.14 43.45 L 79.4 43.45 79.4 41.82 77.14 41.82 z" />
+    </g>
+    <g fill="#005E9E" class="geometry">
+      <path d="M 79.4 43.45 L 81.67 43.45 81.67 41.82 79.4 41.82 z" />
+    </g>
+    <g fill="#005A99" class="geometry">
+      <path d="M 81.67 43.45 L 83.93 43.45 83.93 41.82 81.67 41.82 z" />
+    </g>
+    <g fill="#004E8B" class="geometry">
+      <path d="M 83.93 43.45 L 86.2 43.45 86.2 41.82 83.93 41.82 z" />
+    </g>
+    <g fill="#004B88" class="geometry">
+      <path d="M 86.2 43.45 L 88.46 43.45 88.46 41.82 86.2 41.82 z" />
+    </g>
+    <g fill="#00427E" class="geometry">
+      <path d="M 88.46 43.45 L 90.72 43.45 90.72 41.82 88.46 41.82 z" />
+    </g>
+    <g fill="#004581" class="geometry">
+      <path d="M 90.72 43.45 L 92.99 43.45 92.99 41.82 90.72 41.82 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 92.99 43.45 L 95.25 43.45 95.25 41.82 92.99 41.82 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 97.52 43.45 L 99.78 43.45 99.78 41.82 97.52 41.82 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 99.78 43.45 L 102.04 43.45 102.04 41.82 99.78 41.82 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 54.5 41.82 L 56.77 41.82 56.77 40.2 54.5 40.2 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 59.03 41.82 L 61.29 41.82 61.29 40.2 59.03 40.2 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 61.29 41.82 L 63.56 41.82 63.56 40.2 61.29 40.2 z" />
+    </g>
+    <g fill="#00407B" class="geometry">
+      <path d="M 63.56 41.82 L 65.82 41.82 65.82 40.2 63.56 40.2 z" />
+    </g>
+    <g fill="#00407B" class="geometry">
+      <path d="M 65.82 41.82 L 68.08 41.82 68.08 40.2 65.82 40.2 z" />
+    </g>
+    <g fill="#004783" class="geometry">
+      <path d="M 68.08 41.82 L 70.35 41.82 70.35 40.2 68.08 40.2 z" />
+    </g>
+    <g fill="#004581" class="geometry">
+      <path d="M 70.35 41.82 L 72.61 41.82 72.61 40.2 70.35 40.2 z" />
+    </g>
+    <g fill="#004581" class="geometry">
+      <path d="M 72.61 41.82 L 74.88 41.82 74.88 40.2 72.61 40.2 z" />
+    </g>
+    <g fill="#004986" class="geometry">
+      <path d="M 74.88 41.82 L 77.14 41.82 77.14 40.2 74.88 40.2 z" />
+    </g>
+    <g fill="#005796" class="geometry">
+      <path d="M 77.14 41.82 L 79.4 41.82 79.4 40.2 77.14 40.2 z" />
+    </g>
+    <g fill="#004B88" class="geometry">
+      <path d="M 79.4 41.82 L 81.67 41.82 81.67 40.2 79.4 40.2 z" />
+    </g>
+    <g fill="#004E8B" class="geometry">
+      <path d="M 81.67 41.82 L 83.93 41.82 83.93 40.2 81.67 40.2 z" />
+    </g>
+    <g fill="#00427E" class="geometry">
+      <path d="M 83.93 41.82 L 86.2 41.82 86.2 40.2 83.93 40.2 z" />
+    </g>
+    <g fill="#004783" class="geometry">
+      <path d="M 86.2 41.82 L 88.46 41.82 88.46 40.2 86.2 40.2 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 88.46 41.82 L 90.72 41.82 90.72 40.2 88.46 40.2 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 90.72 41.82 L 92.99 41.82 92.99 40.2 90.72 40.2 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 92.99 41.82 L 95.25 41.82 95.25 40.2 92.99 40.2 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 95.25 41.82 L 97.52 41.82 97.52 40.2 95.25 40.2 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 97.52 41.82 L 99.78 41.82 99.78 40.2 97.52 40.2 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 63.56 40.2 L 65.82 40.2 65.82 38.58 63.56 38.58 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 65.82 40.2 L 68.08 40.2 68.08 38.58 65.82 38.58 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 68.08 40.2 L 70.35 40.2 70.35 38.58 68.08 38.58 z" />
+    </g>
+    <g fill="#004581" class="geometry">
+      <path d="M 70.35 40.2 L 72.61 40.2 72.61 38.58 70.35 38.58 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 72.61 40.2 L 74.88 40.2 74.88 38.58 72.61 38.58 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 74.88 40.2 L 77.14 40.2 77.14 38.58 74.88 38.58 z" />
+    </g>
+    <g fill="#003E79" class="geometry">
+      <path d="M 77.14 40.2 L 79.4 40.2 79.4 38.58 77.14 38.58 z" />
+    </g>
+    <g fill="#004783" class="geometry">
+      <path d="M 79.4 40.2 L 81.67 40.2 81.67 38.58 79.4 38.58 z" />
+    </g>
+    <g fill="#005593" class="geometry">
+      <path d="M 81.67 40.2 L 83.93 40.2 83.93 38.58 81.67 38.58 z" />
+    </g>
+    <g fill="#004783" class="geometry">
+      <path d="M 83.93 40.2 L 86.2 40.2 86.2 38.58 83.93 38.58 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 86.2 40.2 L 88.46 40.2 88.46 38.58 86.2 38.58 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 88.46 40.2 L 90.72 40.2 90.72 38.58 88.46 38.58 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 90.72 40.2 L 92.99 40.2 92.99 38.58 90.72 38.58 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 95.25 40.2 L 97.52 40.2 97.52 38.58 95.25 38.58 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 97.52 40.2 L 99.78 40.2 99.78 38.58 97.52 38.58 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 104.31 40.2 L 106.57 40.2 106.57 38.58 104.31 38.58 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 59.03 38.58 L 61.29 38.58 61.29 36.96 59.03 36.96 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 65.82 38.58 L 68.08 38.58 68.08 36.96 65.82 36.96 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 72.61 38.58 L 74.88 38.58 74.88 36.96 72.61 36.96 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 74.88 38.58 L 77.14 38.58 77.14 36.96 74.88 36.96 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 77.14 38.58 L 79.4 38.58 79.4 36.96 77.14 36.96 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 79.4 38.58 L 81.67 38.58 81.67 36.96 79.4 36.96 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 81.67 38.58 L 83.93 38.58 83.93 36.96 81.67 36.96 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 83.93 38.58 L 86.2 38.58 86.2 36.96 83.93 36.96 z" />
+    </g>
+    <g fill="#003E79" class="geometry">
+      <path d="M 86.2 38.58 L 88.46 38.58 88.46 36.96 86.2 36.96 z" />
+    </g>
+    <g fill="#003E79" class="geometry">
+      <path d="M 88.46 38.58 L 90.72 38.58 90.72 36.96 88.46 36.96 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 92.99 38.58 L 95.25 38.58 95.25 36.96 92.99 36.96 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 95.25 38.58 L 97.52 38.58 97.52 36.96 95.25 36.96 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 97.52 38.58 L 99.78 38.58 99.78 36.96 97.52 36.96 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 74.88 36.96 L 77.14 36.96 77.14 35.33 74.88 35.33 z" />
+    </g>
+    <g fill="#003C76" class="geometry">
+      <path d="M 77.14 36.96 L 79.4 36.96 79.4 35.33 77.14 35.33 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 79.4 36.96 L 81.67 36.96 81.67 35.33 79.4 35.33 z" />
+    </g>
+    <g fill="#003974" class="geometry">
+      <path d="M 83.93 36.96 L 86.2 36.96 86.2 35.33 83.93 35.33 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 86.2 36.96 L 88.46 36.96 88.46 35.33 86.2 35.33 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 88.46 36.96 L 90.72 36.96 90.72 35.33 88.46 35.33 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 90.72 36.96 L 92.99 36.96 92.99 35.33 90.72 35.33 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 95.25 36.96 L 97.52 36.96 97.52 35.33 95.25 35.33 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 97.52 36.96 L 99.78 36.96 99.78 35.33 97.52 35.33 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 68.08 35.33 L 70.35 35.33 70.35 33.71 68.08 33.71 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 77.14 35.33 L 79.4 35.33 79.4 33.71 77.14 33.71 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 79.4 35.33 L 81.67 35.33 81.67 33.71 79.4 33.71 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 97.52 35.33 L 99.78 35.33 99.78 33.71 97.52 33.71 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 83.93 33.71 L 86.2 33.71 86.2 32.09 83.93 32.09 z" />
+    </g>
+    <g fill="#003771" class="geometry">
+      <path d="M 92.99 33.71 L 95.25 33.71 95.25 32.09 92.99 32.09 z" />
+    </g>
   </g>
 </g>
-<g stroke="none">
-  <g fill="#003771">
-    <path d="M 23.54 73.36 L 25.98 73.36 25.98 70.92 23.54 70.92 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 25.88 75.69 L 28.33 75.69 28.33 73.26 25.88 73.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 25.88 54.69 L 28.33 54.69 28.33 52.26 25.88 52.26 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 28.23 71.02 L 30.67 71.02 30.67 68.59 28.23 68.59 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 28.23 66.36 L 30.67 66.36 30.67 63.92 28.23 63.92 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 28.23 64.02 L 30.67 64.02 30.67 61.59 28.23 61.59 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 28.23 61.69 L 30.67 61.69 30.67 59.26 28.23 59.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 28.23 59.36 L 30.67 59.36 30.67 56.92 28.23 56.92 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 30.57 59.36 L 33.02 59.36 33.02 56.92 30.57 56.92 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 30.57 43.03 L 33.02 43.03 33.02 40.59 30.57 40.59 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 30.57 40.69 L 33.02 40.69 33.02 38.26 30.57 38.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 32.92 68.69 L 35.37 68.69 35.37 66.26 32.92 66.26 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 32.92 66.36 L 35.37 66.36 35.37 63.92 32.92 63.92 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 32.92 64.02 L 35.37 64.02 35.37 61.59 32.92 61.59 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 32.92 59.36 L 35.37 59.36 35.37 56.92 32.92 56.92 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 32.92 57.02 L 35.37 57.02 35.37 54.59 32.92 54.59 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 32.92 54.69 L 35.37 54.69 35.37 52.26 32.92 52.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 35.27 68.69 L 37.71 68.69 37.71 66.26 35.27 66.26 z" />
-  </g>
-  <g fill="#00437F">
-    <path d="M 35.27 61.69 L 37.71 61.69 37.71 59.26 35.27 59.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 35.27 59.36 L 37.71 59.36 37.71 56.92 35.27 56.92 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 35.27 57.02 L 37.71 57.02 37.71 54.59 35.27 54.59 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 35.27 54.69 L 37.71 54.69 37.71 52.26 35.27 52.26 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 35.27 50.03 L 37.71 50.03 37.71 47.59 35.27 47.59 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 35.27 47.69 L 37.71 47.69 37.71 45.26 35.27 45.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 37.61 73.36 L 40.06 73.36 40.06 70.92 37.61 70.92 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 37.61 66.36 L 40.06 66.36 40.06 63.92 37.61 63.92 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 37.61 64.02 L 40.06 64.02 40.06 61.59 37.61 61.59 z" />
-  </g>
-  <g fill="#004F8D">
-    <path d="M 37.61 61.69 L 40.06 61.69 40.06 59.26 37.61 59.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 37.61 59.36 L 40.06 59.36 40.06 56.92 37.61 56.92 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 37.61 57.02 L 40.06 57.02 40.06 54.59 37.61 54.59 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 37.61 54.69 L 40.06 54.69 40.06 52.26 37.61 52.26 z" />
-  </g>
-  <g fill="#00437F">
-    <path d="M 37.61 52.36 L 40.06 52.36 40.06 49.93 37.61 49.93 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 37.61 50.03 L 40.06 50.03 40.06 47.59 37.61 47.59 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 37.61 47.69 L 40.06 47.69 40.06 45.26 37.61 45.26 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 37.61 45.36 L 40.06 45.36 40.06 42.93 37.61 42.93 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 37.61 43.03 L 40.06 43.03 40.06 40.59 37.61 40.59 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 37.61 36.03 L 40.06 36.03 40.06 33.59 37.61 33.59 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 39.96 75.69 L 42.4 75.69 42.4 73.26 39.96 73.26 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 39.96 68.69 L 42.4 68.69 42.4 66.26 39.96 66.26 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 39.96 66.36 L 42.4 66.36 42.4 63.92 39.96 63.92 z" />
-  </g>
-  <g fill="#00437F">
-    <path d="M 39.96 64.02 L 42.4 64.02 42.4 61.59 39.96 61.59 z" />
-  </g>
-  <g fill="#004C89">
-    <path d="M 39.96 61.69 L 42.4 61.69 42.4 59.26 39.96 59.26 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 39.96 59.36 L 42.4 59.36 42.4 56.92 39.96 56.92 z" />
-  </g>
-  <g fill="#00437F">
-    <path d="M 39.96 57.02 L 42.4 57.02 42.4 54.59 39.96 54.59 z" />
-  </g>
-  <g fill="#004C89">
-    <path d="M 39.96 54.69 L 42.4 54.69 42.4 52.26 39.96 52.26 z" />
-  </g>
-  <g fill="#00437F">
-    <path d="M 39.96 52.36 L 42.4 52.36 42.4 49.93 39.96 49.93 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 39.96 50.03 L 42.4 50.03 42.4 47.59 39.96 47.59 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 39.96 47.69 L 42.4 47.69 42.4 45.26 39.96 45.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 39.96 45.36 L 42.4 45.36 42.4 42.93 39.96 42.93 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 39.96 43.03 L 42.4 43.03 42.4 40.59 39.96 40.59 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 42.3 68.69 L 44.75 68.69 44.75 66.26 42.3 66.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 42.3 66.36 L 44.75 66.36 44.75 63.92 42.3 63.92 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 42.3 64.02 L 44.75 64.02 44.75 61.59 42.3 61.59 z" />
-  </g>
-  <g fill="#004682">
-    <path d="M 42.3 61.69 L 44.75 61.69 44.75 59.26 42.3 59.26 z" />
-  </g>
-  <g fill="#004986">
-    <path d="M 42.3 57.02 L 44.75 57.02 44.75 54.59 42.3 54.59 z" />
-  </g>
-  <g fill="#004C89">
-    <path d="M 42.3 54.69 L 44.75 54.69 44.75 52.26 42.3 52.26 z" />
-  </g>
-  <g fill="#004C89">
-    <path d="M 42.3 52.36 L 44.75 52.36 44.75 49.93 42.3 49.93 z" />
-  </g>
-  <g fill="#004682">
-    <path d="M 42.3 50.03 L 44.75 50.03 44.75 47.59 42.3 47.59 z" />
-  </g>
-  <g fill="#004682">
-    <path d="M 42.3 47.69 L 44.75 47.69 44.75 45.26 42.3 45.26 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 42.3 45.36 L 44.75 45.36 44.75 42.93 42.3 42.93 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 42.3 43.03 L 44.75 43.03 44.75 40.59 42.3 40.59 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 42.3 38.36 L 44.75 38.36 44.75 35.93 42.3 35.93 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 42.3 36.03 L 44.75 36.03 44.75 33.59 42.3 33.59 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 44.65 71.02 L 47.09 71.02 47.09 68.59 44.65 68.59 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 44.65 68.69 L 47.09 68.69 47.09 66.26 44.65 66.26 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 44.65 66.36 L 47.09 66.36 47.09 63.92 44.65 63.92 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 44.65 64.02 L 47.09 64.02 47.09 61.59 44.65 61.59 z" />
-  </g>
-  <g fill="#004C89">
-    <path d="M 44.65 61.69 L 47.09 61.69 47.09 59.26 44.65 59.26 z" />
-  </g>
-  <g fill="#004986">
-    <path d="M 44.65 59.36 L 47.09 59.36 47.09 56.92 44.65 56.92 z" />
-  </g>
-  <g fill="#005C9B">
-    <path d="M 44.65 57.02 L 47.09 57.02 47.09 54.59 44.65 54.59 z" />
-  </g>
-  <g fill="#0069AA">
-    <path d="M 44.65 54.69 L 47.09 54.69 47.09 52.26 44.65 52.26 z" />
-  </g>
-  <g fill="#0063A3">
-    <path d="M 44.65 52.36 L 47.09 52.36 47.09 49.93 44.65 49.93 z" />
-  </g>
-  <g fill="#005998">
-    <path d="M 44.65 50.03 L 47.09 50.03 47.09 47.59 44.65 47.59 z" />
-  </g>
-  <g fill="#005391">
-    <path d="M 44.65 47.69 L 47.09 47.69 47.09 45.26 44.65 45.26 z" />
-  </g>
-  <g fill="#004682">
-    <path d="M 44.65 45.36 L 47.09 45.36 47.09 42.93 44.65 42.93 z" />
-  </g>
-  <g fill="#004682">
-    <path d="M 44.65 43.03 L 47.09 43.03 47.09 40.59 44.65 40.59 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 44.65 40.69 L 47.09 40.69 47.09 38.26 44.65 38.26 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 44.65 38.36 L 47.09 38.36 47.09 35.93 44.65 35.93 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 44.65 36.03 L 47.09 36.03 47.09 33.59 44.65 33.59 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 44.65 31.36 L 47.09 31.36 47.09 28.93 44.65 28.93 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 44.65 24.36 L 47.09 24.36 47.09 21.93 44.65 21.93 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 46.99 75.69 L 49.44 75.69 49.44 73.26 46.99 73.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 46.99 71.02 L 49.44 71.02 49.44 68.59 46.99 68.59 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 46.99 66.36 L 49.44 66.36 49.44 63.92 46.99 63.92 z" />
-  </g>
-  <g fill="#004C89">
-    <path d="M 46.99 64.02 L 49.44 64.02 49.44 61.59 46.99 61.59 z" />
-  </g>
-  <g fill="#0063A3">
-    <path d="M 46.99 61.69 L 49.44 61.69 49.44 59.26 46.99 59.26 z" />
-  </g>
-  <g fill="#005694">
-    <path d="M 46.99 59.36 L 49.44 59.36 49.44 56.92 46.99 56.92 z" />
-  </g>
-  <g fill="#005998">
-    <path d="M 46.99 57.02 L 49.44 57.02 49.44 54.59 46.99 54.59 z" />
-  </g>
-  <g fill="#005F9F">
-    <path d="M 46.99 54.69 L 49.44 54.69 49.44 52.26 46.99 52.26 z" />
-  </g>
-  <g fill="#0081C4">
-    <path d="M 46.99 52.36 L 49.44 52.36 49.44 49.93 46.99 49.93 z" />
-  </g>
-  <g fill="#0066A6">
-    <path d="M 46.99 50.03 L 49.44 50.03 49.44 47.59 46.99 47.59 z" />
-  </g>
-  <g fill="#0066A6">
-    <path d="M 46.99 47.69 L 49.44 47.69 49.44 45.26 46.99 45.26 z" />
-  </g>
-  <g fill="#006DAE">
-    <path d="M 46.99 45.36 L 49.44 45.36 49.44 42.93 46.99 42.93 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 46.99 43.03 L 49.44 43.03 49.44 40.59 46.99 40.59 z" />
-  </g>
-  <g fill="#004682">
-    <path d="M 46.99 40.69 L 49.44 40.69 49.44 38.26 46.99 38.26 z" />
-  </g>
-  <g fill="#00437F">
-    <path d="M 46.99 38.36 L 49.44 38.36 49.44 35.93 46.99 35.93 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 46.99 36.03 L 49.44 36.03 49.44 33.59 46.99 33.59 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 46.99 33.69 L 49.44 33.69 49.44 31.26 46.99 31.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 49.34 75.69 L 51.78 75.69 51.78 73.26 49.34 73.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 49.34 73.36 L 51.78 73.36 51.78 70.92 49.34 70.92 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 49.34 68.69 L 51.78 68.69 51.78 66.26 49.34 66.26 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 49.34 66.36 L 51.78 66.36 51.78 63.92 49.34 63.92 z" />
-  </g>
-  <g fill="#005998">
-    <path d="M 49.34 64.02 L 51.78 64.02 51.78 61.59 49.34 61.59 z" />
-  </g>
-  <g fill="#004F8D">
-    <path d="M 49.34 61.69 L 51.78 61.69 51.78 59.26 49.34 59.26 z" />
-  </g>
-  <g fill="#0066A6">
-    <path d="M 49.34 59.36 L 51.78 59.36 51.78 56.92 49.34 56.92 z" />
-  </g>
-  <g fill="#006DAE">
-    <path d="M 49.34 57.02 L 51.78 57.02 51.78 54.59 49.34 54.59 z" />
-  </g>
-  <g fill="#0084C8">
-    <path d="M 49.34 54.69 L 51.78 54.69 51.78 52.26 49.34 52.26 z" />
-  </g>
-  <g fill="#005C9B">
-    <path d="M 49.34 52.36 L 51.78 52.36 51.78 49.93 49.34 49.93 z" />
-  </g>
-  <g fill="#0088CC">
-    <path d="M 49.34 50.03 L 51.78 50.03 51.78 47.59 49.34 47.59 z" />
-  </g>
-  <g fill="#0063A3">
-    <path d="M 49.34 47.69 L 51.78 47.69 51.78 45.26 49.34 45.26 z" />
-  </g>
-  <g fill="#005C9B">
-    <path d="M 49.34 45.36 L 51.78 45.36 51.78 42.93 49.34 42.93 z" />
-  </g>
-  <g fill="#0073B5">
-    <path d="M 49.34 43.03 L 51.78 43.03 51.78 40.59 49.34 40.59 z" />
-  </g>
-  <g fill="#004C89">
-    <path d="M 49.34 40.69 L 51.78 40.69 51.78 38.26 49.34 38.26 z" />
-  </g>
-  <g fill="#004682">
-    <path d="M 49.34 38.36 L 51.78 38.36 51.78 35.93 49.34 35.93 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 49.34 36.03 L 51.78 36.03 51.78 33.59 49.34 33.59 z" />
-  </g>
-  <g fill="#00437F">
-    <path d="M 49.34 33.69 L 51.78 33.69 51.78 31.26 49.34 31.26 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 49.34 31.36 L 51.78 31.36 51.78 28.93 49.34 28.93 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 49.34 24.36 L 51.78 24.36 51.78 21.93 49.34 21.93 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 51.68 68.69 L 54.13 68.69 54.13 66.26 51.68 66.26 z" />
-  </g>
-  <g fill="#00437F">
-    <path d="M 51.68 66.36 L 54.13 66.36 54.13 63.92 51.68 63.92 z" />
-  </g>
-  <g fill="#00437F">
-    <path d="M 51.68 64.02 L 54.13 64.02 54.13 61.59 51.68 61.59 z" />
-  </g>
-  <g fill="#004C89">
-    <path d="M 51.68 61.69 L 54.13 61.69 54.13 59.26 51.68 59.26 z" />
-  </g>
-  <g fill="#004986">
-    <path d="M 51.68 59.36 L 54.13 59.36 54.13 56.92 51.68 56.92 z" />
-  </g>
-  <g fill="#0063A3">
-    <path d="M 51.68 57.02 L 54.13 57.02 54.13 54.59 51.68 54.59 z" />
-  </g>
-  <g fill="#0084C8">
-    <path d="M 51.68 54.69 L 54.13 54.69 54.13 52.26 51.68 52.26 z" />
-  </g>
-  <g fill="#2896DB">
-    <path d="M 51.68 52.36 L 54.13 52.36 54.13 49.93 51.68 49.93 z" />
-  </g>
-  <g fill="#41A4EB">
-    <path d="M 51.68 50.03 L 54.13 50.03 54.13 47.59 51.68 47.59 z" />
-  </g>
-  <g fill="#67C2FF">
-    <path d="M 51.68 47.69 L 54.13 47.69 54.13 45.26 51.68 45.26 z" />
-  </g>
-  <g fill="#0077B9">
-    <path d="M 51.68 45.36 L 54.13 45.36 54.13 42.93 51.68 42.93 z" />
-  </g>
-  <g fill="#0077B9">
-    <path d="M 51.68 43.03 L 54.13 43.03 54.13 40.59 51.68 40.59 z" />
-  </g>
-  <g fill="#006DAE">
-    <path d="M 51.68 40.69 L 54.13 40.69 54.13 38.26 51.68 38.26 z" />
-  </g>
-  <g fill="#005391">
-    <path d="M 51.68 38.36 L 54.13 38.36 54.13 35.93 51.68 35.93 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 51.68 36.03 L 54.13 36.03 54.13 33.59 51.68 33.59 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 51.68 33.69 L 54.13 33.69 54.13 31.26 51.68 31.26 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 51.68 31.36 L 54.13 31.36 54.13 28.93 51.68 28.93 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 51.68 29.03 L 54.13 29.03 54.13 26.59 51.68 26.59 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 54.03 71.02 L 56.48 71.02 56.48 68.59 54.03 68.59 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 54.03 68.69 L 56.48 68.69 56.48 66.26 54.03 66.26 z" />
-  </g>
-  <g fill="#00437F">
-    <path d="M 54.03 66.36 L 56.48 66.36 56.48 63.92 54.03 63.92 z" />
-  </g>
-  <g fill="#004C89">
-    <path d="M 54.03 64.02 L 56.48 64.02 56.48 61.59 54.03 61.59 z" />
-  </g>
-  <g fill="#005C9B">
-    <path d="M 54.03 61.69 L 56.48 61.69 56.48 59.26 54.03 59.26 z" />
-  </g>
-  <g fill="#0081C4">
-    <path d="M 54.03 59.36 L 56.48 59.36 56.48 56.92 54.03 56.92 z" />
-  </g>
-  <g fill="#0081C4">
-    <path d="M 54.03 57.02 L 56.48 57.02 56.48 54.59 54.03 54.59 z" />
-  </g>
-  <g fill="#0073B5">
-    <path d="M 54.03 54.69 L 56.48 54.69 56.48 52.26 54.03 52.26 z" />
-  </g>
-  <g fill="#359DE3">
-    <path d="M 54.03 52.36 L 56.48 52.36 56.48 49.93 54.03 49.93 z" />
-  </g>
-  <g fill="#59B7FE">
-    <path d="M 54.03 50.03 L 56.48 50.03 56.48 47.59 54.03 47.59 z" />
-  </g>
-  <g fill="#70C9FF">
-    <path d="M 54.03 47.69 L 56.48 47.69 56.48 45.26 54.03 45.26 z" />
-  </g>
-  <g fill="#2896DB">
-    <path d="M 54.03 45.36 L 56.48 45.36 56.48 42.93 54.03 42.93 z" />
-  </g>
-  <g fill="#2192D7">
-    <path d="M 54.03 43.03 L 56.48 43.03 56.48 40.59 54.03 40.59 z" />
-  </g>
-  <g fill="#0070B1">
-    <path d="M 54.03 40.69 L 56.48 40.69 56.48 38.26 54.03 38.26 z" />
-  </g>
-  <g fill="#004F8D">
-    <path d="M 54.03 38.36 L 56.48 38.36 56.48 35.93 54.03 35.93 z" />
-  </g>
-  <g fill="#005C9B">
-    <path d="M 54.03 36.03 L 56.48 36.03 56.48 33.59 54.03 33.59 z" />
-  </g>
-  <g fill="#004986">
-    <path d="M 54.03 33.69 L 56.48 33.69 56.48 31.26 54.03 31.26 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 54.03 31.36 L 56.48 31.36 56.48 28.93 54.03 28.93 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 54.03 29.03 L 56.48 29.03 56.48 26.59 54.03 26.59 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 54.03 26.69 L 56.48 26.69 56.48 24.26 54.03 24.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 56.38 71.02 L 58.82 71.02 58.82 68.59 56.38 68.59 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 56.38 66.36 L 58.82 66.36 58.82 63.92 56.38 63.92 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 56.38 64.02 L 58.82 64.02 58.82 61.59 56.38 61.59 z" />
-  </g>
-  <g fill="#004C89">
-    <path d="M 56.38 61.69 L 58.82 61.69 58.82 59.26 56.38 59.26 z" />
-  </g>
-  <g fill="#005C9B">
-    <path d="M 56.38 59.36 L 58.82 59.36 58.82 56.92 56.38 56.92 z" />
-  </g>
-  <g fill="#178FD3">
-    <path d="M 56.38 57.02 L 58.82 57.02 58.82 54.59 56.38 54.59 z" />
-  </g>
-  <g fill="#41A4EB">
-    <path d="M 56.38 54.69 L 58.82 54.69 58.82 52.26 56.38 52.26 z" />
-  </g>
-  <g fill="#359DE3">
-    <path d="M 56.38 52.36 L 58.82 52.36 58.82 49.93 56.38 49.93 z" />
-  </g>
-  <g fill="#6BC5FF">
-    <path d="M 56.38 50.03 L 58.82 50.03 58.82 47.59 56.38 47.59 z" />
-  </g>
-  <g fill="#4BACF2">
-    <path d="M 56.38 47.69 L 58.82 47.69 58.82 45.26 56.38 45.26 z" />
-  </g>
-  <g fill="#6BC5FF">
-    <path d="M 56.38 45.36 L 58.82 45.36 58.82 42.93 56.38 42.93 z" />
-  </g>
-  <g fill="#2F9ADF">
-    <path d="M 56.38 43.03 L 58.82 43.03 58.82 40.59 56.38 40.59 z" />
-  </g>
-  <g fill="#0081C4">
-    <path d="M 56.38 40.69 L 58.82 40.69 58.82 38.26 56.38 38.26 z" />
-  </g>
-  <g fill="#005F9F">
-    <path d="M 56.38 38.36 L 58.82 38.36 58.82 35.93 56.38 35.93 z" />
-  </g>
-  <g fill="#0069AA">
-    <path d="M 56.38 36.03 L 58.82 36.03 58.82 33.59 56.38 33.59 z" />
-  </g>
-  <g fill="#004682">
-    <path d="M 56.38 33.69 L 58.82 33.69 58.82 31.26 56.38 31.26 z" />
-  </g>
-  <g fill="#004C89">
-    <path d="M 56.38 31.36 L 58.82 31.36 58.82 28.93 56.38 28.93 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 56.38 29.03 L 58.82 29.03 58.82 26.59 56.38 26.59 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 56.38 26.69 L 58.82 26.69 58.82 24.26 56.38 24.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 58.72 68.69 L 61.17 68.69 61.17 66.26 58.72 66.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 58.72 66.36 L 61.17 66.36 61.17 63.92 58.72 63.92 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 58.72 64.02 L 61.17 64.02 61.17 61.59 58.72 61.59 z" />
-  </g>
-  <g fill="#004986">
-    <path d="M 58.72 61.69 L 61.17 61.69 61.17 59.26 58.72 59.26 z" />
-  </g>
-  <g fill="#0073B5">
-    <path d="M 58.72 59.36 L 61.17 59.36 61.17 56.92 58.72 56.92 z" />
-  </g>
-  <g fill="#0070B1">
-    <path d="M 58.72 57.02 L 61.17 57.02 61.17 54.59 58.72 54.59 z" />
-  </g>
-  <g fill="#67C2FF">
-    <path d="M 58.72 54.69 L 61.17 54.69 61.17 52.26 58.72 52.26 z" />
-  </g>
-  <g fill="#4BACF2">
-    <path d="M 58.72 52.36 L 61.17 52.36 61.17 49.93 58.72 49.93 z" />
-  </g>
-  <g fill="#6BC5FF">
-    <path d="M 58.72 50.03 L 61.17 50.03 61.17 47.59 58.72 47.59 z" />
-  </g>
-  <g fill="#85DCFF">
-    <path d="M 58.72 47.69 L 61.17 47.69 61.17 45.26 58.72 45.26 z" />
-  </g>
-  <g fill="#74CDFF">
-    <path d="M 58.72 45.36 L 61.17 45.36 61.17 42.93 58.72 42.93 z" />
-  </g>
-  <g fill="#74CDFF">
-    <path d="M 58.72 43.03 L 61.17 43.03 61.17 40.59 58.72 40.59 z" />
-  </g>
-  <g fill="#54B3FA">
-    <path d="M 58.72 40.69 L 61.17 40.69 61.17 38.26 58.72 38.26 z" />
-  </g>
-  <g fill="#178FD3">
-    <path d="M 58.72 38.36 L 61.17 38.36 61.17 35.93 58.72 35.93 z" />
-  </g>
-  <g fill="#0066A6">
-    <path d="M 58.72 36.03 L 61.17 36.03 61.17 33.59 58.72 33.59 z" />
-  </g>
-  <g fill="#005391">
-    <path d="M 58.72 33.69 L 61.17 33.69 61.17 31.26 58.72 31.26 z" />
-  </g>
-  <g fill="#004C89">
-    <path d="M 58.72 31.36 L 61.17 31.36 61.17 28.93 58.72 28.93 z" />
-  </g>
-  <g fill="#004682">
-    <path d="M 58.72 29.03 L 61.17 29.03 61.17 26.59 58.72 26.59 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 58.72 26.69 L 61.17 26.69 61.17 24.26 58.72 24.26 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 58.72 24.36 L 61.17 24.36 61.17 21.93 58.72 21.93 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 61.07 68.69 L 63.51 68.69 63.51 66.26 61.07 66.26 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 61.07 66.36 L 63.51 66.36 63.51 63.92 61.07 63.92 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 61.07 64.02 L 63.51 64.02 63.51 61.59 61.07 61.59 z" />
-  </g>
-  <g fill="#005391">
-    <path d="M 61.07 61.69 L 63.51 61.69 63.51 59.26 61.07 59.26 z" />
-  </g>
-  <g fill="#005F9F">
-    <path d="M 61.07 59.36 L 63.51 59.36 63.51 56.92 61.07 56.92 z" />
-  </g>
-  <g fill="#0081C4">
-    <path d="M 61.07 57.02 L 63.51 57.02 63.51 54.59 61.07 54.59 z" />
-  </g>
-  <g fill="#007ABD">
-    <path d="M 61.07 54.69 L 63.51 54.69 63.51 52.26 61.07 52.26 z" />
-  </g>
-  <g fill="#2F9ADF">
-    <path d="M 61.07 52.36 L 63.51 52.36 63.51 49.93 61.07 49.93 z" />
-  </g>
-  <g fill="#7DD4FF">
-    <path d="M 61.07 50.03 L 63.51 50.03 63.51 47.59 61.07 47.59 z" />
-  </g>
-  <g fill="#74CDFF">
-    <path d="M 61.07 47.69 L 63.51 47.69 63.51 45.26 61.07 45.26 z" />
-  </g>
-  <g fill="#85DCFF">
-    <path d="M 61.07 45.36 L 63.51 45.36 63.51 42.93 61.07 42.93 z" />
-  </g>
-  <g fill="#50AFF6">
-    <path d="M 61.07 43.03 L 63.51 43.03 63.51 40.59 61.07 40.59 z" />
-  </g>
-  <g fill="#41A4EB">
-    <path d="M 61.07 40.69 L 63.51 40.69 63.51 38.26 61.07 38.26 z" />
-  </g>
-  <g fill="#50AFF6">
-    <path d="M 61.07 38.36 L 63.51 38.36 63.51 35.93 61.07 35.93 z" />
-  </g>
-  <g fill="#0088CC">
-    <path d="M 61.07 36.03 L 63.51 36.03 63.51 33.59 61.07 33.59 z" />
-  </g>
-  <g fill="#0070B1">
-    <path d="M 61.07 33.69 L 63.51 33.69 63.51 31.26 61.07 31.26 z" />
-  </g>
-  <g fill="#004F8D">
-    <path d="M 61.07 31.36 L 63.51 31.36 63.51 28.93 61.07 28.93 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 61.07 29.03 L 63.51 29.03 63.51 26.59 61.07 26.59 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 61.07 26.69 L 63.51 26.69 63.51 24.26 61.07 24.26 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 61.07 24.36 L 63.51 24.36 63.51 21.93 61.07 21.93 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 61.07 19.7 L 63.51 19.7 63.51 17.26 61.07 17.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 63.41 71.02 L 65.86 71.02 65.86 68.59 63.41 68.59 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 63.41 66.36 L 65.86 66.36 65.86 63.92 63.41 63.92 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 63.41 64.02 L 65.86 64.02 65.86 61.59 63.41 61.59 z" />
-  </g>
-  <g fill="#004682">
-    <path d="M 63.41 61.69 L 65.86 61.69 65.86 59.26 63.41 59.26 z" />
-  </g>
-  <g fill="#004F8D">
-    <path d="M 63.41 59.36 L 65.86 59.36 65.86 56.92 63.41 56.92 z" />
-  </g>
-  <g fill="#0063A3">
-    <path d="M 63.41 57.02 L 65.86 57.02 65.86 54.59 63.41 54.59 z" />
-  </g>
-  <g fill="#0077B9">
-    <path d="M 63.41 54.69 L 65.86 54.69 65.86 52.26 63.41 52.26 z" />
-  </g>
-  <g fill="#2896DB">
-    <path d="M 63.41 52.36 L 65.86 52.36 65.86 49.93 63.41 49.93 z" />
-  </g>
-  <g fill="#62BEFF">
-    <path d="M 63.41 50.03 L 65.86 50.03 65.86 47.59 63.41 47.59 z" />
-  </g>
-  <g fill="#8DE4FF">
-    <path d="M 63.41 47.69 L 65.86 47.69 65.86 45.26 63.41 45.26 z" />
-  </g>
-  <g fill="#9EF3FF">
-    <path d="M 63.41 45.36 L 65.86 45.36 65.86 42.93 63.41 42.93 z" />
-  </g>
-  <g fill="#70C9FF">
-    <path d="M 63.41 43.03 L 65.86 43.03 65.86 40.59 63.41 40.59 z" />
-  </g>
-  <g fill="#62BEFF">
-    <path d="M 63.41 40.69 L 65.86 40.69 65.86 38.26 63.41 38.26 z" />
-  </g>
-  <g fill="#2192D7">
-    <path d="M 63.41 38.36 L 65.86 38.36 65.86 35.93 63.41 35.93 z" />
-  </g>
-  <g fill="#0088CC">
-    <path d="M 63.41 36.03 L 65.86 36.03 65.86 33.59 63.41 33.59 z" />
-  </g>
-  <g fill="#0070B1">
-    <path d="M 63.41 33.69 L 65.86 33.69 65.86 31.26 63.41 31.26 z" />
-  </g>
-  <g fill="#004986">
-    <path d="M 63.41 31.36 L 65.86 31.36 65.86 28.93 63.41 28.93 z" />
-  </g>
-  <g fill="#005391">
-    <path d="M 63.41 29.03 L 65.86 29.03 65.86 26.59 63.41 26.59 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 63.41 26.69 L 65.86 26.69 65.86 24.26 63.41 24.26 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 63.41 24.36 L 65.86 24.36 65.86 21.93 63.41 21.93 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 65.76 64.02 L 68.2 64.02 68.2 61.59 65.76 61.59 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 65.76 61.69 L 68.2 61.69 68.2 59.26 65.76 59.26 z" />
-  </g>
-  <g fill="#004986">
-    <path d="M 65.76 59.36 L 68.2 59.36 68.2 56.92 65.76 56.92 z" />
-  </g>
-  <g fill="#004C89">
-    <path d="M 65.76 57.02 L 68.2 57.02 68.2 54.59 65.76 54.59 z" />
-  </g>
-  <g fill="#0A8BD0">
-    <path d="M 65.76 54.69 L 68.2 54.69 68.2 52.26 65.76 52.26 z" />
-  </g>
-  <g fill="#0070B1">
-    <path d="M 65.76 52.36 L 68.2 52.36 68.2 49.93 65.76 49.93 z" />
-  </g>
-  <g fill="#46A8EE">
-    <path d="M 65.76 50.03 L 68.2 50.03 68.2 47.59 65.76 47.59 z" />
-  </g>
-  <g fill="#78D1FF">
-    <path d="M 65.76 47.69 L 68.2 47.69 68.2 45.26 65.76 45.26 z" />
-  </g>
-  <g fill="#96EBFF">
-    <path d="M 65.76 45.36 L 68.2 45.36 68.2 42.93 65.76 42.93 z" />
-  </g>
-  <g fill="#4BACF2">
-    <path d="M 65.76 43.03 L 68.2 43.03 68.2 40.59 65.76 40.59 z" />
-  </g>
-  <g fill="#67C2FF">
-    <path d="M 65.76 40.69 L 68.2 40.69 68.2 38.26 65.76 38.26 z" />
-  </g>
-  <g fill="#3BA1E7">
-    <path d="M 65.76 38.36 L 68.2 38.36 68.2 35.93 65.76 35.93 z" />
-  </g>
-  <g fill="#2896DB">
-    <path d="M 65.76 36.03 L 68.2 36.03 68.2 33.59 65.76 33.59 z" />
-  </g>
-  <g fill="#006DAE">
-    <path d="M 65.76 33.69 L 68.2 33.69 68.2 31.26 65.76 31.26 z" />
-  </g>
-  <g fill="#005998">
-    <path d="M 65.76 31.36 L 68.2 31.36 68.2 28.93 65.76 28.93 z" />
-  </g>
-  <g fill="#00437F">
-    <path d="M 65.76 29.03 L 68.2 29.03 68.2 26.59 65.76 26.59 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 65.76 26.69 L 68.2 26.69 68.2 24.26 65.76 24.26 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 65.76 24.36 L 68.2 24.36 68.2 21.93 65.76 21.93 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 65.76 19.7 L 68.2 19.7 68.2 17.26 65.76 17.26 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 68.1 73.36 L 70.55 73.36 70.55 70.92 68.1 70.92 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 68.1 71.02 L 70.55 71.02 70.55 68.59 68.1 68.59 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 68.1 64.02 L 70.55 64.02 70.55 61.59 68.1 61.59 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 68.1 61.69 L 70.55 61.69 70.55 59.26 68.1 59.26 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 68.1 59.36 L 70.55 59.36 70.55 56.92 68.1 56.92 z" />
-  </g>
-  <g fill="#004682">
-    <path d="M 68.1 57.02 L 70.55 57.02 70.55 54.59 68.1 54.59 z" />
-  </g>
-  <g fill="#007EC0">
-    <path d="M 68.1 54.69 L 70.55 54.69 70.55 52.26 68.1 52.26 z" />
-  </g>
-  <g fill="#0077B9">
-    <path d="M 68.1 52.36 L 70.55 52.36 70.55 49.93 68.1 49.93 z" />
-  </g>
-  <g fill="#2192D7">
-    <path d="M 68.1 50.03 L 70.55 50.03 70.55 47.59 68.1 47.59 z" />
-  </g>
-  <g fill="#67C2FF">
-    <path d="M 68.1 47.69 L 70.55 47.69 70.55 45.26 68.1 45.26 z" />
-  </g>
-  <g fill="#92E7FF">
-    <path d="M 68.1 45.36 L 70.55 45.36 70.55 42.93 68.1 42.93 z" />
-  </g>
-  <g fill="#8DE4FF">
-    <path d="M 68.1 43.03 L 70.55 43.03 70.55 40.59 68.1 40.59 z" />
-  </g>
-  <g fill="#41A4EB">
-    <path d="M 68.1 40.69 L 70.55 40.69 70.55 38.26 68.1 38.26 z" />
-  </g>
-  <g fill="#5EBAFF">
-    <path d="M 68.1 38.36 L 70.55 38.36 70.55 35.93 68.1 35.93 z" />
-  </g>
-  <g fill="#0088CC">
-    <path d="M 68.1 36.03 L 70.55 36.03 70.55 33.59 68.1 33.59 z" />
-  </g>
-  <g fill="#2F9ADF">
-    <path d="M 68.1 33.69 L 70.55 33.69 70.55 31.26 68.1 31.26 z" />
-  </g>
-  <g fill="#006DAE">
-    <path d="M 68.1 31.36 L 70.55 31.36 70.55 28.93 68.1 28.93 z" />
-  </g>
-  <g fill="#004682">
-    <path d="M 68.1 29.03 L 70.55 29.03 70.55 26.59 68.1 26.59 z" />
-  </g>
-  <g fill="#004986">
-    <path d="M 68.1 26.69 L 70.55 26.69 70.55 24.26 68.1 24.26 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 68.1 24.36 L 70.55 24.36 70.55 21.93 68.1 21.93 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 68.1 17.36 L 70.55 17.36 70.55 14.93 68.1 14.93 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 70.45 64.02 L 72.89 64.02 72.89 61.59 70.45 61.59 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 70.45 61.69 L 72.89 61.69 72.89 59.26 70.45 59.26 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 70.45 59.36 L 72.89 59.36 72.89 56.92 70.45 56.92 z" />
-  </g>
-  <g fill="#00437F">
-    <path d="M 70.45 57.02 L 72.89 57.02 72.89 54.59 70.45 54.59 z" />
-  </g>
-  <g fill="#005998">
-    <path d="M 70.45 54.69 L 72.89 54.69 72.89 52.26 70.45 52.26 z" />
-  </g>
-  <g fill="#006DAE">
-    <path d="M 70.45 52.36 L 72.89 52.36 72.89 49.93 70.45 49.93 z" />
-  </g>
-  <g fill="#0073B5">
-    <path d="M 70.45 50.03 L 72.89 50.03 72.89 47.59 70.45 47.59 z" />
-  </g>
-  <g fill="#359DE3">
-    <path d="M 70.45 47.69 L 72.89 47.69 72.89 45.26 70.45 45.26 z" />
-  </g>
-  <g fill="#5EBAFF">
-    <path d="M 70.45 45.36 L 72.89 45.36 72.89 42.93 70.45 42.93 z" />
-  </g>
-  <g fill="#4BACF2">
-    <path d="M 70.45 43.03 L 72.89 43.03 72.89 40.59 70.45 40.59 z" />
-  </g>
-  <g fill="#6BC5FF">
-    <path d="M 70.45 40.69 L 72.89 40.69 72.89 38.26 70.45 38.26 z" />
-  </g>
-  <g fill="#41A4EB">
-    <path d="M 70.45 38.36 L 72.89 38.36 72.89 35.93 70.45 35.93 z" />
-  </g>
-  <g fill="#007ABD">
-    <path d="M 70.45 36.03 L 72.89 36.03 72.89 33.59 70.45 33.59 z" />
-  </g>
-  <g fill="#0073B5">
-    <path d="M 70.45 33.69 L 72.89 33.69 72.89 31.26 70.45 31.26 z" />
-  </g>
-  <g fill="#0066A6">
-    <path d="M 70.45 31.36 L 72.89 31.36 72.89 28.93 70.45 28.93 z" />
-  </g>
-  <g fill="#004F8D">
-    <path d="M 70.45 29.03 L 72.89 29.03 72.89 26.59 70.45 26.59 z" />
-  </g>
-  <g fill="#00437F">
-    <path d="M 70.45 26.69 L 72.89 26.69 72.89 24.26 70.45 24.26 z" />
-  </g>
-  <g fill="#004C89">
-    <path d="M 70.45 24.36 L 72.89 24.36 72.89 21.93 70.45 21.93 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 70.45 22.03 L 72.89 22.03 72.89 19.6 70.45 19.6 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 70.45 19.7 L 72.89 19.7 72.89 17.26 70.45 17.26 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 72.79 61.69 L 75.24 61.69 75.24 59.26 72.79 59.26 z" />
-  </g>
-  <g fill="#00437F">
-    <path d="M 72.79 59.36 L 75.24 59.36 75.24 56.92 72.79 56.92 z" />
-  </g>
-  <g fill="#004682">
-    <path d="M 72.79 57.02 L 75.24 57.02 75.24 54.59 72.79 54.59 z" />
-  </g>
-  <g fill="#004C89">
-    <path d="M 72.79 54.69 L 75.24 54.69 75.24 52.26 72.79 52.26 z" />
-  </g>
-  <g fill="#005C9B">
-    <path d="M 72.79 52.36 L 75.24 52.36 75.24 49.93 72.79 49.93 z" />
-  </g>
-  <g fill="#005998">
-    <path d="M 72.79 50.03 L 75.24 50.03 75.24 47.59 72.79 47.59 z" />
-  </g>
-  <g fill="#178FD3">
-    <path d="M 72.79 47.69 L 75.24 47.69 75.24 45.26 72.79 45.26 z" />
-  </g>
-  <g fill="#007ABD">
-    <path d="M 72.79 45.36 L 75.24 45.36 75.24 42.93 72.79 42.93 z" />
-  </g>
-  <g fill="#5EBAFF">
-    <path d="M 72.79 43.03 L 75.24 43.03 75.24 40.59 72.79 40.59 z" />
-  </g>
-  <g fill="#0088CC">
-    <path d="M 72.79 40.69 L 75.24 40.69 75.24 38.26 72.79 38.26 z" />
-  </g>
-  <g fill="#4BACF2">
-    <path d="M 72.79 38.36 L 75.24 38.36 75.24 35.93 72.79 35.93 z" />
-  </g>
-  <g fill="#0A8BD0">
-    <path d="M 72.79 36.03 L 75.24 36.03 75.24 33.59 72.79 33.59 z" />
-  </g>
-  <g fill="#007ABD">
-    <path d="M 72.79 33.69 L 75.24 33.69 75.24 31.26 72.79 31.26 z" />
-  </g>
-  <g fill="#005F9F">
-    <path d="M 72.79 31.36 L 75.24 31.36 75.24 28.93 72.79 28.93 z" />
-  </g>
-  <g fill="#005694">
-    <path d="M 72.79 29.03 L 75.24 29.03 75.24 26.59 72.79 26.59 z" />
-  </g>
-  <g fill="#004F8D">
-    <path d="M 72.79 26.69 L 75.24 26.69 75.24 24.26 72.79 24.26 z" />
-  </g>
-  <g fill="#004682">
-    <path d="M 72.79 24.36 L 75.24 24.36 75.24 21.93 72.79 21.93 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 72.79 19.7 L 75.24 19.7 75.24 17.26 72.79 17.26 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 75.14 59.36 L 77.59 59.36 77.59 56.92 75.14 56.92 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 75.14 57.02 L 77.59 57.02 77.59 54.59 75.14 54.59 z" />
-  </g>
-  <g fill="#004682">
-    <path d="M 75.14 54.69 L 77.59 54.69 77.59 52.26 75.14 52.26 z" />
-  </g>
-  <g fill="#004C89">
-    <path d="M 75.14 52.36 L 77.59 52.36 77.59 49.93 75.14 49.93 z" />
-  </g>
-  <g fill="#005998">
-    <path d="M 75.14 50.03 L 77.59 50.03 77.59 47.59 75.14 47.59 z" />
-  </g>
-  <g fill="#006DAE">
-    <path d="M 75.14 47.69 L 77.59 47.69 77.59 45.26 75.14 45.26 z" />
-  </g>
-  <g fill="#007ABD">
-    <path d="M 75.14 45.36 L 77.59 45.36 77.59 42.93 75.14 42.93 z" />
-  </g>
-  <g fill="#007EC0">
-    <path d="M 75.14 43.03 L 77.59 43.03 77.59 40.59 75.14 40.59 z" />
-  </g>
-  <g fill="#0073B5">
-    <path d="M 75.14 40.69 L 77.59 40.69 77.59 38.26 75.14 38.26 z" />
-  </g>
-  <g fill="#2192D7">
-    <path d="M 75.14 38.36 L 77.59 38.36 77.59 35.93 75.14 35.93 z" />
-  </g>
-  <g fill="#007EC0">
-    <path d="M 75.14 36.03 L 77.59 36.03 77.59 33.59 75.14 33.59 z" />
-  </g>
-  <g fill="#005998">
-    <path d="M 75.14 33.69 L 77.59 33.69 77.59 31.26 75.14 31.26 z" />
-  </g>
-  <g fill="#00437F">
-    <path d="M 75.14 31.36 L 77.59 31.36 77.59 28.93 75.14 28.93 z" />
-  </g>
-  <g fill="#005C9B">
-    <path d="M 75.14 29.03 L 77.59 29.03 77.59 26.59 75.14 26.59 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 75.14 26.69 L 77.59 26.69 77.59 24.26 75.14 24.26 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 75.14 24.36 L 77.59 24.36 77.59 21.93 75.14 21.93 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 75.14 22.03 L 77.59 22.03 77.59 19.6 75.14 19.6 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 75.14 19.7 L 77.59 19.7 77.59 17.26 75.14 17.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 75.14 17.36 L 77.59 17.36 77.59 14.93 75.14 14.93 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 77.49 57.02 L 79.93 57.02 79.93 54.59 77.49 54.59 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 77.49 54.69 L 79.93 54.69 79.93 52.26 77.49 52.26 z" />
-  </g>
-  <g fill="#005391">
-    <path d="M 77.49 52.36 L 79.93 52.36 79.93 49.93 77.49 49.93 z" />
-  </g>
-  <g fill="#004C89">
-    <path d="M 77.49 50.03 L 79.93 50.03 79.93 47.59 77.49 47.59 z" />
-  </g>
-  <g fill="#005998">
-    <path d="M 77.49 47.69 L 79.93 47.69 79.93 45.26 77.49 45.26 z" />
-  </g>
-  <g fill="#004986">
-    <path d="M 77.49 45.36 L 79.93 45.36 79.93 42.93 77.49 42.93 z" />
-  </g>
-  <g fill="#004F8D">
-    <path d="M 77.49 43.03 L 79.93 43.03 79.93 40.59 77.49 40.59 z" />
-  </g>
-  <g fill="#0077B9">
-    <path d="M 77.49 40.69 L 79.93 40.69 79.93 38.26 77.49 38.26 z" />
-  </g>
-  <g fill="#4BACF2">
-    <path d="M 77.49 38.36 L 79.93 38.36 79.93 35.93 77.49 35.93 z" />
-  </g>
-  <g fill="#006DAE">
-    <path d="M 77.49 36.03 L 79.93 36.03 79.93 33.59 77.49 33.59 z" />
-  </g>
-  <g fill="#005C9B">
-    <path d="M 77.49 33.69 L 79.93 33.69 79.93 31.26 77.49 31.26 z" />
-  </g>
-  <g fill="#00437F">
-    <path d="M 77.49 31.36 L 79.93 31.36 79.93 28.93 77.49 28.93 z" />
-  </g>
-  <g fill="#005391">
-    <path d="M 77.49 29.03 L 79.93 29.03 79.93 26.59 77.49 26.59 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 77.49 26.69 L 79.93 26.69 79.93 24.26 77.49 24.26 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 77.49 24.36 L 79.93 24.36 79.93 21.93 77.49 21.93 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 77.49 22.03 L 79.93 22.03 79.93 19.6 77.49 19.6 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 77.49 17.36 L 79.93 17.36 79.93 14.93 77.49 14.93 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 77.49 15.03 L 79.93 15.03 79.93 12.6 77.49 12.6 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 79.83 68.69 L 82.28 68.69 82.28 66.26 79.83 66.26 z" />
-  </g>
-  <g fill="#004682">
-    <path d="M 79.83 52.36 L 82.28 52.36 82.28 49.93 79.83 49.93 z" />
-  </g>
-  <g fill="#004682">
-    <path d="M 79.83 50.03 L 82.28 50.03 82.28 47.59 79.83 47.59 z" />
-  </g>
-  <g fill="#004986">
-    <path d="M 79.83 47.69 L 82.28 47.69 82.28 45.26 79.83 45.26 z" />
-  </g>
-  <g fill="#005998">
-    <path d="M 79.83 45.36 L 82.28 45.36 82.28 42.93 79.83 42.93 z" />
-  </g>
-  <g fill="#005C9B">
-    <path d="M 79.83 43.03 L 82.28 43.03 82.28 40.59 79.83 40.59 z" />
-  </g>
-  <g fill="#0063A3">
-    <path d="M 79.83 40.69 L 82.28 40.69 82.28 38.26 79.83 38.26 z" />
-  </g>
-  <g fill="#006DAE">
-    <path d="M 79.83 38.36 L 82.28 38.36 82.28 35.93 79.83 35.93 z" />
-  </g>
-  <g fill="#007ABD">
-    <path d="M 79.83 36.03 L 82.28 36.03 82.28 33.59 79.83 33.59 z" />
-  </g>
-  <g fill="#005694">
-    <path d="M 79.83 33.69 L 82.28 33.69 82.28 31.26 79.83 31.26 z" />
-  </g>
-  <g fill="#005C9B">
-    <path d="M 79.83 31.36 L 82.28 31.36 82.28 28.93 79.83 28.93 z" />
-  </g>
-  <g fill="#004986">
-    <path d="M 79.83 29.03 L 82.28 29.03 82.28 26.59 79.83 26.59 z" />
-  </g>
-  <g fill="#004F8D">
-    <path d="M 79.83 26.69 L 82.28 26.69 82.28 24.26 79.83 24.26 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 79.83 24.36 L 82.28 24.36 82.28 21.93 79.83 21.93 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 79.83 22.03 L 82.28 22.03 82.28 19.6 79.83 19.6 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 79.83 19.7 L 82.28 19.7 82.28 17.26 79.83 17.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 79.83 17.36 L 82.28 17.36 82.28 14.93 79.83 14.93 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 82.18 57.02 L 84.62 57.02 84.62 54.59 82.18 54.59 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 82.18 54.69 L 84.62 54.69 84.62 52.26 82.18 52.26 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 82.18 52.36 L 84.62 52.36 84.62 49.93 82.18 49.93 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 82.18 50.03 L 84.62 50.03 84.62 47.59 82.18 47.59 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 82.18 47.69 L 84.62 47.69 84.62 45.26 82.18 45.26 z" />
-  </g>
-  <g fill="#004682">
-    <path d="M 82.18 45.36 L 84.62 45.36 84.62 42.93 82.18 42.93 z" />
-  </g>
-  <g fill="#005391">
-    <path d="M 82.18 43.03 L 84.62 43.03 84.62 40.59 82.18 40.59 z" />
-  </g>
-  <g fill="#004986">
-    <path d="M 82.18 40.69 L 84.62 40.69 84.62 38.26 82.18 38.26 z" />
-  </g>
-  <g fill="#005391">
-    <path d="M 82.18 38.36 L 84.62 38.36 84.62 35.93 82.18 35.93 z" />
-  </g>
-  <g fill="#005391">
-    <path d="M 82.18 36.03 L 84.62 36.03 84.62 33.59 82.18 33.59 z" />
-  </g>
-  <g fill="#00437F">
-    <path d="M 82.18 33.69 L 84.62 33.69 84.62 31.26 82.18 31.26 z" />
-  </g>
-  <g fill="#0066A6">
-    <path d="M 82.18 31.36 L 84.62 31.36 84.62 28.93 82.18 28.93 z" />
-  </g>
-  <g fill="#004F8D">
-    <path d="M 82.18 29.03 L 84.62 29.03 84.62 26.59 82.18 26.59 z" />
-  </g>
-  <g fill="#004C89">
-    <path d="M 82.18 26.69 L 84.62 26.69 84.62 24.26 82.18 24.26 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 82.18 24.36 L 84.62 24.36 84.62 21.93 82.18 21.93 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 82.18 22.03 L 84.62 22.03 84.62 19.6 82.18 19.6 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 82.18 17.36 L 84.62 17.36 84.62 14.93 82.18 14.93 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 84.52 54.69 L 86.97 54.69 86.97 52.26 84.52 52.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 84.52 50.03 L 86.97 50.03 86.97 47.59 84.52 47.59 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 84.52 47.69 L 86.97 47.69 86.97 45.26 84.52 45.26 z" />
-  </g>
-  <g fill="#00437F">
-    <path d="M 84.52 45.36 L 86.97 45.36 86.97 42.93 84.52 42.93 z" />
-  </g>
-  <g fill="#00437F">
-    <path d="M 84.52 43.03 L 86.97 43.03 86.97 40.59 84.52 40.59 z" />
-  </g>
-  <g fill="#004682">
-    <path d="M 84.52 40.69 L 86.97 40.69 86.97 38.26 84.52 38.26 z" />
-  </g>
-  <g fill="#004C89">
-    <path d="M 84.52 38.36 L 86.97 38.36 86.97 35.93 84.52 35.93 z" />
-  </g>
-  <g fill="#005391">
-    <path d="M 84.52 36.03 L 86.97 36.03 86.97 33.59 84.52 33.59 z" />
-  </g>
-  <g fill="#00437F">
-    <path d="M 84.52 33.69 L 86.97 33.69 86.97 31.26 84.52 31.26 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 84.52 31.36 L 86.97 31.36 86.97 28.93 84.52 28.93 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 84.52 29.03 L 86.97 29.03 86.97 26.59 84.52 26.59 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 84.52 26.69 L 86.97 26.69 86.97 24.26 84.52 24.26 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 84.52 24.36 L 86.97 24.36 86.97 21.93 84.52 21.93 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 84.52 22.03 L 86.97 22.03 86.97 19.6 84.52 19.6 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 84.52 19.7 L 86.97 19.7 86.97 17.26 84.52 17.26 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 86.87 47.69 L 89.31 47.69 89.31 45.26 86.87 45.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 86.87 45.36 L 89.31 45.36 89.31 42.93 86.87 42.93 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 86.87 43.03 L 89.31 43.03 89.31 40.59 86.87 40.59 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 86.87 40.69 L 89.31 40.69 89.31 38.26 86.87 38.26 z" />
-  </g>
-  <g fill="#00437F">
-    <path d="M 86.87 38.36 L 89.31 38.36 89.31 35.93 86.87 35.93 z" />
-  </g>
-  <g fill="#00407B">
-    <path d="M 86.87 36.03 L 89.31 36.03 89.31 33.59 86.87 33.59 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 86.87 33.69 L 89.31 33.69 89.31 31.26 86.87 31.26 z" />
-  </g>
-  <g fill="#004F8D">
-    <path d="M 86.87 31.36 L 89.31 31.36 89.31 28.93 86.87 28.93 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 86.87 29.03 L 89.31 29.03 89.31 26.59 86.87 26.59 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 86.87 26.69 L 89.31 26.69 89.31 24.26 86.87 24.26 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 86.87 24.36 L 89.31 24.36 89.31 21.93 86.87 21.93 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 86.87 19.7 L 89.31 19.7 89.31 17.26 86.87 17.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 89.21 45.36 L 91.66 45.36 91.66 42.93 89.21 42.93 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 89.21 43.03 L 91.66 43.03 91.66 40.59 89.21 40.59 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 89.21 40.69 L 91.66 40.69 91.66 38.26 89.21 38.26 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 89.21 36.03 L 91.66 36.03 91.66 33.59 89.21 33.59 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 89.21 33.69 L 91.66 33.69 91.66 31.26 89.21 31.26 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 89.21 31.36 L 91.66 31.36 91.66 28.93 89.21 28.93 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 89.21 29.03 L 91.66 29.03 91.66 26.59 89.21 26.59 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 89.21 26.69 L 91.66 26.69 91.66 24.26 89.21 24.26 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 89.21 24.36 L 91.66 24.36 91.66 21.93 89.21 21.93 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 91.56 40.69 L 94.01 40.69 94.01 38.26 91.56 38.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 91.56 38.36 L 94.01 38.36 94.01 35.93 91.56 35.93 z" />
-  </g>
-  <g fill="#003D78">
-    <path d="M 91.56 31.36 L 94.01 31.36 94.01 28.93 91.56 28.93 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 91.56 29.03 L 94.01 29.03 94.01 26.59 91.56 26.59 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 91.56 26.69 L 94.01 26.69 94.01 24.26 91.56 24.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 91.56 22.03 L 94.01 22.03 94.01 19.6 91.56 19.6 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 93.91 43.03 L 96.35 43.03 96.35 40.59 93.91 40.59 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 93.91 36.03 L 96.35 36.03 96.35 33.59 93.91 33.59 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 93.91 31.36 L 96.35 31.36 96.35 28.93 93.91 28.93 z" />
-  </g>
-  <g fill="#003A74">
-    <path d="M 93.91 24.36 L 96.35 24.36 96.35 21.93 93.91 21.93 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 93.91 22.03 L 96.35 22.03 96.35 19.6 93.91 19.6 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 96.25 45.36 L 98.7 45.36 98.7 42.93 96.25 42.93 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 96.25 33.69 L 98.7 33.69 98.7 31.26 96.25 31.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 96.25 31.36 L 98.7 31.36 98.7 28.93 96.25 28.93 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 96.25 29.03 L 98.7 29.03 98.7 26.59 96.25 26.59 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 96.25 12.7 L 98.7 12.7 98.7 10.26 96.25 10.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 100.94 47.69 L 103.39 47.69 103.39 45.26 100.94 45.26 z" />
-  </g>
-  <g fill="#003771">
-    <path d="M 100.94 24.36 L 103.39 24.36 103.39 21.93 100.94 21.93 z" />
-  </g>
-</g>
-<g stroke="none" font-family="Source Sans Pro" font-size="3.18">
-  <g fill="#004581" stroke-width="0.3">
-    <path d="M 111.14 61.9 L 115.18 61.9 115.18 63 111.14 63 z" />
-  </g>
-  <g fill="#0063A3" stroke-width="0.3">
-    <path d="M 111.14 56.85 L 115.18 56.85 115.18 57.95 111.14 57.95 z" />
-  </g>
-  <g fill="#0084C8" stroke-width="0.3">
-    <path d="M 111.14 51.8 L 115.18 51.8 115.18 52.9 111.14 52.9 z" />
-  </g>
-  <g fill="#46A8EE" stroke-width="0.3">
-    <path d="M 111.14 46.75 L 115.18 46.75 115.18 47.85 111.14 47.85 z" />
-  </g>
-  <g fill="#74CDFF" stroke-width="0.3">
-    <path d="M 111.14 41.7 L 115.18 41.7 115.18 42.8 111.14 42.8 z" />
-  </g>
-  <g fill="#9EF3FF" stroke-width="0.3">
-    <path d="M 111.14 36.66 L 115.18 36.66 115.18 37.76 111.14 37.76 z" />
-  </g>
-  <g fill="#4C404B">
-    <text x="116.18" y="34.63" style="dominant-baseline:central">60</text>
-  </g>
-  <g fill="#B3FFFF" stroke-width="0.3">
-    <path d="M 111.14 32.61 L 115.18 32.61 115.18 36.76 111.14 36.76 z" />
-  </g>
-  <g fill="#4C404B">
-    <text x="116.18" y="39.68" style="dominant-baseline:central">50</text>
-  </g>
-  <g fill="#89E0FF" stroke-width="0.3">
-    <path d="M 111.14 37.66 L 115.18 37.66 115.18 41.8 111.14 41.8 z" />
-  </g>
-  <g fill="#4C404B">
-    <text x="116.18" y="44.73" style="dominant-baseline:central">40</text>
-  </g>
-  <g fill="#5EBAFF" stroke-width="0.3">
-    <path d="M 111.14 42.7 L 115.18 42.7 115.18 46.85 111.14 46.85 z" />
-  </g>
-  <g fill="#4C404B">
-    <text x="116.18" y="49.78" style="dominant-baseline:central">30</text>
-  </g>
-  <g fill="#2896DB" stroke-width="0.3">
-    <path d="M 111.14 47.75 L 115.18 47.75 115.18 51.9 111.14 51.9 z" />
-  </g>
-  <g fill="#4C404B">
-    <text x="116.18" y="54.82" style="dominant-baseline:central">20</text>
-  </g>
-  <g fill="#0073B5" stroke-width="0.3">
-    <path d="M 111.14 52.8 L 115.18 52.8 115.18 56.95 111.14 56.95 z" />
-  </g>
-  <g fill="#4C404B">
-    <text x="116.18" y="59.87" style="dominant-baseline:central">10</text>
-  </g>
-  <g fill="#005391" stroke-width="0.3">
-    <path d="M 111.14 57.85 L 115.18 57.85 115.18 62 111.14 62 z" />
-  </g>
-  <g fill="#4C404B">
-    <text x="116.18" y="64.92" style="dominant-baseline:central">1</text>
-  </g>
-  <g fill="#003771" stroke-width="0.3">
-    <path d="M 111.14 62.9 L 115.18 62.9 115.18 67.04 111.14 67.04 z" />
-  </g>
-</g>
-<g stroke="none" fill="#362A35" font-family="Source Sans Pro" font-size="3.88">
-  <text x="115.57" y="30.61" text-anchor="middle">Count</text>
-</g>
-<g stroke="none" fill="#4C404B" font-family="Source Sans Pro" font-size="3.18">
-  <text x="42.45" y="87.65" text-anchor="middle">-2</text>
-  <text x="106.57" y="87.65" text-anchor="middle">4</text>
-  <text x="63.82" y="87.65" text-anchor="middle">0</text>
-  <text x="85.2" y="87.65" text-anchor="middle">2</text>
-  <text x="21.08" y="87.65" text-anchor="middle">-4</text>
-</g>
-<g stroke="none" fill="#362A35" font-family="Source Sans Pro" font-size="3.88">
-  <text x="63.82" y="94.6" text-anchor="middle">x</text>
-</g>
-<g stroke="none" fill="#362A35" font-family="Source Sans Pro" font-size="3.88">
-  <text x="9.47" y="44.3" text-anchor="middle" style="dominant-baseline:central" transform="rotate(-90, 9.47, 44.3)">y</text>
-</g>
-<g stroke="none" fill="#4C404B" font-family="Source Sans Pro" font-size="3.18">
-  <text x="17.51" y="62.84" text-anchor="end" style="dominant-baseline:central">-2</text>
-  <text x="17.51" y="7.22" text-anchor="end" style="dominant-baseline:central">4</text>
-  <text x="17.51" y="44.3" text-anchor="end" style="dominant-baseline:central">0</text>
-  <text x="17.51" y="25.76" text-anchor="end" style="dominant-baseline:central">2</text>
-  <text x="17.51" y="81.38" text-anchor="end" style="dominant-baseline:central">-4</text>
-</g>
+<script type="application/ecmascript"><![CDATA[
+
+// Functions embedded in Gadfly plots to add interactivity.
+
+
+// Clicking an entry in a color key toggles visibility of the data within that
+// group.
+function toggle_color_group(name)
+{
+    geoms = document.getElementsByClassName('color_group_' + name);
+    entry = document.getElementById('color_key_' + name);
+    state = geoms[0].getAttribute('visibility');
+    if (!state || state == 'visible') {
+        for (i = 0; i < geoms.length; ++i) {
+            geoms[i].setAttribute('visibility', 'hidden');
+        }
+        entry.setAttribute('opacity', 0.5);
+    } else {
+        for (i = 0; i < geoms.length; ++i) {
+            geoms[i].setAttribute('visibility', 'visible');
+        }
+        entry.setAttribute('opacity', 1.0);
+    }
+}
+
+
+// Turn on a possibily hidden annotation.
+function show_annotation(id)
+{
+    annot = document.getElementById(id)
+    annot.setAttribute('visibility', 'visible')
+}
+
+
+// Turn off a possibly hidden annotation.
+function hide_annotation(id)
+{
+
+    annot = document.getElementById(id)
+    annot.setAttribute('visibility', 'hidden')
+}
+
+
+// Dim all geometry objects with some exceptions.
+function present_geometry(ids)
+{
+    on_anim_dur = 0.1;
+
+    off_anim = document.getElementById('panel-focus-filter-off-anim');
+    off_anim.endElement();
+
+    t0 = Number(off_anim.getStartTime());
+    if (t0 < Infinity) {
+        t = Number(off_anim.getCurrentTime());
+        d = Number(off_anim.getSimpleDuration());
+        from = Number(off_anim.getAttribute('from'));
+        to = Number(off_anim.getAttribute('to'));
+        p = Math.max(0.0, Math.min(1.0, ((t - t0) / d)));
+        v = from + p * (to - from);
+    }
+    else {
+        p=1.0;
+        v=0.0;
+    }
+
+    geoms = document.getElementsByClassName('geometry');
+    for (i = 0; i < geoms.length; ++i) {
+        geoms[i].setAttribute('filter', 'url(#panel-focus-filter)');
+    }
+
+    for (i = 0; i < ids.length; ++i) {
+        geom = document.getElementById(ids[i]);
+        geom.setAttribute('filter', 'inherit');
+    }
+
+    on_anim = document.getElementById('panel-focus-filter-on-anim');
+    on_anim.setAttribute('from', v);
+    on_anim.setAttribute('dur',  p * on_anim_dur + 's');
+    on_anim.beginElement();
+}
+
+
+// Set all geometries to full opacity.
+function unpresent_geometry()
+{
+    off_anim_dur = 0.3;
+
+    on_anim = document.getElementById('panel-focus-filter-on-anim');
+    on_anim.endElement();
+
+    t0 = Number(on_anim.getStartTime());
+    t = Number(on_anim.getCurrentTime());
+    d = Number(on_anim.getSimpleDuration());
+    from = Number(on_anim.getAttribute('from'));
+    to = Number(on_anim.getAttribute('to'));
+    p = Math.max(0.0, Math.min(1.0, ((t - t0) / d)));
+    v = from + p * (to - from);
+
+    off_anim = document.getElementById('panel-focus-filter-off-anim');
+    off_anim.setAttribute('from', v);
+    dur = p * off_anim_dur
+    off_anim.setAttribute('dur',  dur + 's');
+    off_anim.addEventListener('endEvent', unpresent_geometry_end);
+    off_anim.beginElement();
+
+    // Webkit doesn't support the "onend" attribute, so we work arround.
+    setTimeout("unpresent_geometry_end()", 1000 * dur);
+}
+
+
+// Called when the animation in unpresent_geometry finishes.
+// Enabling a filter, even if it has no effect, adds an extra layer of
+// rasterization, which tends to make things look like shit, so we clear all the
+// filters when the animation ends.
+function unpresent_geometry_end()
+{
+    // skip this function in the on_animation has been triggered since the last
+    // off_animation.
+    on_anim = document.getElementById('panel-focus-filter-on-anim');
+    off_anim = document.getElementById('panel-focus-filter-off-anim');
+    if (on_anim.getStartTime() > off_anim.getStartTime()) {
+        return;
+    }
+
+    // Skip this if the off animation isn't actually finished.
+    elapsed = off_anim.getCurrentTime() - off_anim.getStartTime();
+    if (elapsed < off_anim.getSimpleDuration()) {
+        return;
+    }
+
+    geoms = document.getElementsByClassName('geometry');
+    for (i = 0; i < geoms.length; ++i) {
+        geoms[i].setAttribute('filter', 'inherit');
+    }
+}
+
+
+]]></script>
+<defs>
+    <!--A filter used to deemphasize out of focus geometries for mouseover
+       -effects.-->
+    <!-- TODO: flood-color needs to be set from the current theme -->
+    <filter id="panel-focus-filter" x="-20%" y="-20%" width="140%" height="140%">
+        <feFlood flood-color="#f5f5f5" flood-opacity="0.5" result="flood">
+            <animate id="panel-focus-filter-off-anim"
+                      attributeName="flood-opacity" attributeType="XML"
+                      fill="freeze" begin="indefinite" dur="0.2s"
+                      from="0.8" to="0.0" onend="unpresent_geometry_end"/>
+            <animate id="panel-focus-filter-on-anim"
+                      attributeName="flood-opacity" attributeType="XML"
+                      fill="freeze" begin="indefinite" dur="0.1s"
+                      from="0.0" to="0.8" onend="unpresent_geometry_end"/>
+        </feFlood>
+        <feComposite operator="atop" in="flood" in2="SourceGraphic" />
+    </filter>
+</defs>
+
 </svg>

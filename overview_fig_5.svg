@@ -1,138 +1,1348 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="152.4mm" height="152.4mm" viewBox="0 0 152.4 152.4" style="stroke:black;fill:black" stroke-width="0.5">
-<g stroke="#F2F2F2" fill="#F5F5F5">
-  <path d="M 21.24 5 L 147.4 5 147.4 133.19 21.24 133.19 z" />
-  <g stroke="#FFFFFF" stroke-width="0.3">
-    <path d="M54.57,5 L 54.57 133.19" />
-    <path d="M143.83,5 L 143.83 133.19" />
-    <path d="M84.32,5 L 84.32 133.19" />
-    <path d="M114.08,5 L 114.08 133.19" />
-    <path d="M24.81,5 L 24.81 133.19" />
+<g>
+  <g stroke="none" fill="#4C404B" font-size="3.18" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
+    <text x="20.24" y="32.81" text-anchor="end" style="dominant-baseline:central">10<tspan baseline-shift="1.722548" font-size="83.333333%">3</tspan></text>
+    <text x="20.24" y="129.56" text-anchor="end" style="dominant-baseline:central">10<tspan baseline-shift="1.722548" font-size="83.333333%">-1</tspan></text>
+    <text x="20.24" y="105.37" text-anchor="end" style="dominant-baseline:central">10<tspan baseline-shift="1.722548" font-size="83.333333%">0</tspan></text>
+    <text x="20.24" y="8.63" text-anchor="end" style="dominant-baseline:central">10<tspan baseline-shift="1.722548" font-size="83.333333%">4</tspan></text>
+    <text x="20.24" y="57" text-anchor="end" style="dominant-baseline:central">10<tspan baseline-shift="1.722548" font-size="83.333333%">2</tspan></text>
+    <text x="20.24" y="81.19" text-anchor="end" style="dominant-baseline:central">10<tspan baseline-shift="1.722548" font-size="83.333333%">1</tspan></text>
   </g>
-  <g stroke="#FFFFFF" stroke-width="0.3">
-    <path d="M21.24,32.81 L 147.4 32.81" />
-    <path d="M21.24,129.56 L 147.4 129.56" />
-    <path d="M21.24,105.37 L 147.4 105.37" />
-    <path d="M21.24,8.63 L 147.4 8.63" />
-    <path d="M21.24,57 L 147.4 57" />
-    <path d="M21.24,81.19 L 147.4 81.19" />
+  <g stroke="none" fill="#362A35" font-size="3.88" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
+    <text x="9.47" y="69.09" text-anchor="middle" style="dominant-baseline:central" transform="rotate(-90, 9.47, 69.09)">brain</text>
+  </g>
+  <g stroke="none" fill="#362A35" font-size="3.88" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
+    <text x="84.32" y="145.4" text-anchor="middle">body</text>
+  </g>
+  <g stroke="none" fill="#4C404B" font-size="3.18" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
+    <text x="54.57" y="138.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-2</tspan></text>
+    <text x="143.83" y="138.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">4</tspan></text>
+    <text x="84.32" y="138.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0</tspan></text>
+    <text x="114.08" y="138.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">2</tspan></text>
+    <text x="24.81" y="138.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-4</tspan></text>
+  </g>
+  <g stroke="#F2F2F2" fill="#F5F5F5">
+    <path d="M 21.24 5 L 147.4 5 147.4 133.19 21.24 133.19 z" />
+    <g stroke="#FFFFFF" stroke-width="0.3">
+      <path d="M21.24,32.81 L 147.4 32.81" />
+      <path d="M21.24,129.56 L 147.4 129.56" />
+      <path d="M21.24,105.37 L 147.4 105.37" />
+      <path d="M21.24,8.63 L 147.4 8.63" />
+      <path d="M21.24,57 L 147.4 57" />
+      <path d="M21.24,81.19 L 147.4 81.19" />
+    </g>
+    <g stroke="#FFFFFF" stroke-width="0.3">
+      <path d="M54.57,5 L 54.57 133.19" />
+      <path d="M143.83,5 L 143.83 133.19" />
+      <path d="M84.32,5 L 84.32 133.19" />
+      <path d="M114.08,5 L 114.08 133.19" />
+      <path d="M24.81,5 L 24.81 133.19" />
+    </g>
+  </g>
+  <g fill="#4C404B" stroke="none" font-size="2.82" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
+    <g class="geometry">
+      <text x="61.7" y="96.8" text-anchor="middle" style="dominant-baseline:central">Tree shrew</text>
+    </g>
+    <g class="geometry">
+      <text x="87.13" y="98.63" text-anchor="middle" style="dominant-baseline:central">Tenrec</text>
+    </g>
+    <g class="geometry">
+      <text x="121.65" y="51.59" text-anchor="middle" style="dominant-baseline:central">Pig</text>
+    </g>
+    <g class="geometry">
+      <text x="77.96" y="101.93" text-anchor="middle" style="dominant-baseline:central">Rat</text>
+    </g>
+    <g class="geometry">
+      <text x="121.46" y="60" text-anchor="middle" style="dominant-baseline:central">Giant armadillo</text>
+    </g>
+    <g class="geometry">
+      <text x="103.35" y="38.14" text-anchor="middle" style="dominant-baseline:central">Chimpanzee</text>
+    </g>
+    <g class="geometry">
+      <text x="117.31" y="37.01" text-anchor="middle" style="dominant-baseline:central">Okapi</text>
+    </g>
+    <g class="geometry">
+      <text x="43.65" y="120.82" text-anchor="middle" style="dominant-baseline:central">Little brown bat</text>
+    </g>
+    <g class="geometry">
+      <text x="56.57" y="111.7" text-anchor="middle" style="dominant-baseline:central">Mouse</text>
+    </g>
+    <g class="geometry">
+      <text x="78.25" y="108.67" text-anchor="middle" style="dominant-baseline:central">Golden hamster</text>
+    </g>
+    <g class="geometry">
+      <text x="108.28" y="74.77" text-anchor="middle" style="dominant-baseline:central">Yellow-bellied marmot</text>
+    </g>
+    <g class="geometry">
+      <text x="102.93" y="66.39" text-anchor="middle" style="dominant-baseline:central">Kangaroo</text>
+    </g>
+    <g class="geometry">
+      <text x="85.91" y="49.6" text-anchor="middle" style="dominant-baseline:central">Rhesus monkey</text>
+    </g>
+    <g class="geometry">
+      <text x="103.13" y="91.34" text-anchor="middle" style="dominant-baseline:central">Water opossum</text>
+    </g>
+    <g class="geometry">
+      <text x="116.84" y="30.4" text-anchor="middle" style="dominant-baseline:central">Human</text>
+    </g>
+    <g class="geometry">
+      <text x="106.15" y="45.41" text-anchor="middle" style="dominant-baseline:central">Grey seal</text>
+    </g>
+    <g class="geometry">
+      <text x="89.33" y="56.54" text-anchor="middle" style="dominant-baseline:central">Patas monkey</text>
+    </g>
+    <g class="geometry">
+      <text x="66.97" y="121.32" text-anchor="middle" style="dominant-baseline:central">Big brown bat</text>
+    </g>
+    <g class="geometry">
+      <text x="129.8" y="20.08" text-anchor="middle" style="dominant-baseline:central">Asian elephant</text>
+    </g>
+    <g class="geometry">
+      <text x="107.64" y="81.7" text-anchor="middle" style="dominant-baseline:central">Nine-banded armadillo</text>
+    </g>
+    <g class="geometry">
+      <text x="54.87" y="103.72" text-anchor="middle" style="dominant-baseline:central">Star-nosed mole</text>
+    </g>
+    <g class="geometry">
+      <text x="38.92" y="129.32" text-anchor="middle" style="dominant-baseline:central">Lesser short-tailed shrew</text>
+    </g>
+    <g class="geometry">
+      <text x="58.74" y="89.93" text-anchor="middle" style="dominant-baseline:central">Ground squirrel</text>
+    </g>
+    <g class="geometry">
+      <text x="73.32" y="82.57" text-anchor="middle" style="dominant-baseline:central">Chinchilla</text>
+    </g>
+    <g class="geometry">
+      <text x="128.08" y="41.21" text-anchor="middle" style="dominant-baseline:central">Cow</text>
+    </g>
+    <g class="geometry">
+      <text x="73.63" y="73.28" text-anchor="middle" style="dominant-baseline:central">Owl monkey</text>
+    </g>
+    <g class="geometry">
+      <text x="85.25" y="65.62" text-anchor="middle" style="dominant-baseline:central">Arctic fox</text>
+    </g>
+  </g>
+  <g stroke-width="0.3">
+    <g fill="#4682B4" stroke="#0F5D8C" class="color_group_RGB(0.27450980392156865,0.5098039215686274,0.7058823529411765)">
+      <g id="id968" class="geometry">
+        <circle cx="69.7" cy="95.75" r="0.5" />
+      </g>
+      <g id="id964" class="geometry">
+        <circle cx="83.64" cy="95.34" r="0.5" />
+      </g>
+      <g id="id960" class="geometry">
+        <circle cx="91.42" cy="71.56" r="0.5" />
+      </g>
+      <g id="id956" class="geometry">
+        <circle cx="64.7" cy="117.02" r="0.5" />
+      </g>
+      <g id="id952" class="geometry">
+        <circle cx="67.58" cy="103.46" r="0.5" />
+      </g>
+      <g id="id948" class="geometry">
+        <circle cx="93.73" cy="66.84" r="0.5" />
+      </g>
+      <g id="id944" class="geometry">
+        <circle cx="110.77" cy="59.21" r="0.5" />
+      </g>
+      <g id="id940" class="geometry">
+        <circle cx="99.54" cy="50.86" r="0.5" />
+      </g>
+      <g id="id936" class="geometry">
+        <circle cx="114.08" cy="52.26" r="0.5" />
+      </g>
+      <g id="id932" class="geometry">
+        <circle cx="90.24" cy="79.18" r="0.5" />
+      </g>
+      <g id="id928" class="geometry">
+        <circle cx="86.49" cy="78.84" r="0.5" />
+      </g>
+      <g id="id924" class="geometry">
+        <circle cx="59.95" cy="115" r="0.5" />
+      </g>
+      <g id="id920" class="geometry">
+        <circle cx="93.36" cy="75.61" r="0.5" />
+      </g>
+      <g id="id916" class="geometry">
+        <circle cx="96.71" cy="50.88" r="0.5" />
+      </g>
+      <g id="id912" class="geometry">
+        <circle cx="141.2" cy="14.51" r="0.5" />
+      </g>
+      <g id="id908" class="geometry">
+        <circle cx="82.46" cy="79.01" r="0.5" />
+      </g>
+      <g id="id904" class="geometry">
+        <circle cx="118.78" cy="42.28" r="0.5" />
+      </g>
+      <g id="id900" class="geometry">
+        <circle cx="86.54" cy="75.31" r="0.5" />
+      </g>
+      <g id="id896" class="geometry">
+        <circle cx="92.03" cy="71.31" r="0.5" />
+      </g>
+      <g id="id892" class="geometry">
+        <circle cx="82.76" cy="92.21" r="0.5" />
+      </g>
+      <g id="id888" class="geometry">
+        <circle cx="118.12" cy="41.95" r="0.5" />
+      </g>
+      <g id="id884" class="geometry">
+        <circle cx="134.99" cy="16.78" r="0.5" />
+      </g>
+      <g id="id880" class="geometry">
+        <circle cx="88.8" cy="79.01" r="0.5" />
+      </g>
+      <g id="id876" class="geometry">
+        <circle cx="66.14" cy="105.37" r="0.5" />
+      </g>
+      <g id="id872" class="geometry">
+        <circle cx="84.32" cy="85.55" r="0.5" />
+      </g>
+      <g id="id868" class="geometry">
+        <circle cx="69.51" cy="90.81" r="0.5" />
+      </g>
+      <g id="id864" class="geometry">
+        <circle cx="93.58" cy="62.72" r="0.5" />
+      </g>
+      <g id="id860" class="geometry">
+        <circle cx="101.74" cy="57.19" r="0.5" />
+      </g>
+      <g id="id856" class="geometry">
+        <circle cx="107.53" cy="55.13" r="0.5" />
+      </g>
+      <g id="id852" class="geometry">
+        <circle cx="86.26" cy="83.4" r="0.5" />
+      </g>
+      <g id="id848" class="geometry">
+        <circle cx="92.2" cy="65.5" r="0.5" />
+      </g>
+      <g id="id850" class="geometry">
+        <circle cx="79.58" cy="76.58" r="0.5" />
+      </g>
+      <g id="id854" class="geometry">
+        <circle cx="124" cy="41.85" r="0.5" />
+      </g>
+      <g id="id858" class="geometry">
+        <circle cx="105.77" cy="55.53" r="0.5" />
+      </g>
+      <g id="id862" class="geometry">
+        <circle cx="84.57" cy="87.47" r="0.5" />
+      </g>
+      <g id="id866" class="geometry">
+        <circle cx="78.79" cy="85.87" r="0.5" />
+      </g>
+      <g id="id870" class="geometry">
+        <circle cx="83.78" cy="87.09" r="0.5" />
+      </g>
+      <g id="id874" class="geometry">
+        <circle cx="50.09" cy="126.02" r="0.5" />
+      </g>
+      <g id="id878" class="geometry">
+        <circle cx="92.41" cy="80.38" r="0.5" />
+      </g>
+      <g id="id882" class="geometry">
+        <circle cx="87.75" cy="86.04" r="0.5" />
+      </g>
+      <g id="id886" class="geometry">
+        <circle cx="59.95" cy="118.02" r="0.5" />
+      </g>
+      <g id="id890" class="geometry">
+        <circle cx="124.74" cy="37.26" r="0.5" />
+      </g>
+      <g id="id894" class="geometry">
+        <circle cx="99.2" cy="55.53" r="0.5" />
+      </g>
+      <g id="id898" class="geometry">
+        <circle cx="73.92" cy="88.47" r="0.5" />
+      </g>
+      <g id="id902" class="geometry">
+        <circle cx="124.84" cy="36.86" r="0.5" />
+      </g>
+      <g id="id906" class="geometry">
+        <circle cx="113.02" cy="44.62" r="0.5" />
+      </g>
+      <g id="id910" class="geometry">
+        <circle cx="110.99" cy="29.9" r="0.5" />
+      </g>
+      <g id="id914" class="geometry">
+        <circle cx="92.41" cy="91.08" r="0.5" />
+      </g>
+      <g id="id918" class="geometry">
+        <circle cx="107.29" cy="63.09" r="0.5" />
+      </g>
+      <g id="id922" class="geometry">
+        <circle cx="70.62" cy="105.37" r="0.5" />
+      </g>
+      <g id="id926" class="geometry">
+        <circle cx="54.57" cy="119.93" r="0.5" />
+      </g>
+      <g id="id930" class="geometry">
+        <circle cx="120" cy="40.31" r="0.5" />
+      </g>
+      <g id="id934" class="geometry">
+        <circle cx="110.27" cy="51.12" r="0.5" />
+      </g>
+      <g id="id938" class="geometry">
+        <circle cx="109.87" cy="41.44" r="0.5" />
+      </g>
+      <g id="id942" class="geometry">
+        <circle cx="80.46" cy="96.18" r="0.5" />
+      </g>
+      <g id="id946" class="geometry">
+        <circle cx="92.6" cy="73.39" r="0.5" />
+      </g>
+      <g id="id950" class="geometry">
+        <circle cx="76.1" cy="98.63" r="0.5" />
+      </g>
+      <g id="id954" class="geometry">
+        <circle cx="70.73" cy="93.83" r="0.5" />
+      </g>
+      <g id="id958" class="geometry">
+        <circle cx="118.29" cy="50.83" r="0.5" />
+      </g>
+      <g id="id962" class="geometry">
+        <circle cx="117.11" cy="51.49" r="0.5" />
+      </g>
+      <g id="id966" class="geometry">
+        <circle cx="87.44" cy="79.81" r="0.5" />
+      </g>
+      <g id="id970" class="geometry">
+        <circle cx="93.65" cy="64.2" r="0.5" />
+      </g>
+    </g>
+  </g>
+  <g stroke="none" visibility="hidden" font-size="3.18" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
+    <g id="id969">
+      <text x="69.7" y="94.25" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-0.983</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">0.39794</tspan></text>
+    </g>
+    <g id="id965">
+      <text x="83.64" y="93.84" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-0.0458</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">0.414973</tspan></text>
+    </g>
+    <g id="id961">
+      <text x="91.42" y="70.06" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0.477121</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">1.39794</tspan></text>
+    </g>
+    <g id="id957">
+      <text x="64.7" y="115.52" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-1.3188</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">-0.4815</tspan></text>
+    </g>
+    <g id="id953">
+      <text x="67.58" y="101.96" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-1.1249</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">0.0792</tspan></text>
+    </g>
+    <g id="id949">
+      <text x="93.73" y="65.34" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0.632255</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">1.593286</tspan></text>
+    </g>
+    <g id="id945">
+      <text x="110.77" y="57.71" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">1.778151</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">1.908485</tspan></text>
+    </g>
+    <g id="id941">
+      <text x="99.54" y="49.36" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">1.023252</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">2.254064</tspan></text>
+    </g>
+    <g id="id937">
+      <text x="114.08" y="50.76" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">2</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">2.1959</tspan></text>
+    </g>
+    <g id="id933">
+      <text x="90.24" y="77.68" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0.39794</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">1.082785</tspan></text>
+    </g>
+    <g id="id929">
+      <text x="86.49" y="77.34" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0.146128</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">1.09691</tspan></text>
+    </g>
+    <g id="id925">
+      <text x="59.95" y="113.5" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-1.6383</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">-0.3979</tspan></text>
+    </g>
+    <g id="id921">
+      <text x="93.36" y="74.11" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0.607455</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">1.230449</tspan></text>
+    </g>
+    <g id="id917">
+      <text x="96.71" y="49.38" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0.832509</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">2.252853</tspan></text>
+    </g>
+    <g id="id913">
+      <text x="141.2" y="13.01" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">3.823083</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">3.756788</tspan></text>
+    </g>
+    <g id="id909">
+      <text x="82.46" y="77.51" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-0.1249</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">1.089905</tspan></text>
+    </g>
+    <g id="id905">
+      <text x="118.78" y="40.78" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">2.31597</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">2.608526</tspan></text>
+    </g>
+    <g id="id901">
+      <text x="86.54" y="73.81" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0.149219</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">1.243038</tspan></text>
+    </g>
+    <g id="id897">
+      <text x="92.03" y="69.81" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0.518514</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">1.40824</tspan></text>
+    </g>
+    <g id="id893">
+      <text x="82.76" y="90.71" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-0.1051</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">0.544068</tspan></text>
+    </g>
+    <g id="id889">
+      <text x="118.12" y="40.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">2.272074</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">2.622214</tspan></text>
+    </g>
+    <g id="id885">
+      <text x="134.99" y="15.28" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">3.406029</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">3.663041</tspan></text>
+    </g>
+    <g id="id881">
+      <text x="88.8" y="77.51" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0.30103</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">1.089905</tspan></text>
+    </g>
+    <g id="id877">
+      <text x="66.14" y="103.87" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-1.2218</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">0</tspan></text>
+    </g>
+    <g id="id873">
+      <text x="84.32" y="84.05" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">0.819544</tspan></text>
+    </g>
+    <g id="id869">
+      <text x="69.51" y="89.31" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-0.9957</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">0.60206</tspan></text>
+    </g>
+    <g id="id865">
+      <text x="93.58" y="61.22" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0.622214</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">1.763428</tspan></text>
+    </g>
+    <g id="id861">
+      <text x="101.74" y="55.69" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">1.171141</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">1.992111</tspan></text>
+    </g>
+    <g id="id857">
+      <text x="107.53" y="53.63" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">1.560265</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">2.077368</tspan></text>
+    </g>
+    <g id="id853">
+      <text x="86.26" y="81.9" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0.130334</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">0.908485</tspan></text>
+    </g>
+    <g id="id849">
+      <text x="92.2" y="64" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0.529559</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">1.64836</tspan></text>
+    </g>
+    <g id="id851">
+      <text x="79.58" y="75.08" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-0.3188</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">1.190332</tspan></text>
+    </g>
+    <g id="id855">
+      <text x="124" y="40.35" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">2.667453</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">2.62634</tspan></text>
+    </g>
+    <g id="id859">
+      <text x="105.77" y="54.03" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">1.441852</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">2.060698</tspan></text>
+    </g>
+    <g id="id863">
+      <text x="84.57" y="85.97" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0.017</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">0.740363</tspan></text>
+    </g>
+    <g id="id867">
+      <text x="78.79" y="84.37" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-0.3716</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">0.80618</tspan></text>
+    </g>
+    <g id="id871">
+      <text x="83.78" y="85.59" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-0.0362</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">0.755875</tspan></text>
+    </g>
+    <g id="id875">
+      <text x="50.09" y="124.52" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-2.301</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">-0.8539</tspan></text>
+    </g>
+    <g id="id879">
+      <text x="92.41" y="78.88" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0.544068</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">1.033424</tspan></text>
+    </g>
+    <g id="id883">
+      <text x="87.75" y="84.54" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0.230449</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">0.799341</tspan></text>
+    </g>
+    <g id="id887">
+      <text x="59.95" y="116.52" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-1.6383</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">-0.5229</tspan></text>
+    </g>
+    <g id="id891">
+      <text x="124.74" y="35.76" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">2.716838</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">2.816241</tspan></text>
+    </g>
+    <g id="id895">
+      <text x="99.2" y="54.03" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">1</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">2.060698</tspan></text>
+    </g>
+    <g id="id899">
+      <text x="73.92" y="86.97" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-0.699</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">0.69897</tspan></text>
+    </g>
+    <g id="id903">
+      <text x="124.84" y="35.36" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">2.723456</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">2.832509</tspan></text>
+    </g>
+    <g id="id907">
+      <text x="113.02" y="43.12" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">1.929419</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">2.511883</tspan></text>
+    </g>
+    <g id="id911">
+      <text x="110.99" y="28.4" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">1.792392</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">3.120574</tspan></text>
+    </g>
+    <g id="id915">
+      <text x="92.41" y="89.58" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0.544068</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">0.591065</tspan></text>
+    </g>
+    <g id="id919">
+      <text x="107.29" y="61.59" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">1.544068</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">1.748188</tspan></text>
+    </g>
+    <g id="id923">
+      <text x="70.62" y="103.87" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-0.9208</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">0</tspan></text>
+    </g>
+    <g id="id927">
+      <text x="54.57" y="118.43" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-2</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">-0.6021</tspan></text>
+    </g>
+    <g id="id931">
+      <text x="120" y="38.81" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">2.39794</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">2.690196</tspan></text>
+    </g>
+    <g id="id935">
+      <text x="110.27" y="49.62" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">1.744293</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">2.243038</tspan></text>
+    </g>
+    <g id="id939">
+      <text x="109.87" y="39.94" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">1.717338</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">2.643453</tspan></text>
+    </g>
+    <g id="id943">
+      <text x="80.46" y="94.68" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-0.2596</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">0.380211</tspan></text>
+    </g>
+    <g id="id947">
+      <text x="92.6" y="71.89" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0.556303</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">1.322219</tspan></text>
+    </g>
+    <g id="id951">
+      <text x="76.1" y="97.13" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-0.5528</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">0.278754</tspan></text>
+    </g>
+    <g id="id955">
+      <text x="70.73" y="92.33" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-0.9136</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">0.477121</tspan></text>
+    </g>
+    <g id="id959">
+      <text x="118.29" y="49.33" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">2.283301</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">2.255273</tspan></text>
+    </g>
+    <g id="id963">
+      <text x="117.11" y="49.99" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">2.20412</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">2.227887</tspan></text>
+    </g>
+    <g id="id967">
+      <text x="87.44" y="78.31" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0.209515</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">1.056905</tspan></text>
+    </g>
+    <g id="id971">
+      <text x="93.65" y="62.7" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0.626853</tspan>, 10<tspan baseline-shift="1.722548" font-size="83.333333%">1.702431</tspan></text>
+    </g>
+  </g>
+  <g stroke="none" opacity="0">
+    <g onmouseout="js_chunk_950cb9a07484025a(evt)" onmouseover="js_chunk_d398638cf19b66ce(evt)">
+      <path d="M 68.2 94.25 L 71.2 94.25 71.2 97.25 68.2 97.25 z" />
+    </g>
+    <g onmouseout="js_chunk_184877ecfaf08fe5(evt)" onmouseover="js_chunk_46a4552657a84b93(evt)">
+      <path d="M 82.14 93.84 L 85.14 93.84 85.14 96.84 82.14 96.84 z" />
+    </g>
+    <g onmouseout="js_chunk_df517dd889039659(evt)" onmouseover="js_chunk_74b88417b3d19e35(evt)">
+      <path d="M 89.92 70.06 L 92.92 70.06 92.92 73.06 89.92 73.06 z" />
+    </g>
+    <g onmouseout="js_chunk_5c0133a082627103(evt)" onmouseover="js_chunk_2f2a2e21a8b461d6(evt)">
+      <path d="M 63.2 115.52 L 66.2 115.52 66.2 118.52 63.2 118.52 z" />
+    </g>
+    <g onmouseout="js_chunk_e60d93a8169a2db0(evt)" onmouseover="js_chunk_9df5b53c066a710d(evt)">
+      <path d="M 66.08 101.96 L 69.08 101.96 69.08 104.96 66.08 104.96 z" />
+    </g>
+    <g onmouseout="js_chunk_d44ee2c2731dd149(evt)" onmouseover="js_chunk_faed09f5c05a2053(evt)">
+      <path d="M 92.23 65.34 L 95.23 65.34 95.23 68.34 92.23 68.34 z" />
+    </g>
+    <g onmouseout="js_chunk_19144aedfca815df(evt)" onmouseover="js_chunk_b3b503afb1e98800(evt)">
+      <path d="M 109.27 57.71 L 112.27 57.71 112.27 60.71 109.27 60.71 z" />
+    </g>
+    <g onmouseout="js_chunk_7745e2f58a2ccbe(evt)" onmouseover="js_chunk_9f51cfbd085db077(evt)">
+      <path d="M 98.04 49.36 L 101.04 49.36 101.04 52.36 98.04 52.36 z" />
+    </g>
+    <g onmouseout="js_chunk_c1f572f74da5e593(evt)" onmouseover="js_chunk_5a3c1ef6fe333edc(evt)">
+      <path d="M 112.58 50.76 L 115.58 50.76 115.58 53.76 112.58 53.76 z" />
+    </g>
+    <g onmouseout="js_chunk_3fa45944c9035244(evt)" onmouseover="js_chunk_570754e8f7c94a14(evt)">
+      <path d="M 88.74 77.68 L 91.74 77.68 91.74 80.68 88.74 80.68 z" />
+    </g>
+    <g onmouseout="js_chunk_7364442ab068840b(evt)" onmouseover="js_chunk_add5804d254afc13(evt)">
+      <path d="M 84.99 77.34 L 87.99 77.34 87.99 80.34 84.99 80.34 z" />
+    </g>
+    <g onmouseout="js_chunk_aa71c0959e847cdc(evt)" onmouseover="js_chunk_64de4a6b935d8fe1(evt)">
+      <path d="M 58.45 113.5 L 61.45 113.5 61.45 116.5 58.45 116.5 z" />
+    </g>
+    <g onmouseout="js_chunk_da9969cf7ed3595b(evt)" onmouseover="js_chunk_614811158c30a741(evt)">
+      <path d="M 91.86 74.11 L 94.86 74.11 94.86 77.11 91.86 77.11 z" />
+    </g>
+    <g onmouseout="js_chunk_cea2296966bb3c0b(evt)" onmouseover="js_chunk_4a59cb2b5e2a781d(evt)">
+      <path d="M 95.21 49.38 L 98.21 49.38 98.21 52.38 95.21 52.38 z" />
+    </g>
+    <g onmouseout="js_chunk_6ce14c2aa3391e97(evt)" onmouseover="js_chunk_2df580fa25619323(evt)">
+      <path d="M 139.7 13.01 L 142.7 13.01 142.7 16.01 139.7 16.01 z" />
+    </g>
+    <g onmouseout="js_chunk_9b6a92b2004a0619(evt)" onmouseover="js_chunk_494ec7fd29eba47(evt)">
+      <path d="M 80.96 77.51 L 83.96 77.51 83.96 80.51 80.96 80.51 z" />
+    </g>
+    <g onmouseout="js_chunk_9f87a15408720e45(evt)" onmouseover="js_chunk_54f0f825f344bc7a(evt)">
+      <path d="M 117.28 40.78 L 120.28 40.78 120.28 43.78 117.28 43.78 z" />
+    </g>
+    <g onmouseout="js_chunk_c045950149f191f7(evt)" onmouseover="js_chunk_f2ad8faa2ec18814(evt)">
+      <path d="M 85.04 73.81 L 88.04 73.81 88.04 76.81 85.04 76.81 z" />
+    </g>
+    <g onmouseout="js_chunk_2de29269252b1521(evt)" onmouseover="js_chunk_9111b9f06b8964f6(evt)">
+      <path d="M 90.53 69.81 L 93.53 69.81 93.53 72.81 90.53 72.81 z" />
+    </g>
+    <g onmouseout="js_chunk_2066c0260a5590ff(evt)" onmouseover="js_chunk_7acf641bbf26dc45(evt)">
+      <path d="M 81.26 90.71 L 84.26 90.71 84.26 93.71 81.26 93.71 z" />
+    </g>
+    <g onmouseout="js_chunk_ef43e1a8281116f8(evt)" onmouseover="js_chunk_bf4aef58481eed09(evt)">
+      <path d="M 116.62 40.45 L 119.62 40.45 119.62 43.45 116.62 43.45 z" />
+    </g>
+    <g onmouseout="js_chunk_69121ccd6ab42c1(evt)" onmouseover="js_chunk_f917f874bbb8f0e5(evt)">
+      <path d="M 133.49 15.28 L 136.49 15.28 136.49 18.28 133.49 18.28 z" />
+    </g>
+    <g onmouseout="js_chunk_23a8b70890d892bc(evt)" onmouseover="js_chunk_9e6ee8760664f8d1(evt)">
+      <path d="M 87.3 77.51 L 90.3 77.51 90.3 80.51 87.3 80.51 z" />
+    </g>
+    <g onmouseout="js_chunk_25e04ff3151ee109(evt)" onmouseover="js_chunk_c7219b99d7a177dc(evt)">
+      <path d="M 64.64 103.87 L 67.64 103.87 67.64 106.87 64.64 106.87 z" />
+    </g>
+    <g onmouseout="js_chunk_9f08839407706395(evt)" onmouseover="js_chunk_27045389976802e6(evt)">
+      <path d="M 82.82 84.05 L 85.82 84.05 85.82 87.05 82.82 87.05 z" />
+    </g>
+    <g onmouseout="js_chunk_8d941825e4873979(evt)" onmouseover="js_chunk_3d492f79c3f167a2(evt)">
+      <path d="M 68.01 89.31 L 71.01 89.31 71.01 92.31 68.01 92.31 z" />
+    </g>
+    <g onmouseout="js_chunk_d884014e7a5e52bd(evt)" onmouseover="js_chunk_7199dd55ac8a0a41(evt)">
+      <path d="M 92.08 61.22 L 95.08 61.22 95.08 64.22 92.08 64.22 z" />
+    </g>
+    <g onmouseout="js_chunk_23bbf15190cf263e(evt)" onmouseover="js_chunk_e732cf8f97bce217(evt)">
+      <path d="M 100.24 55.69 L 103.24 55.69 103.24 58.69 100.24 58.69 z" />
+    </g>
+    <g onmouseout="js_chunk_f5779390b44608b1(evt)" onmouseover="js_chunk_1a9c74b6fe8fca61(evt)">
+      <path d="M 106.03 53.63 L 109.03 53.63 109.03 56.63 106.03 56.63 z" />
+    </g>
+    <g onmouseout="js_chunk_8716bf5bd74f11d5(evt)" onmouseover="js_chunk_eb11c1801f440010(evt)">
+      <path d="M 84.76 81.9 L 87.76 81.9 87.76 84.9 84.76 84.9 z" />
+    </g>
+    <g onmouseout="js_chunk_d7c3b0e778a89eef(evt)" onmouseover="js_chunk_b632dffdb586fdf8(evt)">
+      <path d="M 90.7 64 L 93.7 64 93.7 67 90.7 67 z" />
+    </g>
+    <g onmouseout="js_chunk_28f257611b061725(evt)" onmouseover="js_chunk_a3cc571610ba1ca9(evt)">
+      <path d="M 78.08 75.08 L 81.08 75.08 81.08 78.08 78.08 78.08 z" />
+    </g>
+    <g onmouseout="js_chunk_feaf37b7c67f10ef(evt)" onmouseover="js_chunk_b82b81acb977ab12(evt)">
+      <path d="M 122.5 40.35 L 125.5 40.35 125.5 43.35 122.5 43.35 z" />
+    </g>
+    <g onmouseout="js_chunk_78f5be363b428772(evt)" onmouseover="js_chunk_36a1f2d1b69af042(evt)">
+      <path d="M 104.27 54.03 L 107.27 54.03 107.27 57.03 104.27 57.03 z" />
+    </g>
+    <g onmouseout="js_chunk_a431299e91b9c016(evt)" onmouseover="js_chunk_fb55088fc0017ce7(evt)">
+      <path d="M 83.07 85.97 L 86.07 85.97 86.07 88.97 83.07 88.97 z" />
+    </g>
+    <g onmouseout="js_chunk_f608b5fcb567ea6d(evt)" onmouseover="js_chunk_bbba6e3540cb5a0b(evt)">
+      <path d="M 77.29 84.37 L 80.29 84.37 80.29 87.37 77.29 87.37 z" />
+    </g>
+    <g onmouseout="js_chunk_ad33377ea3c5a1c6(evt)" onmouseover="js_chunk_c6c0459dd6dfbd78(evt)">
+      <path d="M 82.28 85.59 L 85.28 85.59 85.28 88.59 82.28 88.59 z" />
+    </g>
+    <g onmouseout="js_chunk_a02e13fb89ba5f18(evt)" onmouseover="js_chunk_747ae522325400da(evt)">
+      <path d="M 48.59 124.52 L 51.59 124.52 51.59 127.52 48.59 127.52 z" />
+    </g>
+    <g onmouseout="js_chunk_9b7374d780455390(evt)" onmouseover="js_chunk_f10ecb3e78042bf(evt)">
+      <path d="M 90.91 78.88 L 93.91 78.88 93.91 81.88 90.91 81.88 z" />
+    </g>
+    <g onmouseout="js_chunk_ea1cdfa19dc11137(evt)" onmouseover="js_chunk_438e6b9450a429b7(evt)">
+      <path d="M 86.25 84.54 L 89.25 84.54 89.25 87.54 86.25 87.54 z" />
+    </g>
+    <g onmouseout="js_chunk_715246deac2db723(evt)" onmouseover="js_chunk_f036941f29f6527e(evt)">
+      <path d="M 58.45 116.52 L 61.45 116.52 61.45 119.52 58.45 119.52 z" />
+    </g>
+    <g onmouseout="js_chunk_2d129149a3ae5aaa(evt)" onmouseover="js_chunk_33f32ebab16f9398(evt)">
+      <path d="M 123.24 35.76 L 126.24 35.76 126.24 38.76 123.24 38.76 z" />
+    </g>
+    <g onmouseout="js_chunk_956a3b6df43b8f71(evt)" onmouseover="js_chunk_1e3c6f5c05dff577(evt)">
+      <path d="M 97.7 54.03 L 100.7 54.03 100.7 57.03 97.7 57.03 z" />
+    </g>
+    <g onmouseout="js_chunk_e43f527e91e4bf21(evt)" onmouseover="js_chunk_c5201063d3a63ba0(evt)">
+      <path d="M 72.42 86.97 L 75.42 86.97 75.42 89.97 72.42 89.97 z" />
+    </g>
+    <g onmouseout="js_chunk_f9687a4b3c3786de(evt)" onmouseover="js_chunk_c09b3801ca9d0048(evt)">
+      <path d="M 123.34 35.36 L 126.34 35.36 126.34 38.36 123.34 38.36 z" />
+    </g>
+    <g onmouseout="js_chunk_629e46530eb15160(evt)" onmouseover="js_chunk_12a70bbdeec2df5f(evt)">
+      <path d="M 111.52 43.12 L 114.52 43.12 114.52 46.12 111.52 46.12 z" />
+    </g>
+    <g onmouseout="js_chunk_48919c045a999dbf(evt)" onmouseover="js_chunk_bf4bb7b8c80dd5b2(evt)">
+      <path d="M 109.49 28.4 L 112.49 28.4 112.49 31.4 109.49 31.4 z" />
+    </g>
+    <g onmouseout="js_chunk_51b95ac76ce96355(evt)" onmouseover="js_chunk_bec8e722c7087cce(evt)">
+      <path d="M 90.91 89.58 L 93.91 89.58 93.91 92.58 90.91 92.58 z" />
+    </g>
+    <g onmouseout="js_chunk_bbd810a941507b2f(evt)" onmouseover="js_chunk_d5961cd1f4cc9578(evt)">
+      <path d="M 105.79 61.59 L 108.79 61.59 108.79 64.59 105.79 64.59 z" />
+    </g>
+    <g onmouseout="js_chunk_d8c371957b27924f(evt)" onmouseover="js_chunk_b055806eaa4bb0ca(evt)">
+      <path d="M 69.12 103.87 L 72.12 103.87 72.12 106.87 69.12 106.87 z" />
+    </g>
+    <g onmouseout="js_chunk_f2b7f02caf0fb2e5(evt)" onmouseover="js_chunk_1c5a27c302542315(evt)">
+      <path d="M 53.07 118.43 L 56.07 118.43 56.07 121.43 53.07 121.43 z" />
+    </g>
+    <g onmouseout="js_chunk_84d8c64c536ab1f6(evt)" onmouseover="js_chunk_6d652909a48377fd(evt)">
+      <path d="M 118.5 38.81 L 121.5 38.81 121.5 41.81 118.5 41.81 z" />
+    </g>
+    <g onmouseout="js_chunk_41c7f943cd4ac7d6(evt)" onmouseover="js_chunk_7d1c774443f3c482(evt)">
+      <path d="M 108.77 49.62 L 111.77 49.62 111.77 52.62 108.77 52.62 z" />
+    </g>
+    <g onmouseout="js_chunk_2aee61779f97ed22(evt)" onmouseover="js_chunk_aadde99f1f76e95b(evt)">
+      <path d="M 108.37 39.94 L 111.37 39.94 111.37 42.94 108.37 42.94 z" />
+    </g>
+    <g onmouseout="js_chunk_5b0bb238ffd19ee0(evt)" onmouseover="js_chunk_95401fbff43a7a99(evt)">
+      <path d="M 78.96 94.68 L 81.96 94.68 81.96 97.68 78.96 97.68 z" />
+    </g>
+    <g onmouseout="js_chunk_b0890816ab91fd92(evt)" onmouseover="js_chunk_9786bbe5798d6b48(evt)">
+      <path d="M 91.1 71.89 L 94.1 71.89 94.1 74.89 91.1 74.89 z" />
+    </g>
+    <g onmouseout="js_chunk_405188884b21ff4b(evt)" onmouseover="js_chunk_dc5439158327610b(evt)">
+      <path d="M 74.6 97.13 L 77.6 97.13 77.6 100.13 74.6 100.13 z" />
+    </g>
+    <g onmouseout="js_chunk_566adc0777344649(evt)" onmouseover="js_chunk_2bbb1030a1d4af38(evt)">
+      <path d="M 69.23 92.33 L 72.23 92.33 72.23 95.33 69.23 95.33 z" />
+    </g>
+    <g onmouseout="js_chunk_731bd7858c3e850(evt)" onmouseover="js_chunk_d23d83e1eedb75c0(evt)">
+      <path d="M 116.79 49.33 L 119.79 49.33 119.79 52.33 116.79 52.33 z" />
+    </g>
+    <g onmouseout="js_chunk_34835919b3662632(evt)" onmouseover="js_chunk_adc8616725f03767(evt)">
+      <path d="M 115.61 49.99 L 118.61 49.99 118.61 52.99 115.61 52.99 z" />
+    </g>
+    <g onmouseout="js_chunk_7066066e2b35325e(evt)" onmouseover="js_chunk_661a52bb969dcba1(evt)">
+      <path d="M 85.94 78.31 L 88.94 78.31 88.94 81.31 85.94 81.31 z" />
+    </g>
+    <g onmouseout="js_chunk_e0c7bdca8bf9fc1d(evt)" onmouseover="js_chunk_26db676c98215008(evt)">
+      <path d="M 92.15 62.7 L 95.15 62.7 95.15 65.7 92.15 65.7 z" />
+    </g>
   </g>
 </g>
-<g stroke="none" stroke-width="0.3">
-  <g fill="#4682B4" stroke="#0F5D8C" class="color_group_RGB(0.27450980392156865,0.5098039215686274,0.7058823529411765)">
-    <circle cx="92.2" cy="65.5" r="0.5" />
-    <circle cx="79.58" cy="76.58" r="0.5" />
-    <circle cx="86.26" cy="83.4" r="0.5" />
-    <circle cx="124" cy="41.85" r="0.5" />
-    <circle cx="107.53" cy="55.13" r="0.5" />
-    <circle cx="105.77" cy="55.53" r="0.5" />
-    <circle cx="101.74" cy="57.19" r="0.5" />
-    <circle cx="84.57" cy="87.47" r="0.5" />
-    <circle cx="93.58" cy="62.72" r="0.5" />
-    <circle cx="78.79" cy="85.87" r="0.5" />
-    <circle cx="69.51" cy="90.81" r="0.5" />
-    <circle cx="83.78" cy="87.09" r="0.5" />
-    <circle cx="84.32" cy="85.55" r="0.5" />
-    <circle cx="50.09" cy="126.02" r="0.5" />
-    <circle cx="66.14" cy="105.37" r="0.5" />
-    <circle cx="92.41" cy="80.38" r="0.5" />
-    <circle cx="88.8" cy="79.01" r="0.5" />
-    <circle cx="87.75" cy="86.04" r="0.5" />
-    <circle cx="134.99" cy="16.78" r="0.5" />
-    <circle cx="59.95" cy="118.02" r="0.5" />
-    <circle cx="118.12" cy="41.95" r="0.5" />
-    <circle cx="124.74" cy="37.26" r="0.5" />
-    <circle cx="82.76" cy="92.21" r="0.5" />
-    <circle cx="99.2" cy="55.53" r="0.5" />
-    <circle cx="92.03" cy="71.31" r="0.5" />
-    <circle cx="73.92" cy="88.47" r="0.5" />
-    <circle cx="86.54" cy="75.31" r="0.5" />
-    <circle cx="124.84" cy="36.86" r="0.5" />
-    <circle cx="118.78" cy="42.28" r="0.5" />
-    <circle cx="113.02" cy="44.62" r="0.5" />
-    <circle cx="82.46" cy="79.01" r="0.5" />
-    <circle cx="110.99" cy="29.9" r="0.5" />
-    <circle cx="141.2" cy="14.51" r="0.5" />
-    <circle cx="92.41" cy="91.08" r="0.5" />
-    <circle cx="96.71" cy="50.88" r="0.5" />
-    <circle cx="107.29" cy="63.09" r="0.5" />
-    <circle cx="93.36" cy="75.61" r="0.5" />
-    <circle cx="70.62" cy="105.37" r="0.5" />
-    <circle cx="59.95" cy="115" r="0.5" />
-    <circle cx="54.57" cy="119.93" r="0.5" />
-    <circle cx="86.49" cy="78.84" r="0.5" />
-    <circle cx="120" cy="40.31" r="0.5" />
-    <circle cx="90.24" cy="79.18" r="0.5" />
-    <circle cx="110.27" cy="51.12" r="0.5" />
-    <circle cx="114.08" cy="52.26" r="0.5" />
-    <circle cx="109.87" cy="41.44" r="0.5" />
-    <circle cx="99.54" cy="50.86" r="0.5" />
-    <circle cx="80.46" cy="96.18" r="0.5" />
-    <circle cx="110.77" cy="59.21" r="0.5" />
-    <circle cx="92.6" cy="73.39" r="0.5" />
-    <circle cx="93.73" cy="66.84" r="0.5" />
-    <circle cx="76.1" cy="98.63" r="0.5" />
-    <circle cx="67.58" cy="103.46" r="0.5" />
-    <circle cx="70.73" cy="93.83" r="0.5" />
-    <circle cx="64.7" cy="117.02" r="0.5" />
-    <circle cx="118.29" cy="50.83" r="0.5" />
-    <circle cx="91.42" cy="71.56" r="0.5" />
-    <circle cx="117.11" cy="51.49" r="0.5" />
-    <circle cx="83.64" cy="95.34" r="0.5" />
-    <circle cx="87.44" cy="79.81" r="0.5" />
-    <circle cx="69.7" cy="95.75" r="0.5" />
-    <circle cx="93.65" cy="64.2" r="0.5" />
-  </g>
-</g>
-<g fill="#4C404B" stroke="none" font-family="Source Sans Pro" font-size="2.82">
-  <text x="65.41" y="99.05" text-anchor="middle" style="dominant-baseline:central">Tree shrew</text>
-  <text x="87.52" y="98.63" text-anchor="middle" style="dominant-baseline:central">Tenrec</text>
-  <text x="120.58" y="47.53" text-anchor="middle" style="dominant-baseline:central">Pig</text>
-  <text x="73.14" y="116.58" text-anchor="middle" style="dominant-baseline:central">Musk shrew</text>
-  <text x="77.94" y="101.93" text-anchor="middle" style="dominant-baseline:central">Rat</text>
-  <text x="100.35" y="68.19" text-anchor="middle" style="dominant-baseline:central">Raccoon</text>
-  <text x="101" y="40.91" text-anchor="middle" style="dominant-baseline:central">Chimpanzee</text>
-  <text x="117.42" y="55.56" text-anchor="middle" style="dominant-baseline:central">Jaguar</text>
-  <text x="106.98" y="47.82" text-anchor="middle" style="dominant-baseline:central">Sheep</text>
-  <text x="116.69" y="37.01" text-anchor="middle" style="dominant-baseline:central">Okapi</text>
-  <text x="43.65" y="121.17" text-anchor="middle" style="dominant-baseline:central">Little brown bat</text>
-  <text x="54.59" y="114.1" text-anchor="middle" style="dominant-baseline:central">Mouse</text>
-  <text x="78.29" y="108.67" text-anchor="middle" style="dominant-baseline:central">Golden hamster</text>
-  <text x="108.28" y="76.26" text-anchor="middle" style="dominant-baseline:central">Yellow-bellied marmot</text>
-  <text x="114.55" y="63.09" text-anchor="middle" style="dominant-baseline:central">Kangaroo</text>
-  <text x="85.91" y="52.41" text-anchor="middle" style="dominant-baseline:central">Rhesus monkey</text>
-  <text x="103.13" y="91.44" text-anchor="middle" style="dominant-baseline:central">Water opossum</text>
-  <text x="114.95" y="26.6" text-anchor="middle" style="dominant-baseline:central">Human</text>
-  <text x="69.74" y="85.17" text-anchor="middle" style="dominant-baseline:central">Galago</text>
-  <text x="124.73" y="18.26" text-anchor="middle" style="dominant-baseline:central">Asian elephant</text>
-  <text x="97.34" y="84.8" text-anchor="middle" style="dominant-baseline:central">N.A. opossum</text>
-  <text x="54.87" y="106.01" text-anchor="middle" style="dominant-baseline:central">Star-nosed mole</text>
-  <text x="59.26" y="129.32" text-anchor="middle" style="dominant-baseline:central">Lesser short-tailed shrew</text>
-  <text x="58.74" y="91.91" text-anchor="middle" style="dominant-baseline:central">Ground squirrel</text>
-  <text x="90.38" y="59.42" text-anchor="middle" style="dominant-baseline:central">Verbet</text>
-  <text x="128.08" y="43.36" text-anchor="middle" style="dominant-baseline:central">Cow</text>
-  <text x="70.72" y="76.39" text-anchor="middle" style="dominant-baseline:central">Owl monkey</text>
-  <text x="85.25" y="66.62" text-anchor="middle" style="dominant-baseline:central">Arctic fox</text>
-</g>
-<g stroke="none" fill="#4C404B" font-family="Source Sans Pro" font-size="3.18">
-  <text x="54.57" y="138.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-2</tspan></text>
-  <text x="143.83" y="138.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">4</tspan></text>
-  <text x="84.32" y="138.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">0</tspan></text>
-  <text x="114.08" y="138.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">2</tspan></text>
-  <text x="24.81" y="138.45" text-anchor="middle">10<tspan baseline-shift="1.722548" font-size="83.333333%">-4</tspan></text>
-</g>
-<g stroke="none" fill="#362A35" font-family="Source Sans Pro" font-size="3.88">
-  <text x="84.32" y="145.4" text-anchor="middle">body</text>
-</g>
-<g stroke="none" fill="#362A35" font-family="Source Sans Pro" font-size="3.88">
-  <text x="9.47" y="69.09" text-anchor="middle" style="dominant-baseline:central" transform="rotate(-90, 9.47, 69.09)">brain</text>
-</g>
-<g stroke="none" fill="#4C404B" font-family="Source Sans Pro" font-size="3.18">
-  <text x="20.24" y="32.81" text-anchor="end" style="dominant-baseline:central">10<tspan baseline-shift="1.722548" font-size="83.333333%">3</tspan></text>
-  <text x="20.24" y="129.56" text-anchor="end" style="dominant-baseline:central">10<tspan baseline-shift="1.722548" font-size="83.333333%">-1</tspan></text>
-  <text x="20.24" y="105.37" text-anchor="end" style="dominant-baseline:central">10<tspan baseline-shift="1.722548" font-size="83.333333%">0</tspan></text>
-  <text x="20.24" y="8.63" text-anchor="end" style="dominant-baseline:central">10<tspan baseline-shift="1.722548" font-size="83.333333%">4</tspan></text>
-  <text x="20.24" y="57" text-anchor="end" style="dominant-baseline:central">10<tspan baseline-shift="1.722548" font-size="83.333333%">2</tspan></text>
-  <text x="20.24" y="81.19" text-anchor="end" style="dominant-baseline:central">10<tspan baseline-shift="1.722548" font-size="83.333333%">1</tspan></text>
-</g>
+<script type="application/ecmascript"><![CDATA[
+
+// Functions embedded in Gadfly plots to add interactivity.
+
+
+// Clicking an entry in a color key toggles visibility of the data within that
+// group.
+function toggle_color_group(name)
+{
+    geoms = document.getElementsByClassName('color_group_' + name);
+    entry = document.getElementById('color_key_' + name);
+    state = geoms[0].getAttribute('visibility');
+    if (!state || state == 'visible') {
+        for (i = 0; i < geoms.length; ++i) {
+            geoms[i].setAttribute('visibility', 'hidden');
+        }
+        entry.setAttribute('opacity', 0.5);
+    } else {
+        for (i = 0; i < geoms.length; ++i) {
+            geoms[i].setAttribute('visibility', 'visible');
+        }
+        entry.setAttribute('opacity', 1.0);
+    }
+}
+
+
+// Turn on a possibily hidden annotation.
+function show_annotation(id)
+{
+    annot = document.getElementById(id)
+    annot.setAttribute('visibility', 'visible')
+}
+
+
+// Turn off a possibly hidden annotation.
+function hide_annotation(id)
+{
+
+    annot = document.getElementById(id)
+    annot.setAttribute('visibility', 'hidden')
+}
+
+
+// Dim all geometry objects with some exceptions.
+function present_geometry(ids)
+{
+    on_anim_dur = 0.1;
+
+    off_anim = document.getElementById('panel-focus-filter-off-anim');
+    off_anim.endElement();
+
+    t0 = Number(off_anim.getStartTime());
+    if (t0 < Infinity) {
+        t = Number(off_anim.getCurrentTime());
+        d = Number(off_anim.getSimpleDuration());
+        from = Number(off_anim.getAttribute('from'));
+        to = Number(off_anim.getAttribute('to'));
+        p = Math.max(0.0, Math.min(1.0, ((t - t0) / d)));
+        v = from + p * (to - from);
+    }
+    else {
+        p=1.0;
+        v=0.0;
+    }
+
+    geoms = document.getElementsByClassName('geometry');
+    for (i = 0; i < geoms.length; ++i) {
+        geoms[i].setAttribute('filter', 'url(#panel-focus-filter)');
+    }
+
+    for (i = 0; i < ids.length; ++i) {
+        geom = document.getElementById(ids[i]);
+        geom.setAttribute('filter', 'inherit');
+    }
+
+    on_anim = document.getElementById('panel-focus-filter-on-anim');
+    on_anim.setAttribute('from', v);
+    on_anim.setAttribute('dur',  p * on_anim_dur + 's');
+    on_anim.beginElement();
+}
+
+
+// Set all geometries to full opacity.
+function unpresent_geometry()
+{
+    off_anim_dur = 0.3;
+
+    on_anim = document.getElementById('panel-focus-filter-on-anim');
+    on_anim.endElement();
+
+    t0 = Number(on_anim.getStartTime());
+    t = Number(on_anim.getCurrentTime());
+    d = Number(on_anim.getSimpleDuration());
+    from = Number(on_anim.getAttribute('from'));
+    to = Number(on_anim.getAttribute('to'));
+    p = Math.max(0.0, Math.min(1.0, ((t - t0) / d)));
+    v = from + p * (to - from);
+
+    off_anim = document.getElementById('panel-focus-filter-off-anim');
+    off_anim.setAttribute('from', v);
+    dur = p * off_anim_dur
+    off_anim.setAttribute('dur',  dur + 's');
+    off_anim.addEventListener('endEvent', unpresent_geometry_end);
+    off_anim.beginElement();
+
+    // Webkit doesn't support the "onend" attribute, so we work arround.
+    setTimeout("unpresent_geometry_end()", 1000 * dur);
+}
+
+
+// Called when the animation in unpresent_geometry finishes.
+// Enabling a filter, even if it has no effect, adds an extra layer of
+// rasterization, which tends to make things look like shit, so we clear all the
+// filters when the animation ends.
+function unpresent_geometry_end()
+{
+    // skip this function in the on_animation has been triggered since the last
+    // off_animation.
+    on_anim = document.getElementById('panel-focus-filter-on-anim');
+    off_anim = document.getElementById('panel-focus-filter-off-anim');
+    if (on_anim.getStartTime() > off_anim.getStartTime()) {
+        return;
+    }
+
+    // Skip this if the off animation isn't actually finished.
+    elapsed = off_anim.getCurrentTime() - off_anim.getStartTime();
+    if (elapsed < off_anim.getSimpleDuration()) {
+        return;
+    }
+
+    geoms = document.getElementsByClassName('geometry');
+    for (i = 0; i < geoms.length; ++i) {
+        geoms[i].setAttribute('filter', 'inherit');
+    }
+}
+
+
+]]></script>
+<defs>
+    <!--A filter used to deemphasize out of focus geometries for mouseover
+       -effects.-->
+    <!-- TODO: flood-color needs to be set from the current theme -->
+    <filter id="panel-focus-filter" x="-20%" y="-20%" width="140%" height="140%">
+        <feFlood flood-color="#f5f5f5" flood-opacity="0.5" result="flood">
+            <animate id="panel-focus-filter-off-anim"
+                      attributeName="flood-opacity" attributeType="XML"
+                      fill="freeze" begin="indefinite" dur="0.2s"
+                      from="0.8" to="0.0" onend="unpresent_geometry_end"/>
+            <animate id="panel-focus-filter-on-anim"
+                      attributeName="flood-opacity" attributeType="XML"
+                      fill="freeze" begin="indefinite" dur="0.1s"
+                      from="0.0" to="0.8" onend="unpresent_geometry_end"/>
+        </feFlood>
+        <feComposite operator="atop" in="flood" in2="SourceGraphic" />
+    </filter>
+</defs>
+
+<script type="application/ecmascript"><![CDATA[
+function js_chunk_f5779390b44608b1(evt) {
+  hide_annotation('id857'); unpresent_geometry()
+}
+
+function js_chunk_9f51cfbd085db077(evt) {
+  show_annotation('id941');present_geometry(['id940'])
+}
+
+function js_chunk_fb55088fc0017ce7(evt) {
+  show_annotation('id863');present_geometry(['id862'])
+}
+
+function js_chunk_747ae522325400da(evt) {
+  show_annotation('id875');present_geometry(['id874'])
+}
+
+function js_chunk_84d8c64c536ab1f6(evt) {
+  hide_annotation('id931'); unpresent_geometry()
+}
+
+function js_chunk_54f0f825f344bc7a(evt) {
+  show_annotation('id905');present_geometry(['id904'])
+}
+
+function js_chunk_eb11c1801f440010(evt) {
+  show_annotation('id853');present_geometry(['id852'])
+}
+
+function js_chunk_614811158c30a741(evt) {
+  show_annotation('id921');present_geometry(['id920'])
+}
+
+function js_chunk_95401fbff43a7a99(evt) {
+  show_annotation('id943');present_geometry(['id942'])
+}
+
+function js_chunk_d398638cf19b66ce(evt) {
+  show_annotation('id969');present_geometry(['id968'])
+}
+
+function js_chunk_34835919b3662632(evt) {
+  hide_annotation('id963'); unpresent_geometry()
+}
+
+function js_chunk_8d941825e4873979(evt) {
+  hide_annotation('id869'); unpresent_geometry()
+}
+
+function js_chunk_ea1cdfa19dc11137(evt) {
+  hide_annotation('id883'); unpresent_geometry()
+}
+
+function js_chunk_27045389976802e6(evt) {
+  show_annotation('id873');present_geometry(['id872'])
+}
+
+function js_chunk_23bbf15190cf263e(evt) {
+  hide_annotation('id861'); unpresent_geometry()
+}
+
+function js_chunk_7745e2f58a2ccbe(evt) {
+  hide_annotation('id941'); unpresent_geometry()
+}
+
+function js_chunk_2bbb1030a1d4af38(evt) {
+  show_annotation('id955');present_geometry(['id954'])
+}
+
+function js_chunk_3d492f79c3f167a2(evt) {
+  show_annotation('id869');present_geometry(['id868'])
+}
+
+function js_chunk_bec8e722c7087cce(evt) {
+  show_annotation('id915');present_geometry(['id914'])
+}
+
+function js_chunk_d7c3b0e778a89eef(evt) {
+  hide_annotation('id849'); unpresent_geometry()
+}
+
+function js_chunk_7364442ab068840b(evt) {
+  hide_annotation('id929'); unpresent_geometry()
+}
+
+function js_chunk_5b0bb238ffd19ee0(evt) {
+  hide_annotation('id943'); unpresent_geometry()
+}
+
+function js_chunk_9f87a15408720e45(evt) {
+  hide_annotation('id905'); unpresent_geometry()
+}
+
+function js_chunk_950cb9a07484025a(evt) {
+  hide_annotation('id969'); unpresent_geometry()
+}
+
+function js_chunk_dc5439158327610b(evt) {
+  show_annotation('id951');present_geometry(['id950'])
+}
+
+function js_chunk_2de29269252b1521(evt) {
+  hide_annotation('id897'); unpresent_geometry()
+}
+
+function js_chunk_48919c045a999dbf(evt) {
+  hide_annotation('id911'); unpresent_geometry()
+}
+
+function js_chunk_2d129149a3ae5aaa(evt) {
+  hide_annotation('id891'); unpresent_geometry()
+}
+
+function js_chunk_2aee61779f97ed22(evt) {
+  hide_annotation('id939'); unpresent_geometry()
+}
+
+function js_chunk_74b88417b3d19e35(evt) {
+  show_annotation('id961');present_geometry(['id960'])
+}
+
+function js_chunk_add5804d254afc13(evt) {
+  show_annotation('id929');present_geometry(['id928'])
+}
+
+function js_chunk_23a8b70890d892bc(evt) {
+  hide_annotation('id881'); unpresent_geometry()
+}
+
+function js_chunk_661a52bb969dcba1(evt) {
+  show_annotation('id967');present_geometry(['id966'])
+}
+
+function js_chunk_9b7374d780455390(evt) {
+  hide_annotation('id879'); unpresent_geometry()
+}
+
+function js_chunk_aadde99f1f76e95b(evt) {
+  show_annotation('id939');present_geometry(['id938'])
+}
+
+function js_chunk_f10ecb3e78042bf(evt) {
+  show_annotation('id879');present_geometry(['id878'])
+}
+
+function js_chunk_d44ee2c2731dd149(evt) {
+  hide_annotation('id949'); unpresent_geometry()
+}
+
+function js_chunk_e43f527e91e4bf21(evt) {
+  hide_annotation('id899'); unpresent_geometry()
+}
+
+function js_chunk_28f257611b061725(evt) {
+  hide_annotation('id851'); unpresent_geometry()
+}
+
+function js_chunk_33f32ebab16f9398(evt) {
+  show_annotation('id891');present_geometry(['id890'])
+}
+
+function js_chunk_aa71c0959e847cdc(evt) {
+  hide_annotation('id925'); unpresent_geometry()
+}
+
+function js_chunk_1e3c6f5c05dff577(evt) {
+  show_annotation('id895');present_geometry(['id894'])
+}
+
+function js_chunk_9111b9f06b8964f6(evt) {
+  show_annotation('id897');present_geometry(['id896'])
+}
+
+function js_chunk_a3cc571610ba1ca9(evt) {
+  show_annotation('id851');present_geometry(['id850'])
+}
+
+function js_chunk_feaf37b7c67f10ef(evt) {
+  hide_annotation('id855'); unpresent_geometry()
+}
+
+function js_chunk_566adc0777344649(evt) {
+  hide_annotation('id955'); unpresent_geometry()
+}
+
+function js_chunk_a02e13fb89ba5f18(evt) {
+  hide_annotation('id875'); unpresent_geometry()
+}
+
+function js_chunk_1c5a27c302542315(evt) {
+  show_annotation('id927');present_geometry(['id926'])
+}
+
+function js_chunk_e732cf8f97bce217(evt) {
+  show_annotation('id861');present_geometry(['id860'])
+}
+
+function js_chunk_f608b5fcb567ea6d(evt) {
+  hide_annotation('id867'); unpresent_geometry()
+}
+
+function js_chunk_c7219b99d7a177dc(evt) {
+  show_annotation('id877');present_geometry(['id876'])
+}
+
+function js_chunk_e0c7bdca8bf9fc1d(evt) {
+  hide_annotation('id971'); unpresent_geometry()
+}
+
+function js_chunk_f9687a4b3c3786de(evt) {
+  hide_annotation('id903'); unpresent_geometry()
+}
+
+function js_chunk_bf4bb7b8c80dd5b2(evt) {
+  show_annotation('id911');present_geometry(['id910'])
+}
+
+function js_chunk_c6c0459dd6dfbd78(evt) {
+  show_annotation('id871');present_geometry(['id870'])
+}
+
+function js_chunk_9b6a92b2004a0619(evt) {
+  hide_annotation('id909'); unpresent_geometry()
+}
+
+function js_chunk_46a4552657a84b93(evt) {
+  show_annotation('id965');present_geometry(['id964'])
+}
+
+function js_chunk_64de4a6b935d8fe1(evt) {
+  show_annotation('id925');present_geometry(['id924'])
+}
+
+function js_chunk_bbd810a941507b2f(evt) {
+  hide_annotation('id919'); unpresent_geometry()
+}
+
+function js_chunk_51b95ac76ce96355(evt) {
+  hide_annotation('id915'); unpresent_geometry()
+}
+
+function js_chunk_731bd7858c3e850(evt) {
+  hide_annotation('id959'); unpresent_geometry()
+}
+
+function js_chunk_f917f874bbb8f0e5(evt) {
+  show_annotation('id885');present_geometry(['id884'])
+}
+
+function js_chunk_4a59cb2b5e2a781d(evt) {
+  show_annotation('id917');present_geometry(['id916'])
+}
+
+function js_chunk_df517dd889039659(evt) {
+  hide_annotation('id961'); unpresent_geometry()
+}
+
+function js_chunk_629e46530eb15160(evt) {
+  hide_annotation('id907'); unpresent_geometry()
+}
+
+function js_chunk_b632dffdb586fdf8(evt) {
+  show_annotation('id849');present_geometry(['id848'])
+}
+
+function js_chunk_9f08839407706395(evt) {
+  hide_annotation('id873'); unpresent_geometry()
+}
+
+function js_chunk_12a70bbdeec2df5f(evt) {
+  show_annotation('id907');present_geometry(['id906'])
+}
+
+function js_chunk_26db676c98215008(evt) {
+  show_annotation('id971');present_geometry(['id970'])
+}
+
+function js_chunk_da9969cf7ed3595b(evt) {
+  hide_annotation('id921'); unpresent_geometry()
+}
+
+function js_chunk_c09b3801ca9d0048(evt) {
+  show_annotation('id903');present_geometry(['id902'])
+}
+
+function js_chunk_c045950149f191f7(evt) {
+  hide_annotation('id901'); unpresent_geometry()
+}
+
+function js_chunk_b82b81acb977ab12(evt) {
+  show_annotation('id855');present_geometry(['id854'])
+}
+
+function js_chunk_405188884b21ff4b(evt) {
+  hide_annotation('id951'); unpresent_geometry()
+}
+
+function js_chunk_f2ad8faa2ec18814(evt) {
+  show_annotation('id901');present_geometry(['id900'])
+}
+
+function js_chunk_ad33377ea3c5a1c6(evt) {
+  hide_annotation('id871'); unpresent_geometry()
+}
+
+function js_chunk_d884014e7a5e52bd(evt) {
+  hide_annotation('id865'); unpresent_geometry()
+}
+
+function js_chunk_f036941f29f6527e(evt) {
+  show_annotation('id887');present_geometry(['id886'])
+}
+
+function js_chunk_19144aedfca815df(evt) {
+  hide_annotation('id945'); unpresent_geometry()
+}
+
+function js_chunk_69121ccd6ab42c1(evt) {
+  hide_annotation('id885'); unpresent_geometry()
+}
+
+function js_chunk_7066066e2b35325e(evt) {
+  hide_annotation('id967'); unpresent_geometry()
+}
+
+function js_chunk_7d1c774443f3c482(evt) {
+  show_annotation('id935');present_geometry(['id934'])
+}
+
+function js_chunk_570754e8f7c94a14(evt) {
+  show_annotation('id933');present_geometry(['id932'])
+}
+
+function js_chunk_9df5b53c066a710d(evt) {
+  show_annotation('id953');present_geometry(['id952'])
+}
+
+function js_chunk_956a3b6df43b8f71(evt) {
+  hide_annotation('id895'); unpresent_geometry()
+}
+
+function js_chunk_41c7f943cd4ac7d6(evt) {
+  hide_annotation('id935'); unpresent_geometry()
+}
+
+function js_chunk_6ce14c2aa3391e97(evt) {
+  hide_annotation('id913'); unpresent_geometry()
+}
+
+function js_chunk_7199dd55ac8a0a41(evt) {
+  show_annotation('id865');present_geometry(['id864'])
+}
+
+function js_chunk_d5961cd1f4cc9578(evt) {
+  show_annotation('id919');present_geometry(['id918'])
+}
+
+function js_chunk_5a3c1ef6fe333edc(evt) {
+  show_annotation('id937');present_geometry(['id936'])
+}
+
+function js_chunk_184877ecfaf08fe5(evt) {
+  hide_annotation('id965'); unpresent_geometry()
+}
+
+function js_chunk_438e6b9450a429b7(evt) {
+  show_annotation('id883');present_geometry(['id882'])
+}
+
+function js_chunk_b0890816ab91fd92(evt) {
+  hide_annotation('id947'); unpresent_geometry()
+}
+
+function js_chunk_2df580fa25619323(evt) {
+  show_annotation('id913');present_geometry(['id912'])
+}
+
+function js_chunk_a431299e91b9c016(evt) {
+  hide_annotation('id863'); unpresent_geometry()
+}
+
+function js_chunk_715246deac2db723(evt) {
+  hide_annotation('id887'); unpresent_geometry()
+}
+
+function js_chunk_d8c371957b27924f(evt) {
+  hide_annotation('id923'); unpresent_geometry()
+}
+
+function js_chunk_6d652909a48377fd(evt) {
+  show_annotation('id931');present_geometry(['id930'])
+}
+
+function js_chunk_adc8616725f03767(evt) {
+  show_annotation('id963');present_geometry(['id962'])
+}
+
+function js_chunk_9786bbe5798d6b48(evt) {
+  show_annotation('id947');present_geometry(['id946'])
+}
+
+function js_chunk_bbba6e3540cb5a0b(evt) {
+  show_annotation('id867');present_geometry(['id866'])
+}
+
+function js_chunk_d23d83e1eedb75c0(evt) {
+  show_annotation('id959');present_geometry(['id958'])
+}
+
+function js_chunk_494ec7fd29eba47(evt) {
+  show_annotation('id909');present_geometry(['id908'])
+}
+
+function js_chunk_7acf641bbf26dc45(evt) {
+  show_annotation('id893');present_geometry(['id892'])
+}
+
+function js_chunk_36a1f2d1b69af042(evt) {
+  show_annotation('id859');present_geometry(['id858'])
+}
+
+function js_chunk_2f2a2e21a8b461d6(evt) {
+  show_annotation('id957');present_geometry(['id956'])
+}
+
+function js_chunk_9e6ee8760664f8d1(evt) {
+  show_annotation('id881');present_geometry(['id880'])
+}
+
+function js_chunk_1a9c74b6fe8fca61(evt) {
+  show_annotation('id857');present_geometry(['id856'])
+}
+
+function js_chunk_f2b7f02caf0fb2e5(evt) {
+  hide_annotation('id927'); unpresent_geometry()
+}
+
+function js_chunk_5c0133a082627103(evt) {
+  hide_annotation('id957'); unpresent_geometry()
+}
+
+function js_chunk_25e04ff3151ee109(evt) {
+  hide_annotation('id877'); unpresent_geometry()
+}
+
+function js_chunk_8716bf5bd74f11d5(evt) {
+  hide_annotation('id853'); unpresent_geometry()
+}
+
+function js_chunk_ef43e1a8281116f8(evt) {
+  hide_annotation('id889'); unpresent_geometry()
+}
+
+function js_chunk_e60d93a8169a2db0(evt) {
+  hide_annotation('id953'); unpresent_geometry()
+}
+
+function js_chunk_3fa45944c9035244(evt) {
+  hide_annotation('id933'); unpresent_geometry()
+}
+
+function js_chunk_78f5be363b428772(evt) {
+  hide_annotation('id859'); unpresent_geometry()
+}
+
+function js_chunk_cea2296966bb3c0b(evt) {
+  hide_annotation('id917'); unpresent_geometry()
+}
+
+function js_chunk_faed09f5c05a2053(evt) {
+  show_annotation('id949');present_geometry(['id948'])
+}
+
+function js_chunk_c1f572f74da5e593(evt) {
+  hide_annotation('id937'); unpresent_geometry()
+}
+
+function js_chunk_2066c0260a5590ff(evt) {
+  hide_annotation('id893'); unpresent_geometry()
+}
+
+function js_chunk_b055806eaa4bb0ca(evt) {
+  show_annotation('id923');present_geometry(['id922'])
+}
+
+function js_chunk_c5201063d3a63ba0(evt) {
+  show_annotation('id899');present_geometry(['id898'])
+}
+
+function js_chunk_b3b503afb1e98800(evt) {
+  show_annotation('id945');present_geometry(['id944'])
+}
+
+function js_chunk_bf4aef58481eed09(evt) {
+  show_annotation('id889');present_geometry(['id888'])
+}
+
+]]></script>
 </svg>

@@ -1,196 +1,2761 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="152.4mm" height="101.6mm" viewBox="0 0 152.4 101.6" style="stroke:black;fill:black" stroke-width="0.5">
-<g stroke="#F2F2F2" fill="#F5F5F5">
-  <path d="M 19.89 5 L 147.4 5 147.4 83.6 19.89 83.6 z" />
-  <g stroke="#FFFFFF" stroke-width="0.3">
-    <path d="M113.72,5 L 113.72 83.6" />
-    <path d="M23.5,5 L 23.5 83.6" />
-    <path d="M53.57,5 L 53.57 83.6" />
-    <path d="M83.65,5 L 83.65 83.6" />
-    <path d="M143.79,5 L 143.79 83.6" />
+<g>
+  <g stroke="none" fill="#4C404B" font-size="3.18" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
+    <text x="18.89" y="51.72" text-anchor="end" style="dominant-baseline:central">3</text>
+    <text x="18.89" y="36.89" text-anchor="end" style="dominant-baseline:central">3.5</text>
+    <text x="18.89" y="22.06" text-anchor="end" style="dominant-baseline:central">4</text>
+    <text x="18.89" y="81.38" text-anchor="end" style="dominant-baseline:central">2</text>
+    <text x="18.89" y="66.55" text-anchor="end" style="dominant-baseline:central">2.5</text>
+    <text x="18.89" y="7.22" text-anchor="end" style="dominant-baseline:central">4.5</text>
   </g>
-  <g stroke="#FFFFFF" stroke-width="0.3">
-    <path d="M19.89,51.72 L 147.4 51.72" />
-    <path d="M19.89,36.89 L 147.4 36.89" />
-    <path d="M19.89,22.06 L 147.4 22.06" />
-    <path d="M19.89,81.38 L 147.4 81.38" />
-    <path d="M19.89,66.55 L 147.4 66.55" />
-    <path d="M19.89,7.22 L 147.4 7.22" />
+  <g stroke="none" fill="#362A35" font-size="3.88" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
+    <text x="9.47" y="44.3" text-anchor="middle" style="dominant-baseline:central" transform="rotate(-90, 9.47, 44.3)">Sepal.Width</text>
+  </g>
+  <g stroke="none" fill="#362A35" font-size="3.88" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
+    <text x="83.65" y="94.6" text-anchor="middle">Sepal.Length</text>
+  </g>
+  <g stroke="none" fill="#4C404B" font-size="3.18" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
+    <text x="113.72" y="87.65" text-anchor="middle">7</text>
+    <text x="23.5" y="87.65" text-anchor="middle">4</text>
+    <text x="53.57" y="87.65" text-anchor="middle">5</text>
+    <text x="83.65" y="87.65" text-anchor="middle">6</text>
+    <text x="143.79" y="87.65" text-anchor="middle">8</text>
+  </g>
+  <g stroke="#F2F2F2" fill="#F5F5F5">
+    <path d="M 19.89 5 L 147.4 5 147.4 83.6 19.89 83.6 z" />
+    <g stroke="#FFFFFF" stroke-width="0.3">
+      <path d="M19.89,51.72 L 147.4 51.72" />
+      <path d="M19.89,36.89 L 147.4 36.89" />
+      <path d="M19.89,22.06 L 147.4 22.06" />
+      <path d="M19.89,81.38 L 147.4 81.38" />
+      <path d="M19.89,66.55 L 147.4 66.55" />
+      <path d="M19.89,7.22 L 147.4 7.22" />
+    </g>
+    <g stroke="#FFFFFF" stroke-width="0.3">
+      <path d="M113.72,5 L 113.72 83.6" />
+      <path d="M23.5,5 L 23.5 83.6" />
+      <path d="M53.57,5 L 53.57 83.6" />
+      <path d="M83.65,5 L 83.65 83.6" />
+      <path d="M143.79,5 L 143.79 83.6" />
+    </g>
+  </g>
+  <g stroke-width="0.3">
+    <g fill="#4682B4" stroke="#0F5D8C" class="color_group_RGB(0.27450980392156865,0.5098039215686274,0.7058823529411765)">
+      <g id="id296" class="geometry">
+        <circle cx="89.66" cy="39.85" r="0.5" />
+      </g>
+      <g id="id292" class="geometry">
+        <circle cx="92.67" cy="66.55" r="0.5" />
+      </g>
+      <g id="id288" class="geometry">
+        <circle cx="104.7" cy="42.82" r="0.5" />
+      </g>
+      <g id="id284" class="geometry">
+        <circle cx="77.63" cy="60.62" r="0.5" />
+      </g>
+      <g id="id280" class="geometry">
+        <circle cx="104.7" cy="48.75" r="0.5" />
+      </g>
+      <g id="id276" class="geometry">
+        <circle cx="83.65" cy="51.72" r="0.5" />
+      </g>
+      <g id="id272" class="geometry">
+        <circle cx="92.67" cy="39.85" r="0.5" />
+      </g>
+      <g id="id268" class="geometry">
+        <circle cx="86.65" cy="63.58" r="0.5" />
+      </g>
+      <g id="id264" class="geometry">
+        <circle cx="95.68" cy="57.65" r="0.5" />
+      </g>
+      <g id="id260" class="geometry">
+        <circle cx="125.75" cy="57.65" r="0.5" />
+      </g>
+      <g id="id256" class="geometry">
+        <circle cx="95.68" cy="57.65" r="0.5" />
+      </g>
+      <g id="id252" class="geometry">
+        <circle cx="89.66" cy="57.65" r="0.5" />
+      </g>
+      <g id="id248" class="geometry">
+        <circle cx="104.7" cy="42.82" r="0.5" />
+      </g>
+      <g id="id244" class="geometry">
+        <circle cx="134.77" cy="57.65" r="0.5" />
+      </g>
+      <g id="id240" class="geometry">
+        <circle cx="110.71" cy="45.79" r="0.5" />
+      </g>
+      <g id="id236" class="geometry">
+        <circle cx="134.77" cy="63.58" r="0.5" />
+      </g>
+      <g id="id232" class="geometry">
+        <circle cx="98.68" cy="51.72" r="0.5" />
+      </g>
+      <g id="id228" class="geometry">
+        <circle cx="77.63" cy="57.65" r="0.5" />
+      </g>
+      <g id="id224" class="geometry">
+        <circle cx="107.7" cy="51.72" r="0.5" />
+      </g>
+      <g id="id220" class="geometry">
+        <circle cx="98.68" cy="45.79" r="0.5" />
+      </g>
+      <g id="id216" class="geometry">
+        <circle cx="104.7" cy="66.55" r="0.5" />
+      </g>
+      <g id="id212" class="geometry">
+        <circle cx="50.57" cy="66.55" r="0.5" />
+      </g>
+      <g id="id208" class="geometry">
+        <circle cx="98.68" cy="51.72" r="0.5" />
+      </g>
+      <g id="id204" class="geometry">
+        <circle cx="116.73" cy="51.72" r="0.5" />
+      </g>
+      <g id="id200" class="geometry">
+        <circle cx="92.67" cy="42.82" r="0.5" />
+      </g>
+      <g id="id196" class="geometry">
+        <circle cx="56.58" cy="66.55" r="0.5" />
+      </g>
+      <g id="id192" class="geometry">
+        <circle cx="74.63" cy="54.68" r="0.5" />
+      </g>
+      <g id="id188" class="geometry">
+        <circle cx="71.62" cy="60.62" r="0.5" />
+      </g>
+      <g id="id184" class="geometry">
+        <circle cx="77.63" cy="63.58" r="0.5" />
+      </g>
+      <g id="id180" class="geometry">
+        <circle cx="68.61" cy="63.58" r="0.5" />
+      </g>
+      <g id="id176" class="geometry">
+        <circle cx="71.62" cy="51.72" r="0.5" />
+      </g>
+      <g id="id172" class="geometry">
+        <circle cx="104.7" cy="48.75" r="0.5" />
+      </g>
+      <g id="id168" class="geometry">
+        <circle cx="65.6" cy="51.72" r="0.5" />
+      </g>
+      <g id="id164" class="geometry">
+        <circle cx="77.63" cy="60.62" r="0.5" />
+      </g>
+      <g id="id160" class="geometry">
+        <circle cx="68.61" cy="69.51" r="0.5" />
+      </g>
+      <g id="id156" class="geometry">
+        <circle cx="83.65" cy="54.68" r="0.5" />
+      </g>
+      <g id="id152" class="geometry">
+        <circle cx="107.7" cy="57.65" r="0.5" />
+      </g>
+      <g id="id148" class="geometry">
+        <circle cx="95.68" cy="54.68" r="0.5" />
+      </g>
+      <g id="id144" class="geometry">
+        <circle cx="92.67" cy="66.55" r="0.5" />
+      </g>
+      <g id="id140" class="geometry">
+        <circle cx="80.64" cy="45.79" r="0.5" />
+      </g>
+      <g id="id136" class="geometry">
+        <circle cx="89.66" cy="75.45" r="0.5" />
+      </g>
+      <g id="id132" class="geometry">
+        <circle cx="71.62" cy="51.72" r="0.5" />
+      </g>
+      <g id="id128" class="geometry">
+        <circle cx="71.62" cy="54.68" r="0.5" />
+      </g>
+      <g id="id124" class="geometry">
+        <circle cx="83.65" cy="75.45" r="0.5" />
+      </g>
+      <g id="id120" class="geometry">
+        <circle cx="53.57" cy="81.38" r="0.5" />
+      </g>
+      <g id="id116" class="geometry">
+        <circle cx="101.69" cy="54.68" r="0.5" />
+      </g>
+      <g id="id112" class="geometry">
+        <circle cx="92.67" cy="42.82" r="0.5" />
+      </g>
+      <g id="id108" class="geometry">
+        <circle cx="98.68" cy="57.65" r="0.5" />
+      </g>
+      <g id="id104" class="geometry">
+        <circle cx="110.71" cy="48.75" r="0.5" />
+      </g>
+      <g id="id100" class="geometry">
+        <circle cx="113.72" cy="45.79" r="0.5" />
+      </g>
+      <g id="id96" class="geometry">
+        <circle cx="62.6" cy="30.95" r="0.5" />
+      </g>
+      <g id="id92" class="geometry">
+        <circle cx="56.58" cy="27.99" r="0.5" />
+      </g>
+      <g id="id88" class="geometry">
+        <circle cx="56.58" cy="27.99" r="0.5" />
+      </g>
+      <g id="id84" class="geometry">
+        <circle cx="35.53" cy="45.79" r="0.5" />
+      </g>
+      <g id="id80" class="geometry">
+        <circle cx="53.57" cy="36.89" r="0.5" />
+      </g>
+      <g id="id76" class="geometry">
+        <circle cx="35.53" cy="51.72" r="0.5" />
+      </g>
+      <g id="id72" class="geometry">
+        <circle cx="68.61" cy="36.89" r="0.5" />
+      </g>
+      <g id="id68" class="geometry">
+        <circle cx="50.57" cy="48.75" r="0.5" />
+      </g>
+      <g id="id64" class="geometry">
+        <circle cx="59.59" cy="19.09" r="0.5" />
+      </g>
+      <g id="id60" class="geometry">
+        <circle cx="47.56" cy="48.75" r="0.5" />
+      </g>
+      <g id="id56" class="geometry">
+        <circle cx="59.59" cy="39.85" r="0.5" />
+      </g>
+      <g id="id52" class="geometry">
+        <circle cx="53.57" cy="39.85" r="0.5" />
+      </g>
+      <g id="id48" class="geometry">
+        <circle cx="47.56" cy="39.85" r="0.5" />
+      </g>
+      <g id="id44" class="geometry">
+        <circle cx="41.55" cy="33.92" r="0.5" />
+      </g>
+      <g id="id40" class="geometry">
+        <circle cx="65.6" cy="39.85" r="0.5" />
+      </g>
+      <g id="id36" class="geometry">
+        <circle cx="74.63" cy="27.99" r="0.5" />
+      </g>
+      <g id="id32" class="geometry">
+        <circle cx="65.6" cy="25.02" r="0.5" />
+      </g>
+      <g id="id28" class="geometry">
+        <circle cx="77.63" cy="22.06" r="0.5" />
+      </g>
+      <g id="id24" class="geometry">
+        <circle cx="47.56" cy="51.72" r="0.5" />
+      </g>
+      <g id="id20" class="geometry">
+        <circle cx="65.6" cy="30.95" r="0.5" />
+      </g>
+      <g id="id16" class="geometry">
+        <circle cx="35.53" cy="54.68" r="0.5" />
+      </g>
+      <g id="id12" class="geometry">
+        <circle cx="41.55" cy="39.85" r="0.5" />
+      </g>
+      <g id="id8" class="geometry">
+        <circle cx="53.57" cy="33.92" r="0.5" />
+      </g>
+      <g id="id4" class="geometry">
+        <circle cx="44.55" cy="45.79" r="0.5" />
+      </g>
+      <g id="id0" class="geometry">
+        <circle cx="56.58" cy="36.89" r="0.5" />
+      </g>
+      <g id="id2" class="geometry">
+        <circle cx="50.57" cy="51.72" r="0.5" />
+      </g>
+      <g id="id6" class="geometry">
+        <circle cx="41.55" cy="48.75" r="0.5" />
+      </g>
+      <g id="id10" class="geometry">
+        <circle cx="65.6" cy="25.02" r="0.5" />
+      </g>
+      <g id="id14" class="geometry">
+        <circle cx="53.57" cy="39.85" r="0.5" />
+      </g>
+      <g id="id18" class="geometry">
+        <circle cx="50.57" cy="48.75" r="0.5" />
+      </g>
+      <g id="id22" class="geometry">
+        <circle cx="47.56" cy="39.85" r="0.5" />
+      </g>
+      <g id="id26" class="geometry">
+        <circle cx="32.52" cy="51.72" r="0.5" />
+      </g>
+      <g id="id30" class="geometry">
+        <circle cx="74.63" cy="10.19" r="0.5" />
+      </g>
+      <g id="id34" class="geometry">
+        <circle cx="56.58" cy="36.89" r="0.5" />
+      </g>
+      <g id="id38" class="geometry">
+        <circle cx="56.58" cy="27.99" r="0.5" />
+      </g>
+      <g id="id42" class="geometry">
+        <circle cx="56.58" cy="30.95" r="0.5" />
+      </g>
+      <g id="id46" class="geometry">
+        <circle cx="56.58" cy="42.82" r="0.5" />
+      </g>
+      <g id="id50" class="geometry">
+        <circle cx="53.57" cy="51.72" r="0.5" />
+      </g>
+      <g id="id54" class="geometry">
+        <circle cx="59.59" cy="36.89" r="0.5" />
+      </g>
+      <g id="id58" class="geometry">
+        <circle cx="44.55" cy="45.79" r="0.5" />
+      </g>
+      <g id="id62" class="geometry">
+        <circle cx="65.6" cy="39.85" r="0.5" />
+      </g>
+      <g id="id66" class="geometry">
+        <circle cx="68.61" cy="16.12" r="0.5" />
+      </g>
+      <g id="id70" class="geometry">
+        <circle cx="53.57" cy="45.79" r="0.5" />
+      </g>
+      <g id="id74" class="geometry">
+        <circle cx="50.57" cy="33.92" r="0.5" />
+      </g>
+      <g id="id78" class="geometry">
+        <circle cx="56.58" cy="39.85" r="0.5" />
+      </g>
+      <g id="id82" class="geometry">
+        <circle cx="38.54" cy="72.48" r="0.5" />
+      </g>
+      <g id="id86" class="geometry">
+        <circle cx="53.57" cy="36.89" r="0.5" />
+      </g>
+      <g id="id90" class="geometry">
+        <circle cx="47.56" cy="51.72" r="0.5" />
+      </g>
+      <g id="id94" class="geometry">
+        <circle cx="41.55" cy="45.79" r="0.5" />
+      </g>
+      <g id="id98" class="geometry">
+        <circle cx="53.57" cy="42.82" r="0.5" />
+      </g>
+      <g id="id102" class="geometry">
+        <circle cx="95.68" cy="45.79" r="0.5" />
+      </g>
+      <g id="id106" class="geometry">
+        <circle cx="68.61" cy="72.48" r="0.5" />
+      </g>
+      <g id="id110" class="geometry">
+        <circle cx="74.63" cy="57.65" r="0.5" />
+      </g>
+      <g id="id114" class="geometry">
+        <circle cx="50.57" cy="69.51" r="0.5" />
+      </g>
+      <g id="id118" class="geometry">
+        <circle cx="59.59" cy="60.62" r="0.5" />
+      </g>
+      <g id="id122" class="geometry">
+        <circle cx="80.64" cy="51.72" r="0.5" />
+      </g>
+      <g id="id126" class="geometry">
+        <circle cx="86.65" cy="54.68" r="0.5" />
+      </g>
+      <g id="id130" class="geometry">
+        <circle cx="104.7" cy="48.75" r="0.5" />
+      </g>
+      <g id="id134" class="geometry">
+        <circle cx="77.63" cy="60.62" r="0.5" />
+      </g>
+      <g id="id138" class="geometry">
+        <circle cx="71.62" cy="66.55" r="0.5" />
+      </g>
+      <g id="id142" class="geometry">
+        <circle cx="86.65" cy="57.65" r="0.5" />
+      </g>
+      <g id="id146" class="geometry">
+        <circle cx="86.65" cy="57.65" r="0.5" />
+      </g>
+      <g id="id150" class="geometry">
+        <circle cx="101.69" cy="51.72" r="0.5" />
+      </g>
+      <g id="id154" class="geometry">
+        <circle cx="104.7" cy="51.72" r="0.5" />
+      </g>
+      <g id="id158" class="geometry">
+        <circle cx="74.63" cy="63.58" r="0.5" />
+      </g>
+      <g id="id162" class="geometry">
+        <circle cx="68.61" cy="69.51" r="0.5" />
+      </g>
+      <g id="id166" class="geometry">
+        <circle cx="83.65" cy="60.62" r="0.5" />
+      </g>
+      <g id="id170" class="geometry">
+        <circle cx="83.65" cy="39.85" r="0.5" />
+      </g>
+      <g id="id174" class="geometry">
+        <circle cx="92.67" cy="72.48" r="0.5" />
+      </g>
+      <g id="id178" class="geometry">
+        <circle cx="68.61" cy="66.55" r="0.5" />
+      </g>
+      <g id="id182" class="geometry">
+        <circle cx="86.65" cy="51.72" r="0.5" />
+      </g>
+      <g id="id186" class="geometry">
+        <circle cx="53.57" cy="72.48" r="0.5" />
+      </g>
+      <g id="id190" class="geometry">
+        <circle cx="74.63" cy="51.72" r="0.5" />
+      </g>
+      <g id="id194" class="geometry">
+        <circle cx="89.66" cy="54.68" r="0.5" />
+      </g>
+      <g id="id198" class="geometry">
+        <circle cx="74.63" cy="57.65" r="0.5" />
+      </g>
+      <g id="id202" class="geometry">
+        <circle cx="77.63" cy="60.62" r="0.5" />
+      </g>
+      <g id="id206" class="geometry">
+        <circle cx="92.67" cy="54.68" r="0.5" />
+      </g>
+      <g id="id210" class="geometry">
+        <circle cx="131.76" cy="51.72" r="0.5" />
+      </g>
+      <g id="id214" class="geometry">
+        <circle cx="122.74" cy="54.68" r="0.5" />
+      </g>
+      <g id="id218" class="geometry">
+        <circle cx="119.73" cy="33.92" r="0.5" />
+      </g>
+      <g id="id222" class="geometry">
+        <circle cx="95.68" cy="60.62" r="0.5" />
+      </g>
+      <g id="id226" class="geometry">
+        <circle cx="74.63" cy="66.55" r="0.5" />
+      </g>
+      <g id="id230" class="geometry">
+        <circle cx="95.68" cy="45.79" r="0.5" />
+      </g>
+      <g id="id234" class="geometry">
+        <circle cx="134.77" cy="27.99" r="0.5" />
+      </g>
+      <g id="id238" class="geometry">
+        <circle cx="83.65" cy="75.45" r="0.5" />
+      </g>
+      <g id="id242" class="geometry">
+        <circle cx="71.62" cy="57.65" r="0.5" />
+      </g>
+      <g id="id246" class="geometry">
+        <circle cx="92.67" cy="60.62" r="0.5" />
+      </g>
+      <g id="id250" class="geometry">
+        <circle cx="119.73" cy="45.79" r="0.5" />
+      </g>
+      <g id="id254" class="geometry">
+        <circle cx="86.65" cy="51.72" r="0.5" />
+      </g>
+      <g id="id258" class="geometry">
+        <circle cx="119.73" cy="51.72" r="0.5" />
+      </g>
+      <g id="id262" class="geometry">
+        <circle cx="140.78" cy="27.99" r="0.5" />
+      </g>
+      <g id="id266" class="geometry">
+        <circle cx="92.67" cy="57.65" r="0.5" />
+      </g>
+      <g id="id270" class="geometry">
+        <circle cx="134.77" cy="51.72" r="0.5" />
+      </g>
+      <g id="id274" class="geometry">
+        <circle cx="95.68" cy="48.75" r="0.5" />
+      </g>
+      <g id="id278" class="geometry">
+        <circle cx="110.71" cy="48.75" r="0.5" />
+      </g>
+      <g id="id282" class="geometry">
+        <circle cx="110.71" cy="48.75" r="0.5" />
+      </g>
+      <g id="id286" class="geometry">
+        <circle cx="107.7" cy="45.79" r="0.5" />
+      </g>
+      <g id="id290" class="geometry">
+        <circle cx="104.7" cy="51.72" r="0.5" />
+      </g>
+      <g id="id294" class="geometry">
+        <circle cx="98.68" cy="51.72" r="0.5" />
+      </g>
+      <g id="id298" class="geometry">
+        <circle cx="80.64" cy="51.72" r="0.5" />
+      </g>
+    </g>
+  </g>
+  <g stroke="none" visibility="hidden" font-size="3.18" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
+    <g id="id297">
+      <text x="89.66" y="38.35" text-anchor="middle">6.2, 3.4</text>
+    </g>
+    <g id="id293">
+      <text x="92.67" y="65.05" text-anchor="middle">6.3, 2.5</text>
+    </g>
+    <g id="id289">
+      <text x="104.7" y="41.32" text-anchor="middle">6.7, 3.3</text>
+    </g>
+    <g id="id285">
+      <text x="77.63" y="59.12" text-anchor="middle">5.8, 2.7</text>
+    </g>
+    <g id="id281">
+      <text x="104.7" y="47.25" text-anchor="middle">6.7, 3.1</text>
+    </g>
+    <g id="id277">
+      <text x="83.65" y="50.22" text-anchor="middle">6, 3</text>
+    </g>
+    <g id="id273">
+      <text x="92.67" y="38.35" text-anchor="middle">6.3, 3.4</text>
+    </g>
+    <g id="id269">
+      <text x="86.65" y="62.08" text-anchor="middle">6.1, 2.6</text>
+    </g>
+    <g id="id265">
+      <text x="95.68" y="56.15" text-anchor="middle">6.4, 2.8</text>
+    </g>
+    <g id="id261">
+      <text x="125.75" y="56.15" text-anchor="middle">7.4, 2.8</text>
+    </g>
+    <g id="id257">
+      <text x="95.68" y="56.15" text-anchor="middle">6.4, 2.8</text>
+    </g>
+    <g id="id253">
+      <text x="89.66" y="56.15" text-anchor="middle">6.2, 2.8</text>
+    </g>
+    <g id="id249">
+      <text x="104.7" y="41.32" text-anchor="middle">6.7, 3.3</text>
+    </g>
+    <g id="id245">
+      <text x="134.77" y="56.15" text-anchor="middle">7.7, 2.8</text>
+    </g>
+    <g id="id241">
+      <text x="110.71" y="44.29" text-anchor="middle">6.9, 3.2</text>
+    </g>
+    <g id="id237">
+      <text x="134.77" y="62.08" text-anchor="middle">7.7, 2.6</text>
+    </g>
+    <g id="id233">
+      <text x="98.68" y="50.22" text-anchor="middle">6.5, 3</text>
+    </g>
+    <g id="id229">
+      <text x="77.63" y="56.15" text-anchor="middle">5.8, 2.8</text>
+    </g>
+    <g id="id225">
+      <text x="107.7" y="50.22" text-anchor="middle">6.8, 3</text>
+    </g>
+    <g id="id221">
+      <text x="98.68" y="44.29" text-anchor="middle">6.5, 3.2</text>
+    </g>
+    <g id="id217">
+      <text x="104.7" y="65.05" text-anchor="middle">6.7, 2.5</text>
+    </g>
+    <g id="id213">
+      <text x="50.57" y="65.05" text-anchor="middle">4.9, 2.5</text>
+    </g>
+    <g id="id209">
+      <text x="98.68" y="50.22" text-anchor="middle">6.5, 3</text>
+    </g>
+    <g id="id205">
+      <text x="116.73" y="50.22" text-anchor="middle">7.1, 3</text>
+    </g>
+    <g id="id201">
+      <text x="92.67" y="41.32" text-anchor="middle">6.3, 3.3</text>
+    </g>
+    <g id="id197">
+      <text x="56.58" y="65.05" text-anchor="middle">5.1, 2.5</text>
+    </g>
+    <g id="id193">
+      <text x="74.63" y="53.18" text-anchor="middle">5.7, 2.9</text>
+    </g>
+    <g id="id189">
+      <text x="71.62" y="59.12" text-anchor="middle">5.6, 2.7</text>
+    </g>
+    <g id="id185">
+      <text x="77.63" y="62.08" text-anchor="middle">5.8, 2.6</text>
+    </g>
+    <g id="id181">
+      <text x="68.61" y="62.08" text-anchor="middle">5.5, 2.6</text>
+    </g>
+    <g id="id177">
+      <text x="71.62" y="50.22" text-anchor="middle">5.6, 3</text>
+    </g>
+    <g id="id173">
+      <text x="104.7" y="47.25" text-anchor="middle">6.7, 3.1</text>
+    </g>
+    <g id="id169">
+      <text x="65.6" y="50.22" text-anchor="middle">5.4, 3</text>
+    </g>
+    <g id="id165">
+      <text x="77.63" y="59.12" text-anchor="middle">5.8, 2.7</text>
+    </g>
+    <g id="id161">
+      <text x="68.61" y="68.01" text-anchor="middle">5.5, 2.4</text>
+    </g>
+    <g id="id157">
+      <text x="83.65" y="53.18" text-anchor="middle">6, 2.9</text>
+    </g>
+    <g id="id153">
+      <text x="107.7" y="56.15" text-anchor="middle">6.8, 2.8</text>
+    </g>
+    <g id="id149">
+      <text x="95.68" y="53.18" text-anchor="middle">6.4, 2.9</text>
+    </g>
+    <g id="id145">
+      <text x="92.67" y="65.05" text-anchor="middle">6.3, 2.5</text>
+    </g>
+    <g id="id141">
+      <text x="80.64" y="44.29" text-anchor="middle">5.9, 3.2</text>
+    </g>
+    <g id="id137">
+      <text x="89.66" y="73.95" text-anchor="middle">6.2, 2.2</text>
+    </g>
+    <g id="id133">
+      <text x="71.62" y="50.22" text-anchor="middle">5.6, 3</text>
+    </g>
+    <g id="id129">
+      <text x="71.62" y="53.18" text-anchor="middle">5.6, 2.9</text>
+    </g>
+    <g id="id125">
+      <text x="83.65" y="73.95" text-anchor="middle">6, 2.2</text>
+    </g>
+    <g id="id121">
+      <text x="53.57" y="79.88" text-anchor="middle">5, 2</text>
+    </g>
+    <g id="id117">
+      <text x="101.69" y="53.18" text-anchor="middle">6.6, 2.9</text>
+    </g>
+    <g id="id113">
+      <text x="92.67" y="41.32" text-anchor="middle">6.3, 3.3</text>
+    </g>
+    <g id="id109">
+      <text x="98.68" y="56.15" text-anchor="middle">6.5, 2.8</text>
+    </g>
+    <g id="id105">
+      <text x="110.71" y="47.25" text-anchor="middle">6.9, 3.1</text>
+    </g>
+    <g id="id101">
+      <text x="113.72" y="44.29" text-anchor="middle">7, 3.2</text>
+    </g>
+    <g id="id97">
+      <text x="62.6" y="29.45" text-anchor="middle">5.3, 3.7</text>
+    </g>
+    <g id="id93">
+      <text x="56.58" y="26.49" text-anchor="middle">5.1, 3.8</text>
+    </g>
+    <g id="id89">
+      <text x="56.58" y="26.49" text-anchor="middle">5.1, 3.8</text>
+    </g>
+    <g id="id85">
+      <text x="35.53" y="44.29" text-anchor="middle">4.4, 3.2</text>
+    </g>
+    <g id="id81">
+      <text x="53.57" y="35.39" text-anchor="middle">5, 3.5</text>
+    </g>
+    <g id="id77">
+      <text x="35.53" y="50.22" text-anchor="middle">4.4, 3</text>
+    </g>
+    <g id="id73">
+      <text x="68.61" y="35.39" text-anchor="middle">5.5, 3.5</text>
+    </g>
+    <g id="id69">
+      <text x="50.57" y="47.25" text-anchor="middle">4.9, 3.1</text>
+    </g>
+    <g id="id65">
+      <text x="59.59" y="17.59" text-anchor="middle">5.2, 4.1</text>
+    </g>
+    <g id="id61">
+      <text x="47.56" y="47.25" text-anchor="middle">4.8, 3.1</text>
+    </g>
+    <g id="id57">
+      <text x="59.59" y="38.35" text-anchor="middle">5.2, 3.4</text>
+    </g>
+    <g id="id53">
+      <text x="53.57" y="38.35" text-anchor="middle">5, 3.4</text>
+    </g>
+    <g id="id49">
+      <text x="47.56" y="38.35" text-anchor="middle">4.8, 3.4</text>
+    </g>
+    <g id="id45">
+      <text x="41.55" y="32.42" text-anchor="middle">4.6, 3.6</text>
+    </g>
+    <g id="id41">
+      <text x="65.6" y="38.35" text-anchor="middle">5.4, 3.4</text>
+    </g>
+    <g id="id37">
+      <text x="74.63" y="26.49" text-anchor="middle">5.7, 3.8</text>
+    </g>
+    <g id="id33">
+      <text x="65.6" y="23.52" text-anchor="middle">5.4, 3.9</text>
+    </g>
+    <g id="id29">
+      <text x="77.63" y="20.56" text-anchor="middle">5.8, 4</text>
+    </g>
+    <g id="id25">
+      <text x="47.56" y="50.22" text-anchor="middle">4.8, 3</text>
+    </g>
+    <g id="id21">
+      <text x="65.6" y="29.45" text-anchor="middle">5.4, 3.7</text>
+    </g>
+    <g id="id17">
+      <text x="35.53" y="53.18" text-anchor="middle">4.4, 2.9</text>
+    </g>
+    <g id="id13">
+      <text x="41.55" y="38.35" text-anchor="middle">4.6, 3.4</text>
+    </g>
+    <g id="id9">
+      <text x="53.57" y="32.42" text-anchor="middle">5, 3.6</text>
+    </g>
+    <g id="id5">
+      <text x="44.55" y="44.29" text-anchor="middle">4.7, 3.2</text>
+    </g>
+    <g id="id1">
+      <text x="56.58" y="35.39" text-anchor="middle">5.1, 3.5</text>
+    </g>
+    <g id="id3">
+      <text x="50.57" y="50.22" text-anchor="middle">4.9, 3</text>
+    </g>
+    <g id="id7">
+      <text x="41.55" y="47.25" text-anchor="middle">4.6, 3.1</text>
+    </g>
+    <g id="id11">
+      <text x="65.6" y="23.52" text-anchor="middle">5.4, 3.9</text>
+    </g>
+    <g id="id15">
+      <text x="53.57" y="38.35" text-anchor="middle">5, 3.4</text>
+    </g>
+    <g id="id19">
+      <text x="50.57" y="47.25" text-anchor="middle">4.9, 3.1</text>
+    </g>
+    <g id="id23">
+      <text x="47.56" y="38.35" text-anchor="middle">4.8, 3.4</text>
+    </g>
+    <g id="id27">
+      <text x="32.52" y="50.22" text-anchor="middle">4.3, 3</text>
+    </g>
+    <g id="id31">
+      <text x="74.63" y="8.69" text-anchor="middle">5.7, 4.4</text>
+    </g>
+    <g id="id35">
+      <text x="56.58" y="35.39" text-anchor="middle">5.1, 3.5</text>
+    </g>
+    <g id="id39">
+      <text x="56.58" y="26.49" text-anchor="middle">5.1, 3.8</text>
+    </g>
+    <g id="id43">
+      <text x="56.58" y="29.45" text-anchor="middle">5.1, 3.7</text>
+    </g>
+    <g id="id47">
+      <text x="56.58" y="41.32" text-anchor="middle">5.1, 3.3</text>
+    </g>
+    <g id="id51">
+      <text x="53.57" y="50.22" text-anchor="middle">5, 3</text>
+    </g>
+    <g id="id55">
+      <text x="59.59" y="35.39" text-anchor="middle">5.2, 3.5</text>
+    </g>
+    <g id="id59">
+      <text x="44.55" y="44.29" text-anchor="middle">4.7, 3.2</text>
+    </g>
+    <g id="id63">
+      <text x="65.6" y="38.35" text-anchor="middle">5.4, 3.4</text>
+    </g>
+    <g id="id67">
+      <text x="68.61" y="14.62" text-anchor="middle">5.5, 4.2</text>
+    </g>
+    <g id="id71">
+      <text x="53.57" y="44.29" text-anchor="middle">5, 3.2</text>
+    </g>
+    <g id="id75">
+      <text x="50.57" y="32.42" text-anchor="middle">4.9, 3.6</text>
+    </g>
+    <g id="id79">
+      <text x="56.58" y="38.35" text-anchor="middle">5.1, 3.4</text>
+    </g>
+    <g id="id83">
+      <text x="38.54" y="70.98" text-anchor="middle">4.5, 2.3</text>
+    </g>
+    <g id="id87">
+      <text x="53.57" y="35.39" text-anchor="middle">5, 3.5</text>
+    </g>
+    <g id="id91">
+      <text x="47.56" y="50.22" text-anchor="middle">4.8, 3</text>
+    </g>
+    <g id="id95">
+      <text x="41.55" y="44.29" text-anchor="middle">4.6, 3.2</text>
+    </g>
+    <g id="id99">
+      <text x="53.57" y="41.32" text-anchor="middle">5, 3.3</text>
+    </g>
+    <g id="id103">
+      <text x="95.68" y="44.29" text-anchor="middle">6.4, 3.2</text>
+    </g>
+    <g id="id107">
+      <text x="68.61" y="70.98" text-anchor="middle">5.5, 2.3</text>
+    </g>
+    <g id="id111">
+      <text x="74.63" y="56.15" text-anchor="middle">5.7, 2.8</text>
+    </g>
+    <g id="id115">
+      <text x="50.57" y="68.01" text-anchor="middle">4.9, 2.4</text>
+    </g>
+    <g id="id119">
+      <text x="59.59" y="59.12" text-anchor="middle">5.2, 2.7</text>
+    </g>
+    <g id="id123">
+      <text x="80.64" y="50.22" text-anchor="middle">5.9, 3</text>
+    </g>
+    <g id="id127">
+      <text x="86.65" y="53.18" text-anchor="middle">6.1, 2.9</text>
+    </g>
+    <g id="id131">
+      <text x="104.7" y="47.25" text-anchor="middle">6.7, 3.1</text>
+    </g>
+    <g id="id135">
+      <text x="77.63" y="59.12" text-anchor="middle">5.8, 2.7</text>
+    </g>
+    <g id="id139">
+      <text x="71.62" y="65.05" text-anchor="middle">5.6, 2.5</text>
+    </g>
+    <g id="id143">
+      <text x="86.65" y="56.15" text-anchor="middle">6.1, 2.8</text>
+    </g>
+    <g id="id147">
+      <text x="86.65" y="56.15" text-anchor="middle">6.1, 2.8</text>
+    </g>
+    <g id="id151">
+      <text x="101.69" y="50.22" text-anchor="middle">6.6, 3</text>
+    </g>
+    <g id="id155">
+      <text x="104.7" y="50.22" text-anchor="middle">6.7, 3</text>
+    </g>
+    <g id="id159">
+      <text x="74.63" y="62.08" text-anchor="middle">5.7, 2.6</text>
+    </g>
+    <g id="id163">
+      <text x="68.61" y="68.01" text-anchor="middle">5.5, 2.4</text>
+    </g>
+    <g id="id167">
+      <text x="83.65" y="59.12" text-anchor="middle">6, 2.7</text>
+    </g>
+    <g id="id171">
+      <text x="83.65" y="38.35" text-anchor="middle">6, 3.4</text>
+    </g>
+    <g id="id175">
+      <text x="92.67" y="70.98" text-anchor="middle">6.3, 2.3</text>
+    </g>
+    <g id="id179">
+      <text x="68.61" y="65.05" text-anchor="middle">5.5, 2.5</text>
+    </g>
+    <g id="id183">
+      <text x="86.65" y="50.22" text-anchor="middle">6.1, 3</text>
+    </g>
+    <g id="id187">
+      <text x="53.57" y="70.98" text-anchor="middle">5, 2.3</text>
+    </g>
+    <g id="id191">
+      <text x="74.63" y="50.22" text-anchor="middle">5.7, 3</text>
+    </g>
+    <g id="id195">
+      <text x="89.66" y="53.18" text-anchor="middle">6.2, 2.9</text>
+    </g>
+    <g id="id199">
+      <text x="74.63" y="56.15" text-anchor="middle">5.7, 2.8</text>
+    </g>
+    <g id="id203">
+      <text x="77.63" y="59.12" text-anchor="middle">5.8, 2.7</text>
+    </g>
+    <g id="id207">
+      <text x="92.67" y="53.18" text-anchor="middle">6.3, 2.9</text>
+    </g>
+    <g id="id211">
+      <text x="131.76" y="50.22" text-anchor="middle">7.6, 3</text>
+    </g>
+    <g id="id215">
+      <text x="122.74" y="53.18" text-anchor="middle">7.3, 2.9</text>
+    </g>
+    <g id="id219">
+      <text x="119.73" y="32.42" text-anchor="middle">7.2, 3.6</text>
+    </g>
+    <g id="id223">
+      <text x="95.68" y="59.12" text-anchor="middle">6.4, 2.7</text>
+    </g>
+    <g id="id227">
+      <text x="74.63" y="65.05" text-anchor="middle">5.7, 2.5</text>
+    </g>
+    <g id="id231">
+      <text x="95.68" y="44.29" text-anchor="middle">6.4, 3.2</text>
+    </g>
+    <g id="id235">
+      <text x="134.77" y="26.49" text-anchor="middle">7.7, 3.8</text>
+    </g>
+    <g id="id239">
+      <text x="83.65" y="73.95" text-anchor="middle">6, 2.2</text>
+    </g>
+    <g id="id243">
+      <text x="71.62" y="56.15" text-anchor="middle">5.6, 2.8</text>
+    </g>
+    <g id="id247">
+      <text x="92.67" y="59.12" text-anchor="middle">6.3, 2.7</text>
+    </g>
+    <g id="id251">
+      <text x="119.73" y="44.29" text-anchor="middle">7.2, 3.2</text>
+    </g>
+    <g id="id255">
+      <text x="86.65" y="50.22" text-anchor="middle">6.1, 3</text>
+    </g>
+    <g id="id259">
+      <text x="119.73" y="50.22" text-anchor="middle">7.2, 3</text>
+    </g>
+    <g id="id263">
+      <text x="140.78" y="26.49" text-anchor="middle">7.9, 3.8</text>
+    </g>
+    <g id="id267">
+      <text x="92.67" y="56.15" text-anchor="middle">6.3, 2.8</text>
+    </g>
+    <g id="id271">
+      <text x="134.77" y="50.22" text-anchor="middle">7.7, 3</text>
+    </g>
+    <g id="id275">
+      <text x="95.68" y="47.25" text-anchor="middle">6.4, 3.1</text>
+    </g>
+    <g id="id279">
+      <text x="110.71" y="47.25" text-anchor="middle">6.9, 3.1</text>
+    </g>
+    <g id="id283">
+      <text x="110.71" y="47.25" text-anchor="middle">6.9, 3.1</text>
+    </g>
+    <g id="id287">
+      <text x="107.7" y="44.29" text-anchor="middle">6.8, 3.2</text>
+    </g>
+    <g id="id291">
+      <text x="104.7" y="50.22" text-anchor="middle">6.7, 3</text>
+    </g>
+    <g id="id295">
+      <text x="98.68" y="50.22" text-anchor="middle">6.5, 3</text>
+    </g>
+    <g id="id299">
+      <text x="80.64" y="50.22" text-anchor="middle">5.9, 3</text>
+    </g>
+  </g>
+  <g stroke="none" opacity="0">
+    <g onmouseout="js_chunk_99be24b57dfbdbb4(evt)" onmouseover="js_chunk_33164b27b0ac293e(evt)">
+      <path d="M 88.16 38.35 L 91.16 38.35 91.16 41.35 88.16 41.35 z" />
+    </g>
+    <g onmouseout="js_chunk_d5cc9357f55335f8(evt)" onmouseover="js_chunk_2375ce1a10a6b2e7(evt)">
+      <path d="M 91.17 65.05 L 94.17 65.05 94.17 68.05 91.17 68.05 z" />
+    </g>
+    <g onmouseout="js_chunk_4d1f2f92e3f932dc(evt)" onmouseover="js_chunk_d672b1ba76a037c9(evt)">
+      <path d="M 103.2 41.32 L 106.2 41.32 106.2 44.32 103.2 44.32 z" />
+    </g>
+    <g onmouseout="js_chunk_a64de6b496567cee(evt)" onmouseover="js_chunk_9d109f5703dbeee7(evt)">
+      <path d="M 76.13 59.12 L 79.13 59.12 79.13 62.12 76.13 62.12 z" />
+    </g>
+    <g onmouseout="js_chunk_2cf65563a38c6b96(evt)" onmouseover="js_chunk_cce1f4a16363ab03(evt)">
+      <path d="M 103.2 47.25 L 106.2 47.25 106.2 50.25 103.2 50.25 z" />
+    </g>
+    <g onmouseout="js_chunk_d72277b677e5ab11(evt)" onmouseover="js_chunk_37d7550509ba5ac(evt)">
+      <path d="M 82.15 50.22 L 85.15 50.22 85.15 53.22 82.15 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_db8f66a800bf2fe8(evt)" onmouseover="js_chunk_425751944e4f07b7(evt)">
+      <path d="M 91.17 38.35 L 94.17 38.35 94.17 41.35 91.17 41.35 z" />
+    </g>
+    <g onmouseout="js_chunk_96087846f587ca53(evt)" onmouseover="js_chunk_b75026e606101ec(evt)">
+      <path d="M 85.15 62.08 L 88.15 62.08 88.15 65.08 85.15 65.08 z" />
+    </g>
+    <g onmouseout="js_chunk_ce9351ffe69d2d68(evt)" onmouseover="js_chunk_fe8d2a67c690dc33(evt)">
+      <path d="M 94.18 56.15 L 97.18 56.15 97.18 59.15 94.18 59.15 z" />
+    </g>
+    <g onmouseout="js_chunk_ddf8f5740566efac(evt)" onmouseover="js_chunk_7d49a763c4083241(evt)">
+      <path d="M 124.25 56.15 L 127.25 56.15 127.25 59.15 124.25 59.15 z" />
+    </g>
+    <g onmouseout="js_chunk_ed679b922431f870(evt)" onmouseover="js_chunk_72e3af362f2a2052(evt)">
+      <path d="M 94.18 56.15 L 97.18 56.15 97.18 59.15 94.18 59.15 z" />
+    </g>
+    <g onmouseout="js_chunk_f7129ecab78ba2a5(evt)" onmouseover="js_chunk_6fe38981a92d78d5(evt)">
+      <path d="M 88.16 56.15 L 91.16 56.15 91.16 59.15 88.16 59.15 z" />
+    </g>
+    <g onmouseout="js_chunk_37edd8c03941c71f(evt)" onmouseover="js_chunk_51cbb861ecfd8996(evt)">
+      <path d="M 103.2 41.32 L 106.2 41.32 106.2 44.32 103.2 44.32 z" />
+    </g>
+    <g onmouseout="js_chunk_de3075d385e909a7(evt)" onmouseover="js_chunk_eece8f812725405a(evt)">
+      <path d="M 133.27 56.15 L 136.27 56.15 136.27 59.15 133.27 59.15 z" />
+    </g>
+    <g onmouseout="js_chunk_6a943afa1eb182ae(evt)" onmouseover="js_chunk_d5cf1df4f5274942(evt)">
+      <path d="M 109.21 44.29 L 112.21 44.29 112.21 47.29 109.21 47.29 z" />
+    </g>
+    <g onmouseout="js_chunk_db2f8a357fe7e017(evt)" onmouseover="js_chunk_6dbebfc825064bd2(evt)">
+      <path d="M 133.27 62.08 L 136.27 62.08 136.27 65.08 133.27 65.08 z" />
+    </g>
+    <g onmouseout="js_chunk_3c0f6b4cc1a62ce0(evt)" onmouseover="js_chunk_4ab4bc36def0d240(evt)">
+      <path d="M 97.18 50.22 L 100.18 50.22 100.18 53.22 97.18 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_e630651e6246a0b(evt)" onmouseover="js_chunk_b542e816b3e40d0e(evt)">
+      <path d="M 76.13 56.15 L 79.13 56.15 79.13 59.15 76.13 59.15 z" />
+    </g>
+    <g onmouseout="js_chunk_726b7e9dae35e9a5(evt)" onmouseover="js_chunk_9ba4a49480a833aa(evt)">
+      <path d="M 106.2 50.22 L 109.2 50.22 109.2 53.22 106.2 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_6ea676eba6a4500d(evt)" onmouseover="js_chunk_b9b8b5093cc7b057(evt)">
+      <path d="M 97.18 44.29 L 100.18 44.29 100.18 47.29 97.18 47.29 z" />
+    </g>
+    <g onmouseout="js_chunk_d16694d16c247bd7(evt)" onmouseover="js_chunk_fd706dfec4382d99(evt)">
+      <path d="M 103.2 65.05 L 106.2 65.05 106.2 68.05 103.2 68.05 z" />
+    </g>
+    <g onmouseout="js_chunk_a952c9d41bfc80c9(evt)" onmouseover="js_chunk_198bcadafc6e8749(evt)">
+      <path d="M 49.07 65.05 L 52.07 65.05 52.07 68.05 49.07 68.05 z" />
+    </g>
+    <g onmouseout="js_chunk_eeb5664f268b4a0a(evt)" onmouseover="js_chunk_724f6aa82dbf5356(evt)">
+      <path d="M 97.18 50.22 L 100.18 50.22 100.18 53.22 97.18 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_ef42d7e227a725bc(evt)" onmouseover="js_chunk_d7c3b0e778a89eef(evt)">
+      <path d="M 115.23 50.22 L 118.23 50.22 118.23 53.22 115.23 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_65b3f56694890e13(evt)" onmouseover="js_chunk_ddb3361484879041(evt)">
+      <path d="M 91.17 41.32 L 94.17 41.32 94.17 44.32 91.17 44.32 z" />
+    </g>
+    <g onmouseout="js_chunk_27d6549c187999f3(evt)" onmouseover="js_chunk_9295ef626df8d01a(evt)">
+      <path d="M 55.08 65.05 L 58.08 65.05 58.08 68.05 55.08 68.05 z" />
+    </g>
+    <g onmouseout="js_chunk_bd9ae785c4025ac0(evt)" onmouseover="js_chunk_886c8a27d9a5a095(evt)">
+      <path d="M 73.13 53.18 L 76.13 53.18 76.13 56.18 73.13 56.18 z" />
+    </g>
+    <g onmouseout="js_chunk_7046797aa95a88ef(evt)" onmouseover="js_chunk_d8a2d0577a133743(evt)">
+      <path d="M 70.12 59.12 L 73.12 59.12 73.12 62.12 70.12 62.12 z" />
+    </g>
+    <g onmouseout="js_chunk_fc2d92a3c116d2f7(evt)" onmouseover="js_chunk_f38f5aaeafda63ad(evt)">
+      <path d="M 76.13 62.08 L 79.13 62.08 79.13 65.08 76.13 65.08 z" />
+    </g>
+    <g onmouseout="js_chunk_3b0d0b023ed5889f(evt)" onmouseover="js_chunk_4fc91158e84d95f0(evt)">
+      <path d="M 67.11 62.08 L 70.11 62.08 70.11 65.08 67.11 65.08 z" />
+    </g>
+    <g onmouseout="js_chunk_6c24b6492105bcf8(evt)" onmouseover="js_chunk_ece034a3227cba86(evt)">
+      <path d="M 70.12 50.22 L 73.12 50.22 73.12 53.22 70.12 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_ac41efffa13fdeec(evt)" onmouseover="js_chunk_62326da18d3e6e01(evt)">
+      <path d="M 103.2 47.25 L 106.2 47.25 106.2 50.25 103.2 50.25 z" />
+    </g>
+    <g onmouseout="js_chunk_df566e0a878765c1(evt)" onmouseover="js_chunk_aea3f5e02622a98d(evt)">
+      <path d="M 64.1 50.22 L 67.1 50.22 67.1 53.22 64.1 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_9a704e8dc288405(evt)" onmouseover="js_chunk_ee75546725c520fe(evt)">
+      <path d="M 76.13 59.12 L 79.13 59.12 79.13 62.12 76.13 62.12 z" />
+    </g>
+    <g onmouseout="js_chunk_388eeca1b9fbe55a(evt)" onmouseover="js_chunk_aed5305f26887707(evt)">
+      <path d="M 67.11 68.01 L 70.11 68.01 70.11 71.01 67.11 71.01 z" />
+    </g>
+    <g onmouseout="js_chunk_29e1a354dde51c6(evt)" onmouseover="js_chunk_8295debfcdcdda0d(evt)">
+      <path d="M 82.15 53.18 L 85.15 53.18 85.15 56.18 82.15 56.18 z" />
+    </g>
+    <g onmouseout="js_chunk_6ec242ed26267d5c(evt)" onmouseover="js_chunk_f6c355713628ac5a(evt)">
+      <path d="M 106.2 56.15 L 109.2 56.15 109.2 59.15 106.2 59.15 z" />
+    </g>
+    <g onmouseout="js_chunk_daad3d0e3f5febd(evt)" onmouseover="js_chunk_e8cdf6c79a3c0fef(evt)">
+      <path d="M 94.18 53.18 L 97.18 53.18 97.18 56.18 94.18 56.18 z" />
+    </g>
+    <g onmouseout="js_chunk_490dc65cd9b5e860(evt)" onmouseover="js_chunk_8e9ccca7e4d3f70d(evt)">
+      <path d="M 91.17 65.05 L 94.17 65.05 94.17 68.05 91.17 68.05 z" />
+    </g>
+    <g onmouseout="js_chunk_d40f3391efb852a4(evt)" onmouseover="js_chunk_16f481417582ed82(evt)">
+      <path d="M 79.14 44.29 L 82.14 44.29 82.14 47.29 79.14 47.29 z" />
+    </g>
+    <g onmouseout="js_chunk_8838e9e1580f58b4(evt)" onmouseover="js_chunk_19e4ba29fb66f89f(evt)">
+      <path d="M 88.16 73.95 L 91.16 73.95 91.16 76.95 88.16 76.95 z" />
+    </g>
+    <g onmouseout="js_chunk_6a8061a7197ffcc4(evt)" onmouseover="js_chunk_151fd3f7eebee207(evt)">
+      <path d="M 70.12 50.22 L 73.12 50.22 73.12 53.22 70.12 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_3ab98883b9f34b4a(evt)" onmouseover="js_chunk_5ae09d5e7a4175cf(evt)">
+      <path d="M 70.12 53.18 L 73.12 53.18 73.12 56.18 70.12 56.18 z" />
+    </g>
+    <g onmouseout="js_chunk_405e2aedc53c4caa(evt)" onmouseover="js_chunk_a4f8d8438e7188a0(evt)">
+      <path d="M 82.15 73.95 L 85.15 73.95 85.15 76.95 82.15 76.95 z" />
+    </g>
+    <g onmouseout="js_chunk_d6bf6ec3710e35a7(evt)" onmouseover="js_chunk_a459b3fa8c42c0f2(evt)">
+      <path d="M 52.07 79.88 L 55.07 79.88 55.07 82.88 52.07 82.88 z" />
+    </g>
+    <g onmouseout="js_chunk_5ab8409478ff8447(evt)" onmouseover="js_chunk_d112895465b41661(evt)">
+      <path d="M 100.19 53.18 L 103.19 53.18 103.19 56.18 100.19 56.18 z" />
+    </g>
+    <g onmouseout="js_chunk_34872dadac9e6b0e(evt)" onmouseover="js_chunk_92acf967e8ea0c99(evt)">
+      <path d="M 91.17 41.32 L 94.17 41.32 94.17 44.32 91.17 44.32 z" />
+    </g>
+    <g onmouseout="js_chunk_45987f5fcec0bf52(evt)" onmouseover="js_chunk_c99d05ded6c9ca4a(evt)">
+      <path d="M 97.18 56.15 L 100.18 56.15 100.18 59.15 97.18 59.15 z" />
+    </g>
+    <g onmouseout="js_chunk_cb78a8b2d98268ba(evt)" onmouseover="js_chunk_35bd34a52e0b7bf1(evt)">
+      <path d="M 109.21 47.25 L 112.21 47.25 112.21 50.25 109.21 50.25 z" />
+    </g>
+    <g onmouseout="js_chunk_dbc5caf67a4a5715(evt)" onmouseover="js_chunk_3da50a7ca735caf(evt)">
+      <path d="M 112.22 44.29 L 115.22 44.29 115.22 47.29 112.22 47.29 z" />
+    </g>
+    <g onmouseout="js_chunk_932986ade9116de9(evt)" onmouseover="js_chunk_2bafe3899a1e2712(evt)">
+      <path d="M 61.1 29.45 L 64.1 29.45 64.1 32.45 61.1 32.45 z" />
+    </g>
+    <g onmouseout="js_chunk_a11078fd630da2b(evt)" onmouseover="js_chunk_c369f20348e2b893(evt)">
+      <path d="M 55.08 26.49 L 58.08 26.49 58.08 29.49 55.08 29.49 z" />
+    </g>
+    <g onmouseout="js_chunk_294bb6b4737fcd2(evt)" onmouseover="js_chunk_aba94bf919611d5b(evt)">
+      <path d="M 55.08 26.49 L 58.08 26.49 58.08 29.49 55.08 29.49 z" />
+    </g>
+    <g onmouseout="js_chunk_df5825aa80bfc45d(evt)" onmouseover="js_chunk_ca379272567e9d59(evt)">
+      <path d="M 34.03 44.29 L 37.03 44.29 37.03 47.29 34.03 47.29 z" />
+    </g>
+    <g onmouseout="js_chunk_3a2d2f3a36090e2f(evt)" onmouseover="js_chunk_61ff61f505ad72d0(evt)">
+      <path d="M 52.07 35.39 L 55.07 35.39 55.07 38.39 52.07 38.39 z" />
+    </g>
+    <g onmouseout="js_chunk_405d891ac26a16e4(evt)" onmouseover="js_chunk_917f25b6e4ad4f5f(evt)">
+      <path d="M 34.03 50.22 L 37.03 50.22 37.03 53.22 34.03 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_3842c90b3238d05d(evt)" onmouseover="js_chunk_a749eae71047202b(evt)">
+      <path d="M 67.11 35.39 L 70.11 35.39 70.11 38.39 67.11 38.39 z" />
+    </g>
+    <g onmouseout="js_chunk_b2ca9ef42701be19(evt)" onmouseover="js_chunk_7d623be3bc30f751(evt)">
+      <path d="M 49.07 47.25 L 52.07 47.25 52.07 50.25 49.07 50.25 z" />
+    </g>
+    <g onmouseout="js_chunk_d3c66e9b68f9b5af(evt)" onmouseover="js_chunk_e909f27c9380bcd1(evt)">
+      <path d="M 58.09 17.59 L 61.09 17.59 61.09 20.59 58.09 20.59 z" />
+    </g>
+    <g onmouseout="js_chunk_854454924bf4832e(evt)" onmouseover="js_chunk_5b68eee5783dbc89(evt)">
+      <path d="M 46.06 47.25 L 49.06 47.25 49.06 50.25 46.06 50.25 z" />
+    </g>
+    <g onmouseout="js_chunk_cb7946295809d847(evt)" onmouseover="js_chunk_9e1bd3cffd4ef2f1(evt)">
+      <path d="M 58.09 38.35 L 61.09 38.35 61.09 41.35 58.09 41.35 z" />
+    </g>
+    <g onmouseout="js_chunk_8adcabb9d6d10121(evt)" onmouseover="js_chunk_c2ff18adc715d82c(evt)">
+      <path d="M 52.07 38.35 L 55.07 38.35 55.07 41.35 52.07 41.35 z" />
+    </g>
+    <g onmouseout="js_chunk_9db36561fc7d74cd(evt)" onmouseover="js_chunk_6d8064b09c177577(evt)">
+      <path d="M 46.06 38.35 L 49.06 38.35 49.06 41.35 46.06 41.35 z" />
+    </g>
+    <g onmouseout="js_chunk_36edff3faea45d12(evt)" onmouseover="js_chunk_5a93c46375efe6c5(evt)">
+      <path d="M 40.05 32.42 L 43.05 32.42 43.05 35.42 40.05 35.42 z" />
+    </g>
+    <g onmouseout="js_chunk_86548a584d71d482(evt)" onmouseover="js_chunk_a1658f0e8393dd52(evt)">
+      <path d="M 64.1 38.35 L 67.1 38.35 67.1 41.35 64.1 41.35 z" />
+    </g>
+    <g onmouseout="js_chunk_b96ce8e533a184b7(evt)" onmouseover="js_chunk_de33a27bfd2ef740(evt)">
+      <path d="M 73.13 26.49 L 76.13 26.49 76.13 29.49 73.13 29.49 z" />
+    </g>
+    <g onmouseout="js_chunk_a6e7b02e8e049412(evt)" onmouseover="js_chunk_1e88d3357d46dd52(evt)">
+      <path d="M 64.1 23.52 L 67.1 23.52 67.1 26.52 64.1 26.52 z" />
+    </g>
+    <g onmouseout="js_chunk_518d77ce6354662b(evt)" onmouseover="js_chunk_2d853cbe9b43ee00(evt)">
+      <path d="M 76.13 20.56 L 79.13 20.56 79.13 23.56 76.13 23.56 z" />
+    </g>
+    <g onmouseout="js_chunk_84260041420584(evt)" onmouseover="js_chunk_2187a49183491b62(evt)">
+      <path d="M 46.06 50.22 L 49.06 50.22 49.06 53.22 46.06 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_133adca466ae7fe4(evt)" onmouseover="js_chunk_73f10a7f281ad9bc(evt)">
+      <path d="M 64.1 29.45 L 67.1 29.45 67.1 32.45 64.1 32.45 z" />
+    </g>
+    <g onmouseout="js_chunk_9ada6cd47519f43a(evt)" onmouseover="js_chunk_e3c896fdbde2ca7(evt)">
+      <path d="M 34.03 53.18 L 37.03 53.18 37.03 56.18 34.03 56.18 z" />
+    </g>
+    <g onmouseout="js_chunk_40300ff3bfc44bda(evt)" onmouseover="js_chunk_48d3be0cd10ba750(evt)">
+      <path d="M 40.05 38.35 L 43.05 38.35 43.05 41.35 40.05 41.35 z" />
+    </g>
+    <g onmouseout="js_chunk_726619342430aa66(evt)" onmouseover="js_chunk_97f2fcaa6f4a707e(evt)">
+      <path d="M 52.07 32.42 L 55.07 32.42 55.07 35.42 52.07 35.42 z" />
+    </g>
+    <g onmouseout="js_chunk_54f6fafae8fe3ba0(evt)" onmouseover="js_chunk_700652fd1f1cf7d0(evt)">
+      <path d="M 43.05 44.29 L 46.05 44.29 46.05 47.29 43.05 47.29 z" />
+    </g>
+    <g onmouseout="js_chunk_2df580fa25619323(evt)" onmouseover="js_chunk_895c7512dc2f7447(evt)">
+      <path d="M 55.08 35.39 L 58.08 35.39 58.08 38.39 55.08 38.39 z" />
+    </g>
+    <g onmouseout="js_chunk_a659203b0bc2bd93(evt)" onmouseover="js_chunk_c6399786cb83adf6(evt)">
+      <path d="M 49.07 50.22 L 52.07 50.22 52.07 53.22 49.07 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_8a817be1d4132051(evt)" onmouseover="js_chunk_e975241911fa72a6(evt)">
+      <path d="M 40.05 47.25 L 43.05 47.25 43.05 50.25 40.05 50.25 z" />
+    </g>
+    <g onmouseout="js_chunk_2f70d6a51e45faa1(evt)" onmouseover="js_chunk_ff6f38cdbe42be1f(evt)">
+      <path d="M 64.1 23.52 L 67.1 23.52 67.1 26.52 64.1 26.52 z" />
+    </g>
+    <g onmouseout="js_chunk_cc97272fd8924f50(evt)" onmouseover="js_chunk_45600022ca240068(evt)">
+      <path d="M 52.07 38.35 L 55.07 38.35 55.07 41.35 52.07 41.35 z" />
+    </g>
+    <g onmouseout="js_chunk_256847010a357cbd(evt)" onmouseover="js_chunk_cbada4a58daa2ac(evt)">
+      <path d="M 49.07 47.25 L 52.07 47.25 52.07 50.25 49.07 50.25 z" />
+    </g>
+    <g onmouseout="js_chunk_898af7b3d34e805d(evt)" onmouseover="js_chunk_12537f9a64df9360(evt)">
+      <path d="M 46.06 38.35 L 49.06 38.35 49.06 41.35 46.06 41.35 z" />
+    </g>
+    <g onmouseout="js_chunk_f489a675294cf362(evt)" onmouseover="js_chunk_f9643ebe330224a0(evt)">
+      <path d="M 31.02 50.22 L 34.02 50.22 34.02 53.22 31.02 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_9d5b8d63faf05eed(evt)" onmouseover="js_chunk_24cc1b4c89d1842c(evt)">
+      <path d="M 73.13 8.69 L 76.13 8.69 76.13 11.69 73.13 11.69 z" />
+    </g>
+    <g onmouseout="js_chunk_b24d71c92562ccdf(evt)" onmouseover="js_chunk_d6c03a026e485cb1(evt)">
+      <path d="M 55.08 35.39 L 58.08 35.39 58.08 38.39 55.08 38.39 z" />
+    </g>
+    <g onmouseout="js_chunk_24563998097553c3(evt)" onmouseover="js_chunk_40890fac41db09d3(evt)">
+      <path d="M 55.08 26.49 L 58.08 26.49 58.08 29.49 55.08 29.49 z" />
+    </g>
+    <g onmouseout="js_chunk_6c4a9775995db9b9(evt)" onmouseover="js_chunk_68ea7589929d7525(evt)">
+      <path d="M 55.08 29.45 L 58.08 29.45 58.08 32.45 55.08 32.45 z" />
+    </g>
+    <g onmouseout="js_chunk_b1adf234a472ba36(evt)" onmouseover="js_chunk_d8ccd0bf72b076a7(evt)">
+      <path d="M 55.08 41.32 L 58.08 41.32 58.08 44.32 55.08 44.32 z" />
+    </g>
+    <g onmouseout="js_chunk_5cb4ef56fa805ed4(evt)" onmouseover="js_chunk_7a66c7df35e40f40(evt)">
+      <path d="M 52.07 50.22 L 55.07 50.22 55.07 53.22 52.07 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_ed1d57029b522df1(evt)" onmouseover="js_chunk_6bc321ef189db5b4(evt)">
+      <path d="M 58.09 35.39 L 61.09 35.39 61.09 38.39 58.09 38.39 z" />
+    </g>
+    <g onmouseout="js_chunk_e8a8e0cc12bdcacc(evt)" onmouseover="js_chunk_77445cc8aff4c1f3(evt)">
+      <path d="M 43.05 44.29 L 46.05 44.29 46.05 47.29 43.05 47.29 z" />
+    </g>
+    <g onmouseout="js_chunk_b3a3a80228b301c5(evt)" onmouseover="js_chunk_bb8a2e9cb8800d92(evt)">
+      <path d="M 64.1 38.35 L 67.1 38.35 67.1 41.35 64.1 41.35 z" />
+    </g>
+    <g onmouseout="js_chunk_d244ceb365f6470f(evt)" onmouseover="js_chunk_6a982577169cf94c(evt)">
+      <path d="M 67.11 14.62 L 70.11 14.62 70.11 17.62 67.11 17.62 z" />
+    </g>
+    <g onmouseout="js_chunk_bfce4679c14ff564(evt)" onmouseover="js_chunk_6380137d88b3908d(evt)">
+      <path d="M 52.07 44.29 L 55.07 44.29 55.07 47.29 52.07 47.29 z" />
+    </g>
+    <g onmouseout="js_chunk_70d9b89e23629f02(evt)" onmouseover="js_chunk_f36ceda728890b16(evt)">
+      <path d="M 49.07 32.42 L 52.07 32.42 52.07 35.42 49.07 35.42 z" />
+    </g>
+    <g onmouseout="js_chunk_38b909c83320ed07(evt)" onmouseover="js_chunk_c36e59afc88b8c30(evt)">
+      <path d="M 55.08 38.35 L 58.08 38.35 58.08 41.35 55.08 41.35 z" />
+    </g>
+    <g onmouseout="js_chunk_9f460958003be4e1(evt)" onmouseover="js_chunk_3e1fa35c973c79b(evt)">
+      <path d="M 37.04 70.98 L 40.04 70.98 40.04 73.98 37.04 73.98 z" />
+    </g>
+    <g onmouseout="js_chunk_5442f7b16a959c69(evt)" onmouseover="js_chunk_eb167dd7183ca81a(evt)">
+      <path d="M 52.07 35.39 L 55.07 35.39 55.07 38.39 52.07 38.39 z" />
+    </g>
+    <g onmouseout="js_chunk_35b477baad77921c(evt)" onmouseover="js_chunk_8b03dd40d8165cd7(evt)">
+      <path d="M 46.06 50.22 L 49.06 50.22 49.06 53.22 46.06 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_a922f4401454e631(evt)" onmouseover="js_chunk_6e422f7b1e935c00(evt)">
+      <path d="M 40.05 44.29 L 43.05 44.29 43.05 47.29 40.05 47.29 z" />
+    </g>
+    <g onmouseout="js_chunk_70624ea0a3832b67(evt)" onmouseover="js_chunk_d30dcb0dd205165(evt)">
+      <path d="M 52.07 41.32 L 55.07 41.32 55.07 44.32 52.07 44.32 z" />
+    </g>
+    <g onmouseout="js_chunk_faec2943b8973e3b(evt)" onmouseover="js_chunk_759c01a4adf6ee2b(evt)">
+      <path d="M 94.18 44.29 L 97.18 44.29 97.18 47.29 94.18 47.29 z" />
+    </g>
+    <g onmouseout="js_chunk_917e3e4be58db985(evt)" onmouseover="js_chunk_d8d413a574396f4b(evt)">
+      <path d="M 67.11 70.98 L 70.11 70.98 70.11 73.98 67.11 73.98 z" />
+    </g>
+    <g onmouseout="js_chunk_9937022b75fdeaa8(evt)" onmouseover="js_chunk_7248773d2820d574(evt)">
+      <path d="M 73.13 56.15 L 76.13 56.15 76.13 59.15 73.13 59.15 z" />
+    </g>
+    <g onmouseout="js_chunk_4b9a86aa5ac54fa7(evt)" onmouseover="js_chunk_27a16f4392d31ee2(evt)">
+      <path d="M 49.07 68.01 L 52.07 68.01 52.07 71.01 49.07 71.01 z" />
+    </g>
+    <g onmouseout="js_chunk_858dcb484eaade26(evt)" onmouseover="js_chunk_e3329c1609f47448(evt)">
+      <path d="M 58.09 59.12 L 61.09 59.12 61.09 62.12 58.09 62.12 z" />
+    </g>
+    <g onmouseout="js_chunk_a95ec3ce173c01bd(evt)" onmouseover="js_chunk_cc088ccd5c8f9497(evt)">
+      <path d="M 79.14 50.22 L 82.14 50.22 82.14 53.22 79.14 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_5bb2d379fbe5aae2(evt)" onmouseover="js_chunk_6a547f5319290328(evt)">
+      <path d="M 85.15 53.18 L 88.15 53.18 88.15 56.18 85.15 56.18 z" />
+    </g>
+    <g onmouseout="js_chunk_1209cb836893f3da(evt)" onmouseover="js_chunk_d75108d573226f0f(evt)">
+      <path d="M 103.2 47.25 L 106.2 47.25 106.2 50.25 103.2 50.25 z" />
+    </g>
+    <g onmouseout="js_chunk_5286b4726caac393(evt)" onmouseover="js_chunk_a510158d91bd8520(evt)">
+      <path d="M 76.13 59.12 L 79.13 59.12 79.13 62.12 76.13 62.12 z" />
+    </g>
+    <g onmouseout="js_chunk_52d95721ed506272(evt)" onmouseover="js_chunk_c41881d6020c38e(evt)">
+      <path d="M 70.12 65.05 L 73.12 65.05 73.12 68.05 70.12 68.05 z" />
+    </g>
+    <g onmouseout="js_chunk_d85374c878411f35(evt)" onmouseover="js_chunk_b5d56abf334507fb(evt)">
+      <path d="M 85.15 56.15 L 88.15 56.15 88.15 59.15 85.15 59.15 z" />
+    </g>
+    <g onmouseout="js_chunk_b17b780c2a915631(evt)" onmouseover="js_chunk_7bbedead3f18255c(evt)">
+      <path d="M 85.15 56.15 L 88.15 56.15 88.15 59.15 85.15 59.15 z" />
+    </g>
+    <g onmouseout="js_chunk_53238d43eee764c6(evt)" onmouseover="js_chunk_357ddb86339c00a7(evt)">
+      <path d="M 100.19 50.22 L 103.19 50.22 103.19 53.22 100.19 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_24080a4090b24000(evt)" onmouseover="js_chunk_9ba99b73fff56195(evt)">
+      <path d="M 103.2 50.22 L 106.2 50.22 106.2 53.22 103.2 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_51362d15eb0ea2aa(evt)" onmouseover="js_chunk_e94aa8f51b379992(evt)">
+      <path d="M 73.13 62.08 L 76.13 62.08 76.13 65.08 73.13 65.08 z" />
+    </g>
+    <g onmouseout="js_chunk_7c83dfa041e20eb6(evt)" onmouseover="js_chunk_b8f16823babd2048(evt)">
+      <path d="M 67.11 68.01 L 70.11 68.01 70.11 71.01 67.11 71.01 z" />
+    </g>
+    <g onmouseout="js_chunk_fe907696c5fb839d(evt)" onmouseover="js_chunk_e1f9f3588cce47a5(evt)">
+      <path d="M 82.15 59.12 L 85.15 59.12 85.15 62.12 82.15 62.12 z" />
+    </g>
+    <g onmouseout="js_chunk_a33aba0f0f4f0b4b(evt)" onmouseover="js_chunk_1f3aa705874ee36a(evt)">
+      <path d="M 82.15 38.35 L 85.15 38.35 85.15 41.35 82.15 41.35 z" />
+    </g>
+    <g onmouseout="js_chunk_a453f09d11640987(evt)" onmouseover="js_chunk_72b074ff2e1d1008(evt)">
+      <path d="M 91.17 70.98 L 94.17 70.98 94.17 73.98 91.17 73.98 z" />
+    </g>
+    <g onmouseout="js_chunk_1d8af8d603d26b8f(evt)" onmouseover="js_chunk_d3c52fab7046d84b(evt)">
+      <path d="M 67.11 65.05 L 70.11 65.05 70.11 68.05 67.11 68.05 z" />
+    </g>
+    <g onmouseout="js_chunk_7fb6c012482919a6(evt)" onmouseover="js_chunk_aef5e4ede9a56c5(evt)">
+      <path d="M 85.15 50.22 L 88.15 50.22 88.15 53.22 85.15 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_be506f07456e4d07(evt)" onmouseover="js_chunk_8d6ac5b8e3a2fb07(evt)">
+      <path d="M 52.07 70.98 L 55.07 70.98 55.07 73.98 52.07 73.98 z" />
+    </g>
+    <g onmouseout="js_chunk_6e5f40c0a58af0b3(evt)" onmouseover="js_chunk_e4c15094124f0e4c(evt)">
+      <path d="M 73.13 50.22 L 76.13 50.22 76.13 53.22 73.13 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_44e08ba3d28dd4de(evt)" onmouseover="js_chunk_147c6fa871c59d74(evt)">
+      <path d="M 88.16 53.18 L 91.16 53.18 91.16 56.18 88.16 56.18 z" />
+    </g>
+    <g onmouseout="js_chunk_d564614d7417aadf(evt)" onmouseover="js_chunk_2028be0489a068f4(evt)">
+      <path d="M 73.13 56.15 L 76.13 56.15 76.13 59.15 73.13 59.15 z" />
+    </g>
+    <g onmouseout="js_chunk_ccf71740e30f789a(evt)" onmouseover="js_chunk_ba96436f3e4dd193(evt)">
+      <path d="M 76.13 59.12 L 79.13 59.12 79.13 62.12 76.13 62.12 z" />
+    </g>
+    <g onmouseout="js_chunk_b44319c6b1a79c62(evt)" onmouseover="js_chunk_8018e9eec9534283(evt)">
+      <path d="M 91.17 53.18 L 94.17 53.18 94.17 56.18 91.17 56.18 z" />
+    </g>
+    <g onmouseout="js_chunk_60e59ae78aebdf1d(evt)" onmouseover="js_chunk_2f90e62e2842713b(evt)">
+      <path d="M 130.26 50.22 L 133.26 50.22 133.26 53.22 130.26 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_b36a06a5b02b27f0(evt)" onmouseover="js_chunk_ca4ace88ddecb6e2(evt)">
+      <path d="M 121.24 53.18 L 124.24 53.18 124.24 56.18 121.24 56.18 z" />
+    </g>
+    <g onmouseout="js_chunk_a0faad8d0b4ccf9f(evt)" onmouseover="js_chunk_1bae11ff00b397e9(evt)">
+      <path d="M 118.23 32.42 L 121.23 32.42 121.23 35.42 118.23 35.42 z" />
+    </g>
+    <g onmouseout="js_chunk_fc406630c1d7401d(evt)" onmouseover="js_chunk_ec90a38a2277ba04(evt)">
+      <path d="M 94.18 59.12 L 97.18 59.12 97.18 62.12 94.18 62.12 z" />
+    </g>
+    <g onmouseout="js_chunk_5b9fc7b0809ec76b(evt)" onmouseover="js_chunk_81539e544c0673a6(evt)">
+      <path d="M 73.13 65.05 L 76.13 65.05 76.13 68.05 73.13 68.05 z" />
+    </g>
+    <g onmouseout="js_chunk_8ad60d15ab92a7a(evt)" onmouseover="js_chunk_f7534d47b8050297(evt)">
+      <path d="M 94.18 44.29 L 97.18 44.29 97.18 47.29 94.18 47.29 z" />
+    </g>
+    <g onmouseout="js_chunk_b827572e39d5fc7d(evt)" onmouseover="js_chunk_a181ae048c8aaad2(evt)">
+      <path d="M 133.27 26.49 L 136.27 26.49 136.27 29.49 133.27 29.49 z" />
+    </g>
+    <g onmouseout="js_chunk_901f87cc69c83aca(evt)" onmouseover="js_chunk_2ee8e79ca75af878(evt)">
+      <path d="M 82.15 73.95 L 85.15 73.95 85.15 76.95 82.15 76.95 z" />
+    </g>
+    <g onmouseout="js_chunk_3db78c43c4f852f6(evt)" onmouseover="js_chunk_cb311dec5feb76e5(evt)">
+      <path d="M 70.12 56.15 L 73.12 56.15 73.12 59.15 70.12 59.15 z" />
+    </g>
+    <g onmouseout="js_chunk_e5cd214915015c12(evt)" onmouseover="js_chunk_f40b24d8b17d8651(evt)">
+      <path d="M 91.17 59.12 L 94.17 59.12 94.17 62.12 91.17 62.12 z" />
+    </g>
+    <g onmouseout="js_chunk_3af063843f46eaa3(evt)" onmouseover="js_chunk_689428d11a8e75e0(evt)">
+      <path d="M 118.23 44.29 L 121.23 44.29 121.23 47.29 118.23 47.29 z" />
+    </g>
+    <g onmouseout="js_chunk_9976602b7c5344b0(evt)" onmouseover="js_chunk_e0cafa0a0afc7bb4(evt)">
+      <path d="M 85.15 50.22 L 88.15 50.22 88.15 53.22 85.15 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_df199b0187a7f233(evt)" onmouseover="js_chunk_96574addf62352b5(evt)">
+      <path d="M 118.23 50.22 L 121.23 50.22 121.23 53.22 118.23 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_be97dde3c6a61ce8(evt)" onmouseover="js_chunk_a032b15909dbc49b(evt)">
+      <path d="M 139.28 26.49 L 142.28 26.49 142.28 29.49 139.28 29.49 z" />
+    </g>
+    <g onmouseout="js_chunk_1dee699d055386f5(evt)" onmouseover="js_chunk_81c83cc34d072b28(evt)">
+      <path d="M 91.17 56.15 L 94.17 56.15 94.17 59.15 91.17 59.15 z" />
+    </g>
+    <g onmouseout="js_chunk_2cb459bb230929b9(evt)" onmouseover="js_chunk_640bcfa411b68896(evt)">
+      <path d="M 133.27 50.22 L 136.27 50.22 136.27 53.22 133.27 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_7a43b3de3e282ade(evt)" onmouseover="js_chunk_d5e4b0a2f56a23c6(evt)">
+      <path d="M 94.18 47.25 L 97.18 47.25 97.18 50.25 94.18 50.25 z" />
+    </g>
+    <g onmouseout="js_chunk_f555d133b44c88ab(evt)" onmouseover="js_chunk_3d01d76d43a49655(evt)">
+      <path d="M 109.21 47.25 L 112.21 47.25 112.21 50.25 109.21 50.25 z" />
+    </g>
+    <g onmouseout="js_chunk_c7aa336cd8f4501a(evt)" onmouseover="js_chunk_9c65bca3026b61eb(evt)">
+      <path d="M 109.21 47.25 L 112.21 47.25 112.21 50.25 109.21 50.25 z" />
+    </g>
+    <g onmouseout="js_chunk_40d022decb5b20ec(evt)" onmouseover="js_chunk_70480dfdaa4ac3a9(evt)">
+      <path d="M 106.2 44.29 L 109.2 44.29 109.2 47.29 106.2 47.29 z" />
+    </g>
+    <g onmouseout="js_chunk_5082a666eac07ff0(evt)" onmouseover="js_chunk_eb0675109fc81e1d(evt)">
+      <path d="M 103.2 50.22 L 106.2 50.22 106.2 53.22 103.2 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_7d2c4963c41284dd(evt)" onmouseover="js_chunk_5fc7f77e0949e1da(evt)">
+      <path d="M 97.18 50.22 L 100.18 50.22 100.18 53.22 97.18 53.22 z" />
+    </g>
+    <g onmouseout="js_chunk_a590fad015a1b3e9(evt)" onmouseover="js_chunk_2413bfb312a73915(evt)">
+      <path d="M 79.14 50.22 L 82.14 50.22 82.14 53.22 79.14 53.22 z" />
+    </g>
   </g>
 </g>
-<g stroke="none" stroke-width="0.3">
-  <g fill="#4682B4" stroke="#0F5D8C" class="color_group_RGB(0.27450980392156865,0.5098039215686274,0.7058823529411765)">
-    <circle cx="56.58" cy="36.89" r="0.5" />
-    <circle cx="50.57" cy="51.72" r="0.5" />
-    <circle cx="44.55" cy="45.79" r="0.5" />
-    <circle cx="41.55" cy="48.75" r="0.5" />
-    <circle cx="53.57" cy="33.92" r="0.5" />
-    <circle cx="65.6" cy="25.02" r="0.5" />
-    <circle cx="41.55" cy="39.85" r="0.5" />
-    <circle cx="53.57" cy="39.85" r="0.5" />
-    <circle cx="35.53" cy="54.68" r="0.5" />
-    <circle cx="50.57" cy="48.75" r="0.5" />
-    <circle cx="65.6" cy="30.95" r="0.5" />
-    <circle cx="47.56" cy="39.85" r="0.5" />
-    <circle cx="47.56" cy="51.72" r="0.5" />
-    <circle cx="32.52" cy="51.72" r="0.5" />
-    <circle cx="77.63" cy="22.06" r="0.5" />
-    <circle cx="74.63" cy="10.19" r="0.5" />
-    <circle cx="65.6" cy="25.02" r="0.5" />
-    <circle cx="56.58" cy="36.89" r="0.5" />
-    <circle cx="74.63" cy="27.99" r="0.5" />
-    <circle cx="56.58" cy="27.99" r="0.5" />
-    <circle cx="65.6" cy="39.85" r="0.5" />
-    <circle cx="56.58" cy="30.95" r="0.5" />
-    <circle cx="41.55" cy="33.92" r="0.5" />
-    <circle cx="56.58" cy="42.82" r="0.5" />
-    <circle cx="47.56" cy="39.85" r="0.5" />
-    <circle cx="53.57" cy="51.72" r="0.5" />
-    <circle cx="53.57" cy="39.85" r="0.5" />
-    <circle cx="59.59" cy="36.89" r="0.5" />
-    <circle cx="59.59" cy="39.85" r="0.5" />
-    <circle cx="44.55" cy="45.79" r="0.5" />
-    <circle cx="47.56" cy="48.75" r="0.5" />
-    <circle cx="65.6" cy="39.85" r="0.5" />
-    <circle cx="59.59" cy="19.09" r="0.5" />
-    <circle cx="68.61" cy="16.12" r="0.5" />
-    <circle cx="50.57" cy="48.75" r="0.5" />
-    <circle cx="53.57" cy="45.79" r="0.5" />
-    <circle cx="68.61" cy="36.89" r="0.5" />
-    <circle cx="50.57" cy="33.92" r="0.5" />
-    <circle cx="35.53" cy="51.72" r="0.5" />
-    <circle cx="56.58" cy="39.85" r="0.5" />
-    <circle cx="53.57" cy="36.89" r="0.5" />
-    <circle cx="38.54" cy="72.48" r="0.5" />
-    <circle cx="35.53" cy="45.79" r="0.5" />
-    <circle cx="53.57" cy="36.89" r="0.5" />
-    <circle cx="56.58" cy="27.99" r="0.5" />
-    <circle cx="47.56" cy="51.72" r="0.5" />
-    <circle cx="56.58" cy="27.99" r="0.5" />
-    <circle cx="41.55" cy="45.79" r="0.5" />
-    <circle cx="62.6" cy="30.95" r="0.5" />
-    <circle cx="53.57" cy="42.82" r="0.5" />
-    <circle cx="113.72" cy="45.79" r="0.5" />
-    <circle cx="95.68" cy="45.79" r="0.5" />
-    <circle cx="110.71" cy="48.75" r="0.5" />
-    <circle cx="68.61" cy="72.48" r="0.5" />
-    <circle cx="98.68" cy="57.65" r="0.5" />
-    <circle cx="74.63" cy="57.65" r="0.5" />
-    <circle cx="92.67" cy="42.82" r="0.5" />
-    <circle cx="50.57" cy="69.51" r="0.5" />
-    <circle cx="101.69" cy="54.68" r="0.5" />
-    <circle cx="59.59" cy="60.62" r="0.5" />
-    <circle cx="53.57" cy="81.38" r="0.5" />
-    <circle cx="80.64" cy="51.72" r="0.5" />
-    <circle cx="83.65" cy="75.45" r="0.5" />
-    <circle cx="86.65" cy="54.68" r="0.5" />
-    <circle cx="71.62" cy="54.68" r="0.5" />
-    <circle cx="104.7" cy="48.75" r="0.5" />
-    <circle cx="71.62" cy="51.72" r="0.5" />
-    <circle cx="77.63" cy="60.62" r="0.5" />
-    <circle cx="89.66" cy="75.45" r="0.5" />
-    <circle cx="71.62" cy="66.55" r="0.5" />
-    <circle cx="80.64" cy="45.79" r="0.5" />
-    <circle cx="86.65" cy="57.65" r="0.5" />
-    <circle cx="92.67" cy="66.55" r="0.5" />
-    <circle cx="86.65" cy="57.65" r="0.5" />
-    <circle cx="95.68" cy="54.68" r="0.5" />
-    <circle cx="101.69" cy="51.72" r="0.5" />
-    <circle cx="107.7" cy="57.65" r="0.5" />
-    <circle cx="104.7" cy="51.72" r="0.5" />
-    <circle cx="83.65" cy="54.68" r="0.5" />
-    <circle cx="74.63" cy="63.58" r="0.5" />
-    <circle cx="68.61" cy="69.51" r="0.5" />
-    <circle cx="68.61" cy="69.51" r="0.5" />
-    <circle cx="77.63" cy="60.62" r="0.5" />
-    <circle cx="83.65" cy="60.62" r="0.5" />
-    <circle cx="65.6" cy="51.72" r="0.5" />
-    <circle cx="83.65" cy="39.85" r="0.5" />
-    <circle cx="104.7" cy="48.75" r="0.5" />
-    <circle cx="92.67" cy="72.48" r="0.5" />
-    <circle cx="71.62" cy="51.72" r="0.5" />
-    <circle cx="68.61" cy="66.55" r="0.5" />
-    <circle cx="68.61" cy="63.58" r="0.5" />
-    <circle cx="86.65" cy="51.72" r="0.5" />
-    <circle cx="77.63" cy="63.58" r="0.5" />
-    <circle cx="53.57" cy="72.48" r="0.5" />
-    <circle cx="71.62" cy="60.62" r="0.5" />
-    <circle cx="74.63" cy="51.72" r="0.5" />
-    <circle cx="74.63" cy="54.68" r="0.5" />
-    <circle cx="89.66" cy="54.68" r="0.5" />
-    <circle cx="56.58" cy="66.55" r="0.5" />
-    <circle cx="74.63" cy="57.65" r="0.5" />
-    <circle cx="92.67" cy="42.82" r="0.5" />
-    <circle cx="77.63" cy="60.62" r="0.5" />
-    <circle cx="116.73" cy="51.72" r="0.5" />
-    <circle cx="92.67" cy="54.68" r="0.5" />
-    <circle cx="98.68" cy="51.72" r="0.5" />
-    <circle cx="131.76" cy="51.72" r="0.5" />
-    <circle cx="50.57" cy="66.55" r="0.5" />
-    <circle cx="122.74" cy="54.68" r="0.5" />
-    <circle cx="104.7" cy="66.55" r="0.5" />
-    <circle cx="119.73" cy="33.92" r="0.5" />
-    <circle cx="98.68" cy="45.79" r="0.5" />
-    <circle cx="95.68" cy="60.62" r="0.5" />
-    <circle cx="107.7" cy="51.72" r="0.5" />
-    <circle cx="74.63" cy="66.55" r="0.5" />
-    <circle cx="77.63" cy="57.65" r="0.5" />
-    <circle cx="95.68" cy="45.79" r="0.5" />
-    <circle cx="98.68" cy="51.72" r="0.5" />
-    <circle cx="134.77" cy="27.99" r="0.5" />
-    <circle cx="134.77" cy="63.58" r="0.5" />
-    <circle cx="83.65" cy="75.45" r="0.5" />
-    <circle cx="110.71" cy="45.79" r="0.5" />
-    <circle cx="71.62" cy="57.65" r="0.5" />
-    <circle cx="134.77" cy="57.65" r="0.5" />
-    <circle cx="92.67" cy="60.62" r="0.5" />
-    <circle cx="104.7" cy="42.82" r="0.5" />
-    <circle cx="119.73" cy="45.79" r="0.5" />
-    <circle cx="89.66" cy="57.65" r="0.5" />
-    <circle cx="86.65" cy="51.72" r="0.5" />
-    <circle cx="95.68" cy="57.65" r="0.5" />
-    <circle cx="119.73" cy="51.72" r="0.5" />
-    <circle cx="125.75" cy="57.65" r="0.5" />
-    <circle cx="140.78" cy="27.99" r="0.5" />
-    <circle cx="95.68" cy="57.65" r="0.5" />
-    <circle cx="92.67" cy="57.65" r="0.5" />
-    <circle cx="86.65" cy="63.58" r="0.5" />
-    <circle cx="134.77" cy="51.72" r="0.5" />
-    <circle cx="92.67" cy="39.85" r="0.5" />
-    <circle cx="95.68" cy="48.75" r="0.5" />
-    <circle cx="83.65" cy="51.72" r="0.5" />
-    <circle cx="110.71" cy="48.75" r="0.5" />
-    <circle cx="104.7" cy="48.75" r="0.5" />
-    <circle cx="110.71" cy="48.75" r="0.5" />
-    <circle cx="77.63" cy="60.62" r="0.5" />
-    <circle cx="107.7" cy="45.79" r="0.5" />
-    <circle cx="104.7" cy="42.82" r="0.5" />
-    <circle cx="104.7" cy="51.72" r="0.5" />
-    <circle cx="92.67" cy="66.55" r="0.5" />
-    <circle cx="98.68" cy="51.72" r="0.5" />
-    <circle cx="89.66" cy="39.85" r="0.5" />
-    <circle cx="80.64" cy="51.72" r="0.5" />
-  </g>
-</g>
-<g stroke="none" fill="#4C404B" font-family="Source Sans Pro" font-size="3.18">
-  <text x="113.72" y="87.65" text-anchor="middle">7</text>
-  <text x="23.5" y="87.65" text-anchor="middle">4</text>
-  <text x="53.57" y="87.65" text-anchor="middle">5</text>
-  <text x="83.65" y="87.65" text-anchor="middle">6</text>
-  <text x="143.79" y="87.65" text-anchor="middle">8</text>
-</g>
-<g stroke="none" fill="#362A35" font-family="Source Sans Pro" font-size="3.88">
-  <text x="83.65" y="94.6" text-anchor="middle">Sepal.Length</text>
-</g>
-<g stroke="none" fill="#362A35" font-family="Source Sans Pro" font-size="3.88">
-  <text x="9.47" y="44.3" text-anchor="middle" style="dominant-baseline:central" transform="rotate(-90, 9.47, 44.3)">Sepal.Width</text>
-</g>
-<g stroke="none" fill="#4C404B" font-family="Source Sans Pro" font-size="3.18">
-  <text x="18.89" y="51.72" text-anchor="end" style="dominant-baseline:central">3</text>
-  <text x="18.89" y="36.89" text-anchor="end" style="dominant-baseline:central">3.5</text>
-  <text x="18.89" y="22.06" text-anchor="end" style="dominant-baseline:central">4</text>
-  <text x="18.89" y="81.38" text-anchor="end" style="dominant-baseline:central">2</text>
-  <text x="18.89" y="66.55" text-anchor="end" style="dominant-baseline:central">2.5</text>
-  <text x="18.89" y="7.22" text-anchor="end" style="dominant-baseline:central">4.5</text>
-</g>
+<script type="application/ecmascript"><![CDATA[
+
+// Functions embedded in Gadfly plots to add interactivity.
+
+
+// Clicking an entry in a color key toggles visibility of the data within that
+// group.
+function toggle_color_group(name)
+{
+    geoms = document.getElementsByClassName('color_group_' + name);
+    entry = document.getElementById('color_key_' + name);
+    state = geoms[0].getAttribute('visibility');
+    if (!state || state == 'visible') {
+        for (i = 0; i < geoms.length; ++i) {
+            geoms[i].setAttribute('visibility', 'hidden');
+        }
+        entry.setAttribute('opacity', 0.5);
+    } else {
+        for (i = 0; i < geoms.length; ++i) {
+            geoms[i].setAttribute('visibility', 'visible');
+        }
+        entry.setAttribute('opacity', 1.0);
+    }
+}
+
+
+// Turn on a possibily hidden annotation.
+function show_annotation(id)
+{
+    annot = document.getElementById(id)
+    annot.setAttribute('visibility', 'visible')
+}
+
+
+// Turn off a possibly hidden annotation.
+function hide_annotation(id)
+{
+
+    annot = document.getElementById(id)
+    annot.setAttribute('visibility', 'hidden')
+}
+
+
+// Dim all geometry objects with some exceptions.
+function present_geometry(ids)
+{
+    on_anim_dur = 0.1;
+
+    off_anim = document.getElementById('panel-focus-filter-off-anim');
+    off_anim.endElement();
+
+    t0 = Number(off_anim.getStartTime());
+    if (t0 < Infinity) {
+        t = Number(off_anim.getCurrentTime());
+        d = Number(off_anim.getSimpleDuration());
+        from = Number(off_anim.getAttribute('from'));
+        to = Number(off_anim.getAttribute('to'));
+        p = Math.max(0.0, Math.min(1.0, ((t - t0) / d)));
+        v = from + p * (to - from);
+    }
+    else {
+        p=1.0;
+        v=0.0;
+    }
+
+    geoms = document.getElementsByClassName('geometry');
+    for (i = 0; i < geoms.length; ++i) {
+        geoms[i].setAttribute('filter', 'url(#panel-focus-filter)');
+    }
+
+    for (i = 0; i < ids.length; ++i) {
+        geom = document.getElementById(ids[i]);
+        geom.setAttribute('filter', 'inherit');
+    }
+
+    on_anim = document.getElementById('panel-focus-filter-on-anim');
+    on_anim.setAttribute('from', v);
+    on_anim.setAttribute('dur',  p * on_anim_dur + 's');
+    on_anim.beginElement();
+}
+
+
+// Set all geometries to full opacity.
+function unpresent_geometry()
+{
+    off_anim_dur = 0.3;
+
+    on_anim = document.getElementById('panel-focus-filter-on-anim');
+    on_anim.endElement();
+
+    t0 = Number(on_anim.getStartTime());
+    t = Number(on_anim.getCurrentTime());
+    d = Number(on_anim.getSimpleDuration());
+    from = Number(on_anim.getAttribute('from'));
+    to = Number(on_anim.getAttribute('to'));
+    p = Math.max(0.0, Math.min(1.0, ((t - t0) / d)));
+    v = from + p * (to - from);
+
+    off_anim = document.getElementById('panel-focus-filter-off-anim');
+    off_anim.setAttribute('from', v);
+    dur = p * off_anim_dur
+    off_anim.setAttribute('dur',  dur + 's');
+    off_anim.addEventListener('endEvent', unpresent_geometry_end);
+    off_anim.beginElement();
+
+    // Webkit doesn't support the "onend" attribute, so we work arround.
+    setTimeout("unpresent_geometry_end()", 1000 * dur);
+}
+
+
+// Called when the animation in unpresent_geometry finishes.
+// Enabling a filter, even if it has no effect, adds an extra layer of
+// rasterization, which tends to make things look like shit, so we clear all the
+// filters when the animation ends.
+function unpresent_geometry_end()
+{
+    // skip this function in the on_animation has been triggered since the last
+    // off_animation.
+    on_anim = document.getElementById('panel-focus-filter-on-anim');
+    off_anim = document.getElementById('panel-focus-filter-off-anim');
+    if (on_anim.getStartTime() > off_anim.getStartTime()) {
+        return;
+    }
+
+    // Skip this if the off animation isn't actually finished.
+    elapsed = off_anim.getCurrentTime() - off_anim.getStartTime();
+    if (elapsed < off_anim.getSimpleDuration()) {
+        return;
+    }
+
+    geoms = document.getElementsByClassName('geometry');
+    for (i = 0; i < geoms.length; ++i) {
+        geoms[i].setAttribute('filter', 'inherit');
+    }
+}
+
+
+]]></script>
+<defs>
+    <!--A filter used to deemphasize out of focus geometries for mouseover
+       -effects.-->
+    <!-- TODO: flood-color needs to be set from the current theme -->
+    <filter id="panel-focus-filter" x="-20%" y="-20%" width="140%" height="140%">
+        <feFlood flood-color="#f5f5f5" flood-opacity="0.5" result="flood">
+            <animate id="panel-focus-filter-off-anim"
+                      attributeName="flood-opacity" attributeType="XML"
+                      fill="freeze" begin="indefinite" dur="0.2s"
+                      from="0.8" to="0.0" onend="unpresent_geometry_end"/>
+            <animate id="panel-focus-filter-on-anim"
+                      attributeName="flood-opacity" attributeType="XML"
+                      fill="freeze" begin="indefinite" dur="0.1s"
+                      from="0.0" to="0.8" onend="unpresent_geometry_end"/>
+        </feFlood>
+        <feComposite operator="atop" in="flood" in2="SourceGraphic" />
+    </filter>
+</defs>
+
+<script type="application/ecmascript"><![CDATA[
+function js_chunk_759c01a4adf6ee2b(evt) {
+  show_annotation('id103');present_geometry(['id102'])
+}
+
+function js_chunk_6e422f7b1e935c00(evt) {
+  show_annotation('id95');present_geometry(['id94'])
+}
+
+function js_chunk_cb7946295809d847(evt) {
+  hide_annotation('id57'); unpresent_geometry()
+}
+
+function js_chunk_96087846f587ca53(evt) {
+  hide_annotation('id269'); unpresent_geometry()
+}
+
+function js_chunk_84260041420584(evt) {
+  hide_annotation('id25'); unpresent_geometry()
+}
+
+function js_chunk_68ea7589929d7525(evt) {
+  show_annotation('id43');present_geometry(['id42'])
+}
+
+function js_chunk_ca379272567e9d59(evt) {
+  show_annotation('id85');present_geometry(['id84'])
+}
+
+function js_chunk_de3075d385e909a7(evt) {
+  hide_annotation('id245'); unpresent_geometry()
+}
+
+function js_chunk_b1adf234a472ba36(evt) {
+  hide_annotation('id47'); unpresent_geometry()
+}
+
+function js_chunk_5442f7b16a959c69(evt) {
+  hide_annotation('id87'); unpresent_geometry()
+}
+
+function js_chunk_cb311dec5feb76e5(evt) {
+  show_annotation('id243');present_geometry(['id242'])
+}
+
+function js_chunk_44e08ba3d28dd4de(evt) {
+  hide_annotation('id195'); unpresent_geometry()
+}
+
+function js_chunk_405e2aedc53c4caa(evt) {
+  hide_annotation('id125'); unpresent_geometry()
+}
+
+function js_chunk_9e1bd3cffd4ef2f1(evt) {
+  show_annotation('id57');present_geometry(['id56'])
+}
+
+function js_chunk_9a704e8dc288405(evt) {
+  hide_annotation('id165'); unpresent_geometry()
+}
+
+function js_chunk_92acf967e8ea0c99(evt) {
+  show_annotation('id113');present_geometry(['id112'])
+}
+
+function js_chunk_ca4ace88ddecb6e2(evt) {
+  show_annotation('id215');present_geometry(['id214'])
+}
+
+function js_chunk_8adcabb9d6d10121(evt) {
+  hide_annotation('id53'); unpresent_geometry()
+}
+
+function js_chunk_e0cafa0a0afc7bb4(evt) {
+  show_annotation('id255');present_geometry(['id254'])
+}
+
+function js_chunk_f7534d47b8050297(evt) {
+  show_annotation('id231');present_geometry(['id230'])
+}
+
+function js_chunk_ed679b922431f870(evt) {
+  hide_annotation('id257'); unpresent_geometry()
+}
+
+function js_chunk_f36ceda728890b16(evt) {
+  show_annotation('id75');present_geometry(['id74'])
+}
+
+function js_chunk_3a2d2f3a36090e2f(evt) {
+  hide_annotation('id81'); unpresent_geometry()
+}
+
+function js_chunk_e4c15094124f0e4c(evt) {
+  show_annotation('id191');present_geometry(['id190'])
+}
+
+function js_chunk_45987f5fcec0bf52(evt) {
+  hide_annotation('id109'); unpresent_geometry()
+}
+
+function js_chunk_86548a584d71d482(evt) {
+  hide_annotation('id41'); unpresent_geometry()
+}
+
+function js_chunk_a0faad8d0b4ccf9f(evt) {
+  hide_annotation('id219'); unpresent_geometry()
+}
+
+function js_chunk_ac41efffa13fdeec(evt) {
+  hide_annotation('id173'); unpresent_geometry()
+}
+
+function js_chunk_6fe38981a92d78d5(evt) {
+  show_annotation('id253');present_geometry(['id252'])
+}
+
+function js_chunk_cc088ccd5c8f9497(evt) {
+  show_annotation('id123');present_geometry(['id122'])
+}
+
+function js_chunk_f9643ebe330224a0(evt) {
+  show_annotation('id27');present_geometry(['id26'])
+}
+
+function js_chunk_9f460958003be4e1(evt) {
+  hide_annotation('id83'); unpresent_geometry()
+}
+
+function js_chunk_198bcadafc6e8749(evt) {
+  show_annotation('id213');present_geometry(['id212'])
+}
+
+function js_chunk_5ab8409478ff8447(evt) {
+  hide_annotation('id117'); unpresent_geometry()
+}
+
+function js_chunk_a11078fd630da2b(evt) {
+  hide_annotation('id93'); unpresent_geometry()
+}
+
+function js_chunk_5b9fc7b0809ec76b(evt) {
+  hide_annotation('id227'); unpresent_geometry()
+}
+
+function js_chunk_7d623be3bc30f751(evt) {
+  show_annotation('id69');present_geometry(['id68'])
+}
+
+function js_chunk_b2ca9ef42701be19(evt) {
+  hide_annotation('id69'); unpresent_geometry()
+}
+
+function js_chunk_3e1fa35c973c79b(evt) {
+  show_annotation('id83');present_geometry(['id82'])
+}
+
+function js_chunk_a6e7b02e8e049412(evt) {
+  hide_annotation('id33'); unpresent_geometry()
+}
+
+function js_chunk_2d853cbe9b43ee00(evt) {
+  show_annotation('id29');present_geometry(['id28'])
+}
+
+function js_chunk_27d6549c187999f3(evt) {
+  hide_annotation('id197'); unpresent_geometry()
+}
+
+function js_chunk_133adca466ae7fe4(evt) {
+  hide_annotation('id21'); unpresent_geometry()
+}
+
+function js_chunk_7bbedead3f18255c(evt) {
+  show_annotation('id147');present_geometry(['id146'])
+}
+
+function js_chunk_b44319c6b1a79c62(evt) {
+  hide_annotation('id207'); unpresent_geometry()
+}
+
+function js_chunk_a459b3fa8c42c0f2(evt) {
+  show_annotation('id121');present_geometry(['id120'])
+}
+
+function js_chunk_ed1d57029b522df1(evt) {
+  hide_annotation('id55'); unpresent_geometry()
+}
+
+function js_chunk_b827572e39d5fc7d(evt) {
+  hide_annotation('id235'); unpresent_geometry()
+}
+
+function js_chunk_e5cd214915015c12(evt) {
+  hide_annotation('id247'); unpresent_geometry()
+}
+
+function js_chunk_51362d15eb0ea2aa(evt) {
+  hide_annotation('id159'); unpresent_geometry()
+}
+
+function js_chunk_9295ef626df8d01a(evt) {
+  show_annotation('id197');present_geometry(['id196'])
+}
+
+function js_chunk_d75108d573226f0f(evt) {
+  show_annotation('id131');present_geometry(['id130'])
+}
+
+function js_chunk_3c0f6b4cc1a62ce0(evt) {
+  hide_annotation('id233'); unpresent_geometry()
+}
+
+function js_chunk_e94aa8f51b379992(evt) {
+  show_annotation('id159');present_geometry(['id158'])
+}
+
+function js_chunk_6a547f5319290328(evt) {
+  show_annotation('id127');present_geometry(['id126'])
+}
+
+function js_chunk_70d9b89e23629f02(evt) {
+  hide_annotation('id75'); unpresent_geometry()
+}
+
+function js_chunk_932986ade9116de9(evt) {
+  hide_annotation('id97'); unpresent_geometry()
+}
+
+function js_chunk_b8f16823babd2048(evt) {
+  show_annotation('id163');present_geometry(['id162'])
+}
+
+function js_chunk_3af063843f46eaa3(evt) {
+  hide_annotation('id251'); unpresent_geometry()
+}
+
+function js_chunk_35bd34a52e0b7bf1(evt) {
+  show_annotation('id105');present_geometry(['id104'])
+}
+
+function js_chunk_3842c90b3238d05d(evt) {
+  hide_annotation('id73'); unpresent_geometry()
+}
+
+function js_chunk_518d77ce6354662b(evt) {
+  hide_annotation('id29'); unpresent_geometry()
+}
+
+function js_chunk_c2ff18adc715d82c(evt) {
+  show_annotation('id53');present_geometry(['id52'])
+}
+
+function js_chunk_c41881d6020c38e(evt) {
+  show_annotation('id139');present_geometry(['id138'])
+}
+
+function js_chunk_b36a06a5b02b27f0(evt) {
+  hide_annotation('id215'); unpresent_geometry()
+}
+
+function js_chunk_3b0d0b023ed5889f(evt) {
+  hide_annotation('id181'); unpresent_geometry()
+}
+
+function js_chunk_c99d05ded6c9ca4a(evt) {
+  show_annotation('id109');present_geometry(['id108'])
+}
+
+function js_chunk_d5cc9357f55335f8(evt) {
+  hide_annotation('id293'); unpresent_geometry()
+}
+
+function js_chunk_858dcb484eaade26(evt) {
+  hide_annotation('id119'); unpresent_geometry()
+}
+
+function js_chunk_a032b15909dbc49b(evt) {
+  show_annotation('id263');present_geometry(['id262'])
+}
+
+function js_chunk_689428d11a8e75e0(evt) {
+  show_annotation('id251');present_geometry(['id250'])
+}
+
+function js_chunk_ee75546725c520fe(evt) {
+  show_annotation('id165');present_geometry(['id164'])
+}
+
+function js_chunk_c7aa336cd8f4501a(evt) {
+  hide_annotation('id283'); unpresent_geometry()
+}
+
+function js_chunk_aba94bf919611d5b(evt) {
+  show_annotation('id89');present_geometry(['id88'])
+}
+
+function js_chunk_ece034a3227cba86(evt) {
+  show_annotation('id177');present_geometry(['id176'])
+}
+
+function js_chunk_99be24b57dfbdbb4(evt) {
+  hide_annotation('id297'); unpresent_geometry()
+}
+
+function js_chunk_7fb6c012482919a6(evt) {
+  hide_annotation('id183'); unpresent_geometry()
+}
+
+function js_chunk_8838e9e1580f58b4(evt) {
+  hide_annotation('id137'); unpresent_geometry()
+}
+
+function js_chunk_147c6fa871c59d74(evt) {
+  show_annotation('id195');present_geometry(['id194'])
+}
+
+function js_chunk_77445cc8aff4c1f3(evt) {
+  show_annotation('id59');present_geometry(['id58'])
+}
+
+function js_chunk_a95ec3ce173c01bd(evt) {
+  hide_annotation('id123'); unpresent_geometry()
+}
+
+function js_chunk_f38f5aaeafda63ad(evt) {
+  show_annotation('id185');present_geometry(['id184'])
+}
+
+function js_chunk_a1658f0e8393dd52(evt) {
+  show_annotation('id41');present_geometry(['id40'])
+}
+
+function js_chunk_be506f07456e4d07(evt) {
+  hide_annotation('id187'); unpresent_geometry()
+}
+
+function js_chunk_a749eae71047202b(evt) {
+  show_annotation('id73');present_geometry(['id72'])
+}
+
+function js_chunk_b5d56abf334507fb(evt) {
+  show_annotation('id143');present_geometry(['id142'])
+}
+
+function js_chunk_d3c66e9b68f9b5af(evt) {
+  hide_annotation('id65'); unpresent_geometry()
+}
+
+function js_chunk_9d5b8d63faf05eed(evt) {
+  hide_annotation('id31'); unpresent_geometry()
+}
+
+function js_chunk_daad3d0e3f5febd(evt) {
+  hide_annotation('id149'); unpresent_geometry()
+}
+
+function js_chunk_d85374c878411f35(evt) {
+  hide_annotation('id143'); unpresent_geometry()
+}
+
+function js_chunk_9937022b75fdeaa8(evt) {
+  hide_annotation('id111'); unpresent_geometry()
+}
+
+function js_chunk_81539e544c0673a6(evt) {
+  show_annotation('id227');present_geometry(['id226'])
+}
+
+function js_chunk_40890fac41db09d3(evt) {
+  show_annotation('id39');present_geometry(['id38'])
+}
+
+function js_chunk_1bae11ff00b397e9(evt) {
+  show_annotation('id219');present_geometry(['id218'])
+}
+
+function js_chunk_d6bf6ec3710e35a7(evt) {
+  hide_annotation('id121'); unpresent_geometry()
+}
+
+function js_chunk_f40b24d8b17d8651(evt) {
+  show_annotation('id247');present_geometry(['id246'])
+}
+
+function js_chunk_81c83cc34d072b28(evt) {
+  show_annotation('id267');present_geometry(['id266'])
+}
+
+function js_chunk_eb0675109fc81e1d(evt) {
+  show_annotation('id291');present_geometry(['id290'])
+}
+
+function js_chunk_b24d71c92562ccdf(evt) {
+  hide_annotation('id35'); unpresent_geometry()
+}
+
+function js_chunk_3d01d76d43a49655(evt) {
+  show_annotation('id279');present_geometry(['id278'])
+}
+
+function js_chunk_aef5e4ede9a56c5(evt) {
+  show_annotation('id183');present_geometry(['id182'])
+}
+
+function js_chunk_53238d43eee764c6(evt) {
+  hide_annotation('id151'); unpresent_geometry()
+}
+
+function js_chunk_726619342430aa66(evt) {
+  hide_annotation('id9'); unpresent_geometry()
+}
+
+function js_chunk_6a8061a7197ffcc4(evt) {
+  hide_annotation('id133'); unpresent_geometry()
+}
+
+function js_chunk_45600022ca240068(evt) {
+  show_annotation('id15');present_geometry(['id14'])
+}
+
+function js_chunk_38b909c83320ed07(evt) {
+  hide_annotation('id79'); unpresent_geometry()
+}
+
+function js_chunk_640bcfa411b68896(evt) {
+  show_annotation('id271');present_geometry(['id270'])
+}
+
+function js_chunk_388eeca1b9fbe55a(evt) {
+  hide_annotation('id161'); unpresent_geometry()
+}
+
+function js_chunk_d16694d16c247bd7(evt) {
+  hide_annotation('id217'); unpresent_geometry()
+}
+
+function js_chunk_eeb5664f268b4a0a(evt) {
+  hide_annotation('id209'); unpresent_geometry()
+}
+
+function js_chunk_898af7b3d34e805d(evt) {
+  hide_annotation('id23'); unpresent_geometry()
+}
+
+function js_chunk_72b074ff2e1d1008(evt) {
+  show_annotation('id175');present_geometry(['id174'])
+}
+
+function js_chunk_886c8a27d9a5a095(evt) {
+  show_annotation('id193');present_geometry(['id192'])
+}
+
+function js_chunk_6d8064b09c177577(evt) {
+  show_annotation('id49');present_geometry(['id48'])
+}
+
+function js_chunk_35b477baad77921c(evt) {
+  hide_annotation('id91'); unpresent_geometry()
+}
+
+function js_chunk_aea3f5e02622a98d(evt) {
+  show_annotation('id169');present_geometry(['id168'])
+}
+
+function js_chunk_e3c896fdbde2ca7(evt) {
+  show_annotation('id17');present_geometry(['id16'])
+}
+
+function js_chunk_6ea676eba6a4500d(evt) {
+  hide_annotation('id221'); unpresent_geometry()
+}
+
+function js_chunk_c6399786cb83adf6(evt) {
+  show_annotation('id3');present_geometry(['id2'])
+}
+
+function js_chunk_1d8af8d603d26b8f(evt) {
+  hide_annotation('id179'); unpresent_geometry()
+}
+
+function js_chunk_357ddb86339c00a7(evt) {
+  show_annotation('id151');present_geometry(['id150'])
+}
+
+function js_chunk_d8a2d0577a133743(evt) {
+  show_annotation('id189');present_geometry(['id188'])
+}
+
+function js_chunk_7d49a763c4083241(evt) {
+  show_annotation('id261');present_geometry(['id260'])
+}
+
+function js_chunk_fe907696c5fb839d(evt) {
+  hide_annotation('id167'); unpresent_geometry()
+}
+
+function js_chunk_405d891ac26a16e4(evt) {
+  hide_annotation('id77'); unpresent_geometry()
+}
+
+function js_chunk_bd9ae785c4025ac0(evt) {
+  hide_annotation('id193'); unpresent_geometry()
+}
+
+function js_chunk_6bc321ef189db5b4(evt) {
+  show_annotation('id55');present_geometry(['id54'])
+}
+
+function js_chunk_151fd3f7eebee207(evt) {
+  show_annotation('id133');present_geometry(['id132'])
+}
+
+function js_chunk_16f481417582ed82(evt) {
+  show_annotation('id141');present_geometry(['id140'])
+}
+
+function js_chunk_40300ff3bfc44bda(evt) {
+  hide_annotation('id13'); unpresent_geometry()
+}
+
+function js_chunk_cb78a8b2d98268ba(evt) {
+  hide_annotation('id105'); unpresent_geometry()
+}
+
+function js_chunk_a590fad015a1b3e9(evt) {
+  hide_annotation('id299'); unpresent_geometry()
+}
+
+function js_chunk_9ba99b73fff56195(evt) {
+  show_annotation('id155');present_geometry(['id154'])
+}
+
+function js_chunk_d564614d7417aadf(evt) {
+  hide_annotation('id199'); unpresent_geometry()
+}
+
+function js_chunk_5082a666eac07ff0(evt) {
+  hide_annotation('id291'); unpresent_geometry()
+}
+
+function js_chunk_bfce4679c14ff564(evt) {
+  hide_annotation('id71'); unpresent_geometry()
+}
+
+function js_chunk_4b9a86aa5ac54fa7(evt) {
+  hide_annotation('id115'); unpresent_geometry()
+}
+
+function js_chunk_7c83dfa041e20eb6(evt) {
+  hide_annotation('id163'); unpresent_geometry()
+}
+
+function js_chunk_e975241911fa72a6(evt) {
+  show_annotation('id7');present_geometry(['id6'])
+}
+
+function js_chunk_2375ce1a10a6b2e7(evt) {
+  show_annotation('id293');present_geometry(['id292'])
+}
+
+function js_chunk_6dbebfc825064bd2(evt) {
+  show_annotation('id237');present_geometry(['id236'])
+}
+
+function js_chunk_e909f27c9380bcd1(evt) {
+  show_annotation('id65');present_geometry(['id64'])
+}
+
+function js_chunk_3da50a7ca735caf(evt) {
+  show_annotation('id101');present_geometry(['id100'])
+}
+
+function js_chunk_5b68eee5783dbc89(evt) {
+  show_annotation('id61');present_geometry(['id60'])
+}
+
+function js_chunk_2187a49183491b62(evt) {
+  show_annotation('id25');present_geometry(['id24'])
+}
+
+function js_chunk_d672b1ba76a037c9(evt) {
+  show_annotation('id289');present_geometry(['id288'])
+}
+
+function js_chunk_2ee8e79ca75af878(evt) {
+  show_annotation('id239');present_geometry(['id238'])
+}
+
+function js_chunk_eb167dd7183ca81a(evt) {
+  show_annotation('id87');present_geometry(['id86'])
+}
+
+function js_chunk_a952c9d41bfc80c9(evt) {
+  hide_annotation('id213'); unpresent_geometry()
+}
+
+function js_chunk_54f6fafae8fe3ba0(evt) {
+  hide_annotation('id5'); unpresent_geometry()
+}
+
+function js_chunk_1f3aa705874ee36a(evt) {
+  show_annotation('id171');present_geometry(['id170'])
+}
+
+function js_chunk_5ae09d5e7a4175cf(evt) {
+  show_annotation('id129');present_geometry(['id128'])
+}
+
+function js_chunk_cbada4a58daa2ac(evt) {
+  show_annotation('id19');present_geometry(['id18'])
+}
+
+function js_chunk_b75026e606101ec(evt) {
+  show_annotation('id269');present_geometry(['id268'])
+}
+
+function js_chunk_8d6ac5b8e3a2fb07(evt) {
+  show_annotation('id187');present_geometry(['id186'])
+}
+
+function js_chunk_ff6f38cdbe42be1f(evt) {
+  show_annotation('id11');present_geometry(['id10'])
+}
+
+function js_chunk_3ab98883b9f34b4a(evt) {
+  hide_annotation('id129'); unpresent_geometry()
+}
+
+function js_chunk_d7c3b0e778a89eef(evt) {
+  show_annotation('id205');present_geometry(['id204'])
+}
+
+function js_chunk_b542e816b3e40d0e(evt) {
+  show_annotation('id229');present_geometry(['id228'])
+}
+
+function js_chunk_6a943afa1eb182ae(evt) {
+  hide_annotation('id241'); unpresent_geometry()
+}
+
+function js_chunk_70624ea0a3832b67(evt) {
+  hide_annotation('id99'); unpresent_geometry()
+}
+
+function js_chunk_7d2c4963c41284dd(evt) {
+  hide_annotation('id295'); unpresent_geometry()
+}
+
+function js_chunk_2bafe3899a1e2712(evt) {
+  show_annotation('id97');present_geometry(['id96'])
+}
+
+function js_chunk_8ad60d15ab92a7a(evt) {
+  hide_annotation('id231'); unpresent_geometry()
+}
+
+function js_chunk_2028be0489a068f4(evt) {
+  show_annotation('id199');present_geometry(['id198'])
+}
+
+function js_chunk_cc97272fd8924f50(evt) {
+  hide_annotation('id15'); unpresent_geometry()
+}
+
+function js_chunk_ddf8f5740566efac(evt) {
+  hide_annotation('id261'); unpresent_geometry()
+}
+
+function js_chunk_724f6aa82dbf5356(evt) {
+  show_annotation('id209');present_geometry(['id208'])
+}
+
+function js_chunk_aed5305f26887707(evt) {
+  show_annotation('id161');present_geometry(['id160'])
+}
+
+function js_chunk_19e4ba29fb66f89f(evt) {
+  show_annotation('id137');present_geometry(['id136'])
+}
+
+function js_chunk_7a66c7df35e40f40(evt) {
+  show_annotation('id51');present_geometry(['id50'])
+}
+
+function js_chunk_a922f4401454e631(evt) {
+  hide_annotation('id95'); unpresent_geometry()
+}
+
+function js_chunk_f6c355713628ac5a(evt) {
+  show_annotation('id153');present_geometry(['id152'])
+}
+
+function js_chunk_db2f8a357fe7e017(evt) {
+  hide_annotation('id237'); unpresent_geometry()
+}
+
+function js_chunk_a659203b0bc2bd93(evt) {
+  hide_annotation('id3'); unpresent_geometry()
+}
+
+function js_chunk_9c65bca3026b61eb(evt) {
+  show_annotation('id283');present_geometry(['id282'])
+}
+
+function js_chunk_9ada6cd47519f43a(evt) {
+  hide_annotation('id17'); unpresent_geometry()
+}
+
+function js_chunk_eece8f812725405a(evt) {
+  show_annotation('id245');present_geometry(['id244'])
+}
+
+function js_chunk_4d1f2f92e3f932dc(evt) {
+  hide_annotation('id289'); unpresent_geometry()
+}
+
+function js_chunk_9ba4a49480a833aa(evt) {
+  show_annotation('id225');present_geometry(['id224'])
+}
+
+function js_chunk_7a43b3de3e282ade(evt) {
+  hide_annotation('id275'); unpresent_geometry()
+}
+
+function js_chunk_700652fd1f1cf7d0(evt) {
+  show_annotation('id5');present_geometry(['id4'])
+}
+
+function js_chunk_9db36561fc7d74cd(evt) {
+  hide_annotation('id49'); unpresent_geometry()
+}
+
+function js_chunk_d6c03a026e485cb1(evt) {
+  show_annotation('id35');present_geometry(['id34'])
+}
+
+function js_chunk_5fc7f77e0949e1da(evt) {
+  show_annotation('id295');present_geometry(['id294'])
+}
+
+function js_chunk_65b3f56694890e13(evt) {
+  hide_annotation('id201'); unpresent_geometry()
+}
+
+function js_chunk_24563998097553c3(evt) {
+  hide_annotation('id39'); unpresent_geometry()
+}
+
+function js_chunk_48d3be0cd10ba750(evt) {
+  show_annotation('id13');present_geometry(['id12'])
+}
+
+function js_chunk_52d95721ed506272(evt) {
+  hide_annotation('id139'); unpresent_geometry()
+}
+
+function js_chunk_d244ceb365f6470f(evt) {
+  hide_annotation('id67'); unpresent_geometry()
+}
+
+function js_chunk_df199b0187a7f233(evt) {
+  hide_annotation('id259'); unpresent_geometry()
+}
+
+function js_chunk_72e3af362f2a2052(evt) {
+  show_annotation('id257');present_geometry(['id256'])
+}
+
+function js_chunk_5286b4726caac393(evt) {
+  hide_annotation('id135'); unpresent_geometry()
+}
+
+function js_chunk_726b7e9dae35e9a5(evt) {
+  hide_annotation('id225'); unpresent_geometry()
+}
+
+function js_chunk_df566e0a878765c1(evt) {
+  hide_annotation('id169'); unpresent_geometry()
+}
+
+function js_chunk_1e88d3357d46dd52(evt) {
+  show_annotation('id33');present_geometry(['id32'])
+}
+
+function js_chunk_61ff61f505ad72d0(evt) {
+  show_annotation('id81');present_geometry(['id80'])
+}
+
+function js_chunk_37d7550509ba5ac(evt) {
+  show_annotation('id277');present_geometry(['id276'])
+}
+
+function js_chunk_5cb4ef56fa805ed4(evt) {
+  hide_annotation('id51'); unpresent_geometry()
+}
+
+function js_chunk_a33aba0f0f4f0b4b(evt) {
+  hide_annotation('id171'); unpresent_geometry()
+}
+
+function js_chunk_2df580fa25619323(evt) {
+  hide_annotation('id1'); unpresent_geometry()
+}
+
+function js_chunk_a510158d91bd8520(evt) {
+  show_annotation('id135');present_geometry(['id134'])
+}
+
+function js_chunk_d112895465b41661(evt) {
+  show_annotation('id117');present_geometry(['id116'])
+}
+
+function js_chunk_7248773d2820d574(evt) {
+  show_annotation('id111');present_geometry(['id110'])
+}
+
+function js_chunk_24080a4090b24000(evt) {
+  hide_annotation('id155'); unpresent_geometry()
+}
+
+function js_chunk_5bb2d379fbe5aae2(evt) {
+  hide_annotation('id127'); unpresent_geometry()
+}
+
+function js_chunk_33164b27b0ac293e(evt) {
+  show_annotation('id297');present_geometry(['id296'])
+}
+
+function js_chunk_1209cb836893f3da(evt) {
+  hide_annotation('id131'); unpresent_geometry()
+}
+
+function js_chunk_6c24b6492105bcf8(evt) {
+  hide_annotation('id177'); unpresent_geometry()
+}
+
+function js_chunk_34872dadac9e6b0e(evt) {
+  hide_annotation('id113'); unpresent_geometry()
+}
+
+function js_chunk_a181ae048c8aaad2(evt) {
+  show_annotation('id235');present_geometry(['id234'])
+}
+
+function js_chunk_a64de6b496567cee(evt) {
+  hide_annotation('id285'); unpresent_geometry()
+}
+
+function js_chunk_fd706dfec4382d99(evt) {
+  show_annotation('id217');present_geometry(['id216'])
+}
+
+function js_chunk_60e59ae78aebdf1d(evt) {
+  hide_annotation('id211'); unpresent_geometry()
+}
+
+function js_chunk_fc406630c1d7401d(evt) {
+  hide_annotation('id223'); unpresent_geometry()
+}
+
+function js_chunk_c369f20348e2b893(evt) {
+  show_annotation('id93');present_geometry(['id92'])
+}
+
+function js_chunk_1dee699d055386f5(evt) {
+  hide_annotation('id267'); unpresent_geometry()
+}
+
+function js_chunk_36edff3faea45d12(evt) {
+  hide_annotation('id45'); unpresent_geometry()
+}
+
+function js_chunk_5a93c46375efe6c5(evt) {
+  show_annotation('id45');present_geometry(['id44'])
+}
+
+function js_chunk_f555d133b44c88ab(evt) {
+  hide_annotation('id279'); unpresent_geometry()
+}
+
+function js_chunk_40d022decb5b20ec(evt) {
+  hide_annotation('id287'); unpresent_geometry()
+}
+
+function js_chunk_9d109f5703dbeee7(evt) {
+  show_annotation('id285');present_geometry(['id284'])
+}
+
+function js_chunk_2f90e62e2842713b(evt) {
+  show_annotation('id211');present_geometry(['id210'])
+}
+
+function js_chunk_8018e9eec9534283(evt) {
+  show_annotation('id207');present_geometry(['id206'])
+}
+
+function js_chunk_f489a675294cf362(evt) {
+  hide_annotation('id27'); unpresent_geometry()
+}
+
+function js_chunk_d8d413a574396f4b(evt) {
+  show_annotation('id107');present_geometry(['id106'])
+}
+
+function js_chunk_d5e4b0a2f56a23c6(evt) {
+  show_annotation('id275');present_geometry(['id274'])
+}
+
+function js_chunk_e3329c1609f47448(evt) {
+  show_annotation('id119');present_geometry(['id118'])
+}
+
+function js_chunk_a453f09d11640987(evt) {
+  hide_annotation('id175'); unpresent_geometry()
+}
+
+function js_chunk_a4f8d8438e7188a0(evt) {
+  show_annotation('id125');present_geometry(['id124'])
+}
+
+function js_chunk_895c7512dc2f7447(evt) {
+  show_annotation('id1');present_geometry(['id0'])
+}
+
+function js_chunk_6c4a9775995db9b9(evt) {
+  hide_annotation('id43'); unpresent_geometry()
+}
+
+function js_chunk_24cc1b4c89d1842c(evt) {
+  show_annotation('id31');present_geometry(['id30'])
+}
+
+function js_chunk_9976602b7c5344b0(evt) {
+  hide_annotation('id255'); unpresent_geometry()
+}
+
+function js_chunk_dbc5caf67a4a5715(evt) {
+  hide_annotation('id101'); unpresent_geometry()
+}
+
+function js_chunk_2cb459bb230929b9(evt) {
+  hide_annotation('id271'); unpresent_geometry()
+}
+
+function js_chunk_ce9351ffe69d2d68(evt) {
+  hide_annotation('id265'); unpresent_geometry()
+}
+
+function js_chunk_2f70d6a51e45faa1(evt) {
+  hide_annotation('id11'); unpresent_geometry()
+}
+
+function js_chunk_490dc65cd9b5e860(evt) {
+  hide_annotation('id145'); unpresent_geometry()
+}
+
+function js_chunk_d40f3391efb852a4(evt) {
+  hide_annotation('id141'); unpresent_geometry()
+}
+
+function js_chunk_ba96436f3e4dd193(evt) {
+  show_annotation('id203');present_geometry(['id202'])
+}
+
+function js_chunk_97f2fcaa6f4a707e(evt) {
+  show_annotation('id9');present_geometry(['id8'])
+}
+
+function js_chunk_b3a3a80228b301c5(evt) {
+  hide_annotation('id63'); unpresent_geometry()
+}
+
+function js_chunk_ccf71740e30f789a(evt) {
+  hide_annotation('id203'); unpresent_geometry()
+}
+
+function js_chunk_901f87cc69c83aca(evt) {
+  hide_annotation('id239'); unpresent_geometry()
+}
+
+function js_chunk_b17b780c2a915631(evt) {
+  hide_annotation('id147'); unpresent_geometry()
+}
+
+function js_chunk_12537f9a64df9360(evt) {
+  show_annotation('id23');present_geometry(['id22'])
+}
+
+function js_chunk_3db78c43c4f852f6(evt) {
+  hide_annotation('id243'); unpresent_geometry()
+}
+
+function js_chunk_cce1f4a16363ab03(evt) {
+  show_annotation('id281');present_geometry(['id280'])
+}
+
+function js_chunk_d72277b677e5ab11(evt) {
+  hide_annotation('id277'); unpresent_geometry()
+}
+
+function js_chunk_fc2d92a3c116d2f7(evt) {
+  hide_annotation('id185'); unpresent_geometry()
+}
+
+function js_chunk_854454924bf4832e(evt) {
+  hide_annotation('id61'); unpresent_geometry()
+}
+
+function js_chunk_73f10a7f281ad9bc(evt) {
+  show_annotation('id21');present_geometry(['id20'])
+}
+
+function js_chunk_917e3e4be58db985(evt) {
+  hide_annotation('id107'); unpresent_geometry()
+}
+
+function js_chunk_c36e59afc88b8c30(evt) {
+  show_annotation('id79');present_geometry(['id78'])
+}
+
+function js_chunk_e630651e6246a0b(evt) {
+  hide_annotation('id229'); unpresent_geometry()
+}
+
+function js_chunk_917f25b6e4ad4f5f(evt) {
+  show_annotation('id77');present_geometry(['id76'])
+}
+
+function js_chunk_ddb3361484879041(evt) {
+  show_annotation('id201');present_geometry(['id200'])
+}
+
+function js_chunk_fe8d2a67c690dc33(evt) {
+  show_annotation('id265');present_geometry(['id264'])
+}
+
+function js_chunk_6ec242ed26267d5c(evt) {
+  hide_annotation('id153'); unpresent_geometry()
+}
+
+function js_chunk_d8ccd0bf72b076a7(evt) {
+  show_annotation('id47');present_geometry(['id46'])
+}
+
+function js_chunk_6e5f40c0a58af0b3(evt) {
+  hide_annotation('id191'); unpresent_geometry()
+}
+
+function js_chunk_6380137d88b3908d(evt) {
+  show_annotation('id71');present_geometry(['id70'])
+}
+
+function js_chunk_ec90a38a2277ba04(evt) {
+  show_annotation('id223');present_geometry(['id222'])
+}
+
+function js_chunk_62326da18d3e6e01(evt) {
+  show_annotation('id173');present_geometry(['id172'])
+}
+
+function js_chunk_2413bfb312a73915(evt) {
+  show_annotation('id299');present_geometry(['id298'])
+}
+
+function js_chunk_8a817be1d4132051(evt) {
+  hide_annotation('id7'); unpresent_geometry()
+}
+
+function js_chunk_425751944e4f07b7(evt) {
+  show_annotation('id273');present_geometry(['id272'])
+}
+
+function js_chunk_70480dfdaa4ac3a9(evt) {
+  show_annotation('id287');present_geometry(['id286'])
+}
+
+function js_chunk_7046797aa95a88ef(evt) {
+  hide_annotation('id189'); unpresent_geometry()
+}
+
+function js_chunk_4ab4bc36def0d240(evt) {
+  show_annotation('id233');present_geometry(['id232'])
+}
+
+function js_chunk_df5825aa80bfc45d(evt) {
+  hide_annotation('id85'); unpresent_geometry()
+}
+
+function js_chunk_faec2943b8973e3b(evt) {
+  hide_annotation('id103'); unpresent_geometry()
+}
+
+function js_chunk_8e9ccca7e4d3f70d(evt) {
+  show_annotation('id145');present_geometry(['id144'])
+}
+
+function js_chunk_db8f66a800bf2fe8(evt) {
+  hide_annotation('id273'); unpresent_geometry()
+}
+
+function js_chunk_e8a8e0cc12bdcacc(evt) {
+  hide_annotation('id59'); unpresent_geometry()
+}
+
+function js_chunk_8b03dd40d8165cd7(evt) {
+  show_annotation('id91');present_geometry(['id90'])
+}
+
+function js_chunk_b9b8b5093cc7b057(evt) {
+  show_annotation('id221');present_geometry(['id220'])
+}
+
+function js_chunk_be97dde3c6a61ce8(evt) {
+  hide_annotation('id263'); unpresent_geometry()
+}
+
+function js_chunk_51cbb861ecfd8996(evt) {
+  show_annotation('id249');present_geometry(['id248'])
+}
+
+function js_chunk_e8cdf6c79a3c0fef(evt) {
+  show_annotation('id149');present_geometry(['id148'])
+}
+
+function js_chunk_d3c52fab7046d84b(evt) {
+  show_annotation('id179');present_geometry(['id178'])
+}
+
+function js_chunk_29e1a354dde51c6(evt) {
+  hide_annotation('id157'); unpresent_geometry()
+}
+
+function js_chunk_96574addf62352b5(evt) {
+  show_annotation('id259');present_geometry(['id258'])
+}
+
+function js_chunk_27a16f4392d31ee2(evt) {
+  show_annotation('id115');present_geometry(['id114'])
+}
+
+function js_chunk_ef42d7e227a725bc(evt) {
+  hide_annotation('id205'); unpresent_geometry()
+}
+
+function js_chunk_37edd8c03941c71f(evt) {
+  hide_annotation('id249'); unpresent_geometry()
+}
+
+function js_chunk_2cf65563a38c6b96(evt) {
+  hide_annotation('id281'); unpresent_geometry()
+}
+
+function js_chunk_e1f9f3588cce47a5(evt) {
+  show_annotation('id167');present_geometry(['id166'])
+}
+
+function js_chunk_d5cf1df4f5274942(evt) {
+  show_annotation('id241');present_geometry(['id240'])
+}
+
+function js_chunk_d30dcb0dd205165(evt) {
+  show_annotation('id99');present_geometry(['id98'])
+}
+
+function js_chunk_b96ce8e533a184b7(evt) {
+  hide_annotation('id37'); unpresent_geometry()
+}
+
+function js_chunk_256847010a357cbd(evt) {
+  hide_annotation('id19'); unpresent_geometry()
+}
+
+function js_chunk_4fc91158e84d95f0(evt) {
+  show_annotation('id181');present_geometry(['id180'])
+}
+
+function js_chunk_8295debfcdcdda0d(evt) {
+  show_annotation('id157');present_geometry(['id156'])
+}
+
+function js_chunk_f7129ecab78ba2a5(evt) {
+  hide_annotation('id253'); unpresent_geometry()
+}
+
+function js_chunk_6a982577169cf94c(evt) {
+  show_annotation('id67');present_geometry(['id66'])
+}
+
+function js_chunk_de33a27bfd2ef740(evt) {
+  show_annotation('id37');present_geometry(['id36'])
+}
+
+function js_chunk_294bb6b4737fcd2(evt) {
+  hide_annotation('id89'); unpresent_geometry()
+}
+
+function js_chunk_bb8a2e9cb8800d92(evt) {
+  show_annotation('id63');present_geometry(['id62'])
+}
+
+]]></script>
 </svg>

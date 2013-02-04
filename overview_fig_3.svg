@@ -1,110 +1,1267 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="152.4mm" height="152.4mm" viewBox="0 0 152.4 152.4" style="stroke:black;fill:black" stroke-width="0.5">
-<g stroke="#F2F2F2" fill="#F5F5F5">
-  <path d="M 22.26 5 L 147.4 5 147.4 134.4 22.26 134.4 z" />
-  <g stroke="#FFFFFF" stroke-width="0.3">
-    <path d="M143.86,5 L 143.86 134.4" />
-    <path d="M84.83,5 L 84.83 134.4" />
-    <path d="M25.8,5 L 25.8 134.4" />
-    <path d="M55.32,5 L 55.32 134.4" />
-    <path d="M114.34,5 L 114.34 134.4" />
+<g>
+  <g stroke="none" fill="#4C404B" font-size="3.18" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
+    <text x="21.26" y="110.4" text-anchor="end" style="dominant-baseline:central">1000</text>
+    <text x="21.26" y="90.05" text-anchor="end" style="dominant-baseline:central">2000</text>
+    <text x="21.26" y="49.36" text-anchor="end" style="dominant-baseline:central">4000</text>
+    <text x="21.26" y="130.74" text-anchor="end" style="dominant-baseline:central">0</text>
+    <text x="21.26" y="69.7" text-anchor="end" style="dominant-baseline:central">3000</text>
+    <text x="21.26" y="29.01" text-anchor="end" style="dominant-baseline:central">5000</text>
+    <text x="21.26" y="8.66" text-anchor="end" style="dominant-baseline:central">6000</text>
   </g>
-  <g stroke="#FFFFFF" stroke-width="0.3">
-    <path d="M22.26,110.4 L 147.4 110.4" />
-    <path d="M22.26,90.05 L 147.4 90.05" />
-    <path d="M22.26,49.36 L 147.4 49.36" />
-    <path d="M22.26,130.74 L 147.4 130.74" />
-    <path d="M22.26,69.7 L 147.4 69.7" />
-    <path d="M22.26,29.01 L 147.4 29.01" />
-    <path d="M22.26,8.66 L 147.4 8.66" />
+  <g stroke="none" fill="#362A35" font-size="3.88" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
+    <text x="9.47" y="69.7" text-anchor="middle" style="dominant-baseline:central" transform="rotate(-90, 9.47, 69.7)">brain</text>
+  </g>
+  <g stroke="none" fill="#362A35" font-size="3.88" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
+    <text x="84.83" y="145.4" text-anchor="middle">body</text>
+  </g>
+  <g stroke="none" fill="#4C404B" font-size="3.18" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
+    <text x="143.86" y="138.45" text-anchor="middle">8000</text>
+    <text x="84.83" y="138.45" text-anchor="middle">4000</text>
+    <text x="25.8" y="138.45" text-anchor="middle">0</text>
+    <text x="55.32" y="138.45" text-anchor="middle">2000</text>
+    <text x="114.34" y="138.45" text-anchor="middle">6000</text>
+  </g>
+  <g stroke="#F2F2F2" fill="#F5F5F5">
+    <path d="M 22.26 5 L 147.4 5 147.4 134.4 22.26 134.4 z" />
+    <g stroke="#FFFFFF" stroke-width="0.3">
+      <path d="M22.26,110.4 L 147.4 110.4" />
+      <path d="M22.26,90.05 L 147.4 90.05" />
+      <path d="M22.26,49.36 L 147.4 49.36" />
+      <path d="M22.26,130.74 L 147.4 130.74" />
+      <path d="M22.26,69.7 L 147.4 69.7" />
+      <path d="M22.26,29.01 L 147.4 29.01" />
+      <path d="M22.26,8.66 L 147.4 8.66" />
+    </g>
+    <g stroke="#FFFFFF" stroke-width="0.3">
+      <path d="M143.86,5 L 143.86 134.4" />
+      <path d="M84.83,5 L 84.83 134.4" />
+      <path d="M25.8,5 L 25.8 134.4" />
+      <path d="M55.32,5 L 55.32 134.4" />
+      <path d="M114.34,5 L 114.34 134.4" />
+    </g>
+  </g>
+  <g stroke-width="0.3">
+    <g fill="#4682B4" stroke="#0F5D8C" class="color_group_RGB(0.27450980392156865,0.5098039215686274,0.7058823529411765)">
+      <g id="id720" class="geometry">
+        <circle cx="25.8" cy="130.69" r="0.5" />
+      </g>
+      <g id="id716" class="geometry">
+        <circle cx="25.81" cy="130.69" r="0.5" />
+      </g>
+      <g id="id712" class="geometry">
+        <circle cx="25.85" cy="130.23" r="0.5" />
+      </g>
+      <g id="id708" class="geometry">
+        <circle cx="25.8" cy="130.74" r="0.5" />
+      </g>
+      <g id="id704" class="geometry">
+        <circle cx="25.8" cy="130.72" r="0.5" />
+      </g>
+      <g id="id700" class="geometry">
+        <circle cx="25.86" cy="129.94" r="0.5" />
+      </g>
+      <g id="id696" class="geometry">
+        <circle cx="26.69" cy="129.09" r="0.5" />
+      </g>
+      <g id="id692" class="geometry">
+        <circle cx="25.96" cy="127.09" r="0.5" />
+      </g>
+      <g id="id688" class="geometry">
+        <circle cx="27.28" cy="127.55" r="0.5" />
+      </g>
+      <g id="id684" class="geometry">
+        <circle cx="25.84" cy="130.5" r="0.5" />
+      </g>
+      <g id="id680" class="geometry">
+        <circle cx="25.82" cy="130.49" r="0.5" />
+      </g>
+      <g id="id676" class="geometry">
+        <circle cx="25.8" cy="130.73" r="0.5" />
+      </g>
+      <g id="id672" class="geometry">
+        <circle cx="25.86" cy="130.4" r="0.5" />
+      </g>
+      <g id="id668" class="geometry">
+        <circle cx="25.9" cy="127.1" r="0.5" />
+      </g>
+      <g id="id664" class="geometry">
+        <circle cx="124" cy="14.52" r="0.5" />
+      </g>
+      <g id="id660" class="geometry">
+        <circle cx="25.81" cy="130.49" r="0.5" />
+      </g>
+      <g id="id656" class="geometry">
+        <circle cx="28.86" cy="122.48" r="0.5" />
+      </g>
+      <g id="id652" class="geometry">
+        <circle cx="25.82" cy="130.39" r="0.5" />
+      </g>
+      <g id="id648" class="geometry">
+        <circle cx="25.85" cy="130.22" r="0.5" />
+      </g>
+      <g id="id644" class="geometry">
+        <circle cx="25.81" cy="130.67" r="0.5" />
+      </g>
+      <g id="id640" class="geometry">
+        <circle cx="28.56" cy="122.22" r="0.5" />
+      </g>
+      <g id="id636" class="geometry">
+        <circle cx="63.39" cy="37.09" r="0.5" />
+      </g>
+      <g id="id632" class="geometry">
+        <circle cx="25.83" cy="130.49" r="0.5" />
+      </g>
+      <g id="id628" class="geometry">
+        <circle cx="25.8" cy="130.72" r="0.5" />
+      </g>
+      <g id="id624" class="geometry">
+        <circle cx="25.82" cy="130.61" r="0.5" />
+      </g>
+      <g id="id620" class="geometry">
+        <circle cx="25.8" cy="130.66" r="0.5" />
+      </g>
+      <g id="id616" class="geometry">
+        <circle cx="25.86" cy="129.56" r="0.5" />
+      </g>
+      <g id="id612" class="geometry">
+        <circle cx="26.02" cy="128.74" r="0.5" />
+      </g>
+      <g id="id608" class="geometry">
+        <circle cx="26.34" cy="128.31" r="0.5" />
+      </g>
+      <g id="id604" class="geometry">
+        <circle cx="25.82" cy="130.58" r="0.5" />
+      </g>
+      <g id="id600" class="geometry">
+        <circle cx="25.85" cy="129.84" r="0.5" />
+      </g>
+      <g id="id602" class="geometry">
+        <circle cx="25.81" cy="130.43" r="0.5" />
+      </g>
+      <g id="id606" class="geometry">
+        <circle cx="32.66" cy="122.14" r="0.5" />
+      </g>
+      <g id="id610" class="geometry">
+        <circle cx="26.21" cy="128.4" r="0.5" />
+      </g>
+      <g id="id614" class="geometry">
+        <circle cx="25.82" cy="130.63" r="0.5" />
+      </g>
+      <g id="id618" class="geometry">
+        <circle cx="25.81" cy="130.61" r="0.5" />
+      </g>
+      <g id="id622" class="geometry">
+        <circle cx="25.81" cy="130.63" r="0.5" />
+      </g>
+      <g id="id626" class="geometry">
+        <circle cx="25.8" cy="130.74" r="0.5" />
+      </g>
+      <g id="id630" class="geometry">
+        <circle cx="25.85" cy="130.52" r="0.5" />
+      </g>
+      <g id="id634" class="geometry">
+        <circle cx="25.83" cy="130.61" r="0.5" />
+      </g>
+      <g id="id638" class="geometry">
+        <circle cx="25.8" cy="130.74" r="0.5" />
+      </g>
+      <g id="id642" class="geometry">
+        <circle cx="33.49" cy="117.41" r="0.5" />
+      </g>
+      <g id="id646" class="geometry">
+        <circle cx="25.95" cy="128.4" r="0.5" />
+      </g>
+      <g id="id650" class="geometry">
+        <circle cx="25.8" cy="130.64" r="0.5" />
+      </g>
+      <g id="id654" class="geometry">
+        <circle cx="33.61" cy="116.91" r="0.5" />
+      </g>
+      <g id="id658" class="geometry">
+        <circle cx="27.06" cy="124.13" r="0.5" />
+      </g>
+      <g id="id662" class="geometry">
+        <circle cx="26.72" cy="103.88" r="0.5" />
+      </g>
+      <g id="id666" class="geometry">
+        <circle cx="25.85" cy="130.66" r="0.5" />
+      </g>
+      <g id="id670" class="geometry">
+        <circle cx="26.32" cy="129.6" r="0.5" />
+      </g>
+      <g id="id674" class="geometry">
+        <circle cx="25.8" cy="130.72" r="0.5" />
+      </g>
+      <g id="id678" class="geometry">
+        <circle cx="25.8" cy="130.74" r="0.5" />
+      </g>
+      <g id="id682" class="geometry">
+        <circle cx="29.49" cy="120.77" r="0.5" />
+      </g>
+      <g id="id686" class="geometry">
+        <circle cx="26.62" cy="127.18" r="0.5" />
+      </g>
+      <g id="id690" class="geometry">
+        <circle cx="26.57" cy="121.79" r="0.5" />
+      </g>
+      <g id="id694" class="geometry">
+        <circle cx="25.81" cy="130.69" r="0.5" />
+      </g>
+      <g id="id698" class="geometry">
+        <circle cx="25.85" cy="130.31" r="0.5" />
+      </g>
+      <g id="id702" class="geometry">
+        <circle cx="25.81" cy="130.7" r="0.5" />
+      </g>
+      <g id="id706" class="geometry">
+        <circle cx="25.8" cy="130.68" r="0.5" />
+      </g>
+      <g id="id710" class="geometry">
+        <circle cx="28.63" cy="127.08" r="0.5" />
+      </g>
+      <g id="id714" class="geometry">
+        <circle cx="28.16" cy="127.3" r="0.5" />
+      </g>
+      <g id="id718" class="geometry">
+        <circle cx="25.82" cy="130.51" r="0.5" />
+      </g>
+      <g id="id722" class="geometry">
+        <circle cx="25.86" cy="129.72" r="0.5" />
+      </g>
+    </g>
+  </g>
+  <g stroke="none" visibility="hidden" font-size="3.18" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
+    <g id="id721">
+      <text x="25.8" y="129.19" text-anchor="middle">0.104, 2.5</text>
+    </g>
+    <g id="id717">
+      <text x="25.81" y="129.19" text-anchor="middle">0.9, 2.6</text>
+    </g>
+    <g id="id713">
+      <text x="25.85" y="128.73" text-anchor="middle">3, 25</text>
+    </g>
+    <g id="id709">
+      <text x="25.8" y="129.24" text-anchor="middle">0.048, 0.33</text>
+    </g>
+    <g id="id705">
+      <text x="25.8" y="129.22" text-anchor="middle">0.075, 1.2</text>
+    </g>
+    <g id="id701">
+      <text x="25.86" y="128.44" text-anchor="middle">4.288, 39.2</text>
+    </g>
+    <g id="id697">
+      <text x="26.69" y="127.59" text-anchor="middle">60, 81</text>
+    </g>
+    <g id="id693">
+      <text x="25.96" y="125.59" text-anchor="middle">10.55, 179.5</text>
+    </g>
+    <g id="id689">
+      <text x="27.28" y="126.05" text-anchor="middle">100, 157</text>
+    </g>
+    <g id="id685">
+      <text x="25.84" y="129" text-anchor="middle">2.5, 12.1</text>
+    </g>
+    <g id="id681">
+      <text x="25.82" y="128.99" text-anchor="middle">1.4, 12.5</text>
+    </g>
+    <g id="id677">
+      <text x="25.8" y="129.23" text-anchor="middle">0.023, 0.4</text>
+    </g>
+    <g id="id673">
+      <text x="25.86" y="128.9" text-anchor="middle">4.05, 17</text>
+    </g>
+    <g id="id669">
+      <text x="25.9" y="125.6" text-anchor="middle">6.8, 179</text>
+    </g>
+    <g id="id665">
+      <text x="124" y="13.02" text-anchor="middle">6654, 5712</text>
+    </g>
+    <g id="id661">
+      <text x="25.81" y="128.99" text-anchor="middle">0.75, 12.3</text>
+    </g>
+    <g id="id657">
+      <text x="28.86" y="120.98" text-anchor="middle">207, 406</text>
+    </g>
+    <g id="id653">
+      <text x="25.82" y="128.89" text-anchor="middle">1.41, 17.5</text>
+    </g>
+    <g id="id649">
+      <text x="25.85" y="128.72" text-anchor="middle">3.3, 25.6</text>
+    </g>
+    <g id="id645">
+      <text x="25.81" y="129.17" text-anchor="middle">0.785, 3.5</text>
+    </g>
+    <g id="id641">
+      <text x="28.56" y="120.72" text-anchor="middle">187.1, 419</text>
+    </g>
+    <g id="id637">
+      <text x="63.39" y="35.59" text-anchor="middle">2547, 4603</text>
+    </g>
+    <g id="id633">
+      <text x="25.83" y="128.99" text-anchor="middle">2, 12.3</text>
+    </g>
+    <g id="id629">
+      <text x="25.8" y="129.22" text-anchor="middle">0.06, 1</text>
+    </g>
+    <g id="id625">
+      <text x="25.82" y="129.11" text-anchor="middle">1, 6.6</text>
+    </g>
+    <g id="id621">
+      <text x="25.8" y="129.16" text-anchor="middle">0.101, 4</text>
+    </g>
+    <g id="id617">
+      <text x="25.86" y="128.06" text-anchor="middle">4.19, 58</text>
+    </g>
+    <g id="id613">
+      <text x="26.02" y="127.24" text-anchor="middle">14.83, 98.2</text>
+    </g>
+    <g id="id609">
+      <text x="26.34" y="126.81" text-anchor="middle">36.33, 119.5</text>
+    </g>
+    <g id="id605">
+      <text x="25.82" y="129.08" text-anchor="middle">1.35, 8.1</text>
+    </g>
+    <g id="id601">
+      <text x="25.85" y="128.34" text-anchor="middle">3.385, 44.5</text>
+    </g>
+    <g id="id603">
+      <text x="25.81" y="128.93" text-anchor="middle">0.48, 15.5</text>
+    </g>
+    <g id="id607">
+      <text x="32.66" y="120.64" text-anchor="middle">465, 423</text>
+    </g>
+    <g id="id611">
+      <text x="26.21" y="126.9" text-anchor="middle">27.66, 115</text>
+    </g>
+    <g id="id615">
+      <text x="25.82" y="129.13" text-anchor="middle">1.04, 5.5</text>
+    </g>
+    <g id="id619">
+      <text x="25.81" y="129.11" text-anchor="middle">0.425, 6.4</text>
+    </g>
+    <g id="id623">
+      <text x="25.81" y="129.13" text-anchor="middle">0.92, 5.7</text>
+    </g>
+    <g id="id627">
+      <text x="25.8" y="129.24" text-anchor="middle">0.005, 0.14</text>
+    </g>
+    <g id="id631">
+      <text x="25.85" y="129.02" text-anchor="middle">3.5, 10.8</text>
+    </g>
+    <g id="id635">
+      <text x="25.83" y="129.11" text-anchor="middle">1.7, 6.3</text>
+    </g>
+    <g id="id639">
+      <text x="25.8" y="129.24" text-anchor="middle">0.023, 0.3</text>
+    </g>
+    <g id="id643">
+      <text x="33.49" y="115.91" text-anchor="middle">521, 655</text>
+    </g>
+    <g id="id647">
+      <text x="25.95" y="126.9" text-anchor="middle">10, 115</text>
+    </g>
+    <g id="id651">
+      <text x="25.8" y="129.14" text-anchor="middle">0.2, 5</text>
+    </g>
+    <g id="id655">
+      <text x="33.61" y="115.41" text-anchor="middle">529, 680</text>
+    </g>
+    <g id="id659">
+      <text x="27.06" y="122.63" text-anchor="middle">85, 325</text>
+    </g>
+    <g id="id663">
+      <text x="26.72" y="102.38" text-anchor="middle">62, 1320</text>
+    </g>
+    <g id="id667">
+      <text x="25.85" y="129.16" text-anchor="middle">3.5, 3.9</text>
+    </g>
+    <g id="id671">
+      <text x="26.32" y="128.1" text-anchor="middle">35, 56</text>
+    </g>
+    <g id="id675">
+      <text x="25.8" y="129.22" text-anchor="middle">0.12, 1</text>
+    </g>
+    <g id="id679">
+      <text x="25.8" y="129.24" text-anchor="middle">0.01, 0.25</text>
+    </g>
+    <g id="id683">
+      <text x="29.49" y="119.27" text-anchor="middle">250, 490</text>
+    </g>
+    <g id="id687">
+      <text x="26.62" y="125.68" text-anchor="middle">55.5, 175</text>
+    </g>
+    <g id="id691">
+      <text x="26.57" y="120.29" text-anchor="middle">52.16, 440</text>
+    </g>
+    <g id="id695">
+      <text x="25.81" y="129.19" text-anchor="middle">0.55, 2.4</text>
+    </g>
+    <g id="id699">
+      <text x="25.85" y="128.81" text-anchor="middle">3.6, 21</text>
+    </g>
+    <g id="id703">
+      <text x="25.81" y="129.2" text-anchor="middle">0.28, 1.9</text>
+    </g>
+    <g id="id707">
+      <text x="25.8" y="129.18" text-anchor="middle">0.122, 3</text>
+    </g>
+    <g id="id711">
+      <text x="28.63" y="125.58" text-anchor="middle">192, 180</text>
+    </g>
+    <g id="id715">
+      <text x="28.16" y="125.8" text-anchor="middle">160, 169</text>
+    </g>
+    <g id="id719">
+      <text x="25.82" y="129.01" text-anchor="middle">1.62, 11.4</text>
+    </g>
+    <g id="id723">
+      <text x="25.86" y="128.22" text-anchor="middle">4.235, 50.4</text>
+    </g>
+  </g>
+  <g stroke="none" opacity="0">
+    <g onmouseout="js_chunk_e01f7b1424179d00(evt)" onmouseover="js_chunk_c7eaf46d73ae8f13(evt)">
+      <path d="M 24.3 129.19 L 27.3 129.19 27.3 132.19 24.3 132.19 z" />
+    </g>
+    <g onmouseout="js_chunk_4459c3776c8c7f05(evt)" onmouseover="js_chunk_b478a5deccca4eae(evt)">
+      <path d="M 24.31 129.19 L 27.31 129.19 27.31 132.19 24.31 132.19 z" />
+    </g>
+    <g onmouseout="js_chunk_c76ac37ef2ac3196(evt)" onmouseover="js_chunk_964f67fa10757c59(evt)">
+      <path d="M 24.35 128.73 L 27.35 128.73 27.35 131.73 24.35 131.73 z" />
+    </g>
+    <g onmouseout="js_chunk_3176d94c46b55957(evt)" onmouseover="js_chunk_1145ab588652fb6c(evt)">
+      <path d="M 24.3 129.24 L 27.3 129.24 27.3 132.24 24.3 132.24 z" />
+    </g>
+    <g onmouseout="js_chunk_f739dca2523bb790(evt)" onmouseover="js_chunk_5f3ca6d022414f5a(evt)">
+      <path d="M 24.3 129.22 L 27.3 129.22 27.3 132.22 24.3 132.22 z" />
+    </g>
+    <g onmouseout="js_chunk_a2febce2a9c86112(evt)" onmouseover="js_chunk_104b81a08461eb54(evt)">
+      <path d="M 24.36 128.44 L 27.36 128.44 27.36 131.44 24.36 131.44 z" />
+    </g>
+    <g onmouseout="js_chunk_c3bf9a6a6ad4473d(evt)" onmouseover="js_chunk_2ca67f07bca21136(evt)">
+      <path d="M 25.19 127.59 L 28.19 127.59 28.19 130.59 25.19 130.59 z" />
+    </g>
+    <g onmouseout="js_chunk_a5c90cc2aee781e2(evt)" onmouseover="js_chunk_87da14cef309928f(evt)">
+      <path d="M 24.46 125.59 L 27.46 125.59 27.46 128.59 24.46 128.59 z" />
+    </g>
+    <g onmouseout="js_chunk_690c9372356eef4a(evt)" onmouseover="js_chunk_4ad6e17179038be9(evt)">
+      <path d="M 25.78 126.05 L 28.78 126.05 28.78 129.05 25.78 129.05 z" />
+    </g>
+    <g onmouseout="js_chunk_727b1431485c0a0c(evt)" onmouseover="js_chunk_4bfabd0a7b5b674b(evt)">
+      <path d="M 24.34 129 L 27.34 129 27.34 132 24.34 132 z" />
+    </g>
+    <g onmouseout="js_chunk_9ad3cbf4190d91c1(evt)" onmouseover="js_chunk_50a3396f84ac6d49(evt)">
+      <path d="M 24.32 128.99 L 27.32 128.99 27.32 131.99 24.32 131.99 z" />
+    </g>
+    <g onmouseout="js_chunk_6375c1a42a521dc6(evt)" onmouseover="js_chunk_f3cc6efc4aff2e8c(evt)">
+      <path d="M 24.3 129.23 L 27.3 129.23 27.3 132.23 24.3 132.23 z" />
+    </g>
+    <g onmouseout="js_chunk_1ce1f58f9cc2f9ae(evt)" onmouseover="js_chunk_4f8c93068218354b(evt)">
+      <path d="M 24.36 128.9 L 27.36 128.9 27.36 131.9 24.36 131.9 z" />
+    </g>
+    <g onmouseout="js_chunk_5fe043dba2bfadd5(evt)" onmouseover="js_chunk_4d3a7d64fd742188(evt)">
+      <path d="M 24.4 125.6 L 27.4 125.6 27.4 128.6 24.4 128.6 z" />
+    </g>
+    <g onmouseout="js_chunk_5405435a0b07529e(evt)" onmouseover="js_chunk_daa340bf18434e06(evt)">
+      <path d="M 122.5 13.02 L 125.5 13.02 125.5 16.02 122.5 16.02 z" />
+    </g>
+    <g onmouseout="js_chunk_fb7d2cbf59f77dce(evt)" onmouseover="js_chunk_33f3ea8e4ae5411b(evt)">
+      <path d="M 24.31 128.99 L 27.31 128.99 27.31 131.99 24.31 131.99 z" />
+    </g>
+    <g onmouseout="js_chunk_b468369263ae9c09(evt)" onmouseover="js_chunk_406105b87ba03713(evt)">
+      <path d="M 27.36 120.98 L 30.36 120.98 30.36 123.98 27.36 123.98 z" />
+    </g>
+    <g onmouseout="js_chunk_c810abf50aff010e(evt)" onmouseover="js_chunk_c7fc7af40ad6da7c(evt)">
+      <path d="M 24.32 128.89 L 27.32 128.89 27.32 131.89 24.32 131.89 z" />
+    </g>
+    <g onmouseout="js_chunk_3765d536e9a9369c(evt)" onmouseover="js_chunk_87577a92098c49fd(evt)">
+      <path d="M 24.35 128.72 L 27.35 128.72 27.35 131.72 24.35 131.72 z" />
+    </g>
+    <g onmouseout="js_chunk_2be16d04d71b69ac(evt)" onmouseover="js_chunk_ad44b70bd9e1fe88(evt)">
+      <path d="M 24.31 129.17 L 27.31 129.17 27.31 132.17 24.31 132.17 z" />
+    </g>
+    <g onmouseout="js_chunk_515d673622130556(evt)" onmouseover="js_chunk_2d04ac6fd9618dc6(evt)">
+      <path d="M 27.06 120.72 L 30.06 120.72 30.06 123.72 27.06 123.72 z" />
+    </g>
+    <g onmouseout="js_chunk_9c6ee6f8383851ed(evt)" onmouseover="js_chunk_159e3d082a96feaf(evt)">
+      <path d="M 61.89 35.59 L 64.89 35.59 64.89 38.59 61.89 38.59 z" />
+    </g>
+    <g onmouseout="js_chunk_b05270c75f6f8627(evt)" onmouseover="js_chunk_836daa7b05a5fb5b(evt)">
+      <path d="M 24.33 128.99 L 27.33 128.99 27.33 131.99 24.33 131.99 z" />
+    </g>
+    <g onmouseout="js_chunk_33c7e4fe665abb27(evt)" onmouseover="js_chunk_12ea5a9fa49fa5ca(evt)">
+      <path d="M 24.3 129.22 L 27.3 129.22 27.3 132.22 24.3 132.22 z" />
+    </g>
+    <g onmouseout="js_chunk_f0e6c505609a2fea(evt)" onmouseover="js_chunk_38858dc16fd7be19(evt)">
+      <path d="M 24.32 129.11 L 27.32 129.11 27.32 132.11 24.32 132.11 z" />
+    </g>
+    <g onmouseout="js_chunk_af524fdb5d26d8c3(evt)" onmouseover="js_chunk_64bc13bdc7fa5fc5(evt)">
+      <path d="M 24.3 129.16 L 27.3 129.16 27.3 132.16 24.3 132.16 z" />
+    </g>
+    <g onmouseout="js_chunk_f978848d717586fe(evt)" onmouseover="js_chunk_d41d9507a6bfa75f(evt)">
+      <path d="M 24.36 128.06 L 27.36 128.06 27.36 131.06 24.36 131.06 z" />
+    </g>
+    <g onmouseout="js_chunk_aac068bad404fb6e(evt)" onmouseover="js_chunk_1000dd901e85e42b(evt)">
+      <path d="M 24.52 127.24 L 27.52 127.24 27.52 130.24 24.52 130.24 z" />
+    </g>
+    <g onmouseout="js_chunk_f75f576a6ce44034(evt)" onmouseover="js_chunk_c9f4b901120f02c2(evt)">
+      <path d="M 24.84 126.81 L 27.84 126.81 27.84 129.81 24.84 129.81 z" />
+    </g>
+    <g onmouseout="js_chunk_13588b44249c2557(evt)" onmouseover="js_chunk_b6e9c38f6bbeaddf(evt)">
+      <path d="M 24.32 129.08 L 27.32 129.08 27.32 132.08 24.32 132.08 z" />
+    </g>
+    <g onmouseout="js_chunk_f74dd8776c868a2a(evt)" onmouseover="js_chunk_3c3328ac76512887(evt)">
+      <path d="M 24.35 128.34 L 27.35 128.34 27.35 131.34 24.35 131.34 z" />
+    </g>
+    <g onmouseout="js_chunk_fd433207f8711527(evt)" onmouseover="js_chunk_26a449cb4b334575(evt)">
+      <path d="M 24.31 128.93 L 27.31 128.93 27.31 131.93 24.31 131.93 z" />
+    </g>
+    <g onmouseout="js_chunk_dc810099b6ecf2ef(evt)" onmouseover="js_chunk_452799d6883a260b(evt)">
+      <path d="M 31.16 120.64 L 34.16 120.64 34.16 123.64 31.16 123.64 z" />
+    </g>
+    <g onmouseout="js_chunk_3f0c911bfc9d7556(evt)" onmouseover="js_chunk_c867ac698f53ab4f(evt)">
+      <path d="M 24.71 126.9 L 27.71 126.9 27.71 129.9 24.71 129.9 z" />
+    </g>
+    <g onmouseout="js_chunk_2b3477ab54ed96d9(evt)" onmouseover="js_chunk_b31e50b564c1484b(evt)">
+      <path d="M 24.32 129.13 L 27.32 129.13 27.32 132.13 24.32 132.13 z" />
+    </g>
+    <g onmouseout="js_chunk_9147eda0a1124022(evt)" onmouseover="js_chunk_ba922a90f3a6b976(evt)">
+      <path d="M 24.31 129.11 L 27.31 129.11 27.31 132.11 24.31 132.11 z" />
+    </g>
+    <g onmouseout="js_chunk_60421b1fbf50e8c9(evt)" onmouseover="js_chunk_a873c59c4fb44f79(evt)">
+      <path d="M 24.31 129.13 L 27.31 129.13 27.31 132.13 24.31 132.13 z" />
+    </g>
+    <g onmouseout="js_chunk_b47084abe7ab88b4(evt)" onmouseover="js_chunk_3c6fd1ff77aa2559(evt)">
+      <path d="M 24.3 129.24 L 27.3 129.24 27.3 132.24 24.3 132.24 z" />
+    </g>
+    <g onmouseout="js_chunk_3aa6ceadf418655a(evt)" onmouseover="js_chunk_b50be132e8e29142(evt)">
+      <path d="M 24.35 129.02 L 27.35 129.02 27.35 132.02 24.35 132.02 z" />
+    </g>
+    <g onmouseout="js_chunk_58aae8303021061a(evt)" onmouseover="js_chunk_89e2de8d1290e7eb(evt)">
+      <path d="M 24.33 129.11 L 27.33 129.11 27.33 132.11 24.33 132.11 z" />
+    </g>
+    <g onmouseout="js_chunk_33a0dff1e69a20c6(evt)" onmouseover="js_chunk_ba6fb38bf437c628(evt)">
+      <path d="M 24.3 129.24 L 27.3 129.24 27.3 132.24 24.3 132.24 z" />
+    </g>
+    <g onmouseout="js_chunk_47b2f5440ebe0502(evt)" onmouseover="js_chunk_75392774e9ca6753(evt)">
+      <path d="M 31.99 115.91 L 34.99 115.91 34.99 118.91 31.99 118.91 z" />
+    </g>
+    <g onmouseout="js_chunk_a63d5358cbd31126(evt)" onmouseover="js_chunk_465714928c0696fb(evt)">
+      <path d="M 24.45 126.9 L 27.45 126.9 27.45 129.9 24.45 129.9 z" />
+    </g>
+    <g onmouseout="js_chunk_9a0abd6a2ef34f05(evt)" onmouseover="js_chunk_205b82083b94d7af(evt)">
+      <path d="M 24.3 129.14 L 27.3 129.14 27.3 132.14 24.3 132.14 z" />
+    </g>
+    <g onmouseout="js_chunk_1d7b60a8b5d47d48(evt)" onmouseover="js_chunk_f5cfedf9667d94a6(evt)">
+      <path d="M 32.11 115.41 L 35.11 115.41 35.11 118.41 32.11 118.41 z" />
+    </g>
+    <g onmouseout="js_chunk_147f5d61a3dcbe2e(evt)" onmouseover="js_chunk_773a2008e95242cf(evt)">
+      <path d="M 25.56 122.63 L 28.56 122.63 28.56 125.63 25.56 125.63 z" />
+    </g>
+    <g onmouseout="js_chunk_a80337d43303b051(evt)" onmouseover="js_chunk_b9d65ddad6a9b34e(evt)">
+      <path d="M 25.22 102.38 L 28.22 102.38 28.22 105.38 25.22 105.38 z" />
+    </g>
+    <g onmouseout="js_chunk_ed0a4db23d114208(evt)" onmouseover="js_chunk_a663302cafc307c2(evt)">
+      <path d="M 24.35 129.16 L 27.35 129.16 27.35 132.16 24.35 132.16 z" />
+    </g>
+    <g onmouseout="js_chunk_9209cbe9071287bb(evt)" onmouseover="js_chunk_536cba7509d8659c(evt)">
+      <path d="M 24.82 128.1 L 27.82 128.1 27.82 131.1 24.82 131.1 z" />
+    </g>
+    <g onmouseout="js_chunk_68f498870855848(evt)" onmouseover="js_chunk_1f687ec42237c34b(evt)">
+      <path d="M 24.3 129.22 L 27.3 129.22 27.3 132.22 24.3 132.22 z" />
+    </g>
+    <g onmouseout="js_chunk_f5bf42514ee4acfe(evt)" onmouseover="js_chunk_7992f55cd68c0e63(evt)">
+      <path d="M 24.3 129.24 L 27.3 129.24 27.3 132.24 24.3 132.24 z" />
+    </g>
+    <g onmouseout="js_chunk_756ccf89ce3fb9bd(evt)" onmouseover="js_chunk_43b8620dead6df62(evt)">
+      <path d="M 27.99 119.27 L 30.99 119.27 30.99 122.27 27.99 122.27 z" />
+    </g>
+    <g onmouseout="js_chunk_607fd5922452fbfa(evt)" onmouseover="js_chunk_586e84c794305b0d(evt)">
+      <path d="M 25.12 125.68 L 28.12 125.68 28.12 128.68 25.12 128.68 z" />
+    </g>
+    <g onmouseout="js_chunk_bdde73d0df128806(evt)" onmouseover="js_chunk_38b06c9bd4b674fe(evt)">
+      <path d="M 25.07 120.29 L 28.07 120.29 28.07 123.29 25.07 123.29 z" />
+    </g>
+    <g onmouseout="js_chunk_1a805ed91856422d(evt)" onmouseover="js_chunk_5fac1b1e22adbb02(evt)">
+      <path d="M 24.31 129.19 L 27.31 129.19 27.31 132.19 24.31 132.19 z" />
+    </g>
+    <g onmouseout="js_chunk_b1f23323c7af78ec(evt)" onmouseover="js_chunk_d301031009cd1784(evt)">
+      <path d="M 24.35 128.81 L 27.35 128.81 27.35 131.81 24.35 131.81 z" />
+    </g>
+    <g onmouseout="js_chunk_a0194519a3fd49c4(evt)" onmouseover="js_chunk_3c0bc906dbe24fa0(evt)">
+      <path d="M 24.31 129.2 L 27.31 129.2 27.31 132.2 24.31 132.2 z" />
+    </g>
+    <g onmouseout="js_chunk_a25c3856288047a9(evt)" onmouseover="js_chunk_35c3b6f4cf4f4550(evt)">
+      <path d="M 24.3 129.18 L 27.3 129.18 27.3 132.18 24.3 132.18 z" />
+    </g>
+    <g onmouseout="js_chunk_d81313ec13fcfbe0(evt)" onmouseover="js_chunk_b3f647ba4bc36591(evt)">
+      <path d="M 27.13 125.58 L 30.13 125.58 30.13 128.58 27.13 128.58 z" />
+    </g>
+    <g onmouseout="js_chunk_598da05196f1ceb9(evt)" onmouseover="js_chunk_7436086acc429e47(evt)">
+      <path d="M 26.66 125.8 L 29.66 125.8 29.66 128.8 26.66 128.8 z" />
+    </g>
+    <g onmouseout="js_chunk_5db373971f3fbf48(evt)" onmouseover="js_chunk_d5b186178f3be61b(evt)">
+      <path d="M 24.32 129.01 L 27.32 129.01 27.32 132.01 24.32 132.01 z" />
+    </g>
+    <g onmouseout="js_chunk_252a50e1ae2d1dea(evt)" onmouseover="js_chunk_f671b0c4d0bbdfb9(evt)">
+      <path d="M 24.36 128.22 L 27.36 128.22 27.36 131.22 24.36 131.22 z" />
+    </g>
   </g>
 </g>
-<g stroke="none" stroke-width="0.3">
-  <g fill="#4682B4" stroke="#0F5D8C" class="color_group_RGB(0.27450980392156865,0.5098039215686274,0.7058823529411765)">
-    <circle cx="25.85" cy="129.84" r="0.5" />
-    <circle cx="25.81" cy="130.43" r="0.5" />
-    <circle cx="25.82" cy="130.58" r="0.5" />
-    <circle cx="32.66" cy="122.14" r="0.5" />
-    <circle cx="26.34" cy="128.31" r="0.5" />
-    <circle cx="26.21" cy="128.4" r="0.5" />
-    <circle cx="26.02" cy="128.74" r="0.5" />
-    <circle cx="25.82" cy="130.63" r="0.5" />
-    <circle cx="25.86" cy="129.56" r="0.5" />
-    <circle cx="25.81" cy="130.61" r="0.5" />
-    <circle cx="25.8" cy="130.66" r="0.5" />
-    <circle cx="25.81" cy="130.63" r="0.5" />
-    <circle cx="25.82" cy="130.61" r="0.5" />
-    <circle cx="25.8" cy="130.74" r="0.5" />
-    <circle cx="25.8" cy="130.72" r="0.5" />
-    <circle cx="25.85" cy="130.52" r="0.5" />
-    <circle cx="25.83" cy="130.49" r="0.5" />
-    <circle cx="25.83" cy="130.61" r="0.5" />
-    <circle cx="63.39" cy="37.09" r="0.5" />
-    <circle cx="25.8" cy="130.74" r="0.5" />
-    <circle cx="28.56" cy="122.22" r="0.5" />
-    <circle cx="33.49" cy="117.41" r="0.5" />
-    <circle cx="25.81" cy="130.67" r="0.5" />
-    <circle cx="25.95" cy="128.4" r="0.5" />
-    <circle cx="25.85" cy="130.22" r="0.5" />
-    <circle cx="25.8" cy="130.64" r="0.5" />
-    <circle cx="25.82" cy="130.39" r="0.5" />
-    <circle cx="33.61" cy="116.91" r="0.5" />
-    <circle cx="28.86" cy="122.48" r="0.5" />
-    <circle cx="27.06" cy="124.13" r="0.5" />
-    <circle cx="25.81" cy="130.49" r="0.5" />
-    <circle cx="26.72" cy="103.88" r="0.5" />
-    <circle cx="124" cy="14.52" r="0.5" />
-    <circle cx="25.85" cy="130.66" r="0.5" />
-    <circle cx="25.9" cy="127.1" r="0.5" />
-    <circle cx="26.32" cy="129.6" r="0.5" />
-    <circle cx="25.86" cy="130.4" r="0.5" />
-    <circle cx="25.8" cy="130.72" r="0.5" />
-    <circle cx="25.8" cy="130.73" r="0.5" />
-    <circle cx="25.8" cy="130.74" r="0.5" />
-    <circle cx="25.82" cy="130.49" r="0.5" />
-    <circle cx="29.49" cy="120.77" r="0.5" />
-    <circle cx="25.84" cy="130.5" r="0.5" />
-    <circle cx="26.62" cy="127.18" r="0.5" />
-    <circle cx="27.28" cy="127.55" r="0.5" />
-    <circle cx="26.57" cy="121.79" r="0.5" />
-    <circle cx="25.96" cy="127.09" r="0.5" />
-    <circle cx="25.81" cy="130.69" r="0.5" />
-    <circle cx="26.69" cy="129.09" r="0.5" />
-    <circle cx="25.85" cy="130.31" r="0.5" />
-    <circle cx="25.86" cy="129.94" r="0.5" />
-    <circle cx="25.81" cy="130.7" r="0.5" />
-    <circle cx="25.8" cy="130.72" r="0.5" />
-    <circle cx="25.8" cy="130.68" r="0.5" />
-    <circle cx="25.8" cy="130.74" r="0.5" />
-    <circle cx="28.63" cy="127.08" r="0.5" />
-    <circle cx="25.85" cy="130.23" r="0.5" />
-    <circle cx="28.16" cy="127.3" r="0.5" />
-    <circle cx="25.81" cy="130.69" r="0.5" />
-    <circle cx="25.82" cy="130.51" r="0.5" />
-    <circle cx="25.8" cy="130.69" r="0.5" />
-    <circle cx="25.86" cy="129.72" r="0.5" />
-  </g>
-</g>
-<g stroke="none" fill="#4C404B" font-family="Source Sans Pro" font-size="3.18">
-  <text x="143.86" y="138.45" text-anchor="middle">8000</text>
-  <text x="84.83" y="138.45" text-anchor="middle">4000</text>
-  <text x="25.8" y="138.45" text-anchor="middle">0</text>
-  <text x="55.32" y="138.45" text-anchor="middle">2000</text>
-  <text x="114.34" y="138.45" text-anchor="middle">6000</text>
-</g>
-<g stroke="none" fill="#362A35" font-family="Source Sans Pro" font-size="3.88">
-  <text x="84.83" y="145.4" text-anchor="middle">body</text>
-</g>
-<g stroke="none" fill="#362A35" font-family="Source Sans Pro" font-size="3.88">
-  <text x="9.47" y="69.7" text-anchor="middle" style="dominant-baseline:central" transform="rotate(-90, 9.47, 69.7)">brain</text>
-</g>
-<g stroke="none" fill="#4C404B" font-family="Source Sans Pro" font-size="3.18">
-  <text x="21.26" y="110.4" text-anchor="end" style="dominant-baseline:central">1000</text>
-  <text x="21.26" y="90.05" text-anchor="end" style="dominant-baseline:central">2000</text>
-  <text x="21.26" y="49.36" text-anchor="end" style="dominant-baseline:central">4000</text>
-  <text x="21.26" y="130.74" text-anchor="end" style="dominant-baseline:central">0</text>
-  <text x="21.26" y="69.7" text-anchor="end" style="dominant-baseline:central">3000</text>
-  <text x="21.26" y="29.01" text-anchor="end" style="dominant-baseline:central">5000</text>
-  <text x="21.26" y="8.66" text-anchor="end" style="dominant-baseline:central">6000</text>
-</g>
+<script type="application/ecmascript"><![CDATA[
+
+// Functions embedded in Gadfly plots to add interactivity.
+
+
+// Clicking an entry in a color key toggles visibility of the data within that
+// group.
+function toggle_color_group(name)
+{
+    geoms = document.getElementsByClassName('color_group_' + name);
+    entry = document.getElementById('color_key_' + name);
+    state = geoms[0].getAttribute('visibility');
+    if (!state || state == 'visible') {
+        for (i = 0; i < geoms.length; ++i) {
+            geoms[i].setAttribute('visibility', 'hidden');
+        }
+        entry.setAttribute('opacity', 0.5);
+    } else {
+        for (i = 0; i < geoms.length; ++i) {
+            geoms[i].setAttribute('visibility', 'visible');
+        }
+        entry.setAttribute('opacity', 1.0);
+    }
+}
+
+
+// Turn on a possibily hidden annotation.
+function show_annotation(id)
+{
+    annot = document.getElementById(id)
+    annot.setAttribute('visibility', 'visible')
+}
+
+
+// Turn off a possibly hidden annotation.
+function hide_annotation(id)
+{
+
+    annot = document.getElementById(id)
+    annot.setAttribute('visibility', 'hidden')
+}
+
+
+// Dim all geometry objects with some exceptions.
+function present_geometry(ids)
+{
+    on_anim_dur = 0.1;
+
+    off_anim = document.getElementById('panel-focus-filter-off-anim');
+    off_anim.endElement();
+
+    t0 = Number(off_anim.getStartTime());
+    if (t0 < Infinity) {
+        t = Number(off_anim.getCurrentTime());
+        d = Number(off_anim.getSimpleDuration());
+        from = Number(off_anim.getAttribute('from'));
+        to = Number(off_anim.getAttribute('to'));
+        p = Math.max(0.0, Math.min(1.0, ((t - t0) / d)));
+        v = from + p * (to - from);
+    }
+    else {
+        p=1.0;
+        v=0.0;
+    }
+
+    geoms = document.getElementsByClassName('geometry');
+    for (i = 0; i < geoms.length; ++i) {
+        geoms[i].setAttribute('filter', 'url(#panel-focus-filter)');
+    }
+
+    for (i = 0; i < ids.length; ++i) {
+        geom = document.getElementById(ids[i]);
+        geom.setAttribute('filter', 'inherit');
+    }
+
+    on_anim = document.getElementById('panel-focus-filter-on-anim');
+    on_anim.setAttribute('from', v);
+    on_anim.setAttribute('dur',  p * on_anim_dur + 's');
+    on_anim.beginElement();
+}
+
+
+// Set all geometries to full opacity.
+function unpresent_geometry()
+{
+    off_anim_dur = 0.3;
+
+    on_anim = document.getElementById('panel-focus-filter-on-anim');
+    on_anim.endElement();
+
+    t0 = Number(on_anim.getStartTime());
+    t = Number(on_anim.getCurrentTime());
+    d = Number(on_anim.getSimpleDuration());
+    from = Number(on_anim.getAttribute('from'));
+    to = Number(on_anim.getAttribute('to'));
+    p = Math.max(0.0, Math.min(1.0, ((t - t0) / d)));
+    v = from + p * (to - from);
+
+    off_anim = document.getElementById('panel-focus-filter-off-anim');
+    off_anim.setAttribute('from', v);
+    dur = p * off_anim_dur
+    off_anim.setAttribute('dur',  dur + 's');
+    off_anim.addEventListener('endEvent', unpresent_geometry_end);
+    off_anim.beginElement();
+
+    // Webkit doesn't support the "onend" attribute, so we work arround.
+    setTimeout("unpresent_geometry_end()", 1000 * dur);
+}
+
+
+// Called when the animation in unpresent_geometry finishes.
+// Enabling a filter, even if it has no effect, adds an extra layer of
+// rasterization, which tends to make things look like shit, so we clear all the
+// filters when the animation ends.
+function unpresent_geometry_end()
+{
+    // skip this function in the on_animation has been triggered since the last
+    // off_animation.
+    on_anim = document.getElementById('panel-focus-filter-on-anim');
+    off_anim = document.getElementById('panel-focus-filter-off-anim');
+    if (on_anim.getStartTime() > off_anim.getStartTime()) {
+        return;
+    }
+
+    // Skip this if the off animation isn't actually finished.
+    elapsed = off_anim.getCurrentTime() - off_anim.getStartTime();
+    if (elapsed < off_anim.getSimpleDuration()) {
+        return;
+    }
+
+    geoms = document.getElementsByClassName('geometry');
+    for (i = 0; i < geoms.length; ++i) {
+        geoms[i].setAttribute('filter', 'inherit');
+    }
+}
+
+
+]]></script>
+<defs>
+    <!--A filter used to deemphasize out of focus geometries for mouseover
+       -effects.-->
+    <!-- TODO: flood-color needs to be set from the current theme -->
+    <filter id="panel-focus-filter" x="-20%" y="-20%" width="140%" height="140%">
+        <feFlood flood-color="#f5f5f5" flood-opacity="0.5" result="flood">
+            <animate id="panel-focus-filter-off-anim"
+                      attributeName="flood-opacity" attributeType="XML"
+                      fill="freeze" begin="indefinite" dur="0.2s"
+                      from="0.8" to="0.0" onend="unpresent_geometry_end"/>
+            <animate id="panel-focus-filter-on-anim"
+                      attributeName="flood-opacity" attributeType="XML"
+                      fill="freeze" begin="indefinite" dur="0.1s"
+                      from="0.0" to="0.8" onend="unpresent_geometry_end"/>
+        </feFlood>
+        <feComposite operator="atop" in="flood" in2="SourceGraphic" />
+    </filter>
+</defs>
+
+<script type="application/ecmascript"><![CDATA[
+function js_chunk_89e2de8d1290e7eb(evt) {
+  show_annotation('id635');present_geometry(['id634'])
+}
+
+function js_chunk_aac068bad404fb6e(evt) {
+  hide_annotation('id613'); unpresent_geometry()
+}
+
+function js_chunk_205b82083b94d7af(evt) {
+  show_annotation('id651');present_geometry(['id650'])
+}
+
+function js_chunk_b3f647ba4bc36591(evt) {
+  show_annotation('id711');present_geometry(['id710'])
+}
+
+function js_chunk_50a3396f84ac6d49(evt) {
+  show_annotation('id681');present_geometry(['id680'])
+}
+
+function js_chunk_147f5d61a3dcbe2e(evt) {
+  hide_annotation('id659'); unpresent_geometry()
+}
+
+function js_chunk_ad44b70bd9e1fe88(evt) {
+  show_annotation('id645');present_geometry(['id644'])
+}
+
+function js_chunk_a2febce2a9c86112(evt) {
+  hide_annotation('id701'); unpresent_geometry()
+}
+
+function js_chunk_1145ab588652fb6c(evt) {
+  show_annotation('id709');present_geometry(['id708'])
+}
+
+function js_chunk_f75f576a6ce44034(evt) {
+  hide_annotation('id609'); unpresent_geometry()
+}
+
+function js_chunk_964f67fa10757c59(evt) {
+  show_annotation('id713');present_geometry(['id712'])
+}
+
+function js_chunk_68f498870855848(evt) {
+  hide_annotation('id675'); unpresent_geometry()
+}
+
+function js_chunk_b478a5deccca4eae(evt) {
+  show_annotation('id717');present_geometry(['id716'])
+}
+
+function js_chunk_33a0dff1e69a20c6(evt) {
+  hide_annotation('id639'); unpresent_geometry()
+}
+
+function js_chunk_a5c90cc2aee781e2(evt) {
+  hide_annotation('id693'); unpresent_geometry()
+}
+
+function js_chunk_5fe043dba2bfadd5(evt) {
+  hide_annotation('id669'); unpresent_geometry()
+}
+
+function js_chunk_4d3a7d64fd742188(evt) {
+  show_annotation('id669');present_geometry(['id668'])
+}
+
+function js_chunk_b05270c75f6f8627(evt) {
+  hide_annotation('id633'); unpresent_geometry()
+}
+
+function js_chunk_47b2f5440ebe0502(evt) {
+  hide_annotation('id643'); unpresent_geometry()
+}
+
+function js_chunk_9147eda0a1124022(evt) {
+  hide_annotation('id619'); unpresent_geometry()
+}
+
+function js_chunk_406105b87ba03713(evt) {
+  show_annotation('id657');present_geometry(['id656'])
+}
+
+function js_chunk_38858dc16fd7be19(evt) {
+  show_annotation('id625');present_geometry(['id624'])
+}
+
+function js_chunk_f5cfedf9667d94a6(evt) {
+  show_annotation('id655');present_geometry(['id654'])
+}
+
+function js_chunk_c76ac37ef2ac3196(evt) {
+  hide_annotation('id713'); unpresent_geometry()
+}
+
+function js_chunk_f671b0c4d0bbdfb9(evt) {
+  show_annotation('id723');present_geometry(['id722'])
+}
+
+function js_chunk_3f0c911bfc9d7556(evt) {
+  hide_annotation('id611'); unpresent_geometry()
+}
+
+function js_chunk_b9d65ddad6a9b34e(evt) {
+  show_annotation('id663');present_geometry(['id662'])
+}
+
+function js_chunk_bdde73d0df128806(evt) {
+  hide_annotation('id691'); unpresent_geometry()
+}
+
+function js_chunk_12ea5a9fa49fa5ca(evt) {
+  show_annotation('id629');present_geometry(['id628'])
+}
+
+function js_chunk_a63d5358cbd31126(evt) {
+  hide_annotation('id647'); unpresent_geometry()
+}
+
+function js_chunk_c9f4b901120f02c2(evt) {
+  show_annotation('id609');present_geometry(['id608'])
+}
+
+function js_chunk_5fac1b1e22adbb02(evt) {
+  show_annotation('id695');present_geometry(['id694'])
+}
+
+function js_chunk_7436086acc429e47(evt) {
+  show_annotation('id715');present_geometry(['id714'])
+}
+
+function js_chunk_5f3ca6d022414f5a(evt) {
+  show_annotation('id705');present_geometry(['id704'])
+}
+
+function js_chunk_daa340bf18434e06(evt) {
+  show_annotation('id665');present_geometry(['id664'])
+}
+
+function js_chunk_773a2008e95242cf(evt) {
+  show_annotation('id659');present_geometry(['id658'])
+}
+
+function js_chunk_d81313ec13fcfbe0(evt) {
+  hide_annotation('id711'); unpresent_geometry()
+}
+
+function js_chunk_f5bf42514ee4acfe(evt) {
+  hide_annotation('id679'); unpresent_geometry()
+}
+
+function js_chunk_104b81a08461eb54(evt) {
+  show_annotation('id701');present_geometry(['id700'])
+}
+
+function js_chunk_3c6fd1ff77aa2559(evt) {
+  show_annotation('id627');present_geometry(['id626'])
+}
+
+function js_chunk_b1f23323c7af78ec(evt) {
+  hide_annotation('id699'); unpresent_geometry()
+}
+
+function js_chunk_33f3ea8e4ae5411b(evt) {
+  show_annotation('id661');present_geometry(['id660'])
+}
+
+function js_chunk_f978848d717586fe(evt) {
+  hide_annotation('id617'); unpresent_geometry()
+}
+
+function js_chunk_b31e50b564c1484b(evt) {
+  show_annotation('id615');present_geometry(['id614'])
+}
+
+function js_chunk_6375c1a42a521dc6(evt) {
+  hide_annotation('id677'); unpresent_geometry()
+}
+
+function js_chunk_5405435a0b07529e(evt) {
+  hide_annotation('id665'); unpresent_geometry()
+}
+
+function js_chunk_4f8c93068218354b(evt) {
+  show_annotation('id673');present_geometry(['id672'])
+}
+
+function js_chunk_b468369263ae9c09(evt) {
+  hide_annotation('id657'); unpresent_geometry()
+}
+
+function js_chunk_a873c59c4fb44f79(evt) {
+  show_annotation('id623');present_geometry(['id622'])
+}
+
+function js_chunk_7992f55cd68c0e63(evt) {
+  show_annotation('id679');present_geometry(['id678'])
+}
+
+function js_chunk_536cba7509d8659c(evt) {
+  show_annotation('id671');present_geometry(['id670'])
+}
+
+function js_chunk_b50be132e8e29142(evt) {
+  show_annotation('id631');present_geometry(['id630'])
+}
+
+function js_chunk_452799d6883a260b(evt) {
+  show_annotation('id607');present_geometry(['id606'])
+}
+
+function js_chunk_a25c3856288047a9(evt) {
+  hide_annotation('id707'); unpresent_geometry()
+}
+
+function js_chunk_fd433207f8711527(evt) {
+  hide_annotation('id603'); unpresent_geometry()
+}
+
+function js_chunk_3c3328ac76512887(evt) {
+  show_annotation('id601');present_geometry(['id600'])
+}
+
+function js_chunk_f3cc6efc4aff2e8c(evt) {
+  show_annotation('id677');present_geometry(['id676'])
+}
+
+function js_chunk_26a449cb4b334575(evt) {
+  show_annotation('id603');present_geometry(['id602'])
+}
+
+function js_chunk_1a805ed91856422d(evt) {
+  hide_annotation('id695'); unpresent_geometry()
+}
+
+function js_chunk_690c9372356eef4a(evt) {
+  hide_annotation('id689'); unpresent_geometry()
+}
+
+function js_chunk_33c7e4fe665abb27(evt) {
+  hide_annotation('id629'); unpresent_geometry()
+}
+
+function js_chunk_d301031009cd1784(evt) {
+  show_annotation('id699');present_geometry(['id698'])
+}
+
+function js_chunk_35c3b6f4cf4f4550(evt) {
+  show_annotation('id707');present_geometry(['id706'])
+}
+
+function js_chunk_38b06c9bd4b674fe(evt) {
+  show_annotation('id691');present_geometry(['id690'])
+}
+
+function js_chunk_a80337d43303b051(evt) {
+  hide_annotation('id663'); unpresent_geometry()
+}
+
+function js_chunk_e01f7b1424179d00(evt) {
+  hide_annotation('id721'); unpresent_geometry()
+}
+
+function js_chunk_87577a92098c49fd(evt) {
+  show_annotation('id649');present_geometry(['id648'])
+}
+
+function js_chunk_13588b44249c2557(evt) {
+  hide_annotation('id605'); unpresent_geometry()
+}
+
+function js_chunk_1ce1f58f9cc2f9ae(evt) {
+  hide_annotation('id673'); unpresent_geometry()
+}
+
+function js_chunk_2b3477ab54ed96d9(evt) {
+  hide_annotation('id615'); unpresent_geometry()
+}
+
+function js_chunk_c867ac698f53ab4f(evt) {
+  show_annotation('id611');present_geometry(['id610'])
+}
+
+function js_chunk_159e3d082a96feaf(evt) {
+  show_annotation('id637');present_geometry(['id636'])
+}
+
+function js_chunk_9ad3cbf4190d91c1(evt) {
+  hide_annotation('id681'); unpresent_geometry()
+}
+
+function js_chunk_3176d94c46b55957(evt) {
+  hide_annotation('id709'); unpresent_geometry()
+}
+
+function js_chunk_9209cbe9071287bb(evt) {
+  hide_annotation('id671'); unpresent_geometry()
+}
+
+function js_chunk_75392774e9ca6753(evt) {
+  show_annotation('id643');present_geometry(['id642'])
+}
+
+function js_chunk_ba6fb38bf437c628(evt) {
+  show_annotation('id639');present_geometry(['id638'])
+}
+
+function js_chunk_fb7d2cbf59f77dce(evt) {
+  hide_annotation('id661'); unpresent_geometry()
+}
+
+function js_chunk_af524fdb5d26d8c3(evt) {
+  hide_annotation('id621'); unpresent_geometry()
+}
+
+function js_chunk_c7eaf46d73ae8f13(evt) {
+  show_annotation('id721');present_geometry(['id720'])
+}
+
+function js_chunk_727b1431485c0a0c(evt) {
+  hide_annotation('id685'); unpresent_geometry()
+}
+
+function js_chunk_ed0a4db23d114208(evt) {
+  hide_annotation('id667'); unpresent_geometry()
+}
+
+function js_chunk_a663302cafc307c2(evt) {
+  show_annotation('id667');present_geometry(['id666'])
+}
+
+function js_chunk_9c6ee6f8383851ed(evt) {
+  hide_annotation('id637'); unpresent_geometry()
+}
+
+function js_chunk_d5b186178f3be61b(evt) {
+  show_annotation('id719');present_geometry(['id718'])
+}
+
+function js_chunk_598da05196f1ceb9(evt) {
+  hide_annotation('id715'); unpresent_geometry()
+}
+
+function js_chunk_c810abf50aff010e(evt) {
+  hide_annotation('id653'); unpresent_geometry()
+}
+
+function js_chunk_1000dd901e85e42b(evt) {
+  show_annotation('id613');present_geometry(['id612'])
+}
+
+function js_chunk_ba922a90f3a6b976(evt) {
+  show_annotation('id619');present_geometry(['id618'])
+}
+
+function js_chunk_3765d536e9a9369c(evt) {
+  hide_annotation('id649'); unpresent_geometry()
+}
+
+function js_chunk_d41d9507a6bfa75f(evt) {
+  show_annotation('id617');present_geometry(['id616'])
+}
+
+function js_chunk_9a0abd6a2ef34f05(evt) {
+  hide_annotation('id651'); unpresent_geometry()
+}
+
+function js_chunk_1d7b60a8b5d47d48(evt) {
+  hide_annotation('id655'); unpresent_geometry()
+}
+
+function js_chunk_dc810099b6ecf2ef(evt) {
+  hide_annotation('id607'); unpresent_geometry()
+}
+
+function js_chunk_60421b1fbf50e8c9(evt) {
+  hide_annotation('id623'); unpresent_geometry()
+}
+
+function js_chunk_b47084abe7ab88b4(evt) {
+  hide_annotation('id627'); unpresent_geometry()
+}
+
+function js_chunk_586e84c794305b0d(evt) {
+  show_annotation('id687');present_geometry(['id686'])
+}
+
+function js_chunk_58aae8303021061a(evt) {
+  hide_annotation('id635'); unpresent_geometry()
+}
+
+function js_chunk_c3bf9a6a6ad4473d(evt) {
+  hide_annotation('id697'); unpresent_geometry()
+}
+
+function js_chunk_515d673622130556(evt) {
+  hide_annotation('id641'); unpresent_geometry()
+}
+
+function js_chunk_3aa6ceadf418655a(evt) {
+  hide_annotation('id631'); unpresent_geometry()
+}
+
+function js_chunk_43b8620dead6df62(evt) {
+  show_annotation('id683');present_geometry(['id682'])
+}
+
+function js_chunk_836daa7b05a5fb5b(evt) {
+  show_annotation('id633');present_geometry(['id632'])
+}
+
+function js_chunk_2be16d04d71b69ac(evt) {
+  hide_annotation('id645'); unpresent_geometry()
+}
+
+function js_chunk_f739dca2523bb790(evt) {
+  hide_annotation('id705'); unpresent_geometry()
+}
+
+function js_chunk_87da14cef309928f(evt) {
+  show_annotation('id693');present_geometry(['id692'])
+}
+
+function js_chunk_4459c3776c8c7f05(evt) {
+  hide_annotation('id717'); unpresent_geometry()
+}
+
+function js_chunk_4ad6e17179038be9(evt) {
+  show_annotation('id689');present_geometry(['id688'])
+}
+
+function js_chunk_b6e9c38f6bbeaddf(evt) {
+  show_annotation('id605');present_geometry(['id604'])
+}
+
+function js_chunk_f0e6c505609a2fea(evt) {
+  hide_annotation('id625'); unpresent_geometry()
+}
+
+function js_chunk_5db373971f3fbf48(evt) {
+  hide_annotation('id719'); unpresent_geometry()
+}
+
+function js_chunk_252a50e1ae2d1dea(evt) {
+  hide_annotation('id723'); unpresent_geometry()
+}
+
+function js_chunk_756ccf89ce3fb9bd(evt) {
+  hide_annotation('id683'); unpresent_geometry()
+}
+
+function js_chunk_a0194519a3fd49c4(evt) {
+  hide_annotation('id703'); unpresent_geometry()
+}
+
+function js_chunk_2d04ac6fd9618dc6(evt) {
+  show_annotation('id641');present_geometry(['id640'])
+}
+
+function js_chunk_f74dd8776c868a2a(evt) {
+  hide_annotation('id601'); unpresent_geometry()
+}
+
+function js_chunk_465714928c0696fb(evt) {
+  show_annotation('id647');present_geometry(['id646'])
+}
+
+function js_chunk_2ca67f07bca21136(evt) {
+  show_annotation('id697');present_geometry(['id696'])
+}
+
+function js_chunk_4bfabd0a7b5b674b(evt) {
+  show_annotation('id685');present_geometry(['id684'])
+}
+
+function js_chunk_c7fc7af40ad6da7c(evt) {
+  show_annotation('id653');present_geometry(['id652'])
+}
+
+function js_chunk_607fd5922452fbfa(evt) {
+  hide_annotation('id687'); unpresent_geometry()
+}
+
+function js_chunk_1f687ec42237c34b(evt) {
+  show_annotation('id675');present_geometry(['id674'])
+}
+
+function js_chunk_64bc13bdc7fa5fc5(evt) {
+  show_annotation('id621');present_geometry(['id620'])
+}
+
+function js_chunk_3c0bc906dbe24fa0(evt) {
+  show_annotation('id703');present_geometry(['id702'])
+}
+
+]]></script>
 </svg>
