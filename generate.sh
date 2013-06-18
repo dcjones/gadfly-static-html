@@ -27,7 +27,10 @@ run_gadfly() {
         $infn > $outfn
 }
 
-git clone $url gadfly
+#git clone $url gadfly
+cp -r ../Gadfly gadfly
+cp gadfly/src/gadfly.js js
+
 pushd gadfly/doc
 for fn in *.md
 do
@@ -36,6 +39,7 @@ do
 done
 cp *.html ../..
 cp *.svg ../..
+cp *.js ../..
 popd
 rm -rf gadfly
 

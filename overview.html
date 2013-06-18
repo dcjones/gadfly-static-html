@@ -8,7 +8,8 @@
   <link href="css/gadflydoc.css" rel="stylesheet">
   <link href="css/hk-pyg.css" rel="stylesheet">
 
-  <script type="text/javascript" src="js/fixup.js"></script>
+  <script type="text/javascript" src="js/d3.v3.min.js"></script>
+  <script type="text/javascript" src="js/gadfly.js"></script>
 
   <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
   <!--[if lt IE 9]>
@@ -16,21 +17,18 @@
   <![endif]-->
 
 </head>
-<body onload="fixup()">
+<body>
   <div class="container-fluid">
     <div class="row-fluid">
-      <div class="span8 page-header" id="title-block">
-        <!-- fixup.js will move the title of the document here on load -->
+      <div class="span8" id="title-block">
+        <img width="500" alt="Bread and Butterfly" src="breadandbutterfly.jpg">
       </div>
     </div>
 
     <div class="row-fluid">
-
-
       <div class="span8">
-<h1 id="introducing-gadfly"><a href="#TOC">Introducing Gadfly</a></h1>
 <p>Gadfly is a system for plotting and visualization based largely on Hadley Wickhams's <a href="http://ggplot2.org/">ggplot2</a> for R, and Leland Wilkinson's book <a href="http://www.cs.uic.edu/~wilkinson/TheGrammarOfGraphics/GOG.html">The Grammar of Graphics</a>.</p>
-<p>This document will give a quick overview of the current state of Gadfly's development.</p>
+<p>This document will go through a few examples of plotting in Gadfly.</p>
 <h2 id="installation"><a href="#TOC">Installation</a></h2>
 <p>Gadfly can be installed from the Julia repl quite easily.</p>
 <pre class="sourceCode julia" execute="false"><code class="sourceCode julia">Pkg.add(<span class="st">&quot;Gadfly&quot;</span>)</code></pre>
@@ -50,60 +48,55 @@
 iris = data(<span class="st">&quot;datasets&quot;</span>, <span class="st">&quot;iris&quot;</span>)
 
 p = plot(iris,
-         {:x =&gt; <span class="st">&quot;Sepal.Length&quot;</span>, :y =&gt; <span class="st">&quot;Sepal.Width&quot;</span>},
+         x=<span class="st">&quot;Sepal.Length&quot;</span>, y=<span class="st">&quot;Sepal.Width&quot;</span>,
          Geom.point)
-draw(SVG(<span class="fl">6</span>inch, <span class="fl">4</span>inch), p)</code></pre>
-<figure><object alt="Figure 1" 
-                                  data="overview_fig_1.svg" 
-                                  type="image/svg+xml"></object> 
-                          <figcaption></figcaption></figure>
+draw(D3(<span class="fl">6</span>inch, <span class="fl">4</span>inch), p)</code></pre>
+<div id="fig_1_container"></div>
+                         <script src="overview_fig_1.js"></script>
+                         <script>draw("#fig_1_container");</script>
 <p>The <code>plot</code> function in Gadfly is of the form:</p>
 <pre class="sourceCode julia" execute="false"><code class="sourceCode julia">plot(data::DataFrame, mapping::<span class="dt">Dict</span>, elements::Element...)</code></pre>
 <p>The first argument is the data to be plotted, the second is a dictionary mapping &quot;aesthetics&quot; to columns in the data frame, and this is followed by some number of elements, which are the nouns and verbs, so to speak, that form the grammar.</p>
-<p>Note that for these examples we will be drawing on an SVG backend that inserts the graphic directly into the document. To generate these images individually, you should include a file name: <code>SVG(&quot;iris_plot.svg&quot;, 6inch, 4inch)</code></p>
+<p>Note that for these examples we will be drawing on an D3 backend that inserts the graphic directly into the document. Gadfly can render to a number of backends. To generate an SVG image file, use something like: <code>SVG(&quot;iris_plot.svg&quot;, 6inch, 4inch)</code></p>
 <h2 id="aesthetics"><a href="#TOC">Aesthetics</a></h2>
-<p>Every geometry has some set of required and optional aesthetics. The point geometry requires that <code>:x</code> and <code>:y</code> be mapped, and has the optional aesthetic <code>:color</code> which will group points categorically indicated by color.</p>
+<p>Every geometry has some set of required and optional aesthetics. The point geometry requires that <code>x</code> and <code>y</code> be mapped, and has the optional aesthetic <code>color</code> which will group points categorically indicated by color.</p>
 <pre class="sourceCode julia"><code class="sourceCode julia">p = plot(iris,
-         {:x =&gt; <span class="st">&quot;Sepal.Length&quot;</span>, :y =&gt; <span class="st">&quot;Sepal.Width&quot;</span>, :color =&gt; <span class="st">&quot;Species&quot;</span>},
+         x=<span class="st">&quot;Sepal.Length&quot;</span>, y=<span class="st">&quot;Sepal.Width&quot;</span>, color=<span class="st">&quot;Species&quot;</span>,
          Geom.point)
-draw(SVG(<span class="fl">6</span>inch, <span class="fl">4</span>inch), p)</code></pre>
-<figure><object alt="Figure 2" 
-                                  data="overview_fig_2.svg" 
-                                  type="image/svg+xml"></object> 
-                          <figcaption></figcaption></figure>
+draw(D3(<span class="fl">6</span>inch, <span class="fl">4</span>inch), p)</code></pre>
+<div id="fig_2_container"></div>
+                         <script src="overview_fig_2.js"></script>
+                         <script>draw("#fig_2_container");</script>
 <h2 id="scale-transformations"><a href="#TOC">Scale Transformations</a></h2>
 <p>Scale transforms also work as expected. Let's look at some data where this is useful.</p>
 <pre class="sourceCode julia"><code class="sourceCode julia">mammals = data(<span class="st">&quot;MASS&quot;</span>, <span class="st">&quot;mammals&quot;</span>)
 
 p = plot(mammals,
-         {:x =&gt; <span class="st">&quot;body&quot;</span>, :y =&gt; <span class="st">&quot;brain&quot;</span>},
+         x=<span class="st">&quot;body&quot;</span>, y=<span class="st">&quot;brain&quot;</span>,
          Geom.point)
-draw(SVG(<span class="fl">6</span>inch, <span class="fl">6</span>inch), p)</code></pre>
-<figure><object alt="Figure 3" 
-                                  data="overview_fig_3.svg" 
-                                  type="image/svg+xml"></object> 
-                          <figcaption></figcaption></figure>
+draw(D3(<span class="fl">6</span>inch, <span class="fl">6</span>inch), p)</code></pre>
+<div id="fig_3_container"></div>
+                         <script src="overview_fig_3.js"></script>
+                         <script>draw("#fig_3_container");</script>
 <p>This is no good, the elephants are ruining things for us. Putting both axis on a log-scale clears things up.</p>
 <pre class="sourceCode julia"><code class="sourceCode julia">p = plot(mammals,
-         {:x =&gt; <span class="st">&quot;body&quot;</span>, :y =&gt; <span class="st">&quot;brain&quot;</span>},
+         x=<span class="st">&quot;body&quot;</span>, y=<span class="st">&quot;brain&quot;</span>,
          Geom.point, Scale.x_log10, Scale.y_log10)
-draw(SVG(<span class="fl">6</span>inch, <span class="fl">6</span>inch), p)</code></pre>
-<figure><object alt="Figure 4" 
-                                  data="overview_fig_4.svg" 
-                                  type="image/svg+xml"></object> 
-                          <figcaption></figcaption></figure>
+draw(D3(<span class="fl">6</span>inch, <span class="fl">6</span>inch), p)</code></pre>
+<div id="fig_4_container"></div>
+                         <script src="overview_fig_4.js"></script>
+                         <script>draw("#fig_4_container");</script>
 <h2 id="labels"><a href="#TOC">Labels</a></h2>
 <p>The label geometry places maps data to text labels placed near the position indicated by the x and y aesthetics. It solves an optimization problem to try to position the labels such that none overlap or are plotted out of bounds. By default, labels that cannot be plotted without overlapping are hidden.</p>
 <p>Let's label that previous plot.</p>
 <pre class="sourceCode julia"><code class="sourceCode julia">p = plot(mammals,
-         {:x =&gt; <span class="st">&quot;body&quot;</span>, :y =&gt; <span class="st">&quot;brain&quot;</span>, :label =&gt; <span class="fl">1</span>},
+         x=<span class="st">&quot;body&quot;</span>, y=<span class="st">&quot;brain&quot;</span>, label=<span class="fl">1</span>,
          Geom.label, Geom.point, Scale.x_log10, Scale.y_log10)
-draw(SVG(<span class="fl">6</span>inch, <span class="fl">6</span>inch), p)</code></pre>
-<figure><object alt="Figure 5" 
-                                  data="overview_fig_5.svg" 
-                                  type="image/svg+xml"></object> 
-                          <figcaption></figcaption></figure>
-<p>Mapping <code>:label</code> to 1, gives the first column of the data frame, which is not named, but contains the species that each measurement was made on.</p>
+draw(D3(<span class="fl">6</span>inch, <span class="fl">6</span>inch), p)</code></pre>
+<div id="fig_5_container"></div>
+                         <script src="overview_fig_5.js"></script>
+                         <script>draw("#fig_5_container");</script>
+<p>Mapping <code>label</code> to 1, gives the first column of the data frame, which is not named, but contains the species that each measurement was made on.</p>
 <h2 id="histograms"><a href="#TOC">Histograms</a></h2>
 <p>The bar geometry applies the <code>Stat.histogram</code> statistic by default, producing a histogram.</p>
 <pre class="sourceCode julia"><code class="sourceCode julia"><span class="kw">using</span> Distributions
@@ -113,13 +106,12 @@ normmix = MixtureModel([Normal(-<span class="fl">3</span>, <span class="fl">1</s
 xs = DataFrame({<span class="st">&quot;x&quot;</span> =&gt; <span class="dt">Float64</span>[rand(normmix) <span class="kw">for</span> _ <span class="kw">in</span> <span class="fl">1</span>:<span class="fl">5000</span>]})
 
 p = plot(xs,
-         {:x =&gt; <span class="st">&quot;x&quot;</span>},
+         x=<span class="st">&quot;x&quot;</span>,
          Geom.bar)
-draw(SVG(<span class="fl">4</span>inch, <span class="fl">3</span>inch), p)</code></pre>
-<figure><object alt="Figure 6" 
-                                  data="overview_fig_6.svg" 
-                                  type="image/svg+xml"></object> 
-                          <figcaption></figcaption></figure>
+draw(D3(<span class="fl">4</span>inch, <span class="fl">3</span>inch), p)</code></pre>
+<div id="fig_6_container"></div>
+                         <script src="overview_fig_6.js"></script>
+                         <script>draw("#fig_6_container");</script>
 <p>No need to specify the number of bins, if not given a reasonable number is chosen using a penalized maximum likelihood procedure.</p>
 <h2 id="d-histograms-heat-maps"><a href="#TOC">2D Histograms / Heat maps</a></h2>
 <p>Histograms in two-dimensions can be drawn with Geom.rectbin.</p>
@@ -129,49 +121,45 @@ xs = <span class="dt">Float64</span>[xy[<span class="fl">1</span>] <span class="
 ys = <span class="dt">Float64</span>[xy[<span class="fl">2</span>] <span class="kw">for</span> xy <span class="kw">in</span> xys]
 
 p = plot(DataFrame({<span class="st">&quot;x&quot;</span> =&gt; xs, <span class="st">&quot;y&quot;</span> =&gt; ys}),
-                   {:x =&gt; <span class="st">&quot;x&quot;</span>, :y =&gt; <span class="st">&quot;y&quot;</span>},
+                   x=<span class="st">&quot;x&quot;</span>, y=<span class="st">&quot;y&quot;</span>,
                    Geom.rectbin)
 
-draw(SVG(<span class="fl">5</span>inch, <span class="fl">4</span>inch), p)</code></pre>
-<figure><object alt="Figure 7" 
-                                  data="overview_fig_7.svg" 
-                                  type="image/svg+xml"></object> 
-                          <figcaption></figcaption></figure>
+draw(D3(<span class="fl">5</span>inch, <span class="fl">4</span>inch), p)</code></pre>
+<div id="fig_7_container"></div>
+                         <script src="overview_fig_7.js"></script>
+                         <script>draw("#fig_7_container");</script>
 <h2 id="boxplots"><a href="#TOC">Boxplots</a></h2>
 <p>The boxplot geometry shows the distribution of the y aesthetic, grouped by the x aesthetic. Here is a (log) wage distribution categorized by years of education.</p>
 <pre class="sourceCode julia"><code class="sourceCode julia">wages = data(<span class="st">&quot;plm&quot;</span>, <span class="st">&quot;Wages&quot;</span>)
 p = plot(wages,
-         {:x =&gt; <span class="st">&quot;ed&quot;</span>,
-          :y =&gt; <span class="st">&quot;lwage&quot;</span>},
+         x=<span class="st">&quot;ed&quot;</span>,
+         y=<span class="st">&quot;lwage&quot;</span>,
          Geom.boxplot)
-draw(SVG(<span class="fl">4</span>inch, <span class="fl">4</span>inch), p)</code></pre>
-<figure><object alt="Figure 8" 
-                                  data="overview_fig_8.svg" 
-                                  type="image/svg+xml"></object> 
-                          <figcaption></figcaption></figure>
+draw(D3(<span class="fl">4</span>inch, <span class="fl">4</span>inch), p)</code></pre>
+<div id="fig_8_container"></div>
+                         <script src="overview_fig_8.js"></script>
+                         <script>draw("#fig_8_container");</script>
 <h2 id="plotting-functions"><a href="#TOC">Plotting functions</a></h2>
 <p>Though Gadfly primarily plots data frames, there are convenience functions to do simple function plotting.</p>
 <pre class="sourceCode julia"><code class="sourceCode julia">p = plot([sin, cos], <span class="fl">0</span>, <span class="fl">25</span>)
-draw(SVG(<span class="fl">6</span>inch, <span class="fl">3</span>inch), p)</code></pre>
-<figure><object alt="Figure 9" 
-                                  data="overview_fig_9.svg" 
-                                  type="image/svg+xml"></object> 
-                          <figcaption></figcaption></figure>
+draw(D3(<span class="fl">6</span>inch, <span class="fl">3</span>inch), p)</code></pre>
+<div id="fig_9_container"></div>
+                         <script src="overview_fig_9.js"></script>
+                         <script>draw("#fig_9_container");</script>
 <p>This form of <code>plot</code> takes one or more functions, followed by a lower and upper bounds over which the function will be plotted.</p>
 <h2 id="interactivity"><a href="#TOC">Interactivity</a></h2>
-<p>Some basic interactivity is planned by embedding javascript in the SVG files generated by Compose. As a proof of concept, names within color keys (e.g. in the color categorized iris plot, or the sin/cos plot) can be used to toggle the plotted data on or off.</p>
-<p>Much more can and will be done in the future.</p>
+<p>The D3 backend generates javascript files containing code to that generates an SVG mage. It looks very much like images produced by the SVG backend, but leverages d3 to adds some simple interactivity. Plots can panned (by dragging) and zoomed (using the scroll wheel), and color keys can be clicked to toggle groups on and off.</p>
+<p>The d3 backend is very new, so expect a few glitches and look forward to much more on this front.</p>
 <h2 id="compose"><a href="#TOC">Compose</a></h2>
 <p>Gadfly is based on a declarative vector graphics system called <a href="https://github.com/dcjones/Compose.jl">Compose</a>. This let's one do interesting things with plots, once they are defined.</p>
-<pre class="sourceCode julia"><code class="sourceCode julia">fig1a = plot(iris, {:x =&gt; <span class="st">&quot;Sepal.Length&quot;</span>, :y =&gt; <span class="st">&quot;Sepal.Width&quot;</span>}, Geom.point)
-fig1b = plot(iris, {:x =&gt; <span class="st">&quot;Sepal.Width&quot;</span>}, Geom.bar)
+<pre class="sourceCode julia"><code class="sourceCode julia">fig1a = plot(iris, x=<span class="st">&quot;Sepal.Length&quot;</span>, y=<span class="st">&quot;Sepal.Width&quot;</span>, Geom.point)
+fig1b = plot(iris, x=<span class="st">&quot;Sepal.Width&quot;</span>, Geom.bar)
 fig1 = hstack(fig1a, fig1b)
 
-draw(SVG(<span class="fl">6</span>inch, <span class="fl">3</span>inch), fig1)</code></pre>
-<figure><object alt="Figure 10" 
-                                  data="overview_fig_10.svg" 
-                                  type="image/svg+xml"></object> 
-                          <figcaption></figcaption></figure>
+draw(D3(<span class="fl">6</span>inch, <span class="fl">3</span>inch), fig1)</code></pre>
+<div id="fig_10_container"></div>
+                         <script src="overview_fig_10.js"></script>
+                         <script>draw("#fig_10_container");</script>
 <p>Ultimately Compose will allow the creation of more complex plots, such as those containing facets, or plots within plots.</p>
         <hr>
       </div>
@@ -180,7 +168,6 @@ draw(SVG(<span class="fl">6</span>inch, <span class="fl">3</span>inch), fig1)</c
       <div id="TOC" class="span4">
           <div class="nav-header">Contents</div>
 <ul>
-<li><a href="#introducing-gadfly">Introducing Gadfly</a><ul>
 <li><a href="#installation">Installation</a></li>
 <li><a href="#executing-this-document">Executing this document</a></li>
 <li><a href="#simple-plots">Simple plots</a></li>
@@ -193,13 +180,12 @@ draw(SVG(<span class="fl">6</span>inch, <span class="fl">3</span>inch), fig1)</c
 <li><a href="#plotting-functions">Plotting functions</a></li>
 <li><a href="#interactivity">Interactivity</a></li>
 <li><a href="#compose">Compose</a></li>
-</ul></li>
 </ul>
       </div>
     </div>
 
     <div id="footer" class="span8">
-      <p class="muted">Last modified by Daniel Jones on Mon Jan 21 14:59:51 2013 -0800.</p>
+      <p class="muted">Last modified by Daniel Jones on Tue Jun 18 01:06:40 2013 -0700.</p>
     </div>
   </div>
 </body>

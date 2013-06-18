@@ -1,611 +1,673 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="152.4mm" height="152.4mm" viewBox="0 0 152.4 152.4" style="stroke:black;fill:black" stroke-width="0.5">
 <g>
-  <g stroke="none" fill="#4C404B" font-size="3.18" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
-    <text x="21.26" y="110.4" text-anchor="end" style="dominant-baseline:central">1000</text>
-    <text x="21.26" y="90.05" text-anchor="end" style="dominant-baseline:central">2000</text>
-    <text x="21.26" y="49.36" text-anchor="end" style="dominant-baseline:central">4000</text>
-    <text x="21.26" y="130.74" text-anchor="end" style="dominant-baseline:central">0</text>
-    <text x="21.26" y="69.7" text-anchor="end" style="dominant-baseline:central">3000</text>
-    <text x="21.26" y="29.01" text-anchor="end" style="dominant-baseline:central">5000</text>
-    <text x="21.26" y="8.66" text-anchor="end" style="dominant-baseline:central">6000</text>
+  <g stroke="none" font-family="PT Sans,Helvetica Neue,Helvetica,sans" font-size="3.18" fill="#4C404B">
+    <text x="21.49" y="110.96" text-anchor="end" style="dominant-baseline:central">1000</text>
+    <text x="21.49" y="90.51" text-anchor="end" style="dominant-baseline:central">2000</text>
+    <text x="21.49" y="49.59" text-anchor="end" style="dominant-baseline:central">4000</text>
+    <text x="21.49" y="131.42" text-anchor="end" style="dominant-baseline:central">0</text>
+    <text x="21.49" y="70.05" text-anchor="end" style="dominant-baseline:central">3000</text>
+    <text x="21.49" y="29.14" text-anchor="end" style="dominant-baseline:central">5000</text>
+    <text x="21.49" y="8.68" text-anchor="end" style="dominant-baseline:central">6000</text>
   </g>
-  <g stroke="none" fill="#362A35" font-size="3.88" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
-    <text x="9.47" y="69.7" text-anchor="middle" style="dominant-baseline:central" transform="rotate(-90, 9.47, 69.7)">brain</text>
+  <g stroke="none" font-family="PT Sans,Helvetica Neue,Helvetica,sans" font-size="3.88" fill="#362A35">
+    <text x="9.28" y="70.05" text-anchor="middle" style="dominant-baseline:central" transform="rotate(-90, 9.28, 70.05)">brain</text>
   </g>
-  <g stroke="none" fill="#362A35" font-size="3.88" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
-    <text x="84.83" y="145.4" text-anchor="middle">body</text>
+  <g stroke="none" font-family="PT Sans,Helvetica Neue,Helvetica,sans" font-size="3.18" fill="#4C404B">
+    <text x="143.86" y="138.84" text-anchor="middle">8000</text>
+    <text x="84.94" y="138.84" text-anchor="middle">4000</text>
+    <text x="26.02" y="138.84" text-anchor="middle">0</text>
+    <text x="55.48" y="138.84" text-anchor="middle">2000</text>
+    <text x="114.4" y="138.84" text-anchor="middle">6000</text>
   </g>
-  <g stroke="none" fill="#4C404B" font-size="3.18" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
-    <text x="143.86" y="138.45" text-anchor="middle">8000</text>
-    <text x="84.83" y="138.45" text-anchor="middle">4000</text>
-    <text x="25.8" y="138.45" text-anchor="middle">0</text>
-    <text x="55.32" y="138.45" text-anchor="middle">2000</text>
-    <text x="114.34" y="138.45" text-anchor="middle">6000</text>
+  <g stroke="none" font-family="PT Sans,Helvetica Neue,Helvetica,sans" font-size="3.88" fill="#362A35">
+    <text x="84.94" y="145.4" text-anchor="middle">body</text>
   </g>
-  <g stroke="#F2F2F2" fill="#F5F5F5">
-    <path d="M 22.26 5 L 147.4 5 147.4 134.4 22.26 134.4 z" />
-    <g stroke="#FFFFFF" stroke-width="0.3">
-      <path d="M22.26,110.4 L 147.4 110.4" />
-      <path d="M22.26,90.05 L 147.4 90.05" />
-      <path d="M22.26,49.36 L 147.4 49.36" />
-      <path d="M22.26,130.74 L 147.4 130.74" />
-      <path d="M22.26,69.7 L 147.4 69.7" />
-      <path d="M22.26,29.01 L 147.4 29.01" />
-      <path d="M22.26,8.66 L 147.4 8.66" />
+  <g stroke="#FFFFFF" fill="#FFFFFF">
+    <path d="M 22.49 5 L 147.4 5 147.4 135.1 22.49 135.1 z" />
+  </g>
+  <g stroke-width="0.3" stroke="#F5F5F5">
+    <path d="M22.49,110.96 L 147.4 110.96" />
+    <path d="M22.49,90.51 L 147.4 90.51" />
+    <path d="M22.49,49.59 L 147.4 49.59" />
+    <path d="M22.49,131.42 L 147.4 131.42" />
+    <path d="M22.49,70.05 L 147.4 70.05" />
+    <path d="M22.49,29.14 L 147.4 29.14" />
+    <path d="M22.49,8.68 L 147.4 8.68" />
+  </g>
+  <g stroke-width="0.3" stroke="#F5F5F5">
+    <path d="M143.86,5 L 143.86 135.1" />
+    <path d="M84.94,5 L 84.94 135.1" />
+    <path d="M26.02,5 L 26.02 135.1" />
+    <path d="M55.48,5 L 55.48 135.1" />
+    <path d="M114.4,5 L 114.4 135.1" />
+  </g>
+  <g stroke-width="0.3" stroke="#F5F5F5" visibility="hidden" font-family="PT Sans,Helvetica Neue,Helvetica,sans" font-size="3.18">
+    <g id="id360-annotation">
+      <path d="M22.49,131.37 L 147.4 131.37" />
+      <path d="M26.02,5 L 26.02 135.1" />
     </g>
-    <g stroke="#FFFFFF" stroke-width="0.3">
-      <path d="M143.86,5 L 143.86 134.4" />
-      <path d="M84.83,5 L 84.83 134.4" />
-      <path d="M25.8,5 L 25.8 134.4" />
-      <path d="M55.32,5 L 55.32 134.4" />
-      <path d="M114.34,5 L 114.34 134.4" />
+    <g id="id358-annotation">
+      <path d="M22.49,131.37 L 147.4 131.37" />
+      <path d="M26.03,5 L 26.03 135.1" />
+    </g>
+    <g id="id356-annotation">
+      <path d="M22.49,130.91 L 147.4 130.91" />
+      <path d="M26.06,5 L 26.06 135.1" />
+    </g>
+    <g id="id354-annotation">
+      <path d="M22.49,131.41 L 147.4 131.41" />
+      <path d="M26.02,5 L 26.02 135.1" />
+    </g>
+    <g id="id352-annotation">
+      <path d="M22.49,131.4 L 147.4 131.4" />
+      <path d="M26.02,5 L 26.02 135.1" />
+    </g>
+    <g id="id350-annotation">
+      <path d="M22.49,130.62 L 147.4 130.62" />
+      <path d="M26.08,5 L 26.08 135.1" />
+    </g>
+    <g id="id348-annotation">
+      <path d="M22.49,129.76 L 147.4 129.76" />
+      <path d="M26.9,5 L 26.9 135.1" />
+    </g>
+    <g id="id346-annotation">
+      <path d="M22.49,127.75 L 147.4 127.75" />
+      <path d="M26.18,5 L 26.18 135.1" />
+    </g>
+    <g id="id344-annotation">
+      <path d="M22.49,128.21 L 147.4 128.21" />
+      <path d="M27.49,5 L 27.49 135.1" />
+    </g>
+    <g id="id342-annotation">
+      <path d="M22.49,131.17 L 147.4 131.17" />
+      <path d="M26.06,5 L 26.06 135.1" />
+    </g>
+    <g id="id340-annotation">
+      <path d="M22.49,131.16 L 147.4 131.16" />
+      <path d="M26.04,5 L 26.04 135.1" />
+    </g>
+    <g id="id338-annotation">
+      <path d="M22.49,131.41 L 147.4 131.41" />
+      <path d="M26.02,5 L 26.02 135.1" />
+    </g>
+    <g id="id336-annotation">
+      <path d="M22.49,131.07 L 147.4 131.07" />
+      <path d="M26.08,5 L 26.08 135.1" />
+    </g>
+    <g id="id334-annotation">
+      <path d="M22.49,127.76 L 147.4 127.76" />
+      <path d="M26.12,5 L 26.12 135.1" />
+    </g>
+    <g id="id332-annotation">
+      <path d="M22.49,14.57 L 147.4 14.57" />
+      <path d="M124.04,5 L 124.04 135.1" />
+    </g>
+    <g id="id330-annotation">
+      <path d="M22.49,131.17 L 147.4 131.17" />
+      <path d="M26.03,5 L 26.03 135.1" />
+    </g>
+    <g id="id328-annotation">
+      <path d="M22.49,123.12 L 147.4 123.12" />
+      <path d="M29.07,5 L 29.07 135.1" />
+    </g>
+    <g id="id326-annotation">
+      <path d="M22.49,131.06 L 147.4 131.06" />
+      <path d="M26.04,5 L 26.04 135.1" />
+    </g>
+    <g id="id324-annotation">
+      <path d="M22.49,130.9 L 147.4 130.9" />
+      <path d="M26.07,5 L 26.07 135.1" />
+    </g>
+    <g id="id322-annotation">
+      <path d="M22.49,131.35 L 147.4 131.35" />
+      <path d="M26.03,5 L 26.03 135.1" />
+    </g>
+    <g id="id320-annotation">
+      <path d="M22.49,122.85 L 147.4 122.85" />
+      <path d="M28.78,5 L 28.78 135.1" />
+    </g>
+    <g id="id318-annotation">
+      <path d="M22.49,37.26 L 147.4 37.26" />
+      <path d="M63.54,5 L 63.54 135.1" />
+    </g>
+    <g id="id316-annotation">
+      <path d="M22.49,131.17 L 147.4 131.17" />
+      <path d="M26.05,5 L 26.05 135.1" />
+    </g>
+    <g id="id314-annotation">
+      <path d="M22.49,131.4 L 147.4 131.4" />
+      <path d="M26.02,5 L 26.02 135.1" />
+    </g>
+    <g id="id312-annotation">
+      <path d="M22.49,131.29 L 147.4 131.29" />
+      <path d="M26.04,5 L 26.04 135.1" />
+    </g>
+    <g id="id310-annotation">
+      <path d="M22.49,131.34 L 147.4 131.34" />
+      <path d="M26.02,5 L 26.02 135.1" />
+    </g>
+    <g id="id308-annotation">
+      <path d="M22.49,130.23 L 147.4 130.23" />
+      <path d="M26.08,5 L 26.08 135.1" />
+    </g>
+    <g id="id306-annotation">
+      <path d="M22.49,129.41 L 147.4 129.41" />
+      <path d="M26.24,5 L 26.24 135.1" />
+    </g>
+    <g id="id304-annotation">
+      <path d="M22.49,128.98 L 147.4 128.98" />
+      <path d="M26.56,5 L 26.56 135.1" />
+    </g>
+    <g id="id302-annotation">
+      <path d="M22.49,131.25 L 147.4 131.25" />
+      <path d="M26.04,5 L 26.04 135.1" />
+    </g>
+    <g id="id300-annotation">
+      <path d="M22.49,130.51 L 147.4 130.51" />
+      <path d="M26.07,5 L 26.07 135.1" />
+    </g>
+    <g id="id301-annotation">
+      <path d="M22.49,131.1 L 147.4 131.1" />
+      <path d="M26.03,5 L 26.03 135.1" />
+    </g>
+    <g id="id303-annotation">
+      <path d="M22.49,122.77 L 147.4 122.77" />
+      <path d="M32.87,5 L 32.87 135.1" />
+    </g>
+    <g id="id305-annotation">
+      <path d="M22.49,129.07 L 147.4 129.07" />
+      <path d="M26.43,5 L 26.43 135.1" />
+    </g>
+    <g id="id307-annotation">
+      <path d="M22.49,131.31 L 147.4 131.31" />
+      <path d="M26.04,5 L 26.04 135.1" />
+    </g>
+    <g id="id309-annotation">
+      <path d="M22.49,131.29 L 147.4 131.29" />
+      <path d="M26.03,5 L 26.03 135.1" />
+    </g>
+    <g id="id311-annotation">
+      <path d="M22.49,131.3 L 147.4 131.3" />
+      <path d="M26.03,5 L 26.03 135.1" />
+    </g>
+    <g id="id313-annotation">
+      <path d="M22.49,131.42 L 147.4 131.42" />
+      <path d="M26.02,5 L 26.02 135.1" />
+    </g>
+    <g id="id315-annotation">
+      <path d="M22.49,131.2 L 147.4 131.2" />
+      <path d="M26.07,5 L 26.07 135.1" />
+    </g>
+    <g id="id317-annotation">
+      <path d="M22.49,131.29 L 147.4 131.29" />
+      <path d="M26.05,5 L 26.05 135.1" />
+    </g>
+    <g id="id319-annotation">
+      <path d="M22.49,131.41 L 147.4 131.41" />
+      <path d="M26.02,5 L 26.02 135.1" />
+    </g>
+    <g id="id321-annotation">
+      <path d="M22.49,118.02 L 147.4 118.02" />
+      <path d="M33.7,5 L 33.7 135.1" />
+    </g>
+    <g id="id323-annotation">
+      <path d="M22.49,129.07 L 147.4 129.07" />
+      <path d="M26.17,5 L 26.17 135.1" />
+    </g>
+    <g id="id325-annotation">
+      <path d="M22.49,131.32 L 147.4 131.32" />
+      <path d="M26.02,5 L 26.02 135.1" />
+    </g>
+    <g id="id327-annotation">
+      <path d="M22.49,117.51 L 147.4 117.51" />
+      <path d="M33.81,5 L 33.81 135.1" />
+    </g>
+    <g id="id329-annotation">
+      <path d="M22.49,124.77 L 147.4 124.77" />
+      <path d="M27.27,5 L 27.27 135.1" />
+    </g>
+    <g id="id331-annotation">
+      <path d="M22.49,104.42 L 147.4 104.42" />
+      <path d="M26.93,5 L 26.93 135.1" />
+    </g>
+    <g id="id333-annotation">
+      <path d="M22.49,131.34 L 147.4 131.34" />
+      <path d="M26.07,5 L 26.07 135.1" />
+    </g>
+    <g id="id335-annotation">
+      <path d="M22.49,130.28 L 147.4 130.28" />
+      <path d="M26.54,5 L 26.54 135.1" />
+    </g>
+    <g id="id337-annotation">
+      <path d="M22.49,131.4 L 147.4 131.4" />
+      <path d="M26.02,5 L 26.02 135.1" />
+    </g>
+    <g id="id339-annotation">
+      <path d="M22.49,131.42 L 147.4 131.42" />
+      <path d="M26.02,5 L 26.02 135.1" />
+    </g>
+    <g id="id341-annotation">
+      <path d="M22.49,121.4 L 147.4 121.4" />
+      <path d="M29.7,5 L 29.7 135.1" />
+    </g>
+    <g id="id343-annotation">
+      <path d="M22.49,127.84 L 147.4 127.84" />
+      <path d="M26.84,5 L 26.84 135.1" />
+    </g>
+    <g id="id345-annotation">
+      <path d="M22.49,122.42 L 147.4 122.42" />
+      <path d="M26.79,5 L 26.79 135.1" />
+    </g>
+    <g id="id347-annotation">
+      <path d="M22.49,131.37 L 147.4 131.37" />
+      <path d="M26.03,5 L 26.03 135.1" />
+    </g>
+    <g id="id349-annotation">
+      <path d="M22.49,130.99 L 147.4 130.99" />
+      <path d="M26.07,5 L 26.07 135.1" />
+    </g>
+    <g id="id351-annotation">
+      <path d="M22.49,131.38 L 147.4 131.38" />
+      <path d="M26.02,5 L 26.02 135.1" />
+    </g>
+    <g id="id353-annotation">
+      <path d="M22.49,131.36 L 147.4 131.36" />
+      <path d="M26.02,5 L 26.02 135.1" />
+    </g>
+    <g id="id355-annotation">
+      <path d="M22.49,127.74 L 147.4 127.74" />
+      <path d="M28.85,5 L 28.85 135.1" />
+    </g>
+    <g id="id357-annotation">
+      <path d="M22.49,127.96 L 147.4 127.96" />
+      <path d="M28.38,5 L 28.38 135.1" />
+    </g>
+    <g id="id359-annotation">
+      <path d="M22.49,131.19 L 147.4 131.19" />
+      <path d="M26.04,5 L 26.04 135.1" />
+    </g>
+    <g id="id361-annotation">
+      <path d="M22.49,130.39 L 147.4 130.39" />
+      <path d="M26.08,5 L 26.08 135.1" />
     </g>
   </g>
   <g stroke-width="0.3">
-    <g fill="#4682B4" stroke="#0F5D8C" class="color_group_RGB(0.27450980392156865,0.5098039215686274,0.7058823529411765)">
-      <g id="id720" class="geometry">
-        <circle cx="25.8" cy="130.69" r="0.5" />
+    <g class="color_group_RGB(0.27450980392156865,0.5098039215686274,0.7058823529411765)" stroke="#0F5D8C" fill="#4682B4">
+      <g class="geometry" id="id360">
+        <circle cx="26.02" cy="131.37" r="0.5" />
       </g>
-      <g id="id716" class="geometry">
-        <circle cx="25.81" cy="130.69" r="0.5" />
+      <g class="geometry" id="id358">
+        <circle cx="26.03" cy="131.37" r="0.5" />
       </g>
-      <g id="id712" class="geometry">
-        <circle cx="25.85" cy="130.23" r="0.5" />
+      <g class="geometry" id="id356">
+        <circle cx="26.06" cy="130.91" r="0.5" />
       </g>
-      <g id="id708" class="geometry">
-        <circle cx="25.8" cy="130.74" r="0.5" />
+      <g class="geometry" id="id354">
+        <circle cx="26.02" cy="131.41" r="0.5" />
       </g>
-      <g id="id704" class="geometry">
-        <circle cx="25.8" cy="130.72" r="0.5" />
+      <g class="geometry" id="id352">
+        <circle cx="26.02" cy="131.4" r="0.5" />
       </g>
-      <g id="id700" class="geometry">
-        <circle cx="25.86" cy="129.94" r="0.5" />
+      <g class="geometry" id="id350">
+        <circle cx="26.08" cy="130.62" r="0.5" />
       </g>
-      <g id="id696" class="geometry">
-        <circle cx="26.69" cy="129.09" r="0.5" />
+      <g class="geometry" id="id348">
+        <circle cx="26.9" cy="129.76" r="0.5" />
       </g>
-      <g id="id692" class="geometry">
-        <circle cx="25.96" cy="127.09" r="0.5" />
+      <g class="geometry" id="id346">
+        <circle cx="26.18" cy="127.75" r="0.5" />
       </g>
-      <g id="id688" class="geometry">
-        <circle cx="27.28" cy="127.55" r="0.5" />
+      <g class="geometry" id="id344">
+        <circle cx="27.49" cy="128.21" r="0.5" />
       </g>
-      <g id="id684" class="geometry">
-        <circle cx="25.84" cy="130.5" r="0.5" />
+      <g class="geometry" id="id342">
+        <circle cx="26.06" cy="131.17" r="0.5" />
       </g>
-      <g id="id680" class="geometry">
-        <circle cx="25.82" cy="130.49" r="0.5" />
+      <g class="geometry" id="id340">
+        <circle cx="26.04" cy="131.16" r="0.5" />
       </g>
-      <g id="id676" class="geometry">
-        <circle cx="25.8" cy="130.73" r="0.5" />
+      <g class="geometry" id="id338">
+        <circle cx="26.02" cy="131.41" r="0.5" />
       </g>
-      <g id="id672" class="geometry">
-        <circle cx="25.86" cy="130.4" r="0.5" />
+      <g class="geometry" id="id336">
+        <circle cx="26.08" cy="131.07" r="0.5" />
       </g>
-      <g id="id668" class="geometry">
-        <circle cx="25.9" cy="127.1" r="0.5" />
+      <g class="geometry" id="id334">
+        <circle cx="26.12" cy="127.76" r="0.5" />
       </g>
-      <g id="id664" class="geometry">
-        <circle cx="124" cy="14.52" r="0.5" />
+      <g class="geometry" id="id332">
+        <circle cx="124.04" cy="14.57" r="0.5" />
       </g>
-      <g id="id660" class="geometry">
-        <circle cx="25.81" cy="130.49" r="0.5" />
+      <g class="geometry" id="id330">
+        <circle cx="26.03" cy="131.17" r="0.5" />
       </g>
-      <g id="id656" class="geometry">
-        <circle cx="28.86" cy="122.48" r="0.5" />
+      <g class="geometry" id="id328">
+        <circle cx="29.07" cy="123.12" r="0.5" />
       </g>
-      <g id="id652" class="geometry">
-        <circle cx="25.82" cy="130.39" r="0.5" />
+      <g class="geometry" id="id326">
+        <circle cx="26.04" cy="131.06" r="0.5" />
       </g>
-      <g id="id648" class="geometry">
-        <circle cx="25.85" cy="130.22" r="0.5" />
+      <g class="geometry" id="id324">
+        <circle cx="26.07" cy="130.9" r="0.5" />
       </g>
-      <g id="id644" class="geometry">
-        <circle cx="25.81" cy="130.67" r="0.5" />
+      <g class="geometry" id="id322">
+        <circle cx="26.03" cy="131.35" r="0.5" />
       </g>
-      <g id="id640" class="geometry">
-        <circle cx="28.56" cy="122.22" r="0.5" />
+      <g class="geometry" id="id320">
+        <circle cx="28.78" cy="122.85" r="0.5" />
       </g>
-      <g id="id636" class="geometry">
-        <circle cx="63.39" cy="37.09" r="0.5" />
+      <g class="geometry" id="id318">
+        <circle cx="63.54" cy="37.26" r="0.5" />
       </g>
-      <g id="id632" class="geometry">
-        <circle cx="25.83" cy="130.49" r="0.5" />
+      <g class="geometry" id="id316">
+        <circle cx="26.05" cy="131.17" r="0.5" />
       </g>
-      <g id="id628" class="geometry">
-        <circle cx="25.8" cy="130.72" r="0.5" />
+      <g class="geometry" id="id314">
+        <circle cx="26.02" cy="131.4" r="0.5" />
       </g>
-      <g id="id624" class="geometry">
-        <circle cx="25.82" cy="130.61" r="0.5" />
+      <g class="geometry" id="id312">
+        <circle cx="26.04" cy="131.29" r="0.5" />
       </g>
-      <g id="id620" class="geometry">
-        <circle cx="25.8" cy="130.66" r="0.5" />
+      <g class="geometry" id="id310">
+        <circle cx="26.02" cy="131.34" r="0.5" />
       </g>
-      <g id="id616" class="geometry">
-        <circle cx="25.86" cy="129.56" r="0.5" />
+      <g class="geometry" id="id308">
+        <circle cx="26.08" cy="130.23" r="0.5" />
       </g>
-      <g id="id612" class="geometry">
-        <circle cx="26.02" cy="128.74" r="0.5" />
+      <g class="geometry" id="id306">
+        <circle cx="26.24" cy="129.41" r="0.5" />
       </g>
-      <g id="id608" class="geometry">
-        <circle cx="26.34" cy="128.31" r="0.5" />
+      <g class="geometry" id="id304">
+        <circle cx="26.56" cy="128.98" r="0.5" />
       </g>
-      <g id="id604" class="geometry">
-        <circle cx="25.82" cy="130.58" r="0.5" />
+      <g class="geometry" id="id302">
+        <circle cx="26.04" cy="131.25" r="0.5" />
       </g>
-      <g id="id600" class="geometry">
-        <circle cx="25.85" cy="129.84" r="0.5" />
+      <g class="geometry" id="id300">
+        <circle cx="26.07" cy="130.51" r="0.5" />
       </g>
-      <g id="id602" class="geometry">
-        <circle cx="25.81" cy="130.43" r="0.5" />
+      <g class="geometry" id="id301">
+        <circle cx="26.03" cy="131.1" r="0.5" />
       </g>
-      <g id="id606" class="geometry">
-        <circle cx="32.66" cy="122.14" r="0.5" />
+      <g class="geometry" id="id303">
+        <circle cx="32.87" cy="122.77" r="0.5" />
       </g>
-      <g id="id610" class="geometry">
-        <circle cx="26.21" cy="128.4" r="0.5" />
+      <g class="geometry" id="id305">
+        <circle cx="26.43" cy="129.07" r="0.5" />
       </g>
-      <g id="id614" class="geometry">
-        <circle cx="25.82" cy="130.63" r="0.5" />
+      <g class="geometry" id="id307">
+        <circle cx="26.04" cy="131.31" r="0.5" />
       </g>
-      <g id="id618" class="geometry">
-        <circle cx="25.81" cy="130.61" r="0.5" />
+      <g class="geometry" id="id309">
+        <circle cx="26.03" cy="131.29" r="0.5" />
       </g>
-      <g id="id622" class="geometry">
-        <circle cx="25.81" cy="130.63" r="0.5" />
+      <g class="geometry" id="id311">
+        <circle cx="26.03" cy="131.3" r="0.5" />
       </g>
-      <g id="id626" class="geometry">
-        <circle cx="25.8" cy="130.74" r="0.5" />
+      <g class="geometry" id="id313">
+        <circle cx="26.02" cy="131.42" r="0.5" />
       </g>
-      <g id="id630" class="geometry">
-        <circle cx="25.85" cy="130.52" r="0.5" />
+      <g class="geometry" id="id315">
+        <circle cx="26.07" cy="131.2" r="0.5" />
       </g>
-      <g id="id634" class="geometry">
-        <circle cx="25.83" cy="130.61" r="0.5" />
+      <g class="geometry" id="id317">
+        <circle cx="26.05" cy="131.29" r="0.5" />
       </g>
-      <g id="id638" class="geometry">
-        <circle cx="25.8" cy="130.74" r="0.5" />
+      <g class="geometry" id="id319">
+        <circle cx="26.02" cy="131.41" r="0.5" />
       </g>
-      <g id="id642" class="geometry">
-        <circle cx="33.49" cy="117.41" r="0.5" />
+      <g class="geometry" id="id321">
+        <circle cx="33.7" cy="118.02" r="0.5" />
       </g>
-      <g id="id646" class="geometry">
-        <circle cx="25.95" cy="128.4" r="0.5" />
+      <g class="geometry" id="id323">
+        <circle cx="26.17" cy="129.07" r="0.5" />
       </g>
-      <g id="id650" class="geometry">
-        <circle cx="25.8" cy="130.64" r="0.5" />
+      <g class="geometry" id="id325">
+        <circle cx="26.02" cy="131.32" r="0.5" />
       </g>
-      <g id="id654" class="geometry">
-        <circle cx="33.61" cy="116.91" r="0.5" />
+      <g class="geometry" id="id327">
+        <circle cx="33.81" cy="117.51" r="0.5" />
       </g>
-      <g id="id658" class="geometry">
-        <circle cx="27.06" cy="124.13" r="0.5" />
+      <g class="geometry" id="id329">
+        <circle cx="27.27" cy="124.77" r="0.5" />
       </g>
-      <g id="id662" class="geometry">
-        <circle cx="26.72" cy="103.88" r="0.5" />
+      <g class="geometry" id="id331">
+        <circle cx="26.93" cy="104.42" r="0.5" />
       </g>
-      <g id="id666" class="geometry">
-        <circle cx="25.85" cy="130.66" r="0.5" />
+      <g class="geometry" id="id333">
+        <circle cx="26.07" cy="131.34" r="0.5" />
       </g>
-      <g id="id670" class="geometry">
-        <circle cx="26.32" cy="129.6" r="0.5" />
+      <g class="geometry" id="id335">
+        <circle cx="26.54" cy="130.28" r="0.5" />
       </g>
-      <g id="id674" class="geometry">
-        <circle cx="25.8" cy="130.72" r="0.5" />
+      <g class="geometry" id="id337">
+        <circle cx="26.02" cy="131.4" r="0.5" />
       </g>
-      <g id="id678" class="geometry">
-        <circle cx="25.8" cy="130.74" r="0.5" />
+      <g class="geometry" id="id339">
+        <circle cx="26.02" cy="131.42" r="0.5" />
       </g>
-      <g id="id682" class="geometry">
-        <circle cx="29.49" cy="120.77" r="0.5" />
+      <g class="geometry" id="id341">
+        <circle cx="29.7" cy="121.4" r="0.5" />
       </g>
-      <g id="id686" class="geometry">
-        <circle cx="26.62" cy="127.18" r="0.5" />
+      <g class="geometry" id="id343">
+        <circle cx="26.84" cy="127.84" r="0.5" />
       </g>
-      <g id="id690" class="geometry">
-        <circle cx="26.57" cy="121.79" r="0.5" />
+      <g class="geometry" id="id345">
+        <circle cx="26.79" cy="122.42" r="0.5" />
       </g>
-      <g id="id694" class="geometry">
-        <circle cx="25.81" cy="130.69" r="0.5" />
+      <g class="geometry" id="id347">
+        <circle cx="26.03" cy="131.37" r="0.5" />
       </g>
-      <g id="id698" class="geometry">
-        <circle cx="25.85" cy="130.31" r="0.5" />
+      <g class="geometry" id="id349">
+        <circle cx="26.07" cy="130.99" r="0.5" />
       </g>
-      <g id="id702" class="geometry">
-        <circle cx="25.81" cy="130.7" r="0.5" />
+      <g class="geometry" id="id351">
+        <circle cx="26.02" cy="131.38" r="0.5" />
       </g>
-      <g id="id706" class="geometry">
-        <circle cx="25.8" cy="130.68" r="0.5" />
+      <g class="geometry" id="id353">
+        <circle cx="26.02" cy="131.36" r="0.5" />
       </g>
-      <g id="id710" class="geometry">
-        <circle cx="28.63" cy="127.08" r="0.5" />
+      <g class="geometry" id="id355">
+        <circle cx="28.85" cy="127.74" r="0.5" />
       </g>
-      <g id="id714" class="geometry">
-        <circle cx="28.16" cy="127.3" r="0.5" />
+      <g class="geometry" id="id357">
+        <circle cx="28.38" cy="127.96" r="0.5" />
       </g>
-      <g id="id718" class="geometry">
-        <circle cx="25.82" cy="130.51" r="0.5" />
+      <g class="geometry" id="id359">
+        <circle cx="26.04" cy="131.19" r="0.5" />
       </g>
-      <g id="id722" class="geometry">
-        <circle cx="25.86" cy="129.72" r="0.5" />
+      <g class="geometry" id="id361">
+        <circle cx="26.08" cy="130.39" r="0.5" />
       </g>
     </g>
   </g>
-  <g stroke="none" visibility="hidden" font-size="3.18" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
-    <g id="id721">
-      <text x="25.8" y="129.19" text-anchor="middle">0.104, 2.5</text>
+  <g opacity="0" stroke="none">
+    <g onmouseover="show_annotation('id360')" onmouseout="hide_annotation('id360')">
+      <path d="M 24.52 129.87 L 27.52 129.87 27.52 132.87 24.52 132.87 z" />
     </g>
-    <g id="id717">
-      <text x="25.81" y="129.19" text-anchor="middle">0.9, 2.6</text>
+    <g onmouseover="show_annotation('id358')" onmouseout="hide_annotation('id358')">
+      <path d="M 24.53 129.87 L 27.53 129.87 27.53 132.87 24.53 132.87 z" />
     </g>
-    <g id="id713">
-      <text x="25.85" y="128.73" text-anchor="middle">3, 25</text>
+    <g onmouseover="show_annotation('id356')" onmouseout="hide_annotation('id356')">
+      <path d="M 24.56 129.41 L 27.56 129.41 27.56 132.41 24.56 132.41 z" />
     </g>
-    <g id="id709">
-      <text x="25.8" y="129.24" text-anchor="middle">0.048, 0.33</text>
+    <g onmouseover="show_annotation('id354')" onmouseout="hide_annotation('id354')">
+      <path d="M 24.52 129.91 L 27.52 129.91 27.52 132.91 24.52 132.91 z" />
     </g>
-    <g id="id705">
-      <text x="25.8" y="129.22" text-anchor="middle">0.075, 1.2</text>
+    <g onmouseover="show_annotation('id352')" onmouseout="hide_annotation('id352')">
+      <path d="M 24.52 129.9 L 27.52 129.9 27.52 132.9 24.52 132.9 z" />
     </g>
-    <g id="id701">
-      <text x="25.86" y="128.44" text-anchor="middle">4.288, 39.2</text>
+    <g onmouseover="show_annotation('id350')" onmouseout="hide_annotation('id350')">
+      <path d="M 24.58 129.12 L 27.58 129.12 27.58 132.12 24.58 132.12 z" />
     </g>
-    <g id="id697">
-      <text x="26.69" y="127.59" text-anchor="middle">60, 81</text>
+    <g onmouseover="show_annotation('id348')" onmouseout="hide_annotation('id348')">
+      <path d="M 25.4 128.26 L 28.4 128.26 28.4 131.26 25.4 131.26 z" />
     </g>
-    <g id="id693">
-      <text x="25.96" y="125.59" text-anchor="middle">10.55, 179.5</text>
+    <g onmouseover="show_annotation('id346')" onmouseout="hide_annotation('id346')">
+      <path d="M 24.68 126.25 L 27.68 126.25 27.68 129.25 24.68 129.25 z" />
     </g>
-    <g id="id689">
-      <text x="27.28" y="126.05" text-anchor="middle">100, 157</text>
+    <g onmouseover="show_annotation('id344')" onmouseout="hide_annotation('id344')">
+      <path d="M 25.99 126.71 L 28.99 126.71 28.99 129.71 25.99 129.71 z" />
     </g>
-    <g id="id685">
-      <text x="25.84" y="129" text-anchor="middle">2.5, 12.1</text>
+    <g onmouseover="show_annotation('id342')" onmouseout="hide_annotation('id342')">
+      <path d="M 24.56 129.67 L 27.56 129.67 27.56 132.67 24.56 132.67 z" />
     </g>
-    <g id="id681">
-      <text x="25.82" y="128.99" text-anchor="middle">1.4, 12.5</text>
+    <g onmouseover="show_annotation('id340')" onmouseout="hide_annotation('id340')">
+      <path d="M 24.54 129.66 L 27.54 129.66 27.54 132.66 24.54 132.66 z" />
     </g>
-    <g id="id677">
-      <text x="25.8" y="129.23" text-anchor="middle">0.023, 0.4</text>
+    <g onmouseover="show_annotation('id338')" onmouseout="hide_annotation('id338')">
+      <path d="M 24.52 129.91 L 27.52 129.91 27.52 132.91 24.52 132.91 z" />
     </g>
-    <g id="id673">
-      <text x="25.86" y="128.9" text-anchor="middle">4.05, 17</text>
+    <g onmouseover="show_annotation('id336')" onmouseout="hide_annotation('id336')">
+      <path d="M 24.58 129.57 L 27.58 129.57 27.58 132.57 24.58 132.57 z" />
     </g>
-    <g id="id669">
-      <text x="25.9" y="125.6" text-anchor="middle">6.8, 179</text>
+    <g onmouseover="show_annotation('id334')" onmouseout="hide_annotation('id334')">
+      <path d="M 24.62 126.26 L 27.62 126.26 27.62 129.26 24.62 129.26 z" />
     </g>
-    <g id="id665">
-      <text x="124" y="13.02" text-anchor="middle">6654, 5712</text>
+    <g onmouseover="show_annotation('id332')" onmouseout="hide_annotation('id332')">
+      <path d="M 122.54 13.07 L 125.54 13.07 125.54 16.07 122.54 16.07 z" />
     </g>
-    <g id="id661">
-      <text x="25.81" y="128.99" text-anchor="middle">0.75, 12.3</text>
+    <g onmouseover="show_annotation('id330')" onmouseout="hide_annotation('id330')">
+      <path d="M 24.53 129.67 L 27.53 129.67 27.53 132.67 24.53 132.67 z" />
     </g>
-    <g id="id657">
-      <text x="28.86" y="120.98" text-anchor="middle">207, 406</text>
+    <g onmouseover="show_annotation('id328')" onmouseout="hide_annotation('id328')">
+      <path d="M 27.57 121.62 L 30.57 121.62 30.57 124.62 27.57 124.62 z" />
     </g>
-    <g id="id653">
-      <text x="25.82" y="128.89" text-anchor="middle">1.41, 17.5</text>
+    <g onmouseover="show_annotation('id326')" onmouseout="hide_annotation('id326')">
+      <path d="M 24.54 129.56 L 27.54 129.56 27.54 132.56 24.54 132.56 z" />
     </g>
-    <g id="id649">
-      <text x="25.85" y="128.72" text-anchor="middle">3.3, 25.6</text>
+    <g onmouseover="show_annotation('id324')" onmouseout="hide_annotation('id324')">
+      <path d="M 24.57 129.4 L 27.57 129.4 27.57 132.4 24.57 132.4 z" />
     </g>
-    <g id="id645">
-      <text x="25.81" y="129.17" text-anchor="middle">0.785, 3.5</text>
+    <g onmouseover="show_annotation('id322')" onmouseout="hide_annotation('id322')">
+      <path d="M 24.53 129.85 L 27.53 129.85 27.53 132.85 24.53 132.85 z" />
     </g>
-    <g id="id641">
-      <text x="28.56" y="120.72" text-anchor="middle">187.1, 419</text>
+    <g onmouseover="show_annotation('id320')" onmouseout="hide_annotation('id320')">
+      <path d="M 27.28 121.35 L 30.28 121.35 30.28 124.35 27.28 124.35 z" />
     </g>
-    <g id="id637">
-      <text x="63.39" y="35.59" text-anchor="middle">2547, 4603</text>
+    <g onmouseover="show_annotation('id318')" onmouseout="hide_annotation('id318')">
+      <path d="M 62.04 35.76 L 65.04 35.76 65.04 38.76 62.04 38.76 z" />
     </g>
-    <g id="id633">
-      <text x="25.83" y="128.99" text-anchor="middle">2, 12.3</text>
+    <g onmouseover="show_annotation('id316')" onmouseout="hide_annotation('id316')">
+      <path d="M 24.55 129.67 L 27.55 129.67 27.55 132.67 24.55 132.67 z" />
     </g>
-    <g id="id629">
-      <text x="25.8" y="129.22" text-anchor="middle">0.06, 1</text>
+    <g onmouseover="show_annotation('id314')" onmouseout="hide_annotation('id314')">
+      <path d="M 24.52 129.9 L 27.52 129.9 27.52 132.9 24.52 132.9 z" />
     </g>
-    <g id="id625">
-      <text x="25.82" y="129.11" text-anchor="middle">1, 6.6</text>
+    <g onmouseover="show_annotation('id312')" onmouseout="hide_annotation('id312')">
+      <path d="M 24.54 129.79 L 27.54 129.79 27.54 132.79 24.54 132.79 z" />
     </g>
-    <g id="id621">
-      <text x="25.8" y="129.16" text-anchor="middle">0.101, 4</text>
+    <g onmouseover="show_annotation('id310')" onmouseout="hide_annotation('id310')">
+      <path d="M 24.52 129.84 L 27.52 129.84 27.52 132.84 24.52 132.84 z" />
     </g>
-    <g id="id617">
-      <text x="25.86" y="128.06" text-anchor="middle">4.19, 58</text>
+    <g onmouseover="show_annotation('id308')" onmouseout="hide_annotation('id308')">
+      <path d="M 24.58 128.73 L 27.58 128.73 27.58 131.73 24.58 131.73 z" />
     </g>
-    <g id="id613">
-      <text x="26.02" y="127.24" text-anchor="middle">14.83, 98.2</text>
+    <g onmouseover="show_annotation('id306')" onmouseout="hide_annotation('id306')">
+      <path d="M 24.74 127.91 L 27.74 127.91 27.74 130.91 24.74 130.91 z" />
     </g>
-    <g id="id609">
-      <text x="26.34" y="126.81" text-anchor="middle">36.33, 119.5</text>
+    <g onmouseover="show_annotation('id304')" onmouseout="hide_annotation('id304')">
+      <path d="M 25.06 127.48 L 28.06 127.48 28.06 130.48 25.06 130.48 z" />
     </g>
-    <g id="id605">
-      <text x="25.82" y="129.08" text-anchor="middle">1.35, 8.1</text>
+    <g onmouseover="show_annotation('id302')" onmouseout="hide_annotation('id302')">
+      <path d="M 24.54 129.75 L 27.54 129.75 27.54 132.75 24.54 132.75 z" />
     </g>
-    <g id="id601">
-      <text x="25.85" y="128.34" text-anchor="middle">3.385, 44.5</text>
+    <g onmouseover="show_annotation('id300')" onmouseout="hide_annotation('id300')">
+      <path d="M 24.57 129.01 L 27.57 129.01 27.57 132.01 24.57 132.01 z" />
     </g>
-    <g id="id603">
-      <text x="25.81" y="128.93" text-anchor="middle">0.48, 15.5</text>
+    <g onmouseover="show_annotation('id301')" onmouseout="hide_annotation('id301')">
+      <path d="M 24.53 129.6 L 27.53 129.6 27.53 132.6 24.53 132.6 z" />
     </g>
-    <g id="id607">
-      <text x="32.66" y="120.64" text-anchor="middle">465, 423</text>
+    <g onmouseover="show_annotation('id303')" onmouseout="hide_annotation('id303')">
+      <path d="M 31.37 121.27 L 34.37 121.27 34.37 124.27 31.37 124.27 z" />
     </g>
-    <g id="id611">
-      <text x="26.21" y="126.9" text-anchor="middle">27.66, 115</text>
+    <g onmouseover="show_annotation('id305')" onmouseout="hide_annotation('id305')">
+      <path d="M 24.93 127.57 L 27.93 127.57 27.93 130.57 24.93 130.57 z" />
     </g>
-    <g id="id615">
-      <text x="25.82" y="129.13" text-anchor="middle">1.04, 5.5</text>
+    <g onmouseover="show_annotation('id307')" onmouseout="hide_annotation('id307')">
+      <path d="M 24.54 129.81 L 27.54 129.81 27.54 132.81 24.54 132.81 z" />
     </g>
-    <g id="id619">
-      <text x="25.81" y="129.11" text-anchor="middle">0.425, 6.4</text>
+    <g onmouseover="show_annotation('id309')" onmouseout="hide_annotation('id309')">
+      <path d="M 24.53 129.79 L 27.53 129.79 27.53 132.79 24.53 132.79 z" />
     </g>
-    <g id="id623">
-      <text x="25.81" y="129.13" text-anchor="middle">0.92, 5.7</text>
+    <g onmouseover="show_annotation('id311')" onmouseout="hide_annotation('id311')">
+      <path d="M 24.53 129.8 L 27.53 129.8 27.53 132.8 24.53 132.8 z" />
     </g>
-    <g id="id627">
-      <text x="25.8" y="129.24" text-anchor="middle">0.005, 0.14</text>
+    <g onmouseover="show_annotation('id313')" onmouseout="hide_annotation('id313')">
+      <path d="M 24.52 129.92 L 27.52 129.92 27.52 132.92 24.52 132.92 z" />
     </g>
-    <g id="id631">
-      <text x="25.85" y="129.02" text-anchor="middle">3.5, 10.8</text>
+    <g onmouseover="show_annotation('id315')" onmouseout="hide_annotation('id315')">
+      <path d="M 24.57 129.7 L 27.57 129.7 27.57 132.7 24.57 132.7 z" />
     </g>
-    <g id="id635">
-      <text x="25.83" y="129.11" text-anchor="middle">1.7, 6.3</text>
+    <g onmouseover="show_annotation('id317')" onmouseout="hide_annotation('id317')">
+      <path d="M 24.55 129.79 L 27.55 129.79 27.55 132.79 24.55 132.79 z" />
     </g>
-    <g id="id639">
-      <text x="25.8" y="129.24" text-anchor="middle">0.023, 0.3</text>
+    <g onmouseover="show_annotation('id319')" onmouseout="hide_annotation('id319')">
+      <path d="M 24.52 129.91 L 27.52 129.91 27.52 132.91 24.52 132.91 z" />
     </g>
-    <g id="id643">
-      <text x="33.49" y="115.91" text-anchor="middle">521, 655</text>
+    <g onmouseover="show_annotation('id321')" onmouseout="hide_annotation('id321')">
+      <path d="M 32.2 116.52 L 35.2 116.52 35.2 119.52 32.2 119.52 z" />
     </g>
-    <g id="id647">
-      <text x="25.95" y="126.9" text-anchor="middle">10, 115</text>
+    <g onmouseover="show_annotation('id323')" onmouseout="hide_annotation('id323')">
+      <path d="M 24.67 127.57 L 27.67 127.57 27.67 130.57 24.67 130.57 z" />
     </g>
-    <g id="id651">
-      <text x="25.8" y="129.14" text-anchor="middle">0.2, 5</text>
+    <g onmouseover="show_annotation('id325')" onmouseout="hide_annotation('id325')">
+      <path d="M 24.52 129.82 L 27.52 129.82 27.52 132.82 24.52 132.82 z" />
     </g>
-    <g id="id655">
-      <text x="33.61" y="115.41" text-anchor="middle">529, 680</text>
+    <g onmouseover="show_annotation('id327')" onmouseout="hide_annotation('id327')">
+      <path d="M 32.31 116.01 L 35.31 116.01 35.31 119.01 32.31 119.01 z" />
     </g>
-    <g id="id659">
-      <text x="27.06" y="122.63" text-anchor="middle">85, 325</text>
+    <g onmouseover="show_annotation('id329')" onmouseout="hide_annotation('id329')">
+      <path d="M 25.77 123.27 L 28.77 123.27 28.77 126.27 25.77 126.27 z" />
     </g>
-    <g id="id663">
-      <text x="26.72" y="102.38" text-anchor="middle">62, 1320</text>
+    <g onmouseover="show_annotation('id331')" onmouseout="hide_annotation('id331')">
+      <path d="M 25.43 102.92 L 28.43 102.92 28.43 105.92 25.43 105.92 z" />
     </g>
-    <g id="id667">
-      <text x="25.85" y="129.16" text-anchor="middle">3.5, 3.9</text>
+    <g onmouseover="show_annotation('id333')" onmouseout="hide_annotation('id333')">
+      <path d="M 24.57 129.84 L 27.57 129.84 27.57 132.84 24.57 132.84 z" />
     </g>
-    <g id="id671">
-      <text x="26.32" y="128.1" text-anchor="middle">35, 56</text>
+    <g onmouseover="show_annotation('id335')" onmouseout="hide_annotation('id335')">
+      <path d="M 25.04 128.78 L 28.04 128.78 28.04 131.78 25.04 131.78 z" />
     </g>
-    <g id="id675">
-      <text x="25.8" y="129.22" text-anchor="middle">0.12, 1</text>
+    <g onmouseover="show_annotation('id337')" onmouseout="hide_annotation('id337')">
+      <path d="M 24.52 129.9 L 27.52 129.9 27.52 132.9 24.52 132.9 z" />
     </g>
-    <g id="id679">
-      <text x="25.8" y="129.24" text-anchor="middle">0.01, 0.25</text>
+    <g onmouseover="show_annotation('id339')" onmouseout="hide_annotation('id339')">
+      <path d="M 24.52 129.92 L 27.52 129.92 27.52 132.92 24.52 132.92 z" />
     </g>
-    <g id="id683">
-      <text x="29.49" y="119.27" text-anchor="middle">250, 490</text>
+    <g onmouseover="show_annotation('id341')" onmouseout="hide_annotation('id341')">
+      <path d="M 28.2 119.9 L 31.2 119.9 31.2 122.9 28.2 122.9 z" />
     </g>
-    <g id="id687">
-      <text x="26.62" y="125.68" text-anchor="middle">55.5, 175</text>
+    <g onmouseover="show_annotation('id343')" onmouseout="hide_annotation('id343')">
+      <path d="M 25.34 126.34 L 28.34 126.34 28.34 129.34 25.34 129.34 z" />
     </g>
-    <g id="id691">
-      <text x="26.57" y="120.29" text-anchor="middle">52.16, 440</text>
+    <g onmouseover="show_annotation('id345')" onmouseout="hide_annotation('id345')">
+      <path d="M 25.29 120.92 L 28.29 120.92 28.29 123.92 25.29 123.92 z" />
     </g>
-    <g id="id695">
-      <text x="25.81" y="129.19" text-anchor="middle">0.55, 2.4</text>
+    <g onmouseover="show_annotation('id347')" onmouseout="hide_annotation('id347')">
+      <path d="M 24.53 129.87 L 27.53 129.87 27.53 132.87 24.53 132.87 z" />
     </g>
-    <g id="id699">
-      <text x="25.85" y="128.81" text-anchor="middle">3.6, 21</text>
+    <g onmouseover="show_annotation('id349')" onmouseout="hide_annotation('id349')">
+      <path d="M 24.57 129.49 L 27.57 129.49 27.57 132.49 24.57 132.49 z" />
     </g>
-    <g id="id703">
-      <text x="25.81" y="129.2" text-anchor="middle">0.28, 1.9</text>
+    <g onmouseover="show_annotation('id351')" onmouseout="hide_annotation('id351')">
+      <path d="M 24.52 129.88 L 27.52 129.88 27.52 132.88 24.52 132.88 z" />
     </g>
-    <g id="id707">
-      <text x="25.8" y="129.18" text-anchor="middle">0.122, 3</text>
+    <g onmouseover="show_annotation('id353')" onmouseout="hide_annotation('id353')">
+      <path d="M 24.52 129.86 L 27.52 129.86 27.52 132.86 24.52 132.86 z" />
     </g>
-    <g id="id711">
-      <text x="28.63" y="125.58" text-anchor="middle">192, 180</text>
+    <g onmouseover="show_annotation('id355')" onmouseout="hide_annotation('id355')">
+      <path d="M 27.35 126.24 L 30.35 126.24 30.35 129.24 27.35 129.24 z" />
     </g>
-    <g id="id715">
-      <text x="28.16" y="125.8" text-anchor="middle">160, 169</text>
+    <g onmouseover="show_annotation('id357')" onmouseout="hide_annotation('id357')">
+      <path d="M 26.88 126.46 L 29.88 126.46 29.88 129.46 26.88 129.46 z" />
     </g>
-    <g id="id719">
-      <text x="25.82" y="129.01" text-anchor="middle">1.62, 11.4</text>
+    <g onmouseover="show_annotation('id359')" onmouseout="hide_annotation('id359')">
+      <path d="M 24.54 129.69 L 27.54 129.69 27.54 132.69 24.54 132.69 z" />
     </g>
-    <g id="id723">
-      <text x="25.86" y="128.22" text-anchor="middle">4.235, 50.4</text>
-    </g>
-  </g>
-  <g stroke="none" opacity="0">
-    <g onmouseout="js_chunk_e01f7b1424179d00(evt)" onmouseover="js_chunk_c7eaf46d73ae8f13(evt)">
-      <path d="M 24.3 129.19 L 27.3 129.19 27.3 132.19 24.3 132.19 z" />
-    </g>
-    <g onmouseout="js_chunk_4459c3776c8c7f05(evt)" onmouseover="js_chunk_b478a5deccca4eae(evt)">
-      <path d="M 24.31 129.19 L 27.31 129.19 27.31 132.19 24.31 132.19 z" />
-    </g>
-    <g onmouseout="js_chunk_c76ac37ef2ac3196(evt)" onmouseover="js_chunk_964f67fa10757c59(evt)">
-      <path d="M 24.35 128.73 L 27.35 128.73 27.35 131.73 24.35 131.73 z" />
-    </g>
-    <g onmouseout="js_chunk_3176d94c46b55957(evt)" onmouseover="js_chunk_1145ab588652fb6c(evt)">
-      <path d="M 24.3 129.24 L 27.3 129.24 27.3 132.24 24.3 132.24 z" />
-    </g>
-    <g onmouseout="js_chunk_f739dca2523bb790(evt)" onmouseover="js_chunk_5f3ca6d022414f5a(evt)">
-      <path d="M 24.3 129.22 L 27.3 129.22 27.3 132.22 24.3 132.22 z" />
-    </g>
-    <g onmouseout="js_chunk_a2febce2a9c86112(evt)" onmouseover="js_chunk_104b81a08461eb54(evt)">
-      <path d="M 24.36 128.44 L 27.36 128.44 27.36 131.44 24.36 131.44 z" />
-    </g>
-    <g onmouseout="js_chunk_c3bf9a6a6ad4473d(evt)" onmouseover="js_chunk_2ca67f07bca21136(evt)">
-      <path d="M 25.19 127.59 L 28.19 127.59 28.19 130.59 25.19 130.59 z" />
-    </g>
-    <g onmouseout="js_chunk_a5c90cc2aee781e2(evt)" onmouseover="js_chunk_87da14cef309928f(evt)">
-      <path d="M 24.46 125.59 L 27.46 125.59 27.46 128.59 24.46 128.59 z" />
-    </g>
-    <g onmouseout="js_chunk_690c9372356eef4a(evt)" onmouseover="js_chunk_4ad6e17179038be9(evt)">
-      <path d="M 25.78 126.05 L 28.78 126.05 28.78 129.05 25.78 129.05 z" />
-    </g>
-    <g onmouseout="js_chunk_727b1431485c0a0c(evt)" onmouseover="js_chunk_4bfabd0a7b5b674b(evt)">
-      <path d="M 24.34 129 L 27.34 129 27.34 132 24.34 132 z" />
-    </g>
-    <g onmouseout="js_chunk_9ad3cbf4190d91c1(evt)" onmouseover="js_chunk_50a3396f84ac6d49(evt)">
-      <path d="M 24.32 128.99 L 27.32 128.99 27.32 131.99 24.32 131.99 z" />
-    </g>
-    <g onmouseout="js_chunk_6375c1a42a521dc6(evt)" onmouseover="js_chunk_f3cc6efc4aff2e8c(evt)">
-      <path d="M 24.3 129.23 L 27.3 129.23 27.3 132.23 24.3 132.23 z" />
-    </g>
-    <g onmouseout="js_chunk_1ce1f58f9cc2f9ae(evt)" onmouseover="js_chunk_4f8c93068218354b(evt)">
-      <path d="M 24.36 128.9 L 27.36 128.9 27.36 131.9 24.36 131.9 z" />
-    </g>
-    <g onmouseout="js_chunk_5fe043dba2bfadd5(evt)" onmouseover="js_chunk_4d3a7d64fd742188(evt)">
-      <path d="M 24.4 125.6 L 27.4 125.6 27.4 128.6 24.4 128.6 z" />
-    </g>
-    <g onmouseout="js_chunk_5405435a0b07529e(evt)" onmouseover="js_chunk_daa340bf18434e06(evt)">
-      <path d="M 122.5 13.02 L 125.5 13.02 125.5 16.02 122.5 16.02 z" />
-    </g>
-    <g onmouseout="js_chunk_fb7d2cbf59f77dce(evt)" onmouseover="js_chunk_33f3ea8e4ae5411b(evt)">
-      <path d="M 24.31 128.99 L 27.31 128.99 27.31 131.99 24.31 131.99 z" />
-    </g>
-    <g onmouseout="js_chunk_b468369263ae9c09(evt)" onmouseover="js_chunk_406105b87ba03713(evt)">
-      <path d="M 27.36 120.98 L 30.36 120.98 30.36 123.98 27.36 123.98 z" />
-    </g>
-    <g onmouseout="js_chunk_c810abf50aff010e(evt)" onmouseover="js_chunk_c7fc7af40ad6da7c(evt)">
-      <path d="M 24.32 128.89 L 27.32 128.89 27.32 131.89 24.32 131.89 z" />
-    </g>
-    <g onmouseout="js_chunk_3765d536e9a9369c(evt)" onmouseover="js_chunk_87577a92098c49fd(evt)">
-      <path d="M 24.35 128.72 L 27.35 128.72 27.35 131.72 24.35 131.72 z" />
-    </g>
-    <g onmouseout="js_chunk_2be16d04d71b69ac(evt)" onmouseover="js_chunk_ad44b70bd9e1fe88(evt)">
-      <path d="M 24.31 129.17 L 27.31 129.17 27.31 132.17 24.31 132.17 z" />
-    </g>
-    <g onmouseout="js_chunk_515d673622130556(evt)" onmouseover="js_chunk_2d04ac6fd9618dc6(evt)">
-      <path d="M 27.06 120.72 L 30.06 120.72 30.06 123.72 27.06 123.72 z" />
-    </g>
-    <g onmouseout="js_chunk_9c6ee6f8383851ed(evt)" onmouseover="js_chunk_159e3d082a96feaf(evt)">
-      <path d="M 61.89 35.59 L 64.89 35.59 64.89 38.59 61.89 38.59 z" />
-    </g>
-    <g onmouseout="js_chunk_b05270c75f6f8627(evt)" onmouseover="js_chunk_836daa7b05a5fb5b(evt)">
-      <path d="M 24.33 128.99 L 27.33 128.99 27.33 131.99 24.33 131.99 z" />
-    </g>
-    <g onmouseout="js_chunk_33c7e4fe665abb27(evt)" onmouseover="js_chunk_12ea5a9fa49fa5ca(evt)">
-      <path d="M 24.3 129.22 L 27.3 129.22 27.3 132.22 24.3 132.22 z" />
-    </g>
-    <g onmouseout="js_chunk_f0e6c505609a2fea(evt)" onmouseover="js_chunk_38858dc16fd7be19(evt)">
-      <path d="M 24.32 129.11 L 27.32 129.11 27.32 132.11 24.32 132.11 z" />
-    </g>
-    <g onmouseout="js_chunk_af524fdb5d26d8c3(evt)" onmouseover="js_chunk_64bc13bdc7fa5fc5(evt)">
-      <path d="M 24.3 129.16 L 27.3 129.16 27.3 132.16 24.3 132.16 z" />
-    </g>
-    <g onmouseout="js_chunk_f978848d717586fe(evt)" onmouseover="js_chunk_d41d9507a6bfa75f(evt)">
-      <path d="M 24.36 128.06 L 27.36 128.06 27.36 131.06 24.36 131.06 z" />
-    </g>
-    <g onmouseout="js_chunk_aac068bad404fb6e(evt)" onmouseover="js_chunk_1000dd901e85e42b(evt)">
-      <path d="M 24.52 127.24 L 27.52 127.24 27.52 130.24 24.52 130.24 z" />
-    </g>
-    <g onmouseout="js_chunk_f75f576a6ce44034(evt)" onmouseover="js_chunk_c9f4b901120f02c2(evt)">
-      <path d="M 24.84 126.81 L 27.84 126.81 27.84 129.81 24.84 129.81 z" />
-    </g>
-    <g onmouseout="js_chunk_13588b44249c2557(evt)" onmouseover="js_chunk_b6e9c38f6bbeaddf(evt)">
-      <path d="M 24.32 129.08 L 27.32 129.08 27.32 132.08 24.32 132.08 z" />
-    </g>
-    <g onmouseout="js_chunk_f74dd8776c868a2a(evt)" onmouseover="js_chunk_3c3328ac76512887(evt)">
-      <path d="M 24.35 128.34 L 27.35 128.34 27.35 131.34 24.35 131.34 z" />
-    </g>
-    <g onmouseout="js_chunk_fd433207f8711527(evt)" onmouseover="js_chunk_26a449cb4b334575(evt)">
-      <path d="M 24.31 128.93 L 27.31 128.93 27.31 131.93 24.31 131.93 z" />
-    </g>
-    <g onmouseout="js_chunk_dc810099b6ecf2ef(evt)" onmouseover="js_chunk_452799d6883a260b(evt)">
-      <path d="M 31.16 120.64 L 34.16 120.64 34.16 123.64 31.16 123.64 z" />
-    </g>
-    <g onmouseout="js_chunk_3f0c911bfc9d7556(evt)" onmouseover="js_chunk_c867ac698f53ab4f(evt)">
-      <path d="M 24.71 126.9 L 27.71 126.9 27.71 129.9 24.71 129.9 z" />
-    </g>
-    <g onmouseout="js_chunk_2b3477ab54ed96d9(evt)" onmouseover="js_chunk_b31e50b564c1484b(evt)">
-      <path d="M 24.32 129.13 L 27.32 129.13 27.32 132.13 24.32 132.13 z" />
-    </g>
-    <g onmouseout="js_chunk_9147eda0a1124022(evt)" onmouseover="js_chunk_ba922a90f3a6b976(evt)">
-      <path d="M 24.31 129.11 L 27.31 129.11 27.31 132.11 24.31 132.11 z" />
-    </g>
-    <g onmouseout="js_chunk_60421b1fbf50e8c9(evt)" onmouseover="js_chunk_a873c59c4fb44f79(evt)">
-      <path d="M 24.31 129.13 L 27.31 129.13 27.31 132.13 24.31 132.13 z" />
-    </g>
-    <g onmouseout="js_chunk_b47084abe7ab88b4(evt)" onmouseover="js_chunk_3c6fd1ff77aa2559(evt)">
-      <path d="M 24.3 129.24 L 27.3 129.24 27.3 132.24 24.3 132.24 z" />
-    </g>
-    <g onmouseout="js_chunk_3aa6ceadf418655a(evt)" onmouseover="js_chunk_b50be132e8e29142(evt)">
-      <path d="M 24.35 129.02 L 27.35 129.02 27.35 132.02 24.35 132.02 z" />
-    </g>
-    <g onmouseout="js_chunk_58aae8303021061a(evt)" onmouseover="js_chunk_89e2de8d1290e7eb(evt)">
-      <path d="M 24.33 129.11 L 27.33 129.11 27.33 132.11 24.33 132.11 z" />
-    </g>
-    <g onmouseout="js_chunk_33a0dff1e69a20c6(evt)" onmouseover="js_chunk_ba6fb38bf437c628(evt)">
-      <path d="M 24.3 129.24 L 27.3 129.24 27.3 132.24 24.3 132.24 z" />
-    </g>
-    <g onmouseout="js_chunk_47b2f5440ebe0502(evt)" onmouseover="js_chunk_75392774e9ca6753(evt)">
-      <path d="M 31.99 115.91 L 34.99 115.91 34.99 118.91 31.99 118.91 z" />
-    </g>
-    <g onmouseout="js_chunk_a63d5358cbd31126(evt)" onmouseover="js_chunk_465714928c0696fb(evt)">
-      <path d="M 24.45 126.9 L 27.45 126.9 27.45 129.9 24.45 129.9 z" />
-    </g>
-    <g onmouseout="js_chunk_9a0abd6a2ef34f05(evt)" onmouseover="js_chunk_205b82083b94d7af(evt)">
-      <path d="M 24.3 129.14 L 27.3 129.14 27.3 132.14 24.3 132.14 z" />
-    </g>
-    <g onmouseout="js_chunk_1d7b60a8b5d47d48(evt)" onmouseover="js_chunk_f5cfedf9667d94a6(evt)">
-      <path d="M 32.11 115.41 L 35.11 115.41 35.11 118.41 32.11 118.41 z" />
-    </g>
-    <g onmouseout="js_chunk_147f5d61a3dcbe2e(evt)" onmouseover="js_chunk_773a2008e95242cf(evt)">
-      <path d="M 25.56 122.63 L 28.56 122.63 28.56 125.63 25.56 125.63 z" />
-    </g>
-    <g onmouseout="js_chunk_a80337d43303b051(evt)" onmouseover="js_chunk_b9d65ddad6a9b34e(evt)">
-      <path d="M 25.22 102.38 L 28.22 102.38 28.22 105.38 25.22 105.38 z" />
-    </g>
-    <g onmouseout="js_chunk_ed0a4db23d114208(evt)" onmouseover="js_chunk_a663302cafc307c2(evt)">
-      <path d="M 24.35 129.16 L 27.35 129.16 27.35 132.16 24.35 132.16 z" />
-    </g>
-    <g onmouseout="js_chunk_9209cbe9071287bb(evt)" onmouseover="js_chunk_536cba7509d8659c(evt)">
-      <path d="M 24.82 128.1 L 27.82 128.1 27.82 131.1 24.82 131.1 z" />
-    </g>
-    <g onmouseout="js_chunk_68f498870855848(evt)" onmouseover="js_chunk_1f687ec42237c34b(evt)">
-      <path d="M 24.3 129.22 L 27.3 129.22 27.3 132.22 24.3 132.22 z" />
-    </g>
-    <g onmouseout="js_chunk_f5bf42514ee4acfe(evt)" onmouseover="js_chunk_7992f55cd68c0e63(evt)">
-      <path d="M 24.3 129.24 L 27.3 129.24 27.3 132.24 24.3 132.24 z" />
-    </g>
-    <g onmouseout="js_chunk_756ccf89ce3fb9bd(evt)" onmouseover="js_chunk_43b8620dead6df62(evt)">
-      <path d="M 27.99 119.27 L 30.99 119.27 30.99 122.27 27.99 122.27 z" />
-    </g>
-    <g onmouseout="js_chunk_607fd5922452fbfa(evt)" onmouseover="js_chunk_586e84c794305b0d(evt)">
-      <path d="M 25.12 125.68 L 28.12 125.68 28.12 128.68 25.12 128.68 z" />
-    </g>
-    <g onmouseout="js_chunk_bdde73d0df128806(evt)" onmouseover="js_chunk_38b06c9bd4b674fe(evt)">
-      <path d="M 25.07 120.29 L 28.07 120.29 28.07 123.29 25.07 123.29 z" />
-    </g>
-    <g onmouseout="js_chunk_1a805ed91856422d(evt)" onmouseover="js_chunk_5fac1b1e22adbb02(evt)">
-      <path d="M 24.31 129.19 L 27.31 129.19 27.31 132.19 24.31 132.19 z" />
-    </g>
-    <g onmouseout="js_chunk_b1f23323c7af78ec(evt)" onmouseover="js_chunk_d301031009cd1784(evt)">
-      <path d="M 24.35 128.81 L 27.35 128.81 27.35 131.81 24.35 131.81 z" />
-    </g>
-    <g onmouseout="js_chunk_a0194519a3fd49c4(evt)" onmouseover="js_chunk_3c0bc906dbe24fa0(evt)">
-      <path d="M 24.31 129.2 L 27.31 129.2 27.31 132.2 24.31 132.2 z" />
-    </g>
-    <g onmouseout="js_chunk_a25c3856288047a9(evt)" onmouseover="js_chunk_35c3b6f4cf4f4550(evt)">
-      <path d="M 24.3 129.18 L 27.3 129.18 27.3 132.18 24.3 132.18 z" />
-    </g>
-    <g onmouseout="js_chunk_d81313ec13fcfbe0(evt)" onmouseover="js_chunk_b3f647ba4bc36591(evt)">
-      <path d="M 27.13 125.58 L 30.13 125.58 30.13 128.58 27.13 128.58 z" />
-    </g>
-    <g onmouseout="js_chunk_598da05196f1ceb9(evt)" onmouseover="js_chunk_7436086acc429e47(evt)">
-      <path d="M 26.66 125.8 L 29.66 125.8 29.66 128.8 26.66 128.8 z" />
-    </g>
-    <g onmouseout="js_chunk_5db373971f3fbf48(evt)" onmouseover="js_chunk_d5b186178f3be61b(evt)">
-      <path d="M 24.32 129.01 L 27.32 129.01 27.32 132.01 24.32 132.01 z" />
-    </g>
-    <g onmouseout="js_chunk_252a50e1ae2d1dea(evt)" onmouseover="js_chunk_f671b0c4d0bbdfb9(evt)">
-      <path d="M 24.36 128.22 L 27.36 128.22 27.36 131.22 24.36 131.22 z" />
+    <g onmouseover="show_annotation('id361')" onmouseout="hide_annotation('id361')">
+      <path d="M 24.58 128.89 L 27.58 128.89 27.58 131.89 24.58 131.89 z" />
     </g>
   </g>
 </g>
@@ -636,19 +698,22 @@ function toggle_color_group(name)
 
 
 // Turn on a possibily hidden annotation.
-function show_annotation(id)
+function show_annotation(geom_id)
 {
-    annot = document.getElementById(id)
-    annot.setAttribute('visibility', 'visible')
+    annot_id = geom_id + "-annotation";
+    annot = document.getElementById(annot_id);
+    annot.setAttribute('visibility', 'visible');
+    present_geometry([geom_id]);
 }
 
 
 // Turn off a possibly hidden annotation.
-function hide_annotation(id)
+function hide_annotation(geom_id)
 {
-
-    annot = document.getElementById(id)
+    annot_id = geom_id + "-annotation"
+    annot = document.getElementById(annot_id)
     annot.setAttribute('visibility', 'hidden')
+    unpresent_geometry();
 }
 
 
@@ -658,9 +723,14 @@ function present_geometry(ids)
     on_anim_dur = 0.1;
 
     off_anim = document.getElementById('panel-focus-filter-off-anim');
+    try {
+        t0 = Number(off_anim.getStartTime());
+    }
+    catch (err) {
+        t0 = Infinity;
+    }
     off_anim.endElement();
 
-    t0 = Number(off_anim.getStartTime());
     if (t0 < Infinity) {
         t = Number(off_anim.getCurrentTime());
         d = Number(off_anim.getSimpleDuration());
@@ -697,14 +767,19 @@ function unpresent_geometry()
     off_anim_dur = 0.3;
 
     on_anim = document.getElementById('panel-focus-filter-on-anim');
+    try {
+        t0 = Number(on_anim.getStartTime());
+        t = Number(on_anim.getCurrentTime());
+        d = Number(on_anim.getSimpleDuration());
+        p = Math.max(0.0, Math.min(1.0, ((t - t0) / d)));
+    }
+    catch (err) {
+        p = 1.0;
+    }
     on_anim.endElement();
 
-    t0 = Number(on_anim.getStartTime());
-    t = Number(on_anim.getCurrentTime());
-    d = Number(on_anim.getSimpleDuration());
     from = Number(on_anim.getAttribute('from'));
     to = Number(on_anim.getAttribute('to'));
-    p = Math.max(0.0, Math.min(1.0, ((t - t0) / d)));
     v = from + p * (to - from);
 
     off_anim = document.getElementById('panel-focus-filter-off-anim');
@@ -734,7 +809,7 @@ function unpresent_geometry_end()
     }
 
     // Skip this if the off animation isn't actually finished.
-    elapsed = off_anim.getCurrentTime() - off_anim.getStartTime();
+    elapsed = off_anim.getCurrentTime() - off_anim.getStartTime()
     if (elapsed < off_anim.getSimpleDuration()) {
         return;
     }
@@ -766,502 +841,4 @@ function unpresent_geometry_end()
     </filter>
 </defs>
 
-<script type="application/ecmascript"><![CDATA[
-function js_chunk_89e2de8d1290e7eb(evt) {
-  show_annotation('id635');present_geometry(['id634'])
-}
-
-function js_chunk_aac068bad404fb6e(evt) {
-  hide_annotation('id613'); unpresent_geometry()
-}
-
-function js_chunk_205b82083b94d7af(evt) {
-  show_annotation('id651');present_geometry(['id650'])
-}
-
-function js_chunk_b3f647ba4bc36591(evt) {
-  show_annotation('id711');present_geometry(['id710'])
-}
-
-function js_chunk_50a3396f84ac6d49(evt) {
-  show_annotation('id681');present_geometry(['id680'])
-}
-
-function js_chunk_147f5d61a3dcbe2e(evt) {
-  hide_annotation('id659'); unpresent_geometry()
-}
-
-function js_chunk_ad44b70bd9e1fe88(evt) {
-  show_annotation('id645');present_geometry(['id644'])
-}
-
-function js_chunk_a2febce2a9c86112(evt) {
-  hide_annotation('id701'); unpresent_geometry()
-}
-
-function js_chunk_1145ab588652fb6c(evt) {
-  show_annotation('id709');present_geometry(['id708'])
-}
-
-function js_chunk_f75f576a6ce44034(evt) {
-  hide_annotation('id609'); unpresent_geometry()
-}
-
-function js_chunk_964f67fa10757c59(evt) {
-  show_annotation('id713');present_geometry(['id712'])
-}
-
-function js_chunk_68f498870855848(evt) {
-  hide_annotation('id675'); unpresent_geometry()
-}
-
-function js_chunk_b478a5deccca4eae(evt) {
-  show_annotation('id717');present_geometry(['id716'])
-}
-
-function js_chunk_33a0dff1e69a20c6(evt) {
-  hide_annotation('id639'); unpresent_geometry()
-}
-
-function js_chunk_a5c90cc2aee781e2(evt) {
-  hide_annotation('id693'); unpresent_geometry()
-}
-
-function js_chunk_5fe043dba2bfadd5(evt) {
-  hide_annotation('id669'); unpresent_geometry()
-}
-
-function js_chunk_4d3a7d64fd742188(evt) {
-  show_annotation('id669');present_geometry(['id668'])
-}
-
-function js_chunk_b05270c75f6f8627(evt) {
-  hide_annotation('id633'); unpresent_geometry()
-}
-
-function js_chunk_47b2f5440ebe0502(evt) {
-  hide_annotation('id643'); unpresent_geometry()
-}
-
-function js_chunk_9147eda0a1124022(evt) {
-  hide_annotation('id619'); unpresent_geometry()
-}
-
-function js_chunk_406105b87ba03713(evt) {
-  show_annotation('id657');present_geometry(['id656'])
-}
-
-function js_chunk_38858dc16fd7be19(evt) {
-  show_annotation('id625');present_geometry(['id624'])
-}
-
-function js_chunk_f5cfedf9667d94a6(evt) {
-  show_annotation('id655');present_geometry(['id654'])
-}
-
-function js_chunk_c76ac37ef2ac3196(evt) {
-  hide_annotation('id713'); unpresent_geometry()
-}
-
-function js_chunk_f671b0c4d0bbdfb9(evt) {
-  show_annotation('id723');present_geometry(['id722'])
-}
-
-function js_chunk_3f0c911bfc9d7556(evt) {
-  hide_annotation('id611'); unpresent_geometry()
-}
-
-function js_chunk_b9d65ddad6a9b34e(evt) {
-  show_annotation('id663');present_geometry(['id662'])
-}
-
-function js_chunk_bdde73d0df128806(evt) {
-  hide_annotation('id691'); unpresent_geometry()
-}
-
-function js_chunk_12ea5a9fa49fa5ca(evt) {
-  show_annotation('id629');present_geometry(['id628'])
-}
-
-function js_chunk_a63d5358cbd31126(evt) {
-  hide_annotation('id647'); unpresent_geometry()
-}
-
-function js_chunk_c9f4b901120f02c2(evt) {
-  show_annotation('id609');present_geometry(['id608'])
-}
-
-function js_chunk_5fac1b1e22adbb02(evt) {
-  show_annotation('id695');present_geometry(['id694'])
-}
-
-function js_chunk_7436086acc429e47(evt) {
-  show_annotation('id715');present_geometry(['id714'])
-}
-
-function js_chunk_5f3ca6d022414f5a(evt) {
-  show_annotation('id705');present_geometry(['id704'])
-}
-
-function js_chunk_daa340bf18434e06(evt) {
-  show_annotation('id665');present_geometry(['id664'])
-}
-
-function js_chunk_773a2008e95242cf(evt) {
-  show_annotation('id659');present_geometry(['id658'])
-}
-
-function js_chunk_d81313ec13fcfbe0(evt) {
-  hide_annotation('id711'); unpresent_geometry()
-}
-
-function js_chunk_f5bf42514ee4acfe(evt) {
-  hide_annotation('id679'); unpresent_geometry()
-}
-
-function js_chunk_104b81a08461eb54(evt) {
-  show_annotation('id701');present_geometry(['id700'])
-}
-
-function js_chunk_3c6fd1ff77aa2559(evt) {
-  show_annotation('id627');present_geometry(['id626'])
-}
-
-function js_chunk_b1f23323c7af78ec(evt) {
-  hide_annotation('id699'); unpresent_geometry()
-}
-
-function js_chunk_33f3ea8e4ae5411b(evt) {
-  show_annotation('id661');present_geometry(['id660'])
-}
-
-function js_chunk_f978848d717586fe(evt) {
-  hide_annotation('id617'); unpresent_geometry()
-}
-
-function js_chunk_b31e50b564c1484b(evt) {
-  show_annotation('id615');present_geometry(['id614'])
-}
-
-function js_chunk_6375c1a42a521dc6(evt) {
-  hide_annotation('id677'); unpresent_geometry()
-}
-
-function js_chunk_5405435a0b07529e(evt) {
-  hide_annotation('id665'); unpresent_geometry()
-}
-
-function js_chunk_4f8c93068218354b(evt) {
-  show_annotation('id673');present_geometry(['id672'])
-}
-
-function js_chunk_b468369263ae9c09(evt) {
-  hide_annotation('id657'); unpresent_geometry()
-}
-
-function js_chunk_a873c59c4fb44f79(evt) {
-  show_annotation('id623');present_geometry(['id622'])
-}
-
-function js_chunk_7992f55cd68c0e63(evt) {
-  show_annotation('id679');present_geometry(['id678'])
-}
-
-function js_chunk_536cba7509d8659c(evt) {
-  show_annotation('id671');present_geometry(['id670'])
-}
-
-function js_chunk_b50be132e8e29142(evt) {
-  show_annotation('id631');present_geometry(['id630'])
-}
-
-function js_chunk_452799d6883a260b(evt) {
-  show_annotation('id607');present_geometry(['id606'])
-}
-
-function js_chunk_a25c3856288047a9(evt) {
-  hide_annotation('id707'); unpresent_geometry()
-}
-
-function js_chunk_fd433207f8711527(evt) {
-  hide_annotation('id603'); unpresent_geometry()
-}
-
-function js_chunk_3c3328ac76512887(evt) {
-  show_annotation('id601');present_geometry(['id600'])
-}
-
-function js_chunk_f3cc6efc4aff2e8c(evt) {
-  show_annotation('id677');present_geometry(['id676'])
-}
-
-function js_chunk_26a449cb4b334575(evt) {
-  show_annotation('id603');present_geometry(['id602'])
-}
-
-function js_chunk_1a805ed91856422d(evt) {
-  hide_annotation('id695'); unpresent_geometry()
-}
-
-function js_chunk_690c9372356eef4a(evt) {
-  hide_annotation('id689'); unpresent_geometry()
-}
-
-function js_chunk_33c7e4fe665abb27(evt) {
-  hide_annotation('id629'); unpresent_geometry()
-}
-
-function js_chunk_d301031009cd1784(evt) {
-  show_annotation('id699');present_geometry(['id698'])
-}
-
-function js_chunk_35c3b6f4cf4f4550(evt) {
-  show_annotation('id707');present_geometry(['id706'])
-}
-
-function js_chunk_38b06c9bd4b674fe(evt) {
-  show_annotation('id691');present_geometry(['id690'])
-}
-
-function js_chunk_a80337d43303b051(evt) {
-  hide_annotation('id663'); unpresent_geometry()
-}
-
-function js_chunk_e01f7b1424179d00(evt) {
-  hide_annotation('id721'); unpresent_geometry()
-}
-
-function js_chunk_87577a92098c49fd(evt) {
-  show_annotation('id649');present_geometry(['id648'])
-}
-
-function js_chunk_13588b44249c2557(evt) {
-  hide_annotation('id605'); unpresent_geometry()
-}
-
-function js_chunk_1ce1f58f9cc2f9ae(evt) {
-  hide_annotation('id673'); unpresent_geometry()
-}
-
-function js_chunk_2b3477ab54ed96d9(evt) {
-  hide_annotation('id615'); unpresent_geometry()
-}
-
-function js_chunk_c867ac698f53ab4f(evt) {
-  show_annotation('id611');present_geometry(['id610'])
-}
-
-function js_chunk_159e3d082a96feaf(evt) {
-  show_annotation('id637');present_geometry(['id636'])
-}
-
-function js_chunk_9ad3cbf4190d91c1(evt) {
-  hide_annotation('id681'); unpresent_geometry()
-}
-
-function js_chunk_3176d94c46b55957(evt) {
-  hide_annotation('id709'); unpresent_geometry()
-}
-
-function js_chunk_9209cbe9071287bb(evt) {
-  hide_annotation('id671'); unpresent_geometry()
-}
-
-function js_chunk_75392774e9ca6753(evt) {
-  show_annotation('id643');present_geometry(['id642'])
-}
-
-function js_chunk_ba6fb38bf437c628(evt) {
-  show_annotation('id639');present_geometry(['id638'])
-}
-
-function js_chunk_fb7d2cbf59f77dce(evt) {
-  hide_annotation('id661'); unpresent_geometry()
-}
-
-function js_chunk_af524fdb5d26d8c3(evt) {
-  hide_annotation('id621'); unpresent_geometry()
-}
-
-function js_chunk_c7eaf46d73ae8f13(evt) {
-  show_annotation('id721');present_geometry(['id720'])
-}
-
-function js_chunk_727b1431485c0a0c(evt) {
-  hide_annotation('id685'); unpresent_geometry()
-}
-
-function js_chunk_ed0a4db23d114208(evt) {
-  hide_annotation('id667'); unpresent_geometry()
-}
-
-function js_chunk_a663302cafc307c2(evt) {
-  show_annotation('id667');present_geometry(['id666'])
-}
-
-function js_chunk_9c6ee6f8383851ed(evt) {
-  hide_annotation('id637'); unpresent_geometry()
-}
-
-function js_chunk_d5b186178f3be61b(evt) {
-  show_annotation('id719');present_geometry(['id718'])
-}
-
-function js_chunk_598da05196f1ceb9(evt) {
-  hide_annotation('id715'); unpresent_geometry()
-}
-
-function js_chunk_c810abf50aff010e(evt) {
-  hide_annotation('id653'); unpresent_geometry()
-}
-
-function js_chunk_1000dd901e85e42b(evt) {
-  show_annotation('id613');present_geometry(['id612'])
-}
-
-function js_chunk_ba922a90f3a6b976(evt) {
-  show_annotation('id619');present_geometry(['id618'])
-}
-
-function js_chunk_3765d536e9a9369c(evt) {
-  hide_annotation('id649'); unpresent_geometry()
-}
-
-function js_chunk_d41d9507a6bfa75f(evt) {
-  show_annotation('id617');present_geometry(['id616'])
-}
-
-function js_chunk_9a0abd6a2ef34f05(evt) {
-  hide_annotation('id651'); unpresent_geometry()
-}
-
-function js_chunk_1d7b60a8b5d47d48(evt) {
-  hide_annotation('id655'); unpresent_geometry()
-}
-
-function js_chunk_dc810099b6ecf2ef(evt) {
-  hide_annotation('id607'); unpresent_geometry()
-}
-
-function js_chunk_60421b1fbf50e8c9(evt) {
-  hide_annotation('id623'); unpresent_geometry()
-}
-
-function js_chunk_b47084abe7ab88b4(evt) {
-  hide_annotation('id627'); unpresent_geometry()
-}
-
-function js_chunk_586e84c794305b0d(evt) {
-  show_annotation('id687');present_geometry(['id686'])
-}
-
-function js_chunk_58aae8303021061a(evt) {
-  hide_annotation('id635'); unpresent_geometry()
-}
-
-function js_chunk_c3bf9a6a6ad4473d(evt) {
-  hide_annotation('id697'); unpresent_geometry()
-}
-
-function js_chunk_515d673622130556(evt) {
-  hide_annotation('id641'); unpresent_geometry()
-}
-
-function js_chunk_3aa6ceadf418655a(evt) {
-  hide_annotation('id631'); unpresent_geometry()
-}
-
-function js_chunk_43b8620dead6df62(evt) {
-  show_annotation('id683');present_geometry(['id682'])
-}
-
-function js_chunk_836daa7b05a5fb5b(evt) {
-  show_annotation('id633');present_geometry(['id632'])
-}
-
-function js_chunk_2be16d04d71b69ac(evt) {
-  hide_annotation('id645'); unpresent_geometry()
-}
-
-function js_chunk_f739dca2523bb790(evt) {
-  hide_annotation('id705'); unpresent_geometry()
-}
-
-function js_chunk_87da14cef309928f(evt) {
-  show_annotation('id693');present_geometry(['id692'])
-}
-
-function js_chunk_4459c3776c8c7f05(evt) {
-  hide_annotation('id717'); unpresent_geometry()
-}
-
-function js_chunk_4ad6e17179038be9(evt) {
-  show_annotation('id689');present_geometry(['id688'])
-}
-
-function js_chunk_b6e9c38f6bbeaddf(evt) {
-  show_annotation('id605');present_geometry(['id604'])
-}
-
-function js_chunk_f0e6c505609a2fea(evt) {
-  hide_annotation('id625'); unpresent_geometry()
-}
-
-function js_chunk_5db373971f3fbf48(evt) {
-  hide_annotation('id719'); unpresent_geometry()
-}
-
-function js_chunk_252a50e1ae2d1dea(evt) {
-  hide_annotation('id723'); unpresent_geometry()
-}
-
-function js_chunk_756ccf89ce3fb9bd(evt) {
-  hide_annotation('id683'); unpresent_geometry()
-}
-
-function js_chunk_a0194519a3fd49c4(evt) {
-  hide_annotation('id703'); unpresent_geometry()
-}
-
-function js_chunk_2d04ac6fd9618dc6(evt) {
-  show_annotation('id641');present_geometry(['id640'])
-}
-
-function js_chunk_f74dd8776c868a2a(evt) {
-  hide_annotation('id601'); unpresent_geometry()
-}
-
-function js_chunk_465714928c0696fb(evt) {
-  show_annotation('id647');present_geometry(['id646'])
-}
-
-function js_chunk_2ca67f07bca21136(evt) {
-  show_annotation('id697');present_geometry(['id696'])
-}
-
-function js_chunk_4bfabd0a7b5b674b(evt) {
-  show_annotation('id685');present_geometry(['id684'])
-}
-
-function js_chunk_c7fc7af40ad6da7c(evt) {
-  show_annotation('id653');present_geometry(['id652'])
-}
-
-function js_chunk_607fd5922452fbfa(evt) {
-  hide_annotation('id687'); unpresent_geometry()
-}
-
-function js_chunk_1f687ec42237c34b(evt) {
-  show_annotation('id675');present_geometry(['id674'])
-}
-
-function js_chunk_64bc13bdc7fa5fc5(evt) {
-  show_annotation('id621');present_geometry(['id620'])
-}
-
-function js_chunk_3c0bc906dbe24fa0(evt) {
-  show_annotation('id703');present_geometry(['id702'])
-}
-
-]]></script>
 </svg>

@@ -1,370 +1,369 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="101.6mm" height="101.6mm" viewBox="0 0 101.6 101.6" style="stroke:black;fill:black" stroke-width="0.5">
 <g>
-  <g stroke="none" fill="#4C404B" font-size="3.18" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
-    <text x="16.53" y="7.22" text-anchor="end" style="dominant-baseline:central">9</text>
-    <text x="16.53" y="51.72" text-anchor="end" style="dominant-baseline:central">6</text>
-    <text x="16.53" y="66.55" text-anchor="end" style="dominant-baseline:central">5</text>
-    <text x="16.53" y="81.38" text-anchor="end" style="dominant-baseline:central">4</text>
-    <text x="16.53" y="36.89" text-anchor="end" style="dominant-baseline:central">7</text>
-    <text x="16.53" y="22.06" text-anchor="end" style="dominant-baseline:central">8</text>
+  <g stroke="none" font-family="PT Sans,Helvetica Neue,Helvetica,sans" font-size="3.18" fill="#4C404B">
+    <text x="16.29" y="7.24" text-anchor="end" style="dominant-baseline:central">9</text>
+    <text x="16.29" y="52.13" text-anchor="end" style="dominant-baseline:central">6</text>
+    <text x="16.29" y="67.1" text-anchor="end" style="dominant-baseline:central">5</text>
+    <text x="16.29" y="82.06" text-anchor="end" style="dominant-baseline:central">4</text>
+    <text x="16.29" y="37.17" text-anchor="end" style="dominant-baseline:central">7</text>
+    <text x="16.29" y="22.21" text-anchor="end" style="dominant-baseline:central">8</text>
   </g>
-  <g stroke="none" fill="#362A35" font-size="3.88" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
-    <text x="9.47" y="44.3" text-anchor="middle" style="dominant-baseline:central" transform="rotate(-90, 9.47, 44.3)">lwage</text>
+  <g stroke="none" font-family="PT Sans,Helvetica Neue,Helvetica,sans" font-size="3.88" fill="#362A35">
+    <text x="9.28" y="44.65" text-anchor="middle" style="dominant-baseline:central" transform="rotate(-90, 9.28, 44.65)">lwage</text>
   </g>
-  <g stroke="none" fill="#362A35" font-size="3.88" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
-    <text x="57.06" y="94.6" text-anchor="middle">ed</text>
+  <g stroke="none" font-family="PT Sans,Helvetica Neue,Helvetica,sans" font-size="3.18" fill="#4C404B">
+    <text x="25.79" y="88.04" text-anchor="middle">5</text>
+    <text x="37.12" y="88.04" text-anchor="middle">7</text>
+    <text x="31.46" y="88.04" text-anchor="middle">6</text>
+    <text x="65.44" y="88.04" text-anchor="middle">12</text>
+    <text x="48.45" y="88.04" text-anchor="middle">9</text>
+    <text x="59.78" y="88.04" text-anchor="middle">11</text>
+    <text x="42.79" y="88.04" text-anchor="middle">8</text>
+    <text x="82.44" y="88.04" text-anchor="middle">15</text>
+    <text x="20.13" y="88.04" text-anchor="middle">4</text>
+    <text x="76.77" y="88.04" text-anchor="middle">14</text>
+    <text x="93.77" y="88.04" text-anchor="middle">17</text>
+    <text x="54.11" y="88.04" text-anchor="middle">10</text>
+    <text x="88.1" y="88.04" text-anchor="middle">16</text>
+    <text x="71.11" y="88.04" text-anchor="middle">13</text>
   </g>
-  <g stroke="none" fill="#4C404B" font-size="3.18" font-family="Source Sans Pro,PT Sans,Helvetica Neue,Helvetica,sans">
-    <text x="82.48" y="87.65" text-anchor="middle">15</text>
-    <text x="20.35" y="87.65" text-anchor="middle">4</text>
-    <text x="76.83" y="87.65" text-anchor="middle">14</text>
-    <text x="59.89" y="87.65" text-anchor="middle">11</text>
-    <text x="93.78" y="87.65" text-anchor="middle">17</text>
-    <text x="65.54" y="87.65" text-anchor="middle">12</text>
-    <text x="26" y="87.65" text-anchor="middle">5</text>
-    <text x="88.13" y="87.65" text-anchor="middle">16</text>
-    <text x="42.94" y="87.65" text-anchor="middle">8</text>
-    <text x="31.65" y="87.65" text-anchor="middle">6</text>
-    <text x="48.59" y="87.65" text-anchor="middle">9</text>
-    <text x="37.29" y="87.65" text-anchor="middle">7</text>
-    <text x="71.18" y="87.65" text-anchor="middle">13</text>
-    <text x="54.24" y="87.65" text-anchor="middle">10</text>
+  <g stroke="none" font-family="PT Sans,Helvetica Neue,Helvetica,sans" font-size="3.88" fill="#362A35">
+    <text x="56.95" y="94.6" text-anchor="middle">ed</text>
   </g>
-  <g stroke="#F2F2F2" fill="#F5F5F5">
-    <path d="M 17.53 5 L 96.6 5 96.6 83.6 17.53 83.6 z" />
-    <g stroke="#FFFFFF" stroke-width="0.3">
-      <path d="M17.53,7.22 L 96.6 7.22" />
-      <path d="M17.53,51.72 L 96.6 51.72" />
-      <path d="M17.53,66.55 L 96.6 66.55" />
-      <path d="M17.53,81.38 L 96.6 81.38" />
-      <path d="M17.53,36.89 L 96.6 36.89" />
-      <path d="M17.53,22.06 L 96.6 22.06" />
-    </g>
-    <g stroke="#FFFFFF" stroke-width="0.3">
-      <path d="M82.48,5 L 82.48 83.6" />
-      <path d="M20.35,5 L 20.35 83.6" />
-      <path d="M76.83,5 L 76.83 83.6" />
-      <path d="M59.89,5 L 59.89 83.6" />
-      <path d="M93.78,5 L 93.78 83.6" />
-      <path d="M65.54,5 L 65.54 83.6" />
-      <path d="M26,5 L 26 83.6" />
-      <path d="M88.13,5 L 88.13 83.6" />
-      <path d="M42.94,5 L 42.94 83.6" />
-      <path d="M31.65,5 L 31.65 83.6" />
-      <path d="M48.59,5 L 48.59 83.6" />
-      <path d="M37.29,5 L 37.29 83.6" />
-      <path d="M71.18,5 L 71.18 83.6" />
-      <path d="M54.24,5 L 54.24 83.6" />
-    </g>
+  <g stroke="#FFFFFF" fill="#FFFFFF">
+    <path d="M 17.29 5 L 96.6 5 96.6 84.3 17.29 84.3 z" />
+  </g>
+  <g stroke-width="0.3" stroke="#F5F5F5">
+    <path d="M17.29,7.24 L 96.6 7.24" />
+    <path d="M17.29,52.13 L 96.6 52.13" />
+    <path d="M17.29,67.1 L 96.6 67.1" />
+    <path d="M17.29,82.06 L 96.6 82.06" />
+    <path d="M17.29,37.17 L 96.6 37.17" />
+    <path d="M17.29,22.21 L 96.6 22.21" />
+  </g>
+  <g stroke-width="0.3" stroke="#F5F5F5">
+    <path d="M28.62,5 L 28.62 84.3" />
+    <path d="M79.61,5 L 79.61 84.3" />
+    <path d="M34.29,5 L 34.29 84.3" />
+    <path d="M22.96,5 L 22.96 84.3" />
+    <path d="M68.28,5 L 68.28 84.3" />
+    <path d="M45.62,5 L 45.62 84.3" />
+    <path d="M90.94,5 L 90.94 84.3" />
+    <path d="M85.27,5 L 85.27 84.3" />
+    <path d="M56.95,5 L 56.95 84.3" />
+    <path d="M62.61,5 L 62.61 84.3" />
+    <path d="M51.28,5 L 51.28 84.3" />
+    <path d="M73.94,5 L 73.94 84.3" />
+    <path d="M39.95,5 L 39.95 84.3" />
   </g>
   <g class="geometry">
-    <g fill="#4682B4" stroke="#0F5D8C">
-      <circle cx="93.78" cy="23.25" r="0.5" />
-      <circle cx="93.78" cy="20.77" r="0.5" />
-      <circle cx="93.78" cy="18.65" r="0.5" />
-      <circle cx="93.78" cy="20.26" r="0.5" />
-      <circle cx="93.78" cy="14.09" r="0.5" />
-      <circle cx="93.78" cy="19.67" r="0.5" />
-      <circle cx="93.78" cy="17.48" r="0.5" />
-      <circle cx="93.78" cy="23.25" r="0.5" />
-      <circle cx="93.78" cy="56.06" r="0.5" />
-      <circle cx="93.78" cy="19.67" r="0.5" />
-      <circle cx="93.78" cy="21.96" r="0.5" />
-      <circle cx="93.78" cy="21.24" r="0.5" />
-      <circle cx="93.78" cy="22.86" r="0.5" />
-      <circle cx="93.78" cy="22.31" r="0.5" />
-      <circle cx="93.78" cy="60.38" r="0.5" />
-      <circle cx="93.78" cy="59.42" r="0.5" />
-      <circle cx="93.78" cy="66.29" r="0.5" />
-      <circle cx="93.78" cy="51.88" r="0.5" />
+    <g stroke="#0F5D8C" fill="#4682B4">
+      <circle cx="20.13" cy="60.87" r="0.5" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M92.83,23.27 L 94.72 23.27" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M19.18,40.87 L 21.07 40.87" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M92.83,51.19 L 94.72 51.19" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M19.18,60.33 L 21.07 60.33" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M93.78,33.74 L 93.78 23.27" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M20.13,48.16 L 20.13 40.87" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M93.78,40.72 L 93.78 51.19" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M20.13,53.03 L 20.13 60.33" />
     </g>
-    <g fill="#4682B4" stroke="#0F5D8C" stroke-width="0.3">
-      <path d="M 91.45 40.72 L 96.1 40.72 96.1 33.74 91.45 33.74 z" />
+    <g stroke-width="0.3" stroke="#0F5D8C" fill="#4682B4">
+      <path d="M 17.79 53.03 L 22.46 53.03 22.46 48.16 17.79 48.16 z" />
     </g>
-    <g fill="#4682B4" stroke="#0F5D8C">
-      <circle cx="20.35" cy="60.38" r="0.5" />
+    <g stroke="#0F5D8C" fill="#4682B4">
+      <circle cx="93.77" cy="23.41" r="0.5" />
+      <circle cx="93.77" cy="20.91" r="0.5" />
+      <circle cx="93.77" cy="18.77" r="0.5" />
+      <circle cx="93.77" cy="20.4" r="0.5" />
+      <circle cx="93.77" cy="14.17" r="0.5" />
+      <circle cx="93.77" cy="19.81" r="0.5" />
+      <circle cx="93.77" cy="17.6" r="0.5" />
+      <circle cx="93.77" cy="23.41" r="0.5" />
+      <circle cx="93.77" cy="56.52" r="0.5" />
+      <circle cx="93.77" cy="19.81" r="0.5" />
+      <circle cx="93.77" cy="22.11" r="0.5" />
+      <circle cx="93.77" cy="21.38" r="0.5" />
+      <circle cx="93.77" cy="23.02" r="0.5" />
+      <circle cx="93.77" cy="22.46" r="0.5" />
+      <circle cx="93.77" cy="60.87" r="0.5" />
+      <circle cx="93.77" cy="59.9" r="0.5" />
+      <circle cx="93.77" cy="66.84" r="0.5" />
+      <circle cx="93.77" cy="52.3" r="0.5" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M19.41,40.55 L 21.29 40.55" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M92.82,23.43 L 94.71 23.43" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M19.41,59.84 L 21.29 59.84" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M92.82,51.6 L 94.71 51.6" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M20.35,47.78 L 20.35 40.55" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M93.77,33.99 L 93.77 23.43" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M20.35,52.6 L 20.35 59.84" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M93.77,41.03 L 93.77 51.6" />
     </g>
-    <g fill="#4682B4" stroke="#0F5D8C" stroke-width="0.3">
-      <path d="M 18.03 52.6 L 22.67 52.6 22.67 47.78 18.03 47.78 z" />
+    <g stroke-width="0.3" stroke="#0F5D8C" fill="#4682B4">
+      <path d="M 91.44 41.03 L 96.1 41.03 96.1 33.99 91.44 33.99 z" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M25.06,18.94 L 26.94 18.94" />
+    <g stroke="#0F5D8C" fill="#4682B4">
+      <circle cx="71.11" cy="60.87" r="0.5" />
+      <circle cx="71.11" cy="64.63" r="0.5" />
+      <circle cx="71.11" cy="24.11" r="0.5" />
+      <circle cx="71.11" cy="14.47" r="0.5" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M25.06,69.22 L 26.94 69.22" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M70.16,26.08 L 72.05 26.08" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M26,37.79 L 26 18.94" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M70.16,60.35 L 72.05 60.35" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M26,50.36 L 26 69.22" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M71.11,38.93 L 71.11 26.08" />
     </g>
-    <g fill="#4682B4" stroke="#0F5D8C" stroke-width="0.3">
-      <path d="M 23.67 50.36 L 28.32 50.36 28.32 37.79 23.67 37.79 z" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M71.11,47.5 L 71.11 60.35" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M36.35,30.83 L 38.24 30.83" />
+    <g stroke-width="0.3" stroke="#0F5D8C" fill="#4682B4">
+      <path d="M 68.78 47.5 L 73.44 47.5 73.44 38.93 68.78 38.93 z" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M36.35,64.45 L 38.24 64.45" />
+    <g stroke="#0F5D8C" fill="#4682B4">
+      <circle cx="76.77" cy="24.25" r="0.5" />
+      <circle cx="76.77" cy="56.57" r="0.5" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M37.29,43.44 L 37.29 30.83" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M75.83,26.01 L 77.72 26.01" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M37.29,51.84 L 37.29 64.45" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M75.83,56.08 L 77.72 56.08" />
     </g>
-    <g fill="#4682B4" stroke="#0F5D8C" stroke-width="0.3">
-      <path d="M 34.97 51.84 L 39.62 51.84 39.62 43.44 34.97 43.44 z" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M76.77,37.28 L 76.77 26.01" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M81.54,22.53 L 83.42 22.53" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M76.77,44.8 L 76.77 56.08" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M81.54,54.08 L 83.42 54.08" />
+    <g stroke-width="0.3" stroke="#0F5D8C" fill="#4682B4">
+      <path d="M 74.44 44.8 L 79.11 44.8 79.11 37.28 74.44 37.28 z" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M82.48,34.36 L 82.48 22.53" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M81.49,22.69 L 83.38 22.69" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M82.48,42.25 L 82.48 54.08" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M81.49,54.51 L 83.38 54.51" />
     </g>
-    <g fill="#4682B4" stroke="#0F5D8C" stroke-width="0.3">
-      <path d="M 80.16 42.25 L 84.8 42.25 84.8 34.36 80.16 34.36 z" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M82.44,34.62 L 82.44 22.69" />
     </g>
-    <g fill="#4682B4" stroke="#0F5D8C">
-      <circle cx="65.54" cy="60.05" r="0.5" />
-      <circle cx="65.54" cy="58.81" r="0.5" />
-      <circle cx="65.54" cy="58.81" r="0.5" />
-      <circle cx="65.54" cy="59.11" r="0.5" />
-      <circle cx="65.54" cy="59.11" r="0.5" />
-      <circle cx="65.54" cy="18.07" r="0.5" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M82.44,42.58 L 82.44 54.51" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M64.59,26.66 L 66.48 26.66" />
+    <g stroke-width="0.3" stroke="#0F5D8C" fill="#4682B4">
+      <path d="M 80.11 42.58 L 84.77 42.58 84.77 34.62 80.11 34.62 z" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M64.59,58.35 L 66.48 58.35" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M30.51,37.15 L 32.4 37.15" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M65.54,38.54 L 65.54 26.66" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M30.51,54.39 L 32.4 54.39" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M65.54,46.46 L 65.54 58.35" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M31.46,43.62 L 31.46 37.15" />
     </g>
-    <g fill="#4682B4" stroke="#0F5D8C" stroke-width="0.3">
-      <path d="M 63.21 46.46 L 67.86 46.46 67.86 38.54 63.21 38.54 z" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M31.46,47.92 L 31.46 54.39" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M30.7,36.87 L 32.59 36.87" />
+    <g stroke-width="0.3" stroke="#0F5D8C" fill="#4682B4">
+      <path d="M 29.12 47.92 L 33.79 47.92 33.79 43.62 29.12 43.62 z" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M30.7,53.95 L 32.59 53.95" />
+    <g stroke="#0F5D8C" fill="#4682B4">
+      <circle cx="88.1" cy="60.54" r="0.5" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M31.65,43.27 L 31.65 36.87" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M87.16,19.77 L 89.05 19.77" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M31.65,47.55 L 31.65 53.95" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M87.16,57.94 L 89.05 57.94" />
     </g>
-    <g fill="#4682B4" stroke="#0F5D8C" stroke-width="0.3">
-      <path d="M 29.32 47.55 L 33.97 47.55 33.97 43.27 29.32 43.27 z" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M88.1,34.08 L 88.1 19.77" />
     </g>
-    <g fill="#4682B4" stroke="#0F5D8C">
-      <circle cx="59.89" cy="21.36" r="0.5" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M88.1,43.63 L 88.1 57.94" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M58.95,25.69 L 60.83 25.69" />
+    <g stroke-width="0.3" stroke="#0F5D8C" fill="#4682B4">
+      <path d="M 85.77 43.63 L 90.44 43.63 90.44 34.08 85.77 34.08 z" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M58.95,61.77 L 60.83 61.77" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M24.85,19.06 L 26.74 19.06" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M59.89,39.22 L 59.89 25.69" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M24.85,69.79 L 26.74 69.79" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M59.89,48.24 L 59.89 61.77" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M25.79,38.08 L 25.79 19.06" />
     </g>
-    <g fill="#4682B4" stroke="#0F5D8C" stroke-width="0.3">
-      <path d="M 57.56 48.24 L 62.21 48.24 62.21 39.22 57.56 39.22 z" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M25.79,50.77 L 25.79 69.79" />
     </g>
-    <g fill="#4682B4" stroke="#0F5D8C">
-      <circle cx="88.13" cy="60.05" r="0.5" />
+    <g stroke-width="0.3" stroke="#0F5D8C" fill="#4682B4">
+      <path d="M 23.46 50.77 L 28.12 50.77 28.12 38.08 23.46 38.08 z" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M87.19,19.64 L 89.07 19.64" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M36.18,31.06 L 38.06 31.06" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M87.19,57.48 L 89.07 57.48" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M36.18,64.98 L 38.06 64.98" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M88.13,33.83 L 88.13 19.64" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M37.12,43.78 L 37.12 31.06" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M88.13,43.29 L 88.13 57.48" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M37.12,52.26 L 37.12 64.98" />
     </g>
-    <g fill="#4682B4" stroke="#0F5D8C" stroke-width="0.3">
-      <path d="M 85.8 43.29 L 90.45 43.29 90.45 33.83 85.8 33.83 z" />
+    <g stroke-width="0.3" stroke="#0F5D8C" fill="#4682B4">
+      <path d="M 34.79 52.26 L 39.45 52.26 39.45 43.78 34.79 43.78 z" />
     </g>
-    <g fill="#4682B4" stroke="#0F5D8C">
-      <circle cx="54.24" cy="66.39" r="0.5" />
-      <circle cx="54.24" cy="66.39" r="0.5" />
+    <g stroke="#0F5D8C" fill="#4682B4">
+      <circle cx="59.78" cy="21.5" r="0.5" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M53.3,26.54 L 55.18 26.54" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M58.84,25.87 L 60.72 25.87" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M53.3,61.73 L 55.18 61.73" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M58.84,62.28 L 60.72 62.28" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M54.24,39.74 L 54.24 26.54" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M59.78,39.52 L 59.78 25.87" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M54.24,48.53 L 54.24 61.73" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M59.78,48.63 L 59.78 62.28" />
     </g>
-    <g fill="#4682B4" stroke="#0F5D8C" stroke-width="0.3">
-      <path d="M 51.91 48.53 L 56.56 48.53 56.56 39.74 51.91 39.74 z" />
+    <g stroke-width="0.3" stroke="#0F5D8C" fill="#4682B4">
+      <path d="M 57.45 48.63 L 62.11 48.63 62.11 39.52 57.45 39.52 z" />
     </g>
-    <g fill="#4682B4" stroke="#0F5D8C">
-      <circle cx="76.83" cy="24.08" r="0.5" />
-      <circle cx="76.83" cy="56.11" r="0.5" />
+    <g stroke="#0F5D8C" fill="#4682B4">
+      <circle cx="48.45" cy="73" r="0.5" />
+      <circle cx="48.45" cy="65.88" r="0.5" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M75.89,25.82 L 77.77 25.82" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M47.51,23.38 L 49.39 23.38" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M75.89,55.63 L 77.77 55.63" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M47.51,65.74 L 49.39 65.74" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M76.83,37 L 76.83 25.82" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M48.45,39.27 L 48.45 23.38" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M76.83,44.45 L 76.83 55.63" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M48.45,49.86 L 48.45 65.74" />
     </g>
-    <g fill="#4682B4" stroke="#0F5D8C" stroke-width="0.3">
-      <path d="M 74.51 44.45 L 79.16 44.45 79.16 37 74.51 37 z" />
+    <g stroke-width="0.3" stroke="#0F5D8C" fill="#4682B4">
+      <path d="M 46.12 49.86 L 50.78 49.86 50.78 39.27 46.12 39.27 z" />
     </g>
-    <g fill="#4682B4" stroke="#0F5D8C">
-      <circle cx="48.59" cy="72.4" r="0.5" />
-      <circle cx="48.59" cy="65.34" r="0.5" />
+    <g stroke="#0F5D8C" fill="#4682B4">
+      <circle cx="65.44" cy="60.54" r="0.5" />
+      <circle cx="65.44" cy="59.29" r="0.5" />
+      <circle cx="65.44" cy="59.29" r="0.5" />
+      <circle cx="65.44" cy="59.6" r="0.5" />
+      <circle cx="65.44" cy="59.6" r="0.5" />
+      <circle cx="65.44" cy="18.19" r="0.5" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M47.65,23.22 L 49.53 23.22" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M64.5,26.85 L 66.39 26.85" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M47.65,65.2 L 49.53 65.2" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M64.5,58.82 L 66.39 58.82" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M48.59,38.96 L 48.59 23.22" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M65.44,38.84 L 65.44 26.85" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M48.59,49.46 L 48.59 65.2" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M65.44,46.83 L 65.44 58.82" />
     </g>
-    <g fill="#4682B4" stroke="#0F5D8C" stroke-width="0.3">
-      <path d="M 46.27 49.46 L 50.91 49.46 50.91 38.96 46.27 38.96 z" />
+    <g stroke-width="0.3" stroke="#0F5D8C" fill="#4682B4">
+      <path d="M 63.11 46.83 L 67.78 46.83 67.78 38.84 63.11 38.84 z" />
     </g>
-    <g fill="#4682B4" stroke="#0F5D8C">
-      <circle cx="71.18" cy="60.38" r="0.5" />
-      <circle cx="71.18" cy="64.1" r="0.5" />
-      <circle cx="71.18" cy="23.94" r="0.5" />
-      <circle cx="71.18" cy="14.39" r="0.5" />
+    <g stroke="#0F5D8C" fill="#4682B4">
+      <circle cx="54.11" cy="66.94" r="0.5" />
+      <circle cx="54.11" cy="66.94" r="0.5" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M70.24,25.89 L 72.12 25.89" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M53.17,26.73 L 55.06 26.73" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M70.24,59.86 L 72.12 59.86" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M53.17,62.24 L 55.06 62.24" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M71.18,38.63 L 71.18 25.89" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M54.11,40.04 L 54.11 26.73" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M71.18,47.12 L 71.18 59.86" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M54.11,48.92 L 54.11 62.24" />
     </g>
-    <g fill="#4682B4" stroke="#0F5D8C" stroke-width="0.3">
-      <path d="M 68.86 47.12 L 73.51 47.12 73.51 38.63 68.86 38.63 z" />
+    <g stroke-width="0.3" stroke="#0F5D8C" fill="#4682B4">
+      <path d="M 51.78 48.92 L 56.45 48.92 56.45 40.04 51.78 40.04 z" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M42,24.24 L 43.88 24.24" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M41.84,24.41 L 43.73 24.41" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M42,66.43 L 43.88 66.43" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M41.84,66.97 L 43.73 66.97" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M42.94,40.06 L 42.94 24.24" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M42.79,40.37 L 42.79 24.41" />
     </g>
-    <g stroke="#0F5D8C" stroke-width="0.4">
-      <path d="M42.94,50.61 L 42.94 66.43" />
+    <g stroke-width="0.4" stroke="#0F5D8C">
+      <path d="M42.79,51.01 L 42.79 66.97" />
     </g>
-    <g fill="#4682B4" stroke="#0F5D8C" stroke-width="0.3">
-      <path d="M 40.62 50.61 L 45.27 50.61 45.27 40.06 40.62 40.06 z" />
+    <g stroke-width="0.3" stroke="#0F5D8C" fill="#4682B4">
+      <path d="M 40.45 51.01 L 45.12 51.01 45.12 40.37 40.45 40.37 z" />
     </g>
-    <g stroke="#B8EFFF" stroke-width="0.4">
-      <path d="M92.83,38.28 L 94.72 38.28" />
+    <g stroke-width="0.4" stroke="#B8EFFF">
+      <path d="M19.18,51.11 L 21.07 51.11" />
     </g>
-    <g stroke="#B8EFFF" stroke-width="0.4">
-      <path d="M19.41,50.7 L 21.29 50.7" />
+    <g stroke-width="0.4" stroke="#B8EFFF">
+      <path d="M92.82,38.58 L 94.71 38.58" />
     </g>
-    <g stroke="#B8EFFF" stroke-width="0.4">
-      <path d="M25.06,49.05 L 26.94 49.05" />
+    <g stroke-width="0.4" stroke="#B8EFFF">
+      <path d="M70.16,42.89 L 72.05 42.89" />
     </g>
-    <g stroke="#B8EFFF" stroke-width="0.4">
-      <path d="M36.35,48.45 L 38.24 48.45" />
+    <g stroke-width="0.4" stroke="#B8EFFF">
+      <path d="M75.83,40.13 L 77.72 40.13" />
     </g>
-    <g stroke="#B8EFFF" stroke-width="0.4">
-      <path d="M81.54,38.6 L 83.42 38.6" />
+    <g stroke-width="0.4" stroke="#B8EFFF">
+      <path d="M81.49,38.9 L 83.38 38.9" />
     </g>
-    <g stroke="#B8EFFF" stroke-width="0.4">
-      <path d="M64.59,42.52 L 66.48 42.52" />
+    <g stroke-width="0.4" stroke="#B8EFFF">
+      <path d="M30.51,45.82 L 32.4 45.82" />
     </g>
-    <g stroke="#B8EFFF" stroke-width="0.4">
-      <path d="M30.7,45.46 L 32.59 45.46" />
+    <g stroke-width="0.4" stroke="#B8EFFF">
+      <path d="M87.16,38.58 L 89.05 38.58" />
     </g>
-    <g stroke="#B8EFFF" stroke-width="0.4">
-      <path d="M58.95,43.54 L 60.83 43.54" />
+    <g stroke-width="0.4" stroke="#B8EFFF">
+      <path d="M24.85,49.44 L 26.74 49.44" />
     </g>
-    <g stroke="#B8EFFF" stroke-width="0.4">
-      <path d="M87.19,38.28 L 89.07 38.28" />
+    <g stroke-width="0.4" stroke="#B8EFFF">
+      <path d="M36.18,48.83 L 38.06 48.83" />
     </g>
-    <g stroke="#B8EFFF" stroke-width="0.4">
-      <path d="M53.3,43.37 L 55.18 43.37" />
+    <g stroke-width="0.4" stroke="#B8EFFF">
+      <path d="M58.84,43.89 L 60.72 43.89" />
     </g>
-    <g stroke="#B8EFFF" stroke-width="0.4">
-      <path d="M75.89,39.82 L 77.77 39.82" />
+    <g stroke-width="0.4" stroke="#B8EFFF">
+      <path d="M47.51,44.27 L 49.39 44.27" />
     </g>
-    <g stroke="#B8EFFF" stroke-width="0.4">
-      <path d="M47.65,43.92 L 49.53 43.92" />
+    <g stroke-width="0.4" stroke="#B8EFFF">
+      <path d="M64.5,42.85 L 66.39 42.85" />
     </g>
-    <g stroke="#B8EFFF" stroke-width="0.4">
-      <path d="M70.24,42.56 L 72.12 42.56" />
+    <g stroke-width="0.4" stroke="#B8EFFF">
+      <path d="M53.17,43.71 L 55.06 43.71" />
     </g>
-    <g stroke="#B8EFFF" stroke-width="0.4">
-      <path d="M42,44.31 L 43.88 44.31" />
+    <g stroke-width="0.4" stroke="#B8EFFF">
+      <path d="M41.84,44.65 L 43.73 44.65" />
     </g>
   </g>
 </g>
@@ -395,19 +394,22 @@ function toggle_color_group(name)
 
 
 // Turn on a possibily hidden annotation.
-function show_annotation(id)
+function show_annotation(geom_id)
 {
-    annot = document.getElementById(id)
-    annot.setAttribute('visibility', 'visible')
+    annot_id = geom_id + "-annotation";
+    annot = document.getElementById(annot_id);
+    annot.setAttribute('visibility', 'visible');
+    present_geometry([geom_id]);
 }
 
 
 // Turn off a possibly hidden annotation.
-function hide_annotation(id)
+function hide_annotation(geom_id)
 {
-
-    annot = document.getElementById(id)
+    annot_id = geom_id + "-annotation"
+    annot = document.getElementById(annot_id)
     annot.setAttribute('visibility', 'hidden')
+    unpresent_geometry();
 }
 
 
@@ -417,9 +419,14 @@ function present_geometry(ids)
     on_anim_dur = 0.1;
 
     off_anim = document.getElementById('panel-focus-filter-off-anim');
+    try {
+        t0 = Number(off_anim.getStartTime());
+    }
+    catch (err) {
+        t0 = Infinity;
+    }
     off_anim.endElement();
 
-    t0 = Number(off_anim.getStartTime());
     if (t0 < Infinity) {
         t = Number(off_anim.getCurrentTime());
         d = Number(off_anim.getSimpleDuration());
@@ -456,14 +463,19 @@ function unpresent_geometry()
     off_anim_dur = 0.3;
 
     on_anim = document.getElementById('panel-focus-filter-on-anim');
+    try {
+        t0 = Number(on_anim.getStartTime());
+        t = Number(on_anim.getCurrentTime());
+        d = Number(on_anim.getSimpleDuration());
+        p = Math.max(0.0, Math.min(1.0, ((t - t0) / d)));
+    }
+    catch (err) {
+        p = 1.0;
+    }
     on_anim.endElement();
 
-    t0 = Number(on_anim.getStartTime());
-    t = Number(on_anim.getCurrentTime());
-    d = Number(on_anim.getSimpleDuration());
     from = Number(on_anim.getAttribute('from'));
     to = Number(on_anim.getAttribute('to'));
-    p = Math.max(0.0, Math.min(1.0, ((t - t0) / d)));
     v = from + p * (to - from);
 
     off_anim = document.getElementById('panel-focus-filter-off-anim');
@@ -493,7 +505,7 @@ function unpresent_geometry_end()
     }
 
     // Skip this if the off animation isn't actually finished.
-    elapsed = off_anim.getCurrentTime() - off_anim.getStartTime();
+    elapsed = off_anim.getCurrentTime() - off_anim.getStartTime()
     if (elapsed < off_anim.getSimpleDuration()) {
         return;
     }

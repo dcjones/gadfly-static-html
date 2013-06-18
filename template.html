@@ -2,13 +2,14 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>$title$</title>
+  <title>Gadfly</title>
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
   <link href="css/gadflydoc.css" rel="stylesheet">
   <link href="css/hk-pyg.css" rel="stylesheet">
 
-  <script type="text/javascript" src="js/fixup.js"></script>
+  <script type="text/javascript" src="js/d3.v3.min.js"></script>
+  <script type="text/javascript" src="js/gadfly.js"></script>
 
   <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
   <!--[if lt IE 9]>
@@ -16,17 +17,15 @@
   <![endif]-->
 
 </head>
-<body onload="fixup()">
+<body>
   <div class="container-fluid">
     <div class="row-fluid">
-      <div class="span8 page-header" id="title-block">
-        <!-- fixup.js will move the title of the document here on load -->
+      <div class="span8" id="title-block">
+        <img width="500" alt="Bread and Butterfly" src="breadandbutterfly.jpg">
       </div>
     </div>
 
     <div class="row-fluid">
-
-
       <div class="span8">
 $body$
         <hr>
